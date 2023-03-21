@@ -1,4 +1,5 @@
 # Atlas of Urban Tech
+
 A global atlas of case studies of tech-enabled urban districts and municipal digital masterplans created by the Jacobs Urban Tech Hub at Cornell Tech.
 
 
@@ -7,6 +8,11 @@ A global atlas of case studies of tech-enabled urban districts and municipal dig
 1. Clone the repo
 2. Create a new document using the markdown template: `src/case-study-template.md`
 3. Commit and push your changes to the main branch
+
+## Website
+
+This content will be published at [https://www/atlasofurbantech.org](https://www/atlasofurbantech.org).
+
 
 
 ## License
