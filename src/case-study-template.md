@@ -1,30 +1,15 @@
-# Case Study Title
-
-<!-- The name of the tech-enabled district. -->
-
-&nbsp;
-
-## Basics
 ---
-
-### Location
-
-<!-- These fields all deal with where the PLAN or DISTRICT is located. -->
-
-- City <!-- The municipality where the PLAN or DISTRICT is located. -->
-- Country <!-- The 2 letter ISO 3166 2-letter country code from this [reference](https://www.iban.com/country-codes).
+layout: case
+name: <!-- The name of the tech-enabled district or title of the digital master plan. -->
+city: <!-- The municipality where the PLAN or DISTRICT is located. -->
+country: <!-- The 2 letter ISO 3166 2-letter country code from this [reference](https://www.iban.com/country-codes).
   -->
-- Latitude <!-- DISTRICT case studies only -->
-- Longitude <!-- DISTRICT case studies only -->
-
-### Timeline
-
-<!-- These fields all deal with when the PLAN or the DISTRICT was being developed. -->
-
-- Started <!-- When was the project announced or did work begin? -->
-- Completed <!-- When was the PLAN published or released or the DISTRICT completed or abandoned? -->
-
-&nbsp;
+latitude: <!-- the more precise the better -->
+longitude: <!-- the more precise the better -->
+year_start: <!-- When was the project announced or did work begin? -->
+year_completed: <!-- When was the PLAN published or released or the DISTRICT completed or abandoned? -->
+tags: <!-- 3 to 5 tags that describe the projects most important and distinctive characterstics -->
+---
 
 ## Goals and Aspirations
 
