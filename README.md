@@ -6,7 +6,7 @@ A global atlas of case studies of tech-enabled urban districts and municipal dig
 
 1. Create a free github account if you don't already have one
 2. Fork this repository/repo
-3. Inside the _cases_ folder create a new folder for your case study (e.g. new-york-usa) with you index.md markdown file inside. Refer to the case study instruction for more details.
+3. Inside the _cases_ folder create a new folder for your case study (e.g. new-york-usa) with you index.md markdown file inside. Refer to the case study [instruction](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech/blob/main/instructions.md) for more details.
 4. Commit and push your changes to the fork and submit a pull request to have your changes merged to the main repo
 
 ## Website
