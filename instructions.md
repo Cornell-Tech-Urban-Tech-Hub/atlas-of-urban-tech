@@ -92,7 +92,7 @@ The body of the case study should follow [this example](https://github.com/Corne
 
 #### Basic Formatting
 
-An systax guide for markdown can found [here](https://www.markdownguide.org/basic-syntax/) but most commonly style are shown below
+An systax guide for markdown can found [here](https://www.markdownguide.org/basic-syntax/) but the most common style are shown below
 
 headings are formatted with # infront based on the level. Body sections should start at h2 or ## since the the title attribute of the frontmatter/metadata serves as the page title.
 
@@ -107,6 +107,18 @@ basic inline formatting
 _italicised type_
 **bold type**
 **_bold italicised type**
+```
+
+lists are formatted by starting each line with a number and period (1.) for ordered/numbered list or dashes (-) for unorded lists.
+
+```
+Unordered List
+- List Item
+- List Item
+
+Ordered List
+1. List Item
+2. List Item
 ```
 
 linked text is surrounded by brackets with the link url following in parentheses
