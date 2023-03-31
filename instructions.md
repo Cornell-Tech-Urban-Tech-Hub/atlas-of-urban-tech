@@ -4,7 +4,7 @@
 
 To create a post you will need to have a personal github.com account. Then you can navigate to the [main repository](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech) (or repo) and **_fork_** it. This will create a copy of the repo on your own account. New case studies are added as new folders inside the "cases" folder. You can either add you files through the github web interface (where you can upload the full case study folder and will automatically commit the changes) or use the [github desktop app](https://desktop.github.com/) to copy your repo to edit locally on your computer and then commit and push them to your remote copy.
 
-Once ready you can then issue a pull request to merge your changes back to the main repo. You can choose to keep your local repo if you will continue to make additional edits or
+Once ready you can then issue a pull request to merge your changes back to the main repo. You can choose to keep your local repo if you will continue to make additional edits or close it if submitting final changes.
 
 ## Creating A New Case Study
 
