@@ -8,11 +8,13 @@ Once ready you can then issue a pull request to merge your changes back to the m
 
 ## Creating A New Case Study
 
-A new case study consists of at minimum a new folder with an plaintext markdown file (**index.md**) inside. Case studies should a minimum have one featured image in the folder but is not required to create the initially.
+A new case study consists of at minimum a new folder with an plaintext markdown file inside. Case studies should a minimum have one featured image in the folder but is not required to create the initial draft.
 
-First creatate a folder with the name of the case-study city and iso3 country code in all lower case with spaces represented by dashes (e.g. **new-york-usa**). This folder name must be unique for each case study and will serve as the id and url reference
+View the [example folder](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech/tree/main/cases/example).
 
-inside the folder you will create a markdown (plain text) file called **index.md**. The folder will also contain a featured image for the page heading along with any other images referenced in the case study post.
+First create a folder with the name of the case-study city and iso3 country code in all lower case with spaces represented by dashes (e.g. **new-york-usa**). This folder name must be unique for each case study and will serve as the id and url reference
+
+Inside the folder you will create a markdown (plain text) file called **index.md**. The folder will also contain a featured image for the page heading along with any other images referenced in the case study post.
 
 ## Formatting the Markdown File
 
@@ -84,7 +86,11 @@ _italicied_
 
 ### Case Study Text
 
-The body of the case study should follow [this example](https://raw.githubusercontent.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech/main/cases/example/index.md) and the raw plaintext markdown formatting is viewable by clicking on the "raw" button in the github ui or following [this link](https://raw.githubusercontent.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech/main/cases/example/index.md)
+After the frontmatter the body of the markdown file is added. Markdown is written as plaintext with special formatting that gets converted to html formatting.
+
+The body of the case study should follow [this example](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech/blob/main/cases/example/index.md) and the raw plaintext markdown formatting is viewable by clicking on the "raw" button in the github ui or following [this link](https://raw.githubusercontent.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech/main/cases/example/index.md)
+
+#### Basic Formatting
 
 An systax guide for markdown can found [here](https://www.markdownguide.org/basic-syntax/) but most commonly style are shown below
 
