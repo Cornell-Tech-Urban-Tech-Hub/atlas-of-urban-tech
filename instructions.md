@@ -18,11 +18,11 @@ Inside the folder you will create a markdown (plain text) file called **index.md
 
 ## Formatting the Markdown File
 
-Each case study markdown files will required a sets of metadata (or frontmatter) and body conent.
+Each case study markdown file will require a set of metadata (or frontmatter) followed by the body conent in markdown format.
 
 ### Metadata / Frontmatter
 
-The metadata is placed at the beginning of the file inside and opening and closing set of three dashes "–––". Each items starts with the identifier followed by a colon and then your case study content and are separated by a line break.
+The metadata is placed at the beginning of the file inside and opening and closing set of three dashes "–––". Each item starts with the identifier followed by a colon and then your case study content and are separated by a line break.
 
 ```
 ---
@@ -54,7 +54,7 @@ geography_caption: Optional Caption for the geograhic information.
 - Review: Ready for review
 - Complete: Post ready for publication
 
-**description**: should be a one sentence summary of the case study
+**description**: should be a one sentence summary/takaways of the case study. Will serve the page description in metadata and may appear in other areas of the site where the case studies are listed or indexed.
 
 **city**: Should be the city name
 
@@ -77,11 +77,8 @@ author: Urban Tech Hub
 
 **tags** should contain any key topic tags listed in markdown list format on the line below.
 
-**tags** should contain any key topic tags listed in markdown list format on the line below.
-
 **geography**: case studies can have an option geojson file to show the project boundary or other key geography formatted as **_./filename.geojson_**. Geojson files can be created or edited from an exisitng geodata format at [geojson.io](https://geojson.io)
 
-_italicied_
 **geography_caption**: otional caption for the geojson boundary map.
 
 ### Case Study Text
@@ -92,21 +89,21 @@ The body of the case study should follow [this example](https://github.com/Corne
 
 #### Basic Formatting
 
-An systax guide for markdown can found [here](https://www.markdownguide.org/basic-syntax/) but the most common style are shown below
+An systax guide for markdown can found [here](https://www.markdownguide.org/basic-syntax/) but the most commonly used styles are shown below
 
-headings are formatted with # infront based on the level. Body sections should start at h2 or ## since the the title attribute of the frontmatter/metadata serves as the page title.
+headings are formatted with # in front based on the level. Body sections should start at h2 or ## since the the title attribute of the frontmatter/metadata serves as the page title.
 
 ```
 ## Heading 2
 ### Heading 3
 ```
 
-basic inline formatting
+basic inline formatting for _italicised_, **bold type**, or **_bold italicised_**
 
 ```
 _italicised type_
 **bold type**
-**_bold italicised type**
+**_bold italicised type_**
 ```
 
 lists are formatted by starting each line with a number and period (1.) for ordered/numbered list or dashes (-) for unorded lists.
@@ -127,10 +124,10 @@ linked text is surrounded by brackets with the link url following in parentheses
 [markdown guide](https://www.markdownguide.org/basic-syntax/)
 ```
 
-If needed, images can be added inside the body of the markdown file. Please reference the same guidelines for the featured image to ensure permissions are cleared and file size is moderate. Images go inside the same folder. The image alt text (image description) goes inside the brakets and the image caption/credit follows the image filename in quotes inside the parentheses
+If needed, images can be added inside the body of the markdown file. Please reference the same guidelines for the featured image to ensure permissions are cleared and file size is moderate. Images go inside the same folder. The image alt text (image description) goes inside the brakets and the image title filed follows the image filename in quotes inside the parentheses. This title field is set to be rendered out below the image and should be used for any caption text and the required image credit.
 
 ```
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
+![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Optional Caption Text. Daniel Adams (Unsplash)")
 ```
 
 ---
