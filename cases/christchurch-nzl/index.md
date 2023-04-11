@@ -1,7 +1,6 @@
 ---
 title: Case Study Ōtautahi-Christchurch
-description: Christchurch City Council Draft Smart Christchurch
-Strategy
+description: Christchurch City Council Draft Smart Christchurch Strategy
 status: Draft
 author: Elizabeth Pysher
 type: example
