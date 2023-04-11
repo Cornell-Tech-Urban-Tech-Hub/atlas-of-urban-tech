@@ -1,6 +1,6 @@
 ---
 layout: case
-author <!-- student name -->
+author Ka Wing Lui
 name: <!-- The name of the tech-enabled district or title of the digital master plan. -->
 city: <!-- The municipality where the PLAN or DISTRICT is located. -->
 country: <!-- The 3 letter ISO 3166 3-letter country code from this [reference](https://www.iban.com/country-codes).
