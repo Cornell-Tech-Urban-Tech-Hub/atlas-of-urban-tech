@@ -1,22 +1,14 @@
 ---
-title: Case Study Template
-description: Lorem ipsum dolor sit amet
-status: Draft
-author: Your Name
-type: example
-city:  
-country_code: 
-centroid: [40.712778, -74.006111]
+layout: case
+author: Matt Drezdzon
+name: Fujisawa Sustainable Smart Town
+city: Fujisawa
+country: JPN
+latitude: 35.33545003814586
+longitude: 139.46362650298315
 year_start: 2012
-year_completed: 2018
-featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
-featured_alt: New York City Skyline
-featured_credit: Hannah Busing (Unsplash)
-tags:
-  - Code
-  - Markdown
-geography: ./example.geojson
-geography_caption: Optional Caption for the geograhic information.
+year_completed: Ongoing
+tags: Sustainable Smart Town, Eco-friendly, Energy Efficient, Mobility Solutions, Wellness-Focused Living
 ---
 
 ## Overview
@@ -36,7 +28,6 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 **Characteristic 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
 **Characteristic 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
-
 
 ## Goals and Aspirations
 
@@ -58,7 +49,6 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 **Technology Intervention 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->

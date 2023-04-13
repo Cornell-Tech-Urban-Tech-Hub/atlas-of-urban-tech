@@ -1,14 +1,14 @@
 ---
-title: Case Study Template
-description: Lorem ipsum dolor sit amet
+title: Case Study Ōtautahi-Christchurch
+description: Christchurch City Council Draft Smart Christchurch Strategy
 status: Draft
-author: Your Name
+author: Elizabeth Pysher
 type: example
-city:  
-country_code: 
-centroid: [40.712778, -74.006111]
-year_start: 2012
-year_completed: 2018
+city: Ōtautahi-Christchurch
+country_code: NZL
+centroid: [-43.532087811936805, 172.63037835094053]
+year_start: 2022
+year_completed: 2025
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
 featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)

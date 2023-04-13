@@ -1,15 +1,14 @@
 ---
 layout: case
-author <!-- student name -->
-name: <!-- The name of the tech-enabled district or title of the digital master plan. -->
-city: <!-- The municipality where the PLAN or DISTRICT is located. -->
-country: <!-- The 3 letter ISO 3166 3-letter country code from this [reference](https://www.iban.com/country-codes).
-  -->
-latitude: <!-- the more precise the better -->
-longitude: <!-- the more precise the better -->
-year_start: <!-- When was the project announced or did work begin? -->
-year_completed: <!-- When was the PLAN published or released or the DISTRICT completed or abandoned? -->
-tags: <!-- 3 to 5 tags that describe the projects most important and distinctive characterstics -->
+author: Haiyue Xi
+name: Hudson Yards
+city: New York
+country: USA
+latitude: 40.754661
+longitude: -74.003783
+year_start: 2012
+year_completed: 2018
+tags: Accessibility, Sustainability, Mixed-Use
 ---
 
 ## Overview

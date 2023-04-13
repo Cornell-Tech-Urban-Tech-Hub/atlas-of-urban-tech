@@ -1,11 +1,11 @@
 ---
-title: Case Study Template
-description: Lorem ipsum dolor sit amet
+title: Sino-Singapore Tianjin Eco-City
+description: A jointly development between China and Singapore, as an experiment of radical eco-city concepts.
 status: Draft
-author: Your Name
+author: Yuchen Ye
 type: example
-city:  
-country_code: 
+city: New York
+country_code: US
 centroid: [40.712778, -74.006111]
 year_start: 2012
 year_completed: 2018

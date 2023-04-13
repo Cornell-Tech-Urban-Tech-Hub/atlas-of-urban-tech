@@ -1,14 +1,14 @@
 ---
-title: Case Study Template
-description: Lorem ipsum dolor sit amet
+title: Pune Smart Cities Mission
+description: A case study of Pune city - a city under the smart cities mission of India
 status: Draft
-author: Your Name
+author: Parthit Patel
 type: example
-city:  
-country_code: 
-centroid: [40.712778, -74.006111]
-year_start: 2012
-year_completed: 2018
+city: Pune
+country_code: IND
+centroid: [18.5204, 73.8567]
+year_start: 2015
+year_completed: 2023
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
 featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)

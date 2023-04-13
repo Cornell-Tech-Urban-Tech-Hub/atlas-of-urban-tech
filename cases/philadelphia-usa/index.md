@@ -2,11 +2,11 @@
 title: Case Study Template
 description: Lorem ipsum dolor sit amet
 status: Draft
-author: Your Name
+author: Nakia Kenon
 type: example
-city:  
-country_code: 
-centroid: [40.712778, -74.006111]
+city: Philadelphia
+country_code: USA
+centroid: [39.95234, -75.16379]
 year_start: 2012
 year_completed: 2018
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg

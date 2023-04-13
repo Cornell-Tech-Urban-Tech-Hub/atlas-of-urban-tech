@@ -1,17 +1,17 @@
 ---
-title: Case Study Template
+title: Smart London Plan
 description: Lorem ipsum dolor sit amet
 status: Draft
-author: Your Name
+author: Thomas Wallace 
 type: example
-city:  
-country_code: 
+city: London
+country_code: GBR
 centroid: [40.712778, -74.006111]
-year_start: 2012
+year_start: 2013
 year_completed: 2018
-featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
-featured_alt: New York City Skyline
-featured_credit: Hannah Busing (Unsplash)
+featured_image: ./london_aerial_view.jpg
+featured_alt: London Aerial Image
+featured_credit: City of London
 tags:
   - Code
   - Markdown

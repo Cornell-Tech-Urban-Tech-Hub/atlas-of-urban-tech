@@ -1,20 +1,22 @@
 ---
-title: Case Study Template
-description: Lorem ipsum dolor sit amet
+title: Amsterdam Marineterrein Case Study
+description: Case study for Smart Cities Course
 status: Draft
-author: Your Name
+author: Daan van der Zwaag
 type: example
-city:  
-country_code: 
-centroid: [40.712778, -74.006111]
-year_start: 2012
-year_completed: 2018
-featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
-featured_alt: New York City Skyline
-featured_credit: Hannah Busing (Unsplash)
+city: Amsterdam
+country_code: NLD
+centroid: [52.373889, 4.916667]
+year_start: 1655
+year_completed: 2022
+featured_image: ./marineterrein-nld_header.jpg
+featured_alt: Aerial Picture of the Marineterrein in the Netherlands
+featured_credit: Gemeente Amsterdam
 tags:
-  - Code
-  - Markdown
+  - Netherlands
+  - Amsterdam
+  - Smart District
+  - Testing Ground
 geography: ./example.geojson
 geography_caption: Optional Caption for the geograhic information.
 ---
@@ -31,11 +33,18 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Characteristic 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**How does the district employ 3-5 of the key characteristics of New Century Cities?**
 
-**Characteristic 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
-**Characteristic 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Smart Infrastructure**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+
+**Community Engagement and Co-Creation**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+
+**Innovation and Entrepreneurship**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+
+**Accessibility and Inclusivity**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+
+**Sustainability and Resilience**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
 
 ## Goals and Aspirations

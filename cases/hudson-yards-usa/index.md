@@ -1,14 +1,14 @@
 ---
-title: Case Study Template
+title: Hudson Yards 
 description: Lorem ipsum dolor sit amet
 status: Draft
-author: Your Name
+author: Zain Abdelrazeq
 type: example
-city:  
-country_code: 
-centroid: [40.712778, -74.006111]
-year_start: 2012
-year_completed: 2018
+city: New York
+country_code: USA
+centroid: [40.7561, 74.0035]
+year_start: 2001
+year_completed: 2027
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
 featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)
