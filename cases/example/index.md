@@ -2,10 +2,10 @@
 title: Case Study Template
 description: Lorem ipsum dolor sit amet
 status: Draft
-author: Urban Tech Hub
+author: Yuxuan Zhang
 type: example
-city: New York
-country_code: US
+city: Chongqing 
+country_code: China
 centroid: [40.712778, -74.006111]
 year_start: 2012
 year_completed: 2018
