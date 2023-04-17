@@ -1,5 +1,5 @@
 ---
-title: Case Study Template
+title: Barangaroo
 description: Lorem ipsum dolor sit amet
 status: Draft
 author: Urban Tech Hub
