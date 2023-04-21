@@ -51,7 +51,7 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 **City-wide collaboration:** Establish new structures and partnerships to support collaboration and innovation across public services. It involves initiatives such as LOTI, MedTech innovation, new tech partnerships, GLA digital delivery and collaboration with other cities.
 
 ## Technology Interventions
-<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. --->
+<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
 **[London Datastore](https://data.london.gov.uk/)**. An open data portal that provides access to over 700 datasets on various aspects of the city, such as transport, environment, health, economy and culture. The portal enables data users to explore, visualise, download and share data for various purposes, such as research, innovation, service delivery and transparency. The portal also hosts data challenges, events and blogs to foster a data community in London. The London Datastore aims to increase data availability, usability and value for the benefit of all Londoners.
 
@@ -74,7 +74,7 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 
 
 ## Stakeholders
-<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
+<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
 **Greater London Authority (GLA):** The GLA is the regional government of London, led by the Mayor and the London Assembly. It is responsible for setting the strategic direction and policies for the city, as well as delivering programmes and services in areas such as planning, housing, environment, culture and economic development. The GLA also leads and coordinates the Smarter London Together plan and its various initiatives and partnerships. [Greater London Authority.](https://www.london.gov.uk/)
 
@@ -89,7 +89,7 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 **Citizens and civil society:** Citizens and civil society are the end-users and beneficiaries of smart city initiatives. They also play an active role in shaping the city’s vision and priorities through platforms such as [Talk London](https://www.london.gov.uk/talk-london/), [Crowdfund London](https://www.london.gov.uk/programmes-strategies/shaping-local-places/funding-opportunities/make-london/impact-community-crowdfunding) and [Civic Innovation Challenge](https://www.london.gov.uk/programmes-strategies/arts-and-culture/mayor-londons-civic-innovation-challenge). They also have rights and expectations regarding data privacy, security and transparency. The Mayor works with civil society organisations such as [Open Data Institute](https://www.theodi.org/), [Nesta](https://www.nesta.org.uk/), [DotEveryone](https://doteveryone.org.uk/) and [others](https://www.london.gov.uk/get-involved) to advance public understanding and trust in data and digital technologies.
 
 ## Leadership
-<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->
+<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
 **Stephen Lorimer**. Stephen Lorimer is an accomplished urban planner with a focus on digital transformation and sustainable development. He has co-authored the Greater London Authority's housing design manual and has been recognized for his innovative work on the gamification of planning with the Homes and Communities Agency. As the Smart London Strategy and Delivery Officer at the Greater London Authority, Stephen has played a pivotal role in shaping the city's digital future. [LinkedIn](https://www.linkedin.com/in/stephen-lorimer-7795203/?originalSubdomain=uk)
 
@@ -102,7 +102,7 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 **Insight 3**.
 
 ## Financing
-<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. --->
+<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
 **Financing Scheme**.
 
@@ -112,7 +112,7 @@ The Civic Innovation Challenge, which matches tech startups with public bodies a
 
 
 ## Outcomes
-<!--- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. --->
+<!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
 **Improved public engagement and participation:** The plan has enabled more Londoners to have a voice and a stake in the city’s policies and projects through online platforms such as [Talk London](https://www.london.gov.uk/talk-london/), [Make London](https://www.london.gov.uk/programmes-strategies/shaping-local-spaces/regeneration-funding-opportunities/make-london) and [Pay-it-Forward](https://www.london.gov.uk/press-releases/mayoral/over-15m-raised-through-pay-it-forward-london). These platforms have facilitated citizen feedback, crowdfunding, co-design and co-delivery of digital services and solutions that meet user needs and preferences.
 
@@ -128,7 +128,7 @@ The Civic Innovation Challenge, which matches tech startups with public bodies a
 
 
 ## Open Questions
-<!--- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. --->
+<!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
 **Open questions 1**.
 
@@ -142,18 +142,19 @@ The Civic Innovation Challenge, which matches tech startups with public bodies a
 
 ### Primary Sources
 
-<!-- 3-5 project plans, audits, reports, etc. --->
+<!-- 3-5 project plans, audits, reports, etc. -->
 
 - [Smarter London Together (2018)](https://www.london.gov.uk/sites/default/files/smarter_london_together_v1.66_-_published.pdf)
 - [Smarter London Together Roadmap 2018–21:Report Back to Mayor of London (2021)](https://www.london.gov.uk/sites/default/files/slt_roadmap_summary_paper_for_2021.pdf)
-- []()
+- [Digital Master Planning: An Emerging Strategic Practice in Global Cities](https://marroninstitute.nyu.edu/uploads/content/Working_Paper_25_Digital_Master_Planning.pdf)
 
 ### Secondary Sources
 
-<!-- 5-7 secondary source documents: news reports, blog posts, etc.. --->
+<!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 
 - [London Datastore](https://data.london.gov.uk/)
 - [‘A Smarter London Together’: Listening Exercise for a new Smart London Plan](https://chiefdigitalofficer4london.medium.com/a-smarter-london-together-listening-exercise-for-a-new-smart-london-plan-51be7d9ca203)
 - [Your Commute: how City Hall used Oyster card data to gauge citizen views on the use of personal data](https://chiefdigitalofficer4london.medium.com/your-commute-how-city-hall-used-oyster-card-data-to-gauge-citizen-views-on-the-use-of-personal-2b786ff01819)
 - [Building the Talk London community in 2020 & beyond](https://chiefdigitalofficer4london.medium.com/building-the-talk-london-community-in-2020-beyond-f710c44f8a39)
 - [Mayor of London and Microsoft launch Civic Innovation Challenge](https://www.technologyrecord.com/article/mayor-of-london-and-microsoft-launch-civic-innovation-challenge)
+- []()
