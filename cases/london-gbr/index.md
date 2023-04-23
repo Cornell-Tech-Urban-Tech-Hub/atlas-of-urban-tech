@@ -12,9 +12,10 @@ year_completed: 2021
 featured_image: ./london_aerial_view.jpg
 featured_alt: London Aerial Image
 featured_credit: Photo by <a href="https://unsplash.com/@jaanus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jaanus Jagomägi</a> on <a href="https://unsplash.com/photos/Dymu1WiZVko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
 tags:
-  - 
+  - Digital Inclusion
+  - City-wide Collaboration
+  - Smart Infrastructure
 geography: ./example.geojson
 geography_caption: Optional Caption for the geograhic information.
 ---
