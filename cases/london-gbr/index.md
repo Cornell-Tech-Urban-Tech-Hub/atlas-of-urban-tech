@@ -64,6 +64,11 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 ![Alt Text / Talk London Screenshot](./talk_london_screenshot.png "Talk London (Screenshot)")
 
 
+**[Smart Mobility Living Lab (SMLL)](https://www.smartmobility.london/)**. The Smart Mobility Living Lab is a pioneering testing environment for connected and autonomous vehicles (CAVs) situated in Greenwich and the Queen Elizabeth Olympic Park. SMLL offers a unique real-world urban setting to trial and develop future mobility solutions, encouraging collaboration between automakers, technology providers, and researchers. This initiative promotes the safe and efficient integration of CAVs into London's transportation infrastructure, driving innovation in the mobility sector, and paving the way for a more sustainable, efficient, and accessible transportation system in the city.
+
+![Alt Text Autonomous vehicle greenwich/ ](./greenwich_autonomous_vehicle.jpeg "Spsmiler, CC0, via Wikimedia Commons")
+
+
 **Civic Innovation Challenge:** This is a business support programme that matches startups with leading corporates and public organisations to solve some of London’s most pressing problems. The programme invites startups to propose innovative solutions to challenges such as reducing inequality, preventing climate change and supporting ageing population. The programme provides startups with funding, mentoring, testing opportunities and access to potential customers and partners. The programme also showcases the best ideas and solutions to a wider audience. The Civic Innovation Challenge aims to spur innovation from the tech sector and address social challenges in London.
 
 ![Alt Text / Civic Innovation Challenge Poster](./civic_innovation_challenge.png "https://www.london.gov.uk/programmes-strategies/business-and-economy/supporting-londons-sectors/challenge-ldn/civic-data-innovation-challenge (GLA)")
@@ -158,4 +163,5 @@ The Civic Innovation Challenge, which matches tech startups with public bodies a
 - [Your Commute: how City Hall used Oyster card data to gauge citizen views on the use of personal data](https://chiefdigitalofficer4london.medium.com/your-commute-how-city-hall-used-oyster-card-data-to-gauge-citizen-views-on-the-use-of-personal-2b786ff01819)
 - [Building the Talk London community in 2020 & beyond](https://chiefdigitalofficer4london.medium.com/building-the-talk-london-community-in-2020-beyond-f710c44f8a39)
 - [Mayor of London and Microsoft launch Civic Innovation Challenge](https://www.technologyrecord.com/article/mayor-of-london-and-microsoft-launch-civic-innovation-challenge)
-- []()
+- [Smart City Strategic Planning in North America: Learnings for London](https://publicsectornetwork.com/wp-content/uploads/2020/01/Smart-city-strategic-planning-in-NA-Learnings-for-London.pdf)
+- [Smart city for sustainable environment: A comparison of participatory strategies from Helsinki, Singapore and London](https://www.sciencedirect.com/science/article/pii/S0264275121000925?casa_token=dqa9sUZ_hNgAAAAA:TgSDpdbMxYUQ2O16hiTKH-WqS3He_NG-1UnVGllhdcxj59jAiHhNqnlP6uMx7k-JJ5lV530d)
