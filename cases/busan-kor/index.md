@@ -1,14 +1,22 @@
 ---
-layout: case
+title: Case Study Busan Eco-Delta City
+description: The Busan Eco Delta City is an 11.8 square kilometer development project located in Gangseo-gu, Busan. Its development began in 2012 and is scheduled to be completed in 2023. The project's main objective is to provide a variety of services, including housing commerce, research and development, logistics, and more, to its target population of 76,000 people or 30,000 households. This project is being initiated jointly by Busan Metropolitan City, K-water, and Busan Metropolitan Corporation.According to the New York Times, Busan Eco Delta City is also known as the Busan Eco Delta Smart City. The city was designed to be smart from the outset and was announced as a pilot project in 2018. With cutting-edge technology such as robots, augmented reality, and artificial intelligence, the community plans to provide residents with greater convenience.
+status: Draft
 author: Haiyue Xi
-name: Busan Eco-Delta City
+type: example
 city: Busan
-country: KOR
-latitude: 35.166668
-longitude: 129.066666
+country_code: KOR
+centroid: [35.166668, 129.066666]
 year_start: 2012
 year_completed: Under Constrcution
-tags: Accessibility, Sustainability, Mixed-Use
+featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
+featured_alt: New York City Skyline
+featured_credit: Hannah Busing (Unsplash)
+tags:
+  - Code
+  - Markdown
+geography: ./example.geojson
+geography_caption: Optional Caption for the geograhic information.
 ---
 
 ## Overview
@@ -23,8 +31,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Characteristic 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
-
+**Characteristic 1**.  Innovation
 **Characteristic 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
 **Characteristic 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
@@ -41,7 +48,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 
 ## Technology Interventions
-<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. --->
+<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
 **Technology Intervention 1**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
@@ -51,7 +58,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 
 ## Stakeholders
-<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
+<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
 **Stakeholder 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
 
@@ -60,7 +67,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 **Stakeholder 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
 
 ## Leadership
-<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->
+<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
 **Name of Interviewee**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [LinkedIn](https://www.markdownguide.org/basic-syntax/)
 
@@ -72,13 +79,13 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 
 ## Financing
-<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. --->
+<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
 **Financing Scheme**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
 
 
 ## Outcomes
-<!--- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. --->
+<!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
 **Outcome 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
 
@@ -87,7 +94,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 **Outcome 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
 
 ## Open Questions
-<!--- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. --->
+<!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
 **Open questions 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
 
@@ -101,7 +108,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 ### Primary Sources
 
-<!-- 3-5 project plans, audits, reports, etc. --->
+<!-- 3-5 project plans, audits, reports, etc. -->
 
 - Create a list by starting a line with `+`, `-`, or `*`
 - Sub-lists are made by indenting 2 spaces:
@@ -109,7 +116,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 ### Secondary Sources
 
-<!-- 5-7 secondary source documents: news reports, blog posts, etc.. --->
+<!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 
 - Create a list by starting a line with `+`, `-`, or `*`
 - Sub-lists are made by indenting 2 spaces:
