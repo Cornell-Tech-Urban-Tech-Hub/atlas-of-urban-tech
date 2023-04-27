@@ -1,14 +1,25 @@
 ---
-layout: case
+title: Hangzhou City Brain
+description: Developed by Chinese tech company Alibaba Group, the Hangzhou City Brain utilizes artificial intelligence and data collection for urban management.
+status: Draft
 author: Ken He
-name: Hangzhou City Brain
-city: Hangzhou
-country: CHN
-latitude:  30.250000
-longitude: 120.166664
+type: Masterplan
+city: Hangzhou 
+country_code: CHN
+centroid: [30.250000, 120.166664]
 year_start: 2017
-year_completed: Ongoing
-tags: Data Science, AI city management, digital civial service, smart waste, smart transporation
+year_completed: On-going
+featured_image: ./hangzhou.jpg
+featured_alt: Hangzhou Lake
+featured_credit: jj20.com
+tags:
+  - Data Science
+  - AI City Management
+  - Digital Civil Service
+  - Smart Waste Management
+  - Smart Transporation
+geography: ./example.geojson
+geography_caption: Optional Caption for the geograhic information.
 ---
 
 ## Overview
@@ -28,6 +39,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 **Characteristic 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
 **Characteristic 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+
 
 ## Goals and Aspirations
 
@@ -49,6 +61,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 **Technology Intervention 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
+![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
