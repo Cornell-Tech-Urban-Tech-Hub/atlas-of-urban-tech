@@ -3,7 +3,7 @@ title: Smarter London Together
 description: The Mayor’s roadmap to transform London into the smartest city in the world.
 status: Draft
 author: Thomas Wallace 
-type: example
+type: case
 city: London
 country_code: GBR
 centroid: [51.507222, -0.127500]
@@ -16,8 +16,8 @@ tags:
   - Digital Inclusion
   - City-wide Collaboration
   - Smart Infrastructure
-geography: ./example.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography: ./london_boroughs.geojson
+geography_caption: London Boroughs GeoJSON
 ---
 
 ## Overview
