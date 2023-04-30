@@ -23,8 +23,15 @@ geography_caption: Optional Caption for the geograhic information.
 ## Overview
 
 <!-- About 100 to 150 word summary of the case study. -->
+Schuylkill Yards is a mixed-use real estate development led by Brandywine Realty Trust and Drexel University. The project plans to redevelop 14 acres of land along the Schuylkill River in West Philadelphia.
 
-Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. 
+Currently, two buildings, Cira Centre and the Bulletin Building, along with a mixed-use privately-owned public space, Drexel Square, have been delivered. Brandywine plans to build an additional six buildings, along with a plaza space known as the Grove, and a shared street along JFK Boulevard.
+
+The project is being built in the University City district in West Philadelphia. It is located next to the city's main transit hub, 30th Street Station. Schuylkill Yards is also situated next to Drexel University and the University of Pennsylvania.
+
+The current timeline has a major building being completed in 2023, 2024, and 2025. The project plans to be completely finished in the third quarter of 2025.
+
+The project itself is part of Philadelphia's revitalization over the past decade. During the latter half of the 20th century, Philadelphia was in decline. A large portion of the medium and high-income residents moved out to the suburbs. Along with them, most of the major corporations also relocated. Since the 2000s, Philadelphia has seen an economic resurgence. Major telecommunication companies have built massive new offices, Drexel and the University of Pennsylvania have heavily invested in attracting biotechnology companies to the area, and a big group of chemical companies moved their business offices from Delaware, where most of the chemical plants were located, to Philadelphia.
 
 ![Alt Text / Map of Schuylkill Yards project](./site-map-edited.jpeg "Brandywine Realty Trust")
 
@@ -34,9 +41,9 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Characteristic 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Mixed Used Development**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
-**Characteristic 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Creating a New Community**.  Other major real-estate development project have run into the problem of making a neighborhood feel monolithic. Projects like Hudson Yards(New York City) and Canary Wharf(London) have been ridiculed for not taking into account the existing neighborhoods. Schuylkill Yards is unlikely to face this 
 
 **Characteristic 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
@@ -55,7 +62,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
-**Technology Intervention 1**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Healthy Work Environment for a post-COVID world**. 3025 JFK Blvd. Premium MERV-13 Filtration, Anti-microbial finishes, Touchless environment, 24/7 HVAC operations, Destination dispatch elevators.  High Performance VAV system 1.0 cfm psf. Supplemental condenser water available on every floor for 24 x 7, critical or high intensity cooling areas (backed up by generator); optimized fresh air intake.
 
 **Technology Intervention 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
