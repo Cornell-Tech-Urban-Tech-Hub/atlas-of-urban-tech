@@ -31,11 +31,11 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Characteristic 1**.  Mix use 
+**Mix use**.  A very important characteristic of new centry smart cities is the business, commercial, recreation, and residential mix-use of its spaces, this helps diverse and interesting lifestyle to emerge as it empowers residence with more connecticity in their everyday life. The Eco-Cell, Eco-Community, and Eco-District modular hierarchy convinient zone allows everybody to find essential services within their 15-minutes walking cell, and all means of recreation within their neighborhood.
 
-**Characteristic 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Promote sustainability**.  An important motivation of the Sino-Singapore Eco-City is to experiment with a city development mode that is nature-friendly, in contrast to other major Chinese cities. The city introduces a lot of dedicated green spaces not planned for future development, believing that those spaces not only mediates the carbon footprint of human life, but is also beneficial to resident's quality of life. The city also has a full coverage of public transportation in terms of streets, allowing residents to use public transportation in all occasions. 
 
-**Characteristic 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Use advanced information and community-oriented technologies for efficient management of urban services**.  
 
 
 ## Goals and Aspirations
