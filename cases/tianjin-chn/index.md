@@ -7,23 +7,23 @@ type: example
 city: New York
 country_code: US
 centroid: [40.712778, -74.006111]
-year_start: 2012
-year_completed: 2018
+year_start: 2008
+year_completed: 2023
 featured_image: ./tianjin.jpg
-featured_alt: New York City Skyline
-featured_credit: Hannah Busing (Unsplash)
+featured_alt: Sino-Singapore Eco-City Skyline
+featured_credit: enorth.com.cn(Unsplash)
 tags:
   - Code
   - Markdown
-geography: ./example.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography: ./tianjin.geojson
+geography_caption: District is located near Tianjin, by the ocean.
 ---
 
 ## Overview
 
 <!-- About 100 to 150 word summary of the case study. -->
 
-Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. 
+The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore government. Since 2008, developing that district has been a high-priority mission of the Chinese government, taking great advantages real-estate investment favoring policies, and the effective implementation of a top-to-bottom planning strategy. The primary motivation behind the district is to experiment an alternative development model to the traditionally dense and pollution heavy city models in China. Green space and natural landscapes are the foundations of Eco-city, which is also the most attractive feature for new residents. It is friendly for new residents to move in, as it is only 30 kilometers away from Tianjin, and 150 kilometers away from Beijing. The city is also built upon the concept of modular neighborhood and 15-minutes comfort circle for everyone.
 
 
 ## Key Characteristics
@@ -31,7 +31,7 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Characteristic 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Characteristic 1**.  Mix use 
 
 **Characteristic 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
