@@ -9,7 +9,7 @@ country_code: US
 centroid: [40.712778, -74.006111]
 year_start: 2012
 year_completed: 2018
-featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
+featured_image: ./tianjin.jpg
 featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)
 tags:
