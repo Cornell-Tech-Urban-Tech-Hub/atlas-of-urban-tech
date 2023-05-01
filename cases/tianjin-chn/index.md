@@ -33,6 +33,8 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 
 **Mix use**.  A very important characteristic of new centry smart cities is the business, commercial, recreation, and residential mix-use of its spaces, this helps diverse and interesting lifestyle to emerge as it empowers residence with more connecticity in their everyday life. The Eco-Cell, Eco-Community, and Eco-District modular hierarchy convinient zone allows everybody to find essential services within their 15-minutes walking cell, and all means of recreation within their neighborhood.
 
+![Alt Text / Modular Neighborhood Concept](./masterplan.jpeg "Masterplan (Unsplash)")
+
 **Promote sustainability**.  An important motivation of the Sino-Singapore Eco-City is to experiment with a city development mode that is nature-friendly, in contrast to other major Chinese cities. The city introduces a lot of dedicated green spaces not planned for future development, believing that those spaces not only mediates the carbon footprint of human life, but is also beneficial to resident's quality of life. The city also has a full coverage of public transportation in terms of streets, allowing residents to use public transportation in all occasions. 
 
 **Use advanced information and community-oriented technologies for efficient management of urban services**.  
