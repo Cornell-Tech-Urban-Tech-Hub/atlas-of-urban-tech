@@ -111,7 +111,7 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 ## Outcomes
 <!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
-**Highly aggressive sustainable implementation**.  The Eco-City was awarded the first place among cities globally in using a sustainable model of development for urban space, by [Construction 21 International](https://www.construction21.org/en/index.html). The Eco-City is currently working to achieve its Sustainability KPIs 2.0, which includes increasing the dependence on sustainable energy sources to more than 32%, and dependence on non-traditional sources of tap water to more than 60% by 2035. 
+**Highly aggressive sustainable implementation**.  The Eco-City was awarded the first place among cities globally in using a sustainable model of development for urban space, by [Construction 21 International](https://www.construction21.org/en/index.html). The Eco-City has accomplished its Sustainability KPIS, which regulated that the city needs to build dependency on sustainable resources. The completion encourages the city to take itself to the next level. The Eco-City is currently working to achieve its Sustainability 36 KPIs 2.0, which includes increasing the dependence on sustainable energy sources to more than 32%, and dependence on non-traditional sources of tap water to more than 60% by 2035. 
 
 ![Alt Text / logo](./susgoal.jpg "logo(Unsplash)")
 
