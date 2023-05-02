@@ -2,11 +2,11 @@
 title: Zaragoza Milla Digital
 description: My Awesome Case Study
 status: Draft
-author: Urban Tech Hub
-type: example
+author: Michele Chen
+type: case
 city: New York
 country_code: US
-centroid: [40.712778, -74.006111]
+centroid: [41.656841, -0.879420]
 year_start: 2012
 year_completed: 2018
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
