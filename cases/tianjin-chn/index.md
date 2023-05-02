@@ -74,9 +74,9 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
 
-**Stakeholder 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+**The Chinese Central Government**: Represented by tianjin eco-city investment & development co.ltd and Tianjin Infrastructure Investment Group, nationally owned companies dedicated to providing the public service, transportation, and utility to the Eco-City. Directly works with Singapore side to determine visions and strategies for development   [tianjin eco-city investment & development co.ltd](https://www.tjeco-city.com/?lang=english/),[Tianjin Infrastructure Investment Group](https://www.tj-chengtou.com/about.aspx?cateid=1/)
 
-**Stakeholder 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+**Ministry of National Development: Singapore**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. 
 
 **Stakeholder 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
 
