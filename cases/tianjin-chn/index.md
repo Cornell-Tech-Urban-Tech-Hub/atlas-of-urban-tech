@@ -67,9 +67,9 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 
 ![Alt Text / Waste Management](./waste.jpg "Waste Management(Unsplash)")
 
-**Technology Intervention 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Sponge City concept**:  Resillience against and efficient use of water is built within the foundation of the Eco-City. Permanent sensers were built into different stages of the tap water service pipelines, ensuring the water quality meets drinking standard from the facility to the tap. Effectively harvesting rainwater through real-time stormwater run-off control, water quality and volume citywide monitored and controlled in a single system. In case of storms, effectively prevent flooding from using permeable pavement, large natural landscape damping, the water harvesting system which stores rainwater partially for later use, and high-capacity run-off to ocean. 
 
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
+![Alt Text / Water Recycle System](./water.jpg "Water Recycle System(Unsplash)")
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
