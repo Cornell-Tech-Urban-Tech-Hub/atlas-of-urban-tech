@@ -37,6 +37,8 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 
 **Promote sustainability**.  An important motivation of the Sino-Singapore Eco-City is to experiment with a city development mode that is nature-friendly, in contrast to other major Chinese cities. The city introduces a lot of dedicated green spaces not planned for future development, believing that those spaces not only mediates the carbon footprint of human life, but is also beneficial to resident's quality of life. The city also has a full coverage of public transportation in terms of streets, allowing residents to use public transportation in all occasions. 
 
+![Alt Text / Convinient Public Transportation Options](./transport1.jpg "Transport (Unsplash)")
+
 **Use advanced information and community-oriented technologies for efficient management of urban services**.  
 
 
