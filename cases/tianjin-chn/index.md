@@ -47,11 +47,11 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 
 <!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
 
-**Create a living space with tight connection to nature**.  No matter where a person is, they should be able to see plenty of vegetation. It must be convinient for everybody to fully submerge into the nature. 
+**Create a living space with tight connection to nature**:  No matter where a person is, they should be able to see plenty of vegetation. It must be convinient for everybody to fully submerge into the nature. 
 
-**Co-exist with the nature under harmony**. The building process and operation of the city must maintain low environmental footprint. 
+**Co-exist with the nature under harmony**: The building process and operation of the city must maintain low environmental footprint. 
 
-**Promote cultural growth**.  Promoting traditional, contemporary, and new culture. Making the entire city accessible by ensuring at least 20% of all housings are public affordable housing, and 100% barrier free entrance to all public areas.
+**Promote cultural growth**:  Promoting traditional, contemporary, and new culture. Making the entire city accessible by ensuring at least 20% of all housings are public affordable housing, and 100% barrier free entrance to all public areas.
 
 
 ## Technology Interventions
