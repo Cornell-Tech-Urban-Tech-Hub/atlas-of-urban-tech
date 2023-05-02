@@ -116,6 +116,11 @@ In the future of digital master planning, the leadership structure for smart cit
 
 **Financing Scheme**.
 
+A shift occurred from seeking private sector fundraising to relying on public sector financing for the plan. This change was partly due to the political party transition in 2016, and led to the introduction of new initiatives that focused more on addressing public needs rather than catering to private interests.
+
+
+**Some examples of financing:**
+
 [The Sharing Cities programme](https://www.london.gov.uk/what-we-do/business-and-economy/supporting-londons-sectors/smart-london/sharing-cities), which pilots smart technologies to support the green transition in Greenwich and other European cities, is funded by a [€25 million](https://cities-today.com/european-smart-cities-programme-hits-e250-million-investment-milestone/) grant from the European Union’s Horizon 2020 programme.
 
 The Civic Innovation Challenge, which matches tech startups with public bodies and companies to solve urban challenges, is funded by the Mayor of London and partners such as Microsoft, Social Tech Trust and the TfL. [Link.](https://www.technologyrecord.com/article/mayor-of-london-and-microsoft-launch-civic-innovation-challenge)
