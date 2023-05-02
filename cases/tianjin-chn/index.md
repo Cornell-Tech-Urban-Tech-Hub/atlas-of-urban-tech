@@ -39,8 +39,9 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 
 ![Alt Text / Convinient Public Transportation Options](./transport1.jpg "Transport (Unsplash)")
 
-**Use advanced information and community-oriented technologies for efficient management of urban services**.  
+**Use advanced information and community-oriented technologies for efficient management of urban services**.  For a city to truly belong in the new century, it must be able to take advantage of technologies to efficiently manage its services. Residents of the Eco-City can access more than 95% of administrative public service from an app on their phone. In case of natural emergencies, the digitized utility maintainance and operation center pays close attention on the hard systems protecting the city in real time. This allows the managers of the city to make every decision with better awareness. 
 
+![Alt Text / Digitally integrated urban control system](./smartmonitor.jpg "Monitoring Systems(Unsplash)")
 
 ## Goals and Aspirations
 
