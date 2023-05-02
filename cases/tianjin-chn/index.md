@@ -4,9 +4,9 @@ description: A jointly development between China and Singapore, as an experiment
 status: Draft
 author: Yuchen Ye
 type: example
-city: New York
-country_code: US
-centroid: [40.712778, -74.006111]
+city: Tianjin
+country_code: CN 
+centroid: [39.154496, 117.767878]
 year_start: 2008
 year_completed: 2023
 featured_image: ./tianjin.jpg
@@ -47,11 +47,11 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 
 <!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
 
-**Goal 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. 
+**Create a living space with tight connection to nature**.  No matter where a person is, they should be able to see plenty of vegetation. It must be convinient for everybody to fully submerge into the nature. 
 
-**Goal 2**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Co-exist with the nature under harmony**. The building process and operation of the city must maintain low environmental footprint. 
 
-**Goal 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Promote cultural growth**.  Promoting traditional, contemporary, and new culture. Making the entire city accessible by ensuring at least 20% of all housings are public affordable housing, and 100% barrier free entrance to all public areas.
 
 
 ## Technology Interventions
