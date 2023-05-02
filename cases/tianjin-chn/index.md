@@ -63,7 +63,9 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 
 ![Alt Text / Green Building Design](./greenbuilding.jpg "Green Building Design(Unsplash)")
 
-**Technology Intervention 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Pneumatic Waste Collection System**:  Residents are encouraged and rewarded to sort their waste. Pneumatic Waste Collection System allows waste to be sorted and transported in large scale, where the transportation to the centralized facility is an air-tight process. Recyclables are turned into products, and kitchen wastes are used as material for fertilizers and industrial soaps. Other wastes are turned harmless locally using chemical procedures, instead of being shipped out.
+
+![Alt Text / Waste Management](./waste.jpg "Waste Management(Unsplash)")
 
 **Technology Intervention 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
