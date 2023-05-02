@@ -49,7 +49,7 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 
 **Create a living space with tight connection to nature**:  No matter where a person is, they should be able to see plenty of vegetation. It must be convinient for everybody to fully submerge into the nature. 
 
-**Co-exist with the nature under harmony**: The building process and operation of the city must maintain low environmental footprint. 
+**Co-exist with the nature under harmony**: The building process and operation of the city must maintain low environmental footprint. The city has advanced infrastructure that takes advantage from renewable sources of energy, advanced rain water usage, and requires all buildings to be carbon neutral green buildings. 
 
 **Promote cultural growth**:  Promoting traditional, contemporary, and new culture. Making the entire city accessible by ensuring at least 20% of all housings are public affordable housing, and 100% barrier free entrance to all public areas.
 
@@ -57,7 +57,9 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. --->
 
-**Technology Intervention 1**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Green oriented building design**: Extensive use of new recyclable construction material. Usage of Argon glass to improve insulation, optimizing building design and orientation to provide adjustable sunlight heating, seasonal variable natural ventilation, and natural light coverage. Integration of green walls with vegetation to naturally improve indoor air quality.
+
+Building water usage is monitored, with rain-water harvesting and reuse system fully built in. Renewable energy collection system built in buildings. Water and power resources usage and recycling are monitored and controlled in a single platform.
 
 **Technology Intervention 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
