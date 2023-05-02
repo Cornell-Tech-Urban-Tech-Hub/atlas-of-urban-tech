@@ -74,11 +74,21 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
 
-**The Chinese Central Government**: Represented by tianjin eco-city investment & development co.ltd and Tianjin Infrastructure Investment Group, nationally owned companies dedicated to providing the public service, transportation, and utility to the Eco-City. Directly works with Singapore side to determine visions and strategies for development   [tianjin eco-city investment & development co.ltd](https://www.tjeco-city.com/?lang=english/),[Tianjin Infrastructure Investment Group](https://www.tj-chengtou.com/about.aspx?cateid=1/)
+**The Chinese Central Government**: Represented by tianjin eco-city investment & development co.ltd and Tianjin Infrastructure Investment Group, nationally owned companies dedicated to providing the public service, transportation, and utility to the Eco-City. Directly works with Singapore side to determine visions and strategies for development   [Tianjin Infrastructure Investment Group](https://www.tj-chengtou.com/about.aspx?cateid=1/)
 
-**Ministry of National Development: Singapore**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. 
+![Alt Text / logo](./tiig.jpg "logo(Unsplash)")
 
-**Stakeholder 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+
+
+**Singapore**: Represented by the Ministry of National Development, a government agency, symbolizing the high level of corperation between Singapore and China on developing the Eco-City. The Keppel Group, priamrily responsible for green building design, and integrating its expertise in energy, environment, urban development, connectivity, and property management, introducing the smart city technologies making the Eco-City unique. [The Keppel Group](https://www.kepcorp.com/cn/who-we-are/about-keppel/#tab-urban-development/)
+
+![Alt Text / logo](./Keppel.jpg "logo(Unsplash)")
+
+
+**Sino-Singapore Tianjin Eco-City Investment and Development Co., Ltd. (SSTEC)**.  As the master developer, SSTEC works closely with the governments and private sectors of China and Singapore, as well as other international partners, to plan and develop the Eco-City. The SSTEC is the platform where both Chinese and Singaporean nationally owned capital work together to develop the city. [tianjin eco-city investment & development co.ltd](https://www.tjeco-city.com/?lang=english/)
+
+![Alt Text / logo](./setttttcccc.jpg "logo(Unsplash)")
+
 
 ## Leadership
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->
