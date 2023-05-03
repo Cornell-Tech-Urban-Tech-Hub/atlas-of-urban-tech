@@ -19,6 +19,8 @@ geography: ./tianjin.geojson
 geography_caption: District is located near Tianjin, by the ocean.
 ---
 
+![Alt Text / Overview](./tianjin.jpg "Overview (Unsplash)")
+
 ## Overview
 
 <!-- About 100 to 150 word summary of the case study. -->
