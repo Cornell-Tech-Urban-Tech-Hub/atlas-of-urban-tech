@@ -119,14 +119,14 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 
 **The nature is truly a good feature for residents**:  Using [Zhihu](https://www.zhihu.com/), a platform similar to Reddit and Quora for the Chinese language internet, I viewed the posts by residents of the Eco-City related to how they live their life in the Eco-City. Although there are aspects in living there that troubles the residents, most of they found high coverage of vegetation and natural landscape extremely valuable. The post below is from a young lady who moved to the Eco-City two years ago, she has already bought a house and is actively getting ready to move in. She senses an oceanside vacation town vibe in the Eco-City, which gives her great comfort in everyday living. 
 
+**Anticipate move in of technology firms**: For 2024, it is anticipated that more than 150 innovative technology firms would move into the Eco-City. This will bring more than three times open tech positions available compared to the Eco-City today. This will encourage more residents to move to the Eco-City. 
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-**Open questions 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Attracting corperate move-in**:  In terms of a location to establish a headquarter, the Eco-City is located at a awkward location, given its proximity to Beijing and Tianjin. Corperates can be attracted by high bonuses provided by the government, but this is a unsustainable strategy. What would be a strategy to bring more work opportunities to the Eco-City? 
 
-**Open questions 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Dependence on cars**:  Although the Eco-City was built to be used comfortably without using private cars. However, the car ownership rate at the Eco-City is at a level close to American suburban areas. Residents are also used to travelling by their own car whenever it is possible, since the well-designed urban landscape allows easy travel by car. What does this tell us about the car-free motivation of smart cities, and the way residents interact with it?
 
-**Open questions 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
 
 ## References
 
@@ -135,6 +135,12 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 ### Primary Sources
 
 <!-- 3-5 project plans, audits, reports, etc. --->
+
+
+*http://www.tianjineco-city.com/static/web//en/singapore1.html?lang=english*
+*https://www.eco-city.gov.cn/*
+*https://www.kepcorp.com/cn/who-we-are/about-keppel/#tab-urban-development*
+*http://www.tianjineco-city.com/static/web//en/singapore5.html?lang=english*
 
 - Create a list by starting a line with `+`, `-`, or `*`
 - Sub-lists are made by indenting 2 spaces:
