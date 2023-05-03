@@ -1,9 +1,9 @@
 ---
 title: Smarter London Together
-description: The Mayor’s roadmap to transform London into the smartest city in the world.
+description: The Mayor’s and GLA roadmap to transform London into the smartest city in the world.
 status: Draft
 author: Thomas Wallace 
-type: example
+type: case
 city: London
 country_code: GBR
 centroid: [51.507222, -0.127500]
@@ -16,8 +16,8 @@ tags:
   - Digital Inclusion
   - City-wide Collaboration
   - Smart Infrastructure
-geography: ./example.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography: ./london_boroughs.geojson
+geography_caption: London Boroughs GeoJSON
 ---
 
 ## Overview
@@ -30,7 +30,7 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Development:** The plan was developed by the Mayor’s Chief Digital Officer and the Smart London Board, based on a Listening Tour that gathered views from various stakeholders, such as the tech sector, universities, councils, civil society and citizens. The plan also builds on the previous [Smart London Plan from 2013](https://www.london.gov.uk/sites/default/files/smart_london_plan.pdf) and aligns with the seven statutory Mayoral strategies.
+**Development:** The plan was developed by the Mayor’s Chief Digital Officer and the Smart London Board, initated by a Listening Tour that gathered views from various stakeholders, such as the tech sector, universities, councils, civil society and citizens. The plan also builds on the previous [Smart London Plan from 2013](https://www.london.gov.uk/sites/default/files/smart_london_plan.pdf) and aligns with the seven statutory Mayoral strategies.
 
 **Engagement:** The plan aims to engage citizens and communities better through initiatives such as [Talk London](https://www.london.gov.uk/talk-london/), a 42,000-strong online community where Londoners can share their opinions on various issues; [Crowdfund London](https://www.london.gov.uk/programmes-strategies/shaping-local-places/funding-opportunities/make-london/impact-community-crowdfunding), a digital platform for citizens to propose and fund ideas for their neighbourhoods; and [Civic Innovation Challenge](https://www.london.gov.uk/programmes-strategies/arts-and-culture/mayor-londons-civic-innovation-challenge), a programme that matches tech startups with public bodies and companies to solve urban challenges.
 
@@ -43,7 +43,7 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 
 **User-designed services:** Emphasizing a people-first approach, the Smarter London Together plan advocates for user-centered design in creating digital services. It acknowledges the city's rich diversity, focusing on initiatives like implementing design standards, nurturing digital inclusion, stimulating civic innovation, cultivating civic platforms, and endorsing diversity within the tech industry to create a more inclusive digital landscape.
 
-**New deal for city data:** The plan is committed to employing data in a legal, ethical, and secure manner to benefit all Londoners. It encompasses a range of initiatives, such as data analytics, cyber security, data rights, data trusts, and open data. These measures are designed to instill a culture of transparency and responsible data practices, ensuring that data-driven decisions are equitable and considerate of all citizens.
+**New deal for city data:** The plan is committed to employing data in a consolidated, legal, ethical, and secure manner to benefit all Londoners. It encompasses a range of initiatives, such as data analytics, cyber security, data rights, data trusts, and open data. These measures are designed to instill a culture of transparency and responsible data practices, ensuring that data-driven decisions are equitable and considerate of all citizens.
 
 **World-class connectivity and smarter streets:** Aiming for comprehensive gigabit-capable digital connectivity, the Smarter London Together plan prepares the city for the 5G technology roll out. This goal entails mobilising public assets, enhancing public wifi, championing smart infrastructure, and promoting common standards. These initiatives collectively work towards establishing seamless, reliable connectivity across London, enabling the city to remain competitive on the global stage.
 
@@ -102,15 +102,24 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 ![Alt Text / Stephen Lorimer](./stephen_lorimer_profile_picture.jpeg "Stephen Lorimer (Linkedin)")
 
 **Insight 1**.
+A key insight for cities looking to develop their own smart city initiatives is the importance of leveraging procurement, persuasion, and fundraising to create programs that garner support and resources. By strategically utilizing these tools, cities can attract partnerships from the private sector, academic institutions, and other stakeholders, fostering a collaborative environment for innovation and progress. An example for the Smarter London Together the plan was the Listening Tour, which involved engaging with citizens and collecting their input, this in turn help London gain the trust of the public and ensure that their concerns were addressed. This approach not only amplifies the impact of smart city projects, but also encourages knowledge-sharing and accelerates the pace of urban transformation, ultimately benefiting the communities they serve. By actively involving residents in the decision-making process, cities can create smart city solutions that are not only technologically advanced, but also truly responsive to the needs and desires of the people they are designed to serve.
+
 
 **Insight 2**.
+One key insight from this conversation is the shifting focus of smart city initiatives in London. In the 2013 plan, there was more emphasis on engaging the private sector, particularly SMEs and startups, to develop and deliver innovative technologies and services. However, the 2018 plan, shifted the focus to public sector investments to improve the city for its residents. One notable difference between the two plans is the attention given to infrastructure and broadband connectivity. The 2018 plan recognized the importance of connectivity as a crucial part of the smart city concept, whereas the 2013 plan did not view it as a smart city issue. This change reflects the evolving priorities and understanding of what constitutes a smart city and the role that infrastructure and connectivity play in creating a more inclusive and sustainable urban environment.
 
 **Insight 3**.
+In the future of digital master planning, the leadership structure for smart city development may shift towards a more versatile and adaptable approach. Decisions may be made to assign the responsibility of leading a smart city master plan to a specific department, such as analytics, climate, housing, or others, depending on the primary focus and objectives of the project. This would ensure that the team with the most relevant expertise takes charge, fostering a more targeted and efficient development process. However, cross-departmental collaboration would remain essential in order to create well-rounded, inclusive, and sustainable smart cities. 
 
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
 **Financing Scheme**.
+
+A shift occurred from seeking private sector fundraising to relying on public sector financing for the plan. This change was partly due to the political party transition in 2016, and led to the introduction of new initiatives that focused more on addressing public needs rather than catering to private interests.
+
+
+**Some examples of financing:**
 
 [The Sharing Cities programme](https://www.london.gov.uk/what-we-do/business-and-economy/supporting-londons-sectors/smart-london/sharing-cities), which pilots smart technologies to support the green transition in Greenwich and other European cities, is funded by a [€25 million](https://cities-today.com/european-smart-cities-programme-hits-e250-million-investment-milestone/) grant from the European Union’s Horizon 2020 programme.
 
@@ -137,10 +146,13 @@ The Civic Innovation Challenge, which matches tech startups with public bodies a
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
 **Open questions 1**.
+In the context of the Smarter London Together plan, is there a need for a designated lead department? If so, which department should assume this role? Additionally, should a completely new plan be developed or would iterative changes be more appropriate?
 
 **Open questions 2**. 
+What new indicators could we take a look at to measure the success and impact of the Smarter London Together plan, both in terms of direct outcomes and long-term benefits for Londoners?
 
 **Open questions 3**.  
+How can Smart City plans ensure the continuity and long-term sustainability of its programs and initiatives, given the potential for shifts in political leadership and changing priorities
 
 ## References
 
