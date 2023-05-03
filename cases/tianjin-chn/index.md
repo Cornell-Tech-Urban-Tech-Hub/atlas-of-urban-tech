@@ -137,10 +137,10 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 <!-- 3-5 project plans, audits, reports, etc. --->
 
 
-**http://www.tianjineco-city.com/static/web//en/singapore1.html?lang=english**
-**https://www.eco-city.gov.cn/**
-**https://www.kepcorp.com/cn/who-we-are/about-keppel/#tab-urban-development**
-**http://www.tianjineco-city.com/static/web//en/singapore5.html?lang=english**
+*http://www.tianjineco-city.com/static/web//en/singapore1.html?lang=english
+*https://www.eco-city.gov.cn/
+*https://www.kepcorp.com/cn/who-we-are/about-keppel/#tab-urban-development
+*http://www.tianjineco-city.com/static/web//en/singapore5.html?lang=english
 
 - Create a list by starting a line with `+`, `-`, or `*`
 - Sub-lists are made by indenting 2 spaces:
