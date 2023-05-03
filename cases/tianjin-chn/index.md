@@ -129,7 +129,7 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 
 
 ## References
-
+Most sources are from the Chinese internet.
 ---
 
 ### Primary Sources
@@ -141,15 +141,14 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 - https://www.eco-city.gov.cn/
 - https://www.kepcorp.com/cn/who-we-are/about-keppel/#tab-urban-development
 - http://www.tianjineco-city.com/static/web//en/singapore5.html?lang=english
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
+- Interview over phone with Mr.Qi (SSTEC)
 
 ### Secondary Sources
 
 <!-- 5-7 secondary source documents: news reports, blog posts, etc.. --->
+- https://tieba.baidu.com/f?kw=%E4%B8%AD%E6%96%B0%E7%94%9F%E6%80%81%E5%9F%8E
+- https://www.zhihu.com/answer/34761877
+- https://www.zhihu.com/answer/2794269827
+- https://tj.zhaoshang.net/yuanqu/detail/55
+- https://www.zhihu.com/answer/863054265
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
