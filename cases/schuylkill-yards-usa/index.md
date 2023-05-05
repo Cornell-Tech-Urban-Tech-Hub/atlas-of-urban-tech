@@ -25,13 +25,13 @@ geography_caption: Optional Caption for the geograhic information.
 <!-- About 100 to 150 word summary of the case study. -->
 Schuylkill Yards is a mixed-use real estate development led by Brandywine Realty Trust and Drexel University. The project plans to redevelop 14 acres of land along the Schuylkill River in West Philadelphia.
 
-Currently, two buildings, Cira Centre and the Bulletin Building, along with a mixed-use privately-owned public space, Drexel Square, have been constructed. Brandywine Realty Trust plans to build an additional six buildings, along with a plaza space known as the Grove, and a shared street along JFK Boulevard.
+Currently, two buildings (Cira Centre and the Bulletin Building) and a mixed-use privately-owned public space ( Drexel Square) have been constructed. Brandywine Realty Trust plans to build an additional six buildings, along with a plaza space known as the Grove, and a shared street along JFK Boulevard.
 
-The project is being built in the University City district in West Philadelphia. It is located next to the city's main transit hub, 30th Street Station. Schuylkill Yards is also situated next to Drexel University and the University of Pennsylvania.
+The project is part of the University City district in West Philadelphia. It is bordered by city's main transit hub (30th Street Station) and Drexel University.
 
 The current timeline has a building in the development being completed in 2023, 2024, and 2025. The project plans to be completely finished in the third quarter of 2025.
 
-The project itself is part of Philadelphia's revitalization over the past decade. During the latter half of the 20th century, Philadelphia was in decline. A large portion of the medium and high-income residents moved out to the suburbs. Along with them, most of the major corporations also relocated. Since the 2000s, Philadelphia has seen an economic resurgence. Major telecommunication companies have built massive new offices, Drexel and the University of Pennsylvania have heavily invested in attracting biotechnology companies to the area, and a big group of chemical companies moved their business offices from Delaware, where most of the chemical plants were located, to Philadelphia.
+The project itself is part of Philadelphia's revitalization over the past decade. During the latter half of the 20th century, the city was in decline. A large portion of the medium and high-income residents moved out to the suburbs. Along with them, most of the major corporations also relocated; however, since the 2000s, Philadelphia has seen an economic resurgence. Major telecommunication companies built massive new offices, Drexel and the University of Pennsylvania have heavily invested in attracting biotechnology companies to the area, and a big group of chemical companies moved their business offices from Delaware, where most of the chemical plants were located, to Philadelphia.
 
 ![Alt Text / Map of Schuylkill Yards project](./site-map-edited.jpeg "Brandywine Realty Trust")
 
@@ -41,7 +41,7 @@ The project itself is part of Philadelphia's revitalization over the past decade
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Industry Specific Environment**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Life Science Specialization**.  One of the defining factors of the Schuylkill Yards project is its focus on attracting life science companies. Most of the buildings have dedicated lab spaces as part of their construction plans. Additionally, Penn Medicine and the Children's Hospital of Philadelphia have heavily invested in 
 
 **Creating a New Community**.  Other major real-estate development project have run into the problem of making a neighborhood feel monolithic. Projects like Hudson Yards(New York City) and Canary Wharf(London) have been ridiculed for not taking into account the existing neighborhoods. Schuylkill Yards is unlikely to face this issue due to its geographic location. The entire site is surrounded by existing rail infrastructure and Drexl University. As a result, there is not a definitive neighborhood that the project is intruding on. The land that the project is taking up is mostly abandoned buildings and parking lots for 30th Street Station. Schuylkill Yards is not going to redefine a neighborhood, its going to create a completely new neighborhood.
 
