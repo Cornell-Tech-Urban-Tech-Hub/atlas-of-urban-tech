@@ -53,9 +53,9 @@ The project itself is part of Philadelphia's revitalization over the past decade
 
 **Expand Philadelphia's Innovation Ecosystem**.  Schuylkill Yards has been an important part of Philadelphia's Revitalization. From a governance standpoint, a major goal of the project is to attract Life Science companies to move to the city and provide high paying jobs for the city.
 
-**An Untapped Profit Source**. As Philadelphia begins to fill in, real-estate development has become more and more difficult. By redeveloping parking lots and abandonded buildings, Brandywine Realty Trust is going to be able to profit enormously. 
+**An Untapped Profit Source**. As Philadelphia begins to fill in, real-estate development has become more and more difficult. By redeveloping parking lots and abandonded buildings, Brandywine Realty Trust is going to be able to profit enormously. Once completely constructed the project will also increase Brandywine Realty Trust's portfoio by nearly 33%.
 
-**Goal 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**University Development**.  Over the past decade Drexel has changed from a small "work experience" based college to a major national university. Drexel increased its student enrollment, expanded its campus construction, and added a medical school and law school. Despit all this Drexel has struggled to decrease its acceptance rate or increase its ranking. A major goal for Drexel is to use this real-estate development as an incubator for life science start-ups that spin out from Drexel. These startups should hopefully improve the University's image.
 
 
 ## Technology Interventions
