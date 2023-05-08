@@ -83,20 +83,29 @@ The project itself is part of Philadelphia's revitalization over the past decade
 ## Leadership
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
-**Name of Interviewee**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [LinkedIn](https://www.markdownguide.org/basic-syntax/)
+**Adriaan Geuze** Adriaan is the founder of West 8. His team was responsible for designing Drexel Square as part of Schuylkill Yards. [LinkedIn](https://www.linkedin.com/in/adriaan-geuze-19199812b/)
 
-**Insight 1**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Informal Integrated Communities**. One of the biggest challenges with many large scale business parks is the approachability of the site. Drexel Square is designed to soften Schuylkill Yards by providing an informal space for people to congregate. The hope is that the Square will help prevent Schuylkill Yards from becoming a corporate monolith.
 
-**Insight 2**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Della Clark** Della is the President of the Enterprise Center. The Enterprise Center aims to help promote economic development in West Philadelphia. They have specifically focused on providing resources for small businesses in the area. [LinkedIn](https://www.linkedin.com/in/della-clark-4973595/)
 
-**Insight 3**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Localism to Globalism** A key tenant of the Schuylkill Yards is to create a service economy surrounding the corporate economy within the office spaces. Many small business owners hope that the project will bring customers to support existing businesses.
+
+**Vishaan Chakrabarti** Vishaan is the founder of Practice for Architecture and Urbanism (PAU).  PAU are the leader designers for the first phase of Schuylkill Yards[LinkedIn](https://www.linkedin.com/in/vishaan-chakrabarti-faia-a004b9113/)
+
+**A New Downtown for America’s First City** Schuylkill yards is uniquely positioned to fit the “walkable city” mantra. Within 20 minutes you can get to arts and culture (Philadelphia Art Museum), a central business district, regional transit(30th St Station), nature (Schuylkill River Parkway), educational institutions (Drexel & Penn), hospitals (HUP and CHOP).
+
+**James Timberlake** James is a Partner at the Architecture firm Kieran Timberlake. His company was responsible for the renovation of the first building in Schuylkill Yards, the Bulletin Building. [LinkedIn](https://www.linkedin.com/in/james-timberlake-70bbb9/)
+
+**Redeveloping an Icon** The Bulletin building was originally designed by George Howe with iconic lettering across the facade. The building would degrade over time, but as part of the Schuylkill Yards it was renovated. The new design includes a glass facade with ceramic fit lettering that harkens back to the original text on the building.
 
 
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
-**Financing Scheme**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Qualified Opportunity Zone** The objective of a Qualified Opportunity Zone is to allow for more investment in a distressed community through tax incentives. In Schuylkill Yards case, people who invest in tenants have the opportunity to defer taxes on any capital gains from the project until 2026. Also, if the person holds their investment for 10 years then no taxes are applied once sold.
 
+**Keystone Opportunity Zone** The Keystone Opportunity Zone is similar to the Qualified Opportunity Zone, but it is specific to Pennsylvania State and Philadelphia taxes.  Tenets have the opportunity to get Philadelphia tax abatements on business income & receipts, net profits, real estate, use and occupancy, and sales tax. They can also receive Pennsylvania abatements on corporate net income, personal income, bank and trust company share, sales and use, and mutual thrift institution taxes.
 
 ## Outcomes
 <!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
@@ -110,11 +119,11 @@ The project itself is part of Philadelphia's revitalization over the past decade
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-**Open questions 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Is the concentration on Life Sciences too much?** Looking at this project from a high level has many parallels with the existing infrastructure of many tech companies in Silicon Valley. It is a single minded community designed to support a single industry. Although this strategy has managed to make the bay area a major economic center, it has also led to a lack of adaptability. Currently, the bay area is experiencing a reckoning due to a shift in remote work. Could Schuylkill Yards eventually be dealt the same cards? Does the project’s reliance on Life Sciences pigeon-hole its future?
 
-**Open questions 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**How will an isolated community be different?** A defining part of this project's development has been its location. The majority of Schuylkill Yards sits on undeveloped or abandoned land. This gives them the unique opportunity to create their own community. They are also fortunate enough that the project is surrounded by 30th street station and Drexel University. 30th Street station extends until the Schuylkill River which creates a natural barrier between the development and Logan Square. In a similar vein, Drexel University mostly consists of glass covered academic buildings, and little to no long-standing community development. As a result, Schuylkill Yards is not required to molde itself to an existing community. How they approach this problem will likely spearhead the surrounding area.
 
-**Open questions 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Is this an Innovation District or a Real Estate Project?** A fundamental part of this atlas is to curate projects that would be considered “Smart City Districts”. Schuylkill Yards, could be argued, sits on the fence between an innovation district and just another real estate project. Although the scale of the project is beyond anything the city has experienced in the past few decades, the project itself does not explicitly push innovative technologies or advance building methods. This is not surprising, it is important to remember that Schuylkill Yards is a real estate project at the end of the day. The project is not designed to spark smart cities innovation, it is designed to provide the highest margin of profit to its shareholders.
 
 ## References
 
