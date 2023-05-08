@@ -20,6 +20,8 @@ geography: ./schuylkill-yards-usa.geojson
 geography_caption: Optional Caption for the geograhic information.
 ---
 
+![Alt Text / Image of Drexel Square, a outdoor plaza, with people practicing yoga](./media/cases/schuylkill-yards-usa/media/DrexelSquareFitness-81_sky.jpg "Brandywine Realty Trust")
+
 ## Overview
 
 <!-- About 100 to 150 word summary of the case study. -->
@@ -33,9 +35,6 @@ The current timeline has a building in the development being completed in 2023, 
 
 The project itself is part of Philadelphia's revitalization over the past decade. During the latter half of the 20th century, the city was in decline. A large portion of the medium and high-income residents moved out to the suburbs. Along with them, most of the major corporations also relocated; however, since the 2000s, Philadelphia has seen an economic resurgence. Major telecommunication companies built massive new offices, Drexel and the University of Pennsylvania have heavily invested in attracting biotechnology companies to the area, and a big group of chemical companies moved their business offices from Delaware, where most of the chemical plants were located, to Philadelphia.
 
-![Alt Text / Map of Schuylkill Yards project](./site-map-edited.jpeg "Brandywine Realty Trust")
-
-
 ## Key Characteristics
 
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
@@ -46,6 +45,8 @@ The project itself is part of Philadelphia's revitalization over the past decade
 **Creating a New Community**.  Other major real-estate development projects have run into the problem of making a neighborhood feel monolithic. Projects like Hudson Yards(New York City) and Canary Wharf(London) have been ridiculed for not taking into account the existing neighborhoods. Schuylkill Yards is unlikely to face this issue due to its geographic location. The entire site is surrounded by existing rail infrastructure and Drexel University. As a result, there is not a definitive neighborhood that the project is intruding on. The land that the project is taking up is mostly abandoned buildings and parking lots for 30th Street Station. Schuylkill Yards is not going to redefine a neighborhood, its going to create a completely new neighborhood.
 
 **Joint University Implementation**.  One of the biggest advantages of this project is that the land being developed is mostly owned by Drexel University. The university has a vested interest in developing the area surrounding its campus. As a result, the project has avoided many of the hurdles normally associated with such a large real-estate project. Additionally, the University's backing has allowed for the project to be oriented towards an innovation focus. Tenants will have the opportunity to work closely with existing research and development programs at Drexel. 
+
+![Alt Text / photo of Drexel University building](./cases/schuylkill-yards-usa/media/Drexel_University_Main_Campus_-_panoramio.jpg "Wikimedia Commons")
 
 ## Goals and Aspirations
 
@@ -70,42 +71,46 @@ The project itself is part of Philadelphia's revitalization over the past decade
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
-**Brandywine Realty Trust**.  The Brandywine Realty Trust is the main real-estate organization in charge of developing and renting out the commercial and residential space. The company itself is responsible for 23 million square feet of real estate. The trust has also focused on developing emerging American markets like Philadelphia, Austin, and the District of Columbia. [Brandywine Realty Trust](https://www.brandywinerealty.com/)
+**[Brandywine Realty Trust](https://www.brandywinerealty.com/)**.  The Brandywine Realty Trust is the main real-estate organization in charge of developing and renting out the commercial and residential space. The company itself is responsible for 23 million square feet of real estate. The trust has also focused on developing emerging American markets like Philadelphia, Austin, and the District of Columbia. 
 
-**Transit Agencies**.  Amtrak, SEPTA, and NJ Transit have a stake in Schuylkill Yards. All three agencies have offices at 30th Street Station. 30th Street Station is Amtrak’s third busiest station. For SEPTA, 30th Street Station is one of three major Philadelphia stations. For NJ Transit, 30th Street Station is the only heavy rail terminal in Pennsylvania.  [Amtrak](https://www.amtrak.com/home.html) [SEPTA](https://www5.septa.org/) [NJ Transit](https://www.njtransit.com/)
+**Transit Agencies**.  [Amtrak](https://www.amtrak.com/home.html), [SEPTA](https://www5.septa.org/), and [NJ Transit](https://www.njtransit.com/) have a stake in Schuylkill Yards. All three agencies have offices at 30th Street Station. 30th Street Station is Amtrak’s third busiest station. For SEPTA, 30th Street Station is one of three major Philadelphia stations. For NJ Transit, 30th Street Station is the only heavy rail terminal in Pennsylvania.  
 
-**Universities**.  Drexel has been an obvious partner in the Schuylkill Yards project. Most of the land that is part of Schuylkill Yards is still owned by the University. Drexel also has a major interest in seeing the city as a whole further develop. The University of Pennsylvania (UPenn) has a similar interest in the development of Schuylkill Yards. UPenn’s proximity to the project allows for cross collaboration between University researchers and companies at Schuylkill Yards. [Drexel University](https://drexel.edu/) [University of Pennsylvania](https://www.upenn.edu/)
+**Universities**.  [Drexel University](https://drexel.edu/) has been an obvious partner in the Schuylkill Yards project. Most of the land that is part of Schuylkill Yards is still owned by the University. Drexel also has a major interest in seeing the city as a whole further develop. [The University of Pennsylvania](https://www.upenn.edu/) (UPenn) has a similar interest in the development of Schuylkill Yards. UPenn’s proximity to the project allows for cross collaboration between University researchers and companies at Schuylkill Yards.  
 
-**Healthcare**.  Due to the life science specialization of Schuylkill Yards the existing medical research centers are important stakeholders. There are two major destination hospitals in Philadelphia. The first is the Hospital at the University of Pennsylvania. The second is the Children’s Hospital of Philadelphia. Both of these hospitals also have extensive research divisions that will likely coordinate with companies at Schuylkill Yards. [HUP](https://www.pennmedicine.org/for-patients-and-visitors/penn-medicine-locations/hospital-of-the-university-of-pennsylvania) [CHOP](https://www.chop.edu/)
+**Healthcare**.  Due to the life science specialization of Schuylkill Yards the existing medical research centers are important stakeholders. There are two major destination hospitals in Philadelphia. The first is the [Hospital at the University of Pennsylvania](https://www.pennmedicine.org/for-patients-and-visitors/penn-medicine-locations/hospital-of-the-university-of-pennsylvania) (HUP). The second is the [Children’s Hospital of Philadelphia](https://www.chop.edu/) (CHOP). Both of these hospitals also have extensive research divisions that will likely coordinate with companies at Schuylkill Yards.  
 
-**University City District**.  Schuylkill Yards is part of the University City District(UCD). UCD is a joint economic development council. The organization works similarly to a business improvement district, but it does not hold the same designation because UCD also represents non-profits and universities. [UCD](https://www.universitycity.org/)
+**University City District**.  Schuylkill Yards is part of the [University City District](https://www.universitycity.org/) (UCD). UCD is a joint economic development council. The organization works similarly to a business improvement district, but it does not hold the same designation because UCD also represents non-profits and universities. 
 
 ## Leadership
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
-**Adriaan Geuze** Adriaan is the founder of West 8. His team was responsible for designing Drexel Square as part of Schuylkill Yards. [LinkedIn](https://www.linkedin.com/in/adriaan-geuze-19199812b/)
+### Adriaan Geuze
+Adriaan is the founder of West 8. His team was responsible for designing Drexel Square as part of Schuylkill Yards. [LinkedIn](https://www.linkedin.com/in/adriaan-geuze-19199812b/)
 
 **Informal Integrated Communities**. One of the biggest challenges with many large scale business parks is the approachability of the site. Drexel Square is designed to soften Schuylkill Yards by providing an informal space for people to congregate. The hope is that the Square will help prevent Schuylkill Yards from becoming a corporate monolith.
 
-**Della Clark** Della is the President of the Enterprise Center. The Enterprise Center aims to help promote economic development in West Philadelphia. They have specifically focused on providing resources for small businesses in the area. [LinkedIn](https://www.linkedin.com/in/della-clark-4973595/)
+### Della Clark
+Della is the President of the Enterprise Center. The Enterprise Center aims to help promote economic development in West Philadelphia. They have specifically focused on providing resources for small businesses in the area. [LinkedIn](https://www.linkedin.com/in/della-clark-4973595/)
 
-**Localism to Globalism** A key tenant of the Schuylkill Yards is to create a service economy surrounding the corporate economy within the office spaces. Many small business owners hope that the project will bring customers to support existing businesses.
+**Localism to Globalism**. A key tenant of the Schuylkill Yards is to create a service economy surrounding the corporate economy within the office spaces. Many small business owners hope that the project will bring customers to support existing businesses.
 
-**Vishaan Chakrabarti** Vishaan is the founder of Practice for Architecture and Urbanism (PAU).  PAU are the leader designers for the first phase of Schuylkill Yards[LinkedIn](https://www.linkedin.com/in/vishaan-chakrabarti-faia-a004b9113/)
+### Vishaan Chakrabarti
+Vishaan is the founder of Practice for Architecture and Urbanism (PAU).  PAU are the leader designers for the first phase of Schuylkill Yards[LinkedIn](https://www.linkedin.com/in/vishaan-chakrabarti-faia-a004b9113/)
 
-**A New Downtown for America’s First City** Schuylkill yards is uniquely positioned to fit the “walkable city” mantra. Within 20 minutes you can get to arts and culture (Philadelphia Art Museum), a central business district, regional transit(30th St Station), nature (Schuylkill River Parkway), educational institutions (Drexel & Penn), hospitals (HUP and CHOP).
+**A New Downtown for America’s First City**. Schuylkill yards is uniquely positioned to fit the “walkable city” mantra. Within 20 minutes you can get to arts and culture (Philadelphia Art Museum), a central business district, regional transit(30th St Station), nature (Schuylkill River Parkway), educational institutions (Drexel & Penn), hospitals (HUP and CHOP).
 
-**James Timberlake** James is a Partner at the Architecture firm Kieran Timberlake. His company was responsible for the renovation of the first building in Schuylkill Yards, the Bulletin Building. [LinkedIn](https://www.linkedin.com/in/james-timberlake-70bbb9/)
+### James Timberlake
+James is a Partner at the Architecture firm Kieran Timberlake. His company was responsible for the renovation of the first building in Schuylkill Yards, the Bulletin Building. [LinkedIn](https://www.linkedin.com/in/james-timberlake-70bbb9/)
 
-**Redeveloping an Icon** The Bulletin building was originally designed by George Howe with iconic lettering across the facade. The building would degrade over time, but as part of the Schuylkill Yards it was renovated. The new design includes a glass facade with ceramic fit lettering that harkens back to the original text on the building.
+**Redeveloping an Icon**. The Bulletin building was originally designed by George Howe with iconic lettering across the facade. The building would degrade over time, but as part of the Schuylkill Yards it was renovated. The new design includes a glass facade with ceramic fit lettering that harkens back to the original text on the building.
 
 
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
-**Qualified Opportunity Zone** The objective of a Qualified Opportunity Zone is to allow for more investment in a distressed community through tax incentives. In Schuylkill Yards case, people who invest in tenants have the opportunity to defer taxes on any capital gains from the project until 2026. Also, if the person holds their investment for 10 years then no taxes are applied once sold.
+**Qualified Opportunity Zone**. The objective of a Qualified Opportunity Zone is to allow for more investment in a distressed community through tax incentives. In Schuylkill Yards case, people who invest in tenants have the opportunity to defer taxes on any capital gains from the project until 2026. Also, if the person holds their investment for 10 years then no taxes are applied once sold.
 
-**Keystone Opportunity Zone** The Keystone Opportunity Zone is similar to the Qualified Opportunity Zone, but it is specific to Pennsylvania State and Philadelphia taxes.  Tenets have the opportunity to get Philadelphia tax abatements on business income & receipts, net profits, real estate, use and occupancy, and sales tax. They can also receive Pennsylvania abatements on corporate net income, personal income, bank and trust company share, sales and use, and mutual thrift institution taxes.
+**Keystone Opportunity Zone**. The Keystone Opportunity Zone is similar to the Qualified Opportunity Zone, but it is specific to Pennsylvania State and Philadelphia taxes.  Tenets have the opportunity to get Philadelphia tax abatements on business income & receipts, net profits, real estate, use and occupancy, and sales tax. They can also receive Pennsylvania abatements on corporate net income, personal income, bank and trust company share, sales and use, and mutual thrift institution taxes.
 
 ## Outcomes
 <!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
@@ -119,11 +124,11 @@ The project itself is part of Philadelphia's revitalization over the past decade
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-**Is the concentration on Life Sciences too much?** Looking at this project from a high level has many parallels with the existing infrastructure of many tech companies in Silicon Valley. It is a single minded community designed to support a single industry. Although this strategy has managed to make the bay area a major economic center, it has also led to a lack of adaptability. Currently, the bay area is experiencing a reckoning due to a shift in remote work. Could Schuylkill Yards eventually be dealt the same cards? Does the project’s reliance on Life Sciences pigeon-hole its future?
+**Is the concentration on Life Sciences too much?**. Looking at this project from a high level has many parallels with the existing infrastructure of many tech companies in Silicon Valley. It is a single minded community designed to support a single industry. Although this strategy has managed to make the bay area a major economic center, it has also led to a lack of adaptability. Currently, the bay area is experiencing a reckoning due to a shift in remote work. Could Schuylkill Yards eventually be dealt the same cards? Does the project’s reliance on Life Sciences pigeon-hole its future?
 
-**How will an isolated community be different?** A defining part of this project's development has been its location. The majority of Schuylkill Yards sits on undeveloped or abandoned land. This gives them the unique opportunity to create their own community. They are also fortunate enough that the project is surrounded by 30th street station and Drexel University. 30th Street station extends until the Schuylkill River which creates a natural barrier between the development and Logan Square. In a similar vein, Drexel University mostly consists of glass covered academic buildings, and little to no long-standing community development. As a result, Schuylkill Yards is not required to molde itself to an existing community. How they approach this problem will likely spearhead the surrounding area.
+**How will an isolated community be different?**. A defining part of this project's development has been its location. The majority of Schuylkill Yards sits on undeveloped or abandoned land. This gives them the unique opportunity to create their own community. They are also fortunate enough that the project is surrounded by 30th street station and Drexel University. 30th Street station extends until the Schuylkill River which creates a natural barrier between the development and Logan Square. In a similar vein, Drexel University mostly consists of glass covered academic buildings, and little to no long-standing community development. As a result, Schuylkill Yards is not required to molde itself to an existing community. How they approach this problem will likely spearhead the surrounding area.
 
-**Is this an Innovation District or a Real Estate Project?** A fundamental part of this atlas is to curate projects that would be considered “Smart City Districts”. Schuylkill Yards, could be argued, sits on the fence between an innovation district and just another real estate project. Although the scale of the project is beyond anything the city has experienced in the past few decades, the project itself does not explicitly push innovative technologies or advance building methods. This is not surprising, it is important to remember that Schuylkill Yards is a real estate project at the end of the day. The project is not designed to spark smart cities innovation, it is designed to provide the highest margin of profit to its shareholders.
+**Is this an Innovation District or a Real Estate Project?**. A fundamental part of this atlas is to curate projects that would be considered “Smart City Districts”. Schuylkill Yards, could be argued, sits on the fence between an innovation district and just another real estate project. Although the scale of the project is beyond anything the city has experienced in the past few decades, the project itself does not explicitly push innovative technologies or advance building methods. This is not surprising, it is important to remember that Schuylkill Yards is a real estate project at the end of the day. The project is not designed to spark smart cities innovation, it is designed to provide the highest margin of profit to its shareholders.
 
 ## References
 
@@ -144,5 +149,3 @@ The project itself is part of Philadelphia's revitalization over the past decade
 - Create a list by starting a line with `+`, `-`, or `*`
 - Sub-lists are made by indenting 2 spaces:
 - Very easy!
-
-
