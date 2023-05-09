@@ -1,7 +1,7 @@
 ---
 title: Schuylkill Yards
 description: Case study for Schuylkill Yards
-status: Draft
+status: Final
 author: Matthew Shen
 type: City District
 city: Philadelphia
@@ -9,7 +9,7 @@ country_code: USA
 centroid: [39.955457, -75.183871]
 year_start: 2016
 year_completed: 2036
-featured_image: ./bulletin-building.jpeg
+featured_image: ./media/DrexelSquareFitness-81_sky.jpg
 featured_alt: Bulletin Building
 featured_credit: Brandywine Realty Trust
 tags:
@@ -17,10 +17,8 @@ tags:
   - Redevelopment
   - Railroads
 geography: ./schuylkill-yards-usa.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography_caption: Optional Caption for the geographic information.
 ---
-
-![Alt Text / Image of Drexel Square, a outdoor plaza, with people practicing yoga](./media/cases/schuylkill-yards-usa/media/DrexelSquareFitness-81_sky.jpg "Brandywine Realty Trust")
 
 ## Overview
 
@@ -29,11 +27,11 @@ Schuylkill Yards is a mixed-use real estate development led by Brandywine Realty
 
 Currently, two buildings (Cira Centre and the Bulletin Building) and a mixed-use privately-owned public space ( Drexel Square) have been constructed. Brandywine Realty Trust plans to build an additional six buildings, along with a plaza space known as the Grove, and a shared street along JFK Boulevard.
 
-The project is part of the University City district in West Philadelphia. It is bordered by city's main transit hub (30th Street Station) and Drexel University.
+The project is part of the University City district in West Philadelphia. It is bordered by the city's main transit hub (30th Street Station) and Drexel University.
 
 The current timeline has a building in the development being completed in 2023, 2024, and 2025. The project plans to be completely finished in the third quarter of 2025.
 
-The project itself is part of Philadelphia's revitalization over the past decade. During the latter half of the 20th century, the city was in decline. A large portion of the medium and high-income residents moved out to the suburbs. Along with them, most of the major corporations also relocated; however, since the 2000s, Philadelphia has seen an economic resurgence. Major telecommunication companies built massive new offices, Drexel and the University of Pennsylvania have heavily invested in attracting biotechnology companies to the area, and a big group of chemical companies moved their business offices from Delaware, where most of the chemical plants were located, to Philadelphia.
+The project itself is part of Philadelphia's revitalization over the past decade. During the latter half of the 20th century, the city was in decline. A large portion of the medium and high-income residents moved out to the suburbs. Most of the major corporations also relocated; however, since the 2000s, Philadelphia has seen an economic resurgence. Major telecommunication companies built massive new offices, Drexel and the University of Pennsylvania have heavily invested in their campuses, and many biotech startups have begun placing roots around the major hospitals.
 
 ## Key Characteristics
 
@@ -46,26 +44,36 @@ The project itself is part of Philadelphia's revitalization over the past decade
 
 **Joint University Implementation**.  One of the biggest advantages of this project is that the land being developed is mostly owned by Drexel University. The university has a vested interest in developing the area surrounding its campus. As a result, the project has avoided many of the hurdles normally associated with such a large real-estate project. Additionally, the University's backing has allowed for the project to be oriented towards an innovation focus. Tenants will have the opportunity to work closely with existing research and development programs at Drexel. 
 
-![Alt Text / photo of Drexel University building](./cases/schuylkill-yards-usa/media/Drexel_University_Main_Campus_-_panoramio.jpg "Wikimedia Commons")
+![Alt Text / photo of Drexel University building](./media/Drexel_University_Main_Campus_-_panoramio.jpg "Wikimedia Commons")
 
 ## Goals and Aspirations
 
 <!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
 
-**Expand Philadelphia's Innovation Ecosystem**.  Schuylkill Yards has been an important part of Philadelphia's Revitalization. From a governance standpoint, a major goal of the project is to attract Life Science companies to move to the city and provide high paying jobs for the city.
+**Expand Philadelphia's Innovation Ecosystem**.  Schuylkill Yards will likely be an important part of Philadelphia's Revitalization. Due to the investment made by both the University of Pennsylvania and the Children’s Hospital of Philadelphia, the city has become a center for medical research and development. From a governance standpoint, a major goal of the project is to attract Life Science companies to move to the city and provide high paying jobs. 
 
-**An Untapped Profit Source**. As Philadelphia begins to fill in, real-estate development has become more and more difficult. By redeveloping parking lots and abandoned buildings, Brandywine Realty Trust is going to be able to profit enormously. Once completely constructed the project will also increase Brandywine Realty Trust's portfolio by nearly 33%.
+**An Untapped Profit Source**. As Philadelphia begins to fill in, real-estate development has become more and more difficult. By redeveloping parking lots and abandoned buildings, Brandywine Realty Trust is going to be able to massively increase the land value of the project site. From a transit standpoint the area is already ideal, but with the construction of the project Brandywine will have a major foothold in the residential and commercial markets.
 
-**University Development**.  Over the past decade Drexel has changed from a small "work experience" based college to a major national university. Drexel increased its student enrollment, expanded its campus construction, and added a medical school and law school. Despite all this, Drexel has struggled to decrease its acceptance rate or increase its ranking. A major goal for Drexel is to use this real-estate development as an incubator for life science and feed graduates into companies being housed at Schuylkill Yards.
+**University Development**.  Over the past decade Drexel has changed from a small "work experience" based college to a major national university. Drexel increased its student enrollment, expanded its campus construction, and expanded its existing professional graduate programs. Despite all this, Drexel has struggled to decrease its acceptance rate or increase its ranking. A major goal for Drexel is to use this real-estate development to increase its research output and therefore its rankings.
 
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
 **Healthy Work Environment for a post-COVID world**. This project was originally started prior to the COVID-19 pandemic. During the pandemic construction methods and materials were adjusted to minimize infection rates. These changes carried over to the final design of all the buildings. Additions include a premium MERV-13 Filtration, antimicrobial finishes, touchless locks, 24/7 HVAC operations, and destination dispatch elevators.  Many of these buildings were already designed for wet laboratories so they included a high performance VAV system, supplemental condenser water, critical high intensity cooling areas (backed up by generator), optimized fresh air intake, and space designated for clean rooms.
 
-**LEED Platinum Certification**.  The project currently plans on having at least one of the new buildings have a Leadership in Energy and Environmental Design (LEED) certification. LEED is a certification that rates the environmental sustainability of a building. Schuylkill Yards has promised a climate response design that includes advanced solar control and a reduction in potable water usage.
+**LEED Platinum Certification**.  The project currently plans on having at least one of the new buildings have a Leadership in Energy and Environmental Design (LEED) certification. LEED is a certification that rates the environmental sustainability of a building. One of the main goals of the project is to include at least one Platinum certified building.
 
-**JFK Blvd Esplanade**.  A defining part of the project is the network of greenspaces being constructed. An important part of the project is using these interconnected greenspaces to allow pedestrians to move across the entire neighborhood. The crux of these greenspaces is the JFK Blvd Esplanade. This is a stretch of road that is unsignalized, unmarked, and is designed to have cars, pedestrians and bikes at the same time.
+To achieve this certification Schuylkill Yards has promised a climate response design that includes advanced solar control. This system would dynamically change the facades to maximize thermal insulation. For example, when the internal building temperature needs to be cooled the facades can adjust and provide more shade.
+
+Another promise is the reduction in the amount of potable water being used in the building. It is likely that this will be achieved through storm water capture and greywater recycling.
+
+**JFK Blvd Esplanade**.  A defining part of the project is the network of greenspaces being constructed. These interconnected greenspaces should allow pedestrians to move across the entire neighborhood on foot. The unified greenspaces will also create a campus-like feel to the project site.
+
+The crux of these greenspaces is the JFK Blvd Esplanade. This stretch of road is modeled off the chaotic streets of southeast asia. The general concept is that chaotic road traffic does not necessarily result in traffic congestion. Many plazas in southeast asia house multiple modes of transit with no signalization or markings, yet people still manage to flow through them with minimal accidents.
+
+Schuylkill Yards plans to take this concept and redevelop JFK Blvd. This stretch of road will have the same grade elevation for vehicles and pedestrians. Vehicles will be expected to yield to pedestrians without any signals or markings.
+
+This project could be potentially interesting for autonomous vehicle development. The chaotic roadway would serve as an interesting challenge for all autonomous vehicles as they attempt to navigate an anarchical roadway.
 
 
 ## Stakeholders
@@ -75,32 +83,37 @@ The project itself is part of Philadelphia's revitalization over the past decade
 
 **Transit Agencies**.  [Amtrak](https://www.amtrak.com/home.html), [SEPTA](https://www5.septa.org/), and [NJ Transit](https://www.njtransit.com/) have a stake in Schuylkill Yards. All three agencies have offices at 30th Street Station. 30th Street Station is Amtrak’s third busiest station. For SEPTA, 30th Street Station is one of three major Philadelphia stations. For NJ Transit, 30th Street Station is the only heavy rail terminal in Pennsylvania.  
 
+![Alt Text / photo of 30th street station with an American Flag projected onto the facade](./media/30th_Street_Station_Philadelphia_July_2016_002_edit.jpg "Wikimedia Commons")
+
+
 **Universities**.  [Drexel University](https://drexel.edu/) has been an obvious partner in the Schuylkill Yards project. Most of the land that is part of Schuylkill Yards is still owned by the University. Drexel also has a major interest in seeing the city as a whole further develop. [The University of Pennsylvania](https://www.upenn.edu/) (UPenn) has a similar interest in the development of Schuylkill Yards. UPenn’s proximity to the project allows for cross collaboration between University researchers and companies at Schuylkill Yards.  
 
 **Healthcare**.  Due to the life science specialization of Schuylkill Yards the existing medical research centers are important stakeholders. There are two major destination hospitals in Philadelphia. The first is the [Hospital at the University of Pennsylvania](https://www.pennmedicine.org/for-patients-and-visitors/penn-medicine-locations/hospital-of-the-university-of-pennsylvania) (HUP). The second is the [Children’s Hospital of Philadelphia](https://www.chop.edu/) (CHOP). Both of these hospitals also have extensive research divisions that will likely coordinate with companies at Schuylkill Yards.  
 
-**University City District**.  Schuylkill Yards is part of the [University City District](https://www.universitycity.org/) (UCD). UCD is a joint economic development council. The organization works similarly to a business improvement district, but it does not hold the same designation because UCD also represents non-profits and universities. 
+**University City District**.  Schuylkill Yards is part of the [University City District](https://www.universitycity.org/) (UCD). UCD is a joint economic development council. The organization works similarly to a business improvement district, but it does not hold the same designation because UCD also represents non-profits and universities. The UCD famously runs the Loop through University City (LUCY) shuttle that provides service around West Philadelphia including Schuylkill Yards.
+
+![Alt/Text / photo of plaza between Penn Medicine and the Children's Hospital of Philadelphia](./media/PennMed&CHOPQuadSpring2013.jpg)
 
 ## Leadership
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
-### Adriaan Geuze
-Adriaan is the founder of West 8. His team was responsible for designing Drexel Square as part of Schuylkill Yards. [LinkedIn](https://www.linkedin.com/in/adriaan-geuze-19199812b/)
+### [Adriaan Geuze](https://www.linkedin.com/in/adriaan-geuze-19199812b/)
+Adriaan is the founder of West 8. His team was responsible for designing Drexel Square as part of Schuylkill Yards.
 
 **Informal Integrated Communities**. One of the biggest challenges with many large scale business parks is the approachability of the site. Drexel Square is designed to soften Schuylkill Yards by providing an informal space for people to congregate. The hope is that the Square will help prevent Schuylkill Yards from becoming a corporate monolith.
 
-### Della Clark
-Della is the President of the Enterprise Center. The Enterprise Center aims to help promote economic development in West Philadelphia. They have specifically focused on providing resources for small businesses in the area. [LinkedIn](https://www.linkedin.com/in/della-clark-4973595/)
+### [Della Clark](https://www.linkedin.com/in/della-clark-4973595/)
+Della is the President of the Enterprise Center. The Enterprise Center aims to help promote economic development in West Philadelphia. They have specifically focused on providing resources for small businesses in the area. 
 
 **Localism to Globalism**. A key tenant of the Schuylkill Yards is to create a service economy surrounding the corporate economy within the office spaces. Many small business owners hope that the project will bring customers to support existing businesses.
 
-### Vishaan Chakrabarti
-Vishaan is the founder of Practice for Architecture and Urbanism (PAU).  PAU are the leader designers for the first phase of Schuylkill Yards[LinkedIn](https://www.linkedin.com/in/vishaan-chakrabarti-faia-a004b9113/)
+### [Vishaan Chakrabarti](https://www.linkedin.com/in/vishaan-chakrabarti-faia-a004b9113/)
+Vishaan is the founder of Practice for Architecture and Urbanism (PAU).  PAU are the leader designers for the first phase of Schuylkill Yards.
 
 **A New Downtown for America’s First City**. Schuylkill yards is uniquely positioned to fit the “walkable city” mantra. Within 20 minutes you can get to arts and culture (Philadelphia Art Museum), a central business district, regional transit(30th St Station), nature (Schuylkill River Parkway), educational institutions (Drexel & Penn), hospitals (HUP and CHOP).
 
-### James Timberlake
-James is a Partner at the Architecture firm Kieran Timberlake. His company was responsible for the renovation of the first building in Schuylkill Yards, the Bulletin Building. [LinkedIn](https://www.linkedin.com/in/james-timberlake-70bbb9/)
+### [James Timberlake](https://www.linkedin.com/in/james-timberlake-70bbb9/)
+James is a Partner at the Architecture firm Kieran Timberlake. His company was responsible for the renovation of the first building in Schuylkill Yards, the Bulletin Building.
 
 **Redeveloping an Icon**. The Bulletin building was originally designed by George Howe with iconic lettering across the facade. The building would degrade over time, but as part of the Schuylkill Yards it was renovated. The new design includes a glass facade with ceramic fit lettering that harkens back to the original text on the building.
 
@@ -108,18 +121,20 @@ James is a Partner at the Architecture firm Kieran Timberlake. His company was r
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
-**Qualified Opportunity Zone**. The objective of a Qualified Opportunity Zone is to allow for more investment in a distressed community through tax incentives. In Schuylkill Yards case, people who invest in tenants have the opportunity to defer taxes on any capital gains from the project until 2026. Also, if the person holds their investment for 10 years then no taxes are applied once sold.
+**Qualified Opportunity Zone**. The objective of a Qualified Opportunity Zone is to allow for more investment in a distressed community through tax incentives. This is a federal program run by the Internal Revenue Service (IRS) to improve development of impoverished communities. In the case of Schuylkill Yards, because the project site was originally a series of abandoned buildings and parking lots, it is classified as a Qualified Opportunity Zone. The project specifically pertains to any investment in companies that are housed within the zone.
+
+The zone allows for investors to decrease the amount of capital gains tax by 10% if they hold the investment for more than 5 years, and if the person holds their investment for 10 years then no capital gains taxes are applied once sold.
 
 **Keystone Opportunity Zone**. The Keystone Opportunity Zone is similar to the Qualified Opportunity Zone, but it is specific to Pennsylvania State and Philadelphia taxes.  Tenets have the opportunity to get Philadelphia tax abatements on business income & receipts, net profits, real estate, use and occupancy, and sales tax. They can also receive Pennsylvania abatements on corporate net income, personal income, bank and trust company share, sales and use, and mutual thrift institution taxes.
 
 ## Outcomes
 <!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
-**Outcome 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**An Enclosed Community**.  Many other life science based initiatives run into the problem of self isolation. This is usually a result of life science companies holding onto the notion that innovation can only occur at a lab bench. Due to the already isolated nature of the project site, we can expect similar problems to occur. It is likely that over time community engagement will decrease, and we may end up with an apocalyptic version of the 15 minute city.
 
-**Outcome 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**An Established Industry**.  Philadelphia has slowly been positioning itself to become the country’s center for medical research. The Hospital at the University of Pennsylvania’s advancements in proton therapy and immunology has made it a destination hospital. This success has spilled over to the rest of West Philadelphia. Over the next few years Schuylkill Yards will provide the capacity for biotech startups to move to the region and change the industrial landscape of the city.
 
-**Outcome 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**A Second Central Business District**.  It is quite rare for a city to have more than one central business district (CBD). Outside of New York City (which had four CBDs), most cities have a single downtown area with most of its commercial space. The creation of Schuylkill Yards could create a secondary competing district for Philadelphia. Although Schuylkill yards is close to Center City from a euclidean standpoint, the existence of the Schuylkill River is a major geographic barrier that separates West Philadelphia from Center City at an economic, political, and cultural scale. As a result, Schuylkill Yards will become an integral part of a new CBD for Philadelphia.
 
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
@@ -138,14 +153,30 @@ James is a Partner at the Architecture firm Kieran Timberlake. His company was r
 
 <!-- 3-5 project plans, audits, reports, etc. -->
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
+- [Brandywine Realty Trust](https://schuylkillyards.com)
+    - [Vision & Timeline](https://schuylkillyards.com)
+    - [General Brochure](https://schuylkillyards.com/sites/default/files/downloads/2022-03/Schuylkill%20Yards%20Brand%20Elevation%20Book%20-%202021_2.pdf)
+    - [Life Science Brochure](https://schuylkillyards.com/sites/default/files/downloads/2022-07/Brandywine%20Life%20Sciences%20-%20August2021%20Digital_3.pdf)
+    - [Retail Brochure](https://schuylkillyards.com/sites/default/files/downloads/2019-10/SY%20Gen%20Brochure%20Anchor%20Tenant%20CBRE%2020190911.pdf)
+    - [Bulletin Building](https://schuylkillyards.com/lease-space/bulletin-building-3025-market-street)
+    - [3025 JFK](https://schuylkillyards.com/sites/default/files/downloads/2023-02/3025%20JFK%20Brochure_Feb2023%20Web.pdf)
+    - [3151 Market](https://schuylkillyards.com/sites/default/files/downloads/2022-11/3151%20Market%20Brochure_OCT2022_WEB.pdf) 
+    - [3001 JFK](https://schuylkillyards.com/sites/default/files/downloads/2022-11/3151%20Market%20Brochure_OCT2022_WEB.pdf)
+- [Drexel University](https://drexel.edu/facilities/real-estate/schuylkill-yards/)
+- [West8](https://drexel.edu/facilities/real-estate/schuylkill-yards/)
+- [SHoP](https://www.shoparc.com/projects/schuylkill-yards/)
+
 
 ### Secondary Sources
 
 <!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
+- [Phillymag.com](https://www.phillymag.com/sponsor-content/schuylkill-yards-university-citys-biggest-boldest-project-yet/)
+- [Real Estate Weekly](https://rew-online.com/the-gotham-organization-and-brandywine-realty-trust-reveal-the-first-look-at-new-residential-project-avira-in-schuylkill-yards/)
+- [ArchDaily](https://www.archdaily.com/search/all?q=schuylkill%20yards&ad_source=jv-header)
+    - [Masterplan](https://www.archdaily.com/783648/shop-and-west-8-to-masterplan-philadelphias-schuylkill-yards?ad_source=search&ad_medium=projects_tab&ad_source=search&ad_medium=search_result_all)
+    - [JFK Towers](https://www.archdaily.com/923700/pau-reveals-new-jfk-towers-for-philadelphias-schuylkill-yards?ad_source=search&ad_medium=projects_tab&ad_source=search&ad_medium=search_result_all)
+    - [First Renders](https://www.archdaily.com/923700/pau-reveals-new-jfk-towers-for-philadelphias-schuylkill-yards?ad_source=search&ad_medium=projects_tab&ad_source=search&ad_medium=search_result_all)
+    - [SOM](https://www.archdaily.com/791628/som-designs-new-urban-district-around-philadelphias-30th-street-station)
+
+
