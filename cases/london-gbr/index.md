@@ -66,7 +66,7 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 
 **[Smart Mobility Living Lab (SMLL)](https://www.smartmobility.london/)**. The Smart Mobility Living Lab is a pioneering testing environment for connected and autonomous vehicles (CAVs) situated in Greenwich and the Queen Elizabeth Olympic Park. SMLL offers a unique real-world urban setting to trial and develop future mobility solutions, encouraging collaboration between automakers, technology providers, and researchers. This initiative promotes the safe and efficient integration of CAVs into London's transportation infrastructure, driving innovation in the mobility sector, and paving the way for a more sustainable, efficient, and accessible transportation system in the city.
 
-![Alt Text Autonomous vehicle greenwich/ ](./greenwich_autonomous_vehicle.jpeg "Spsmiler, CC0, via Wikimedia Commons")
+![Alt Text Autonomous vehicle Greenwich/ ](./greenwich_autonomous_vehicle.jpeg "Spsmiler, CC0, via Wikimedia Commons")
 
 
 **Civic Innovation Challenge:** This is a business support programme that matches startups with leading corporates and public organisations to solve some of London’s most pressing problems. The programme invites startups to propose innovative solutions to challenges such as reducing inequality, preventing climate change and supporting ageing population. The programme provides startups with funding, mentoring, testing opportunities and access to potential customers and partners. The programme also showcases the best ideas and solutions to a wider audience. The Civic Innovation Challenge aims to spur innovation from the tech sector and address social challenges in London.
@@ -153,6 +153,10 @@ What new indicators could we take a look at to measure the success and impact of
 
 **Open questions 3**.  
 How can Smart City plans ensure the continuity and long-term sustainability of its programs and initiatives, given the potential for shifts in political leadership and changing priorities
+
+**Open questions 4**
+What would a top-down smart city plan, like the Hangzhou smart city plan, look like if implemented in London, a city that, in contrast, centers on the opinions and ideas of locals (e.g., the Listening Tour)? Conversely, how would the Smarter London Together plan appear if applied in a city like Hangzhou?
+
 
 ## References
 
