@@ -1,14 +1,14 @@
 ---
-title: Case Study Template
+title: Case Study Houston—Ion District
 description: Lorem ipsum dolor sit amet
 status: Draft
-author: Your Name
+author: Haiyue Xi
 type: example
-city:  
-country_code: 
-centroid: [40.712778, -74.006111]
-year_start: 2012
-year_completed: 2018
+city: Houston
+country_code: USA
+centroid: [29.749907, -95.358421]
+year_start: 2019
+year_completed: 2021
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
 featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)
@@ -37,7 +37,6 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 **Characteristic 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
-
 ## Goals and Aspirations
 
 <!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
@@ -58,7 +57,6 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 **Technology Intervention 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->

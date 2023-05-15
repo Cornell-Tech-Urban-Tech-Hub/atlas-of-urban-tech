@@ -1,12 +1,12 @@
 ---
-title: Case Study Template
-description: Lorem ipsum dolor sit amet
+title: Smart City Bhopal
+description: A research study of Bhopal Smart City plan 
 status: Draft
-author: Your Name
+author: Sourabh Singh
 type: example
-city:  
-country_code: 
-centroid: [40.712778, -74.006111]
+city: Bhopal 
+country_code: IND 
+centroid: [23.2599, 77.4126]
 year_start: 2012
 year_completed: 2018
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg

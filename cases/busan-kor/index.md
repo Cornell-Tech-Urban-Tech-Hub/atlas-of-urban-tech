@@ -1,14 +1,14 @@
 ---
-title: Case Study Template
-description: Lorem ipsum dolor sit amet
+title: Case Study Busan Eco-Delta City
+description: The Busan Eco Delta City is an 11.8 square kilometer development project located in Gangseo-gu, Busan. Its development began in 2012 and is scheduled to be completed in 2023. The project's main objective is to provide a variety of services, including housing commerce, research and development, logistics, and more, to its target population of 76,000 people or 30,000 households. This project is being initiated jointly by Busan Metropolitan City, K-water, and Busan Metropolitan Corporation.According to the New York Times, Busan Eco Delta City is also known as the Busan Eco Delta Smart City. The city was designed to be smart from the outset and was announced as a pilot project in 2018. With cutting-edge technology such as robots, augmented reality, and artificial intelligence, the community plans to provide residents with greater convenience.
 status: Draft
-author: Your Name
+author: Haiyue Xi
 type: example
-city:  
-country_code: 
-centroid: [40.712778, -74.006111]
+city: Busan
+country_code: KOR
+centroid: [35.166668, 129.066666]
 year_start: 2012
-year_completed: 2018
+year_completed: Under Constrcution
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
 featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)
@@ -31,12 +31,10 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Characteristic 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
-
+**Characteristic 1**.  Innovation
 **Characteristic 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
 **Characteristic 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
-
 
 ## Goals and Aspirations
 
@@ -58,7 +56,6 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 **Technology Intervention 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
