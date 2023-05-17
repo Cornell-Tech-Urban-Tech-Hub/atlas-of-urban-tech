@@ -1,14 +1,14 @@
 ---
 title: Zaragoza Milla Digital
-description: My Awesome Case Study
+description: Case Study of the Digital Mile Project located in Zaragoza, Spain.
 status: Draft
 author: Michele Chen
 type: case
-city: New York
-country_code: US
+city: Zaragoza
+country_code: ES
 centroid: [41.656841, -0.879420]
-year_start: 2012
-year_completed: 2018
+year_start: 2005
+year_completed: N/A
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
 featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)
