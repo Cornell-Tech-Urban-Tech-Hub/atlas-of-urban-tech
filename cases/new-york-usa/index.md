@@ -31,9 +31,9 @@ The New York City's Internet of Things (IoT) Strategy is a comprehensive bluepri
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Development**.  In 2015, NYC CTO published a foundational report entitled “Building a Smart + Equitable City,” which included ten case studies about how IoT can help improve government services and better the lives of all New Yorkers. This document was the first to highlight IoT projects undertaken by the City.
+In 2015, NYC CTO published a foundational report entitled “Building a Smart + Equitable City,” which included ten case studies about how IoT can help improve government services and better the lives of all New Yorkers. This document was the first to highlight IoT projects undertaken by the City.
 
-In 2016, NYC CTO developed a “framework to help government and our partners responsibly deploy connected devices and IoT technologies in a coordinated and consistent manner.” Through wide-ranging engagements with stakeholders from the public sector, private sector, and academia, as well as a survey of government agencies across the world, NYC CTO identified more than 450 best practices for IoT use. These findings were distilled into a set of “Guidelines for the Internet of Things” for New York City to follow. These Guidelines have provided a foundation for the IoT initiatives New York City has in place today, and for the updated principles and recommendations outlined in the NYC IoT Strategy.  
+In 2016, NYC CTO conducted a wide-ranging engagements with stakeholders from the public sector, private sector, and academia, as well as a survey of government agencies across the world and identified more than 450 best practices for IoT use. These findings were distilled into a set of “Guidelines for the Internet of Things” for New York City to follow. 
 
 Since 2018, NYC CTO has partnered with City agencies to implement an array of pilot projects, initiatives, and stakeholder engagements that have also informed the IoT Strategy. 
 
@@ -72,7 +72,7 @@ It is also essential to optimize coordination among entities involved in IoT eff
 ![Alt Text / Responsive Traffic Management](./dep-water-meters.jpeg "Responsive Traffic Management")
 
 
-**Responsive Traffic Management**. New York City has 6,000 miles of streets which are used by more than 5,000 public buses, 13,000 yellow taxis, 60,000 for-hire vehicles, and millions of commuters daily. Midtown in Motion is a technologyenabled traffic management system that uses real-time traffic information from a variety of sources, such as microwave sensors, traffic video cameras and EZPass readers to gather traffic flow information to monitor and respond to various traffic conditions. 
+**Responsive Traffic Management**. New York City has 6,000 miles of streets which are used by more than 5,000 public buses, 13,000 yellow taxis, countless vehicles, and millions of commuters daily. Midtown in Motion is a technologyenabled traffic management system that uses real-time traffic information from a variety of sources, such as microwave sensors, traffic video cameras and EZPass readers to gather traffic flow information to monitor and respond to various traffic conditions and strategically adjust the green light time to optimize the transportation efficiency. 
 
 ![Alt Text / Responsive Traffic Management](./traffic-mgmt.jpeg "Responsive Traffic Management")
 
@@ -117,7 +117,7 @@ It is also essential to optimize coordination among entities involved in IoT eff
 
 **Build a Connected City**.  All resident in the city deserves equal access to be part of the connected city, this includes access to affordable high-speed internet, digital devices and servicesm and ensure they can take advatage of the benefits provided by the digital economy and society. The goal of providing equal access to the digital economy and society is important because it can create more job opportunities, enhance educational experiences, and improve access to services for all residents of New York City. 
 
-**Harness the Power of Data**.  One of the important goals of NYC IoT strategy is to promote data sharing across City agencies and with the public. 
+**Harness the Power of Data**.  One of the important goals of NYC IoT strategy is to promote data sharing across City agencies and with the public. It enables organizations to gain valuable insights, make informed decisions, improve operational efficiency, enhance customer experiences, and drive innovation. 
 
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
