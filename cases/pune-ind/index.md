@@ -23,7 +23,7 @@ geography_caption: Optional Caption for the geograhic information.
 
 <!-- About 100 to 150 word summary of the case study. -->
 
-Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. 
+The Smart Cities Mission of India was a key offering of the Indian government. Launched by the Ministry of Housing and Urban Affairs, it has been instrumental in facilitating communication and resource sharing between different parts of the Indian government to achieve better living standards for Indians in 100 cities across the country. For this case study, I'll be focusing on Pune, the second largest city in the State of Maharashtra. It is a major urban center, and faced challenges with inadequate infrastructure and environmental concerns owing to its rapid urbanization. Under the mission, the Pune Municipal Corporation (PMC) implemented various initiatives to address these issues. Through the use of technology, IoT and Data Analytics, the city has improved its transport, waste management, healthcare offering and digital governance.
 
 
 ## Key Characteristics
@@ -31,11 +31,13 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Characteristic 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Infrastructure**.  The Smart City mission in Pune has focused on upgrading and modernizing its infrastructure. The city has made investments into improving roads, transportation systems and utilities. An example of this is the development of the Between the Road Transport System (BRTS) for public bus transportation. Other initiatives include the integration of IoT based systems for intelligent traffic management, waste management and to optimize resource utilization.
 
-**Characteristic 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
 
-**Characteristic 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Digital Connectivity**.  The city is a major center of IT in the State. It thus recognizes the importance of digital connectivity to enable smart-solutions. In order to provide widespread access to high-speed internet, the city has established Wi-Fi hotspots in public areas to create a digital infrastructure that supports the implementation of smart technologies. This has empowered the citizens to make use of the applications that the city runs, such as e-governance platforms. The initiative works in close tandem with the Ministry of Electronics and Information Technology. 
+
+
+**Citizen Engagement and Participation**.  Pune places a significant emphasis on its citizen engagement and participation. The city has implemented various channels to empower citizens to make their voice heard. Through mobile apps (Pune Connect), social media channels and community outreach programs, citizens can provide inputs to decision making, report issues and actively participate in the development of their neighborhood. 
 
 
 ## Goals and Aspirations
