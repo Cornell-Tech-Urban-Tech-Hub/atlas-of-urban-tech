@@ -140,6 +140,15 @@ Education and research nstitutions are an important stakeholder of Masdar City. 
 
 [MIT and Masdar Institute Cooperative Program](https://web.mit.edu/mit-mi-cp/)
 
+## Leadership
+<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->
+
+**1. Name of Interviewee.**
+For this study, I have reached out to Masdar City's Digital Marketing Office, Free Zone Office, and official accounts on social media (including Facebook and Instagram). I have also reached out to different individuals on LinkedIn, such as the Director of Growth, the Associate Director of Sustainability and CSR, and the Head Of Engineering. However, so far I received no response. 
+
+**2. Insight.** 
+Based on research on finding project leaders for my interview, one observation is that there is gender imbalance within Masdar City's leadership. The majority of project leaders are men, indicating that there is limited space for female professionals to lead and participate in the city project. This observation was further consolidated by reports that Masdar City confirms the gender imbalance and agrees to involve more females in designing and building the city[1, 3].
+
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. --->
 
