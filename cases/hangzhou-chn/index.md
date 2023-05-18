@@ -1,6 +1,6 @@
 ---
 title: Hangzhou City Brain
-description: Developed by Chinese tech company Alibaba Group, the Hangzhou City Brain utilizes artificial intelligence and data collection for urban management.
+description: Developed by the Chinese tech company Alibaba Group, the Hangzhou City Brain utilizes artificial intelligence and data collection for urban management.
 status: Draft
 author: Ken He
 type: Masterplan
@@ -19,94 +19,116 @@ tags:
   - Smart Waste Management
   - Smart Transporation
 geography: ./example.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography_caption: Optional Caption for the geographic information.
 ---
 
 ## Overview
 
-<!-- About 100 to 150 word summary of the case study. -->
-
-Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. 
+The Hangzhou Municipal Government has created the Hangzhou City Brain (HCB), a comprehensive platform for big data, to improve the management and delivery of public infrastructure services. This Hangzhou smart city project links numerous government databases to act as a centralized database and also connects to many real-time data sources, such as traffic lights. With the help of AI technology, the HCB gathers and processes billions of data records, with new records being added on a daily basis. This allows city administrators with AI co-pilots to make informed decisions in real-time and stay updated on the city's operations. Additionally, to foster the development of smart city operations, approved projects can access this part of the database to address the city’s pressing issues.
 
 
 ## Key Characteristics
 
-<!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
--->
 
-**Characteristic 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Comprehesive Project**. 
+This is a comprehensive project that aims to encompass every possible application of smart city projects. Some projects might just focus on sustainability, and some other projects might focus on IOT deployment. This Hangzhou project touches on areas from traffic management to business license issuance.
 
-**Characteristic 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Government-led Development Approach**.  
+The process of designing and implementing this project is a heavily top-down approach. The pressure to start this project starts from the national level where the decision party agrees that digitalization is a way to continue the modernization of the country. Then, the implementation trickles down to the provincial level, and later to the city level in which Hangzhou is in.
 
-**Characteristic 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
-
+**One Tech Vendor**.  
+Close cooperation with mainly one technology vendor. The vibrant technology scene in Hangzhou is often attributed to Alibaba, which has its headquarters in Hangzhou. In this project, Alibaba is the powerhouse of the technology from data platforms to advance analytics algorithm that enables all the smart city application.
 
 ## Goals and Aspirations
 
-<!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
 
-**Goal 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. 
+**Centralization of Data**. In one city, different data is stored in different government departments, such as transportation or commerce. Hangzhou Smart Brain aims to concentrate all the data in one database. 
 
-**Goal 2**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Digitalization of Government Service**. The inefficiency of the government service has been a headache for both the citizen and the government. In some instances, to get a business license, a citizen might need to head different governmental departments many times. The project aims to streamline the process.
 
-**Goal 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Digitalization of physical infrastructure**. The digitalization of physical infrastructure increases the efficiency of running the city. For example, digitalizing physical infrastructure like traffic lights using IoT enhances traffic management, reduces congestion, improves public safety, and informs urban planning decisions through data analysis.
 
 
 ## Technology Interventions
-<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. --->
 
-**Technology Intervention 1**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Smart Traffic **.
+Hangzhou's smart traffic management system, popularly known as the "City Brain," has been launched to improve urban traffic control through the use of AI and big data. The system collects real-time data from various sources such as traffic lights, cameras, and vehicle GPS systems to monitor and manage the flow of traffic. With its intelligent algorithms, the system can adjust traffic light timings to reduce congestion, identify optimal routes for emergency vehicles, and even detect traffic violations. This advanced technology is expected to contribute significantly to creating a safer and more efficient urban environment.
 
-**Technology Intervention 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Digitalziation of Governement Service**. 
+The centralization of the database serves as the foundation for digitalizing government services. When the data is siloed between departments, a citizen might need to visit many different departments to get verification and approval for a simple task. With the centralization of data, every department has the required data to help citizens accomplish the task without sending them to other departments.
 
-**Technology Intervention 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**COVID-19 Health Code**.
+ Because of the pre-existing technology foundation, including IoT, computing centers, and government apps, Hangzhou quickly rolls out the Health Code application to manage the spread of the COVID-19 virus within a few months of the outbreak. Though controversial, the application played a central role during the pandemic control from 2020 to 2022.
 
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
+![Alt Text / Smart City Traffic Management](./smart_traffic.jpg)
+
 
 ## Stakeholders
-<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
 
-**Stakeholder 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+**Government**. 
+Government plays a leading role in proposing the main goals of the project and coordinating different parties involved.
 
-**Stakeholder 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+ [Hangzhou Government](http://www.hangzhou.gov.cn/)
 
-**Stakeholder 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+**Alibaba**. 
+As the main technology vendor of the city, Alibaba helps implement Hangzhou Smart Brain. After the onset of the project, the Hangzhou government and Alibaba established a joint venture to handle the development.
+
+[Alibaba Cloud](us.alibabacloud.com)
+
+**Citizen**. 
+Citizens are the primary users and beneficiaries of the improved public services and quality of life these initiatives offer. Their feedback, engagement, and adoption of new technologies are crucial for the success and sustainability of smart city transformations.
+
 
 ## Leadership
-<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->
 
-**Name of Interviewee**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [LinkedIn](https://www.markdownguide.org/basic-syntax/)
+**Name of Interviewee**. 
 
-**Insight 1**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+Personnel involved in implementing the smart traffic system. Preferred not to disclose.
 
-**Insight 2**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Less Congestion**.
+ Traffic congestion improved significantly after the implementation of the system. During the most congested time, the city often sends police standing under the light to manage the traffic flow. Now, the traffic camera + AI can take this tedious task off the shoulder of police officers.
 
-**Insight 3**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Emergency Vehicle**. 
+With the remote control of the traffic light, the efficiency of emergency vehicles, such as ambulances and fire trucks increased drastically. The algorithm can optimize the traffic turning to ensure that those vehicles are not blocked by red lights.
+
+**Future Possible Application**. 
+With the smart infrastructure in place, the Smart City Brain can be employed to tackle other issues other than traffic congestion. One possible solution is the share the data with a logistics company to allow e-commerce firms to provide a better shipping experience.
 
 
 ## Financing
-<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. --->
 
-**Financing Scheme**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+
+The funding comes from the infrastructure spending budget of the Hangzhou. For the last decades, infrastructure development is a major task of the government. As the building of physical infrastructure construction nears completion, the marginal benefit of continued investment in physical infrastructure decreases. Then, the government looks to smart infrastructure to continue the development of the city. 
 
 
 ## Outcomes
-<!--- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. --->
 
-**Outcome 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
 
-**Outcome 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Congestion Improvement**. 
+After the deployment of the smart traffic management system, the congestion issues in China improved significantly. The system can react to real-tier traffic and other accident information to optimize light signaling. Before the implementation of the system, Hangzhou was the 5th most congested city in China. After the implementation, Hangzhou dropped to 57th on the list.
 
-**Outcome 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+
+**Streamlining of Governmental Services**.  
+During the first version of the Hangzhou Smart Brain plan, the goal is to accomplish any task, citizen only needs to approach any government’s physical office once. The slogan was “Only Once”. Now, over close to 97% of the tasks were completed with only one visit to the physical location. However, a new goal was made, which is deemed “Not Even Once”. It means that citizens should be able to accomplish the most task without visiting the physical office because of the mass adoption of smartphones.
+
+
+**Hosptial Management**. 
+Long wait time in Hospital has been a big problem for a citizen to receive timely treatment and experience a pleasant experience. Long queues and long processing times in making payments were identified as the bottleneck. One of the sub-project of Hangzhou smart brain is to 
+
 
 ## Open Questions
-<!--- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. --->
 
-**Open questions 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
 
-**Open questions 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Top-down vs. Bottom-up Planning**
+ Different cities went on different routes to finalize their planning. Some heavily consult the citizen in the early process, while other governments identify the most pressing issues in the city and address them with the newest technology.
 
-**Open questions 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+
+**Efficiency vs. Privacy**. 
+Centralization of data serves as the foundation for the project. While this centralized database has enabled numerous highly useful applications, the privacy and security of personal data have come into question. 
+
+**Equity**. 
+Without public active engagement during the process of designing, planning, and implementing, the smart city project needs to put other mechanisms in place to ensure minorities are protected.
+
 
 ## References
 
@@ -114,16 +136,17 @@ Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dol
 
 ### Primary Sources
 
-<!-- 3-5 project plans, audits, reports, etc. --->
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
+- http://www.hangzhou.gov.cn/art/2017/8/14/art_1302334_4128.html
+- http://www.hangzhou.gov.cn/art/2021/10/18/art_1229541463_3946897.html
+- https://www.cityos.com/home
+- http://www.hangzhou.gov.cn/art/2023/4/1/art_812258_59077535.html
 
 ### Secondary Sources
 
-<!-- 5-7 secondary source documents: news reports, blog posts, etc.. --->
+-https://www.ourchinastory.com/zh/4614/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%EF%BD%9C%E6%9D%AD%E5%B7%9E%E9%A6%96%E5%89%B5%E3%80%8C%E5%9F%8E%E5%B8%82%E5%A4%A7%E8%85%A6%E3%80%8D%20%E6%9C%89%E4%BD%95%E7%A5%9E%E5%A5%87%E4%B9%8B%E8%99%95%EF%BC%9F
+- https://hznews.hangzhou.com.cn/chengshi/content/2017-11/20/content_6719481_0.htm
+- http://m.cnr.cn/news/20170529/t20170529_523777609.html
+- https://ongloballeadership.com/f/hangzhou-a-smart-city-practice
+- http://www.ehangzhou.gov.cn/2020-10/23/c_275749.htm
+- https://www.cnn.com/2019/01/15/tech/alibaba-city-brain-hangzhou/index.html
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
