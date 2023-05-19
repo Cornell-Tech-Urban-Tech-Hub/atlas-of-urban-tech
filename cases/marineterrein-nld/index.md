@@ -25,7 +25,7 @@ geography_caption: Optional Caption for the geograhic information.
 
 <!-- About 100 to 150 word summary of the case study. -->
 
-The Marineterrein, situated in the vibrant heart of Amsterdam, the Netherlands, is an emerging hub of innovation and urban development. Once serving as a military base, this area has become an exhilarating community that doubles as a living laboratory for urban technology and sustainability. As a shining example of a New Century City, the Marineterrein district manifests several unique aspects that distinguish it from typical urban surroundings. This case study delves into how the innovation district in the centre of Amsterdam incorporates adaptability, sustainability, technological innovation, collaboration, and inclusivity as its guiding principles.
+The Marineterrein, situated in the heart of Amsterdam, the Netherlands, is an emerging hub of innovation and urban development. Once serving as a military base, this area has become an exhilarating community that doubles as a living laboratory for urban technology and sustainability. As a shining example of a New Century City, the Marineterrein district manifests several unique aspects that distinguish it from typical urban surroundings. This case study delves into how the innovation district in the centre of Amsterdam incorporates adaptability, sustainability, technological innovation, collaboration, and inclusivity as its guiding principles.
 
 
 ## Key Characteristics
@@ -88,7 +88,7 @@ Respyre is determined to convert dull grey concrete into a green, cooling oasis.
 ## Leadership
 <!-- Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
-**Tom Benson**.  MIT Senseable City Lab Research & Business Manager focused on analyzing the built environment to enhance social and economic opportunities. Co-founder of Senseable Amsterdam Lab, researching science-based methods for Amsterdam's transition to a carbon-neutral city with potential global impact. [LinkedIn](https://www.linkedin.com/in/tbenson1/)
+**Tom Benson**. MIT Senseable City Lab Research & Business Manager focused on analyzing the built environment to enhance social and economic opportunities. Co-founder of Senseable Amsterdam Lab, researching science-based methods for Amsterdam's transition to a carbon-neutral city with potential global impact. [LinkedIn](https://www.linkedin.com/in/tbenson1/)
 
 **Insights are WIP ⏱**.  
 
@@ -100,13 +100,13 @@ Respyre is determined to convert dull grey concrete into a green, cooling oasis.
 
 ## Outcomes
 
-**Innovation Ecosystem**. Marineterrein Amsterdam has become a crazy creative cradle, nurturing an innovation ecosystem. All sorts of organizations, startups, researchers, and entrepreneurs have made this their home base, creating a melting pot of creativity and invention. This collective spirit has carved out a path for sharing ideas, building partnerships that cut across sectors, and cooking up cool, new solutions to tackle city problems.
+**Innovation Ecosystem** Marineterrein Amsterdam has become a crazy creative cradle, nurturing an innovation ecosystem. All sorts of organizations, startups, researchers, and entrepreneurs have made this their home base, creating a melting pot of creativity and invention. This collective spirit has carved out a path for sharing ideas, building partnerships that cut across sectors, and cooking up cool, new solutions to tackle city problems.
 
-**Living Lab**. Marineterrein Amsterdam didn't just build a living lab; they envisioned a sandbox of sustainable urban growth. Imagine a playground where state-of-the-art technologies, infrastructures, and initiatives are free to evolve and improve. We're talking renewable energy advancements, smart mobility tech, circular economy systems, even sustainable building designs, all striving for a cleaner and more resilient city.
+**Living Lab** Marineterrein Amsterdam didn't just build a living lab; they envisioned a sandbox of sustainable urban growth. Imagine a playground where state-of-the-art technologies, infrastructures, and initiatives are free to evolve and improve. We're talking renewable energy advancements, smart mobility tech, circular economy systems, even sustainable building designs, all striving for a cleaner and more resilient city.
 
-**Social (and fun!)**. During all months there are great activities for everyone, but also to enjoy the sun, swim and eat/drink. Being at the Marineterrein feels alive. You are close to innovation but can also do whatever you want since you are in the heart of Amsterdam.
+**Social (and fun!)** During all months there are great activities for everyone, but also to enjoy the sun, swim and eat/drink. Being at the Marineterrein feels alive. You are close to innovation but can also do whatever you want since you are in the heart of Amsterdam.
 
-** Talent Time** Marineterrein has proven to be an ideal platform for cultivating talent in various sectors, focusing on technology, entrepreneurship, and innovation. The district provides ample opportunities for skill enhancement, knowledge dissemination, and professional growth through comprehensive educational programs, collaborative research projects, and robust startup incubation support. Thus, Marineterrein is crucial in nurturing the next generation of leaders and innovators.
+**Talent Time** Marineterrein has proven to be an ideal platform for cultivating talent in various sectors, focusing on technology, entrepreneurship, and innovation. The district provides ample opportunities for skill enhancement, knowledge dissemination, and professional growth through comprehensive educational programs, collaborative research projects, and robust startup incubation support. Thus, Marineterrein is crucial in nurturing the next generation of leaders and innovators.
 
 ## Open Questions
 
