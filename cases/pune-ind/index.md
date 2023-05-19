@@ -61,27 +61,30 @@ The Smart Cities Mission of India was a key offering of the Indian government. L
 
 **E-governance Framework**.  Pune emphasizes the successful implementation of a robust e-governance framework. This intervention aims to digitize government services and processes, facilitate easy and transparent delivery of public services. By using technology, citizens can access various government services online, including payment of taxes, obtaining licenses and accessing information. It streamlines the administrative procedure, reduces bureaucracy and promotes citizen participation.
 
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
-**Pune Municipal Corporation (PMC):**. The PMC is the governing body responsible for the administration and management of Pune City. It is the leading agency for planning, implementing and managing the various projects and initiatives for the smart cities missions.  [Organization Name](https://www.markdownguide.org/basic-syntax/)
+**Pune Municipal Corporation (PMC):**. The PMC is the governing body responsible for the administration and management of Pune City. It is the leading agency for planning, implementing and managing the various projects and initiatives for the smart cities missions.  [PMC Homepage](https://pmc.gov.in/)
 
-**Pune Smart City Development Corporation Limited (PSCDCL):**.  The PSCDCL is a special purpose vehicle created to execute the smart city projects in Pune. It works with different stakeholders, including the government agencies, private sector partners, and citizens to drives the vision.  [Organization Name](https://www.markdownguide.org/basic-syntax/)
+![Alt Text / Pune Municipal Corporation](./Pune-Municipal-Corporation-PMC-Recruitment-Notification-2014.jpg)
+
+**Pune Smart City Development Corporation Limited (PSCDCL):**.  The PSCDCL is a special purpose vehicle created to execute the smart city projects in Pune. It works with different stakeholders, including the government agencies, private sector partners, and citizens to drives the vision.  [PSCDCL Homepage](https://punesmartcity.in/smart-city/feeds)
+
+![Alt Text / PSCDCL](./pune-smart-city.jpg)
 
 **Private Sector Partners**.  Multiple private sector partners companies are kept in the loop for the development and implementation of smart cities initiatives. These organizations bring expertise in areas of technology, infrastructure and services. Companies such as Tech Mahindra, Tata Consultancy Services and Larsen & Toubro are utilized for their experience in technology and infrastructure development. 
 
 ## Leadership
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
-**Name of Interviewee**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [LinkedIn](https://www.markdownguide.org/basic-syntax/)
+**Pranav Savle**. Pranav worked with the Smart Cities Mission in Pune from 2020 to 2021. He contributed to the mission as a Smart Cities fellow, working on the Health Management Information System. He completed his Computer Engineering from Pune University and is currently working with Capgemini as a Senior Data Analyst.  [LinkedIn](https://www.linkedin.com/in/pranavsavle/)
 
-**Insight 1**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Insight 1**. The Smart Cities Mission of India pulls from its local talent pool of students to create modern and relevant digital solutions. It empowers students to use their talent and skills to create solutions for the smart cities mission.
 
-**Insight 2**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Insight 2**. A key hurdle that fellows faced during their implementation phase was the interfacing between different government departments. The difference in jurisdiction and authority made acquiring the necessary resources and information difficult in some cases.
 
-**Insight 3**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Insight 3**. The fellowship creates solutions that are actionable and impactful. In cases where their scale and mandate is larger than what can be achieved by fellows, private sector partners are brought in to take the project to its completion.
 
 
 ## Financing
@@ -102,11 +105,13 @@ The Smart Cities Mission of India was a key offering of the Indian government. L
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-**Open questions 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Open questions 1**.  How will the Smart Cities Mission for Pune make sure that equitable access is provided to all sections of society, including marginalized communities? What steps will be taken to avoid exacerbating the existing social and economic disparities?
 
-**Open questions 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Open questions 2**.  What measures are being taken to ensure the long-term sustainability and maintenance of the smart city infrastructure? How can the city leverage its unique demographic to solve these issues?
 
-**Open questions 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Open questions 3**.  How does the project address data privacy and security concerns ? How is citizens' personal information handled across different smart city entities and platforms?
+
+**Open questions 4**.  What can the city take from other such developments ? How can the city better integrate with the central agencies that it interacts with?
 
 ## References
 
@@ -116,14 +121,14 @@ The Smart Cities Mission of India was a key offering of the Indian government. L
 
 <!-- 3-5 project plans, audits, reports, etc. -->
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
+- https://smartcities.gov.in/
+- https://punesmartcity.in/smart-city/feeds
 - Very easy!
 
 ### Secondary Sources
 
 <!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
+- https://niua.in/iscfp/
+- https://smartcities.gov.in/India_Smart_Cities_Fellowship_Program
 - Very easy!
