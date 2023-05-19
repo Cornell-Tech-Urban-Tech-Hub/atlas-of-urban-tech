@@ -23,7 +23,7 @@ geography_caption: Optional Caption for the geograhic information.
 
 <!-- About 100 to 150 word summary of the case study. -->
 
-The Smart Cities Mission of India was a key offering of the Indian government. Launched by the Ministry of Housing and Urban Affairs, it has been instrumental in facilitating communication and resource sharing between different parts of the Indian government to achieve better living standards for Indians in 100 cities across the country. For this case study, I'll be focusing on Pune, the second largest city in the State of Maharashtra. It is a major urban center, and faced challenges with inadequate infrastructure and environmental concerns owing to its rapid urbanization. Under the mission, the Pune Municipal Corporation (PMC) implemented various initiatives to address these issues. Through the use of technology, IoT and Data Analytics, the city has improved its transport, waste management, healthcare offering and digital governance.
+The Smart Cities Mission of India was a key offering of the Indian government. Launched by the Ministry of Housing and Urban Affairs in 2015, it has been instrumental in facilitating communication and resource sharing between different parts of the Indian government to achieve better living standards for Indians in 100 cities across the country. For this case study, I'll be focusing on Pune, the second largest city in the State of Maharashtra. It is a major urban center, and faced challenges with inadequate infrastructure and environmental concerns owing to its rapid urbanization. Under the mission, the Pune Municipal Corporation (PMC) implemented various initiatives to address these issues. Through the use of technology, IoT and Data Analytics, the city has improved its transport, waste management, healthcare offering and digital governance.
 
 
 ## Key Characteristics
@@ -33,9 +33,12 @@ The Smart Cities Mission of India was a key offering of the Indian government. L
 
 **Infrastructure**.  The Smart City mission in Pune has focused on upgrading and modernizing its infrastructure. The city has made investments into improving roads, transportation systems and utilities. An example of this is the development of the Between the Road Transport System (BRTS) for public bus transportation. Other initiatives include the integration of IoT based systems for intelligent traffic management, waste management and to optimize resource utilization.
 
+![Alt Text / Between the Road Transport System](./brts.webp)
+
 
 **Digital Connectivity**.  The city is a major center of IT in the State. It thus recognizes the importance of digital connectivity to enable smart-solutions. In order to provide widespread access to high-speed internet, the city has established Wi-Fi hotspots in public areas to create a digital infrastructure that supports the implementation of smart technologies. This has empowered the citizens to make use of the applications that the city runs, such as e-governance platforms. The initiative works in close tandem with the Ministry of Electronics and Information Technology. 
 
+![Alt Text / Digital India logo](./Digital_India_logo.svg.png)
 
 **Citizen Engagement and Participation**.  Pune places a significant emphasis on its citizen engagement and participation. The city has implemented various channels to empower citizens to make their voice heard. Through mobile apps (Pune Connect), social media channels and community outreach programs, citizens can provide inputs to decision making, report issues and actively participate in the development of their neighborhood. 
 
@@ -44,7 +47,10 @@ The Smart Cities Mission of India was a key offering of the Indian government. L
 
 <!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
 
-**Sustainable Infrastructure Development:**  The Smart City Mission in Pune aims to create a resilient urban infrastructure by upgrading and modernizing transportation systems, enhancing public amenities and implementing smart solutions for efficient resource utilization and management.l The goal is to create an environmentally friendly city that meets the needs of its growing population. 
+**Sustainable Infrastructure Development:**  The Smart City Mission in Pune aims to create a resilient urban infrastructure by upgrading and modernizing transportation systems, enhancing public amenities and implementing smart solutions for efficient resource utilization and management. The goal is to create an environmentally friendly city that meets the needs of its growing population. 
+
+
+
 
 
 **Enhanced Quality of Life**. The city strives to improve the quality of life for its citizens by providing reliable and accessible public services, healthcare, education and green spaces. The city has a goal to create an inclusive and livable environment where its residents can thrive and enjoy a high standard of living.
@@ -55,9 +61,9 @@ The Smart Cities Mission of India was a key offering of the Indian government. L
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
-**Smart Grid System**. The smart grid system in Pine enabled intelligent energy management, with real-time monitoring, analysis and control of electricity distribution. The goal of it is to optimize the energy consumption, reduce wastage and improve reliability. By integrating renewable energy sources and employing sophisticated metering infrastructure, the smart grid promotes sustainable practices and provides information to make informed decisions regarding energy usage.
+**Smart Grid System**. The smart grid system in Pune enables intelligent energy management, with real-time monitoring, analysis and control of electricity distribution. The goal of it is to optimize the energy consumption, reduce wastage and improve reliability. By integrating renewable energy sources and employing sophisticated metering infrastructure, the smart grid promotes sustainable practices and provides information to make informed decisions regarding energy usage.
 
-**Smart Transportation System**.  The city employs technology to integrate various systems to allow for intelligent traffic management, real-time vehicle tracking and smart parking solutions. Using data analytics and a network of sensors, it allows the city to efficiently manage the flow of traffic, minimizing congestion and travel time. Even with transport infrastructure, technology being closely knit into these projects. 
+**Smart Transportation System**.  The city employs technology to integrate various systems to allow for intelligent traffic management, real-time vehicle tracking and smart parking solutions. Using data analytics and a network of sensors, it allows the city to efficiently manage the flow of traffic, minimizing congestion and travel time. Even with transport infrastructure, technology is being closely knit into these projects. 
 
 **E-governance Framework**.  Pune emphasizes the successful implementation of a robust e-governance framework. This intervention aims to digitize government services and processes, facilitate easy and transparent delivery of public services. By using technology, citizens can access various government services online, including payment of taxes, obtaining licenses and accessing information. It streamlines the administrative procedure, reduces bureaucracy and promotes citizen participation.
 
@@ -80,12 +86,25 @@ The Smart Cities Mission of India was a key offering of the Indian government. L
 
 **Pranav Savle**. Pranav worked with the Smart Cities Mission in Pune from 2020 to 2021. He contributed to the mission as a Smart Cities fellow, working on the Health Management Information System. He completed his Computer Engineering from Pune University and is currently working with Capgemini as a Senior Data Analyst.  [LinkedIn](https://www.linkedin.com/in/pranavsavle/)
 
+![Alt Text / Pranav](./pranav.jpeg)
+
 **Insight 1**. The Smart Cities Mission of India pulls from its local talent pool of students to create modern and relevant digital solutions. It empowers students to use their talent and skills to create solutions for the smart cities mission.
 
 **Insight 2**. A key hurdle that fellows faced during their implementation phase was the interfacing between different government departments. The difference in jurisdiction and authority made acquiring the necessary resources and information difficult in some cases.
 
 **Insight 3**. The fellowship creates solutions that are actionable and impactful. In cases where their scale and mandate is larger than what can be achieved by fellows, private sector partners are brought in to take the project to its completion.
 
+## Other people interviewed : 
+
+
+
+| [<img src="./AayushKakaji.png" width="70%">](https://www.linkedin.com/in/aayush-kakaji-16386078/) | [<img src="./DivyaBharti.png" width="100%">](https://www.linkedin.com/in/divya-bharti-03204945/) |
+|:---:|:---:|
+| [Aayush Kakaji](https://www.linkedin.com/in/aayush-kakaji-16386078/) | [Divya Bharti](https://www.linkedin.com/in/divya-bharti-03204945/) |
+
+
+
+**Insights and notes** For the purpose of getting a broader perspective, I also interviewed Divya Bharti and Aayush Kakaji, Fellows for the Smart Cities Mission in 2020 and 2021 respectively. Aayush currently is working as a Business Analyst atht eh National Institute of Urban Affairs, while Divya is current a Project Manager for State Reform, at the Central Square Foundation. Their experiences were similar to Pranavs, where they worked on projects to help a city in India. They however worked on different cities, namely Bhopal and Indore, and thus I haven't deep dived into their experiences. 
 
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
@@ -123,7 +142,7 @@ The Smart Cities Mission of India was a key offering of the Indian government. L
 
 - https://smartcities.gov.in/
 - https://punesmartcity.in/smart-city/feeds
-- Very easy!
+- https://www.squareyards.com/blog/pune-smart-city-smcart
 
 ### Secondary Sources
 
@@ -131,4 +150,5 @@ The Smart Cities Mission of India was a key offering of the Indian government. L
 
 - https://niua.in/iscfp/
 - https://smartcities.gov.in/India_Smart_Cities_Fellowship_Program
-- Very easy!
+- https://www.ibef.org/government-schemes/smart-cities-mission#:~:text=The%20100%20Smart%20Cities%20Mission,them%20citizen%20friendly%20and%20sustainable.
+- https://hlrn.org.in/documents/Smart_Cities_Report_2017.pdf
