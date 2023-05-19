@@ -58,33 +58,42 @@ Not long after the project was set in motion, Zaragoza was appointed to be the l
 
 **Intelligent Lighting System**. The first technological intervention I want to discuss is the intelligent and interactive street lighting systems, whose goal is to facilitate public use and draw the community to these areas, as well as create a greater understanding of the environment. It creates a distinctive atmosphere along the Mile by changing color or intensity in response to the time of day, demands for use, or artistic desires. In tandem, digital street furniture - like café tables, bus stops, and signage - would display information about practical matters as menus, bus arrivals, or the location of available parking spaces.
 
-**Open Source Public Spaces**.  This was an idea Included in initial proposal where the public would have a level of access to the technological developments in the city. It applies open source ethics to the governance of public places in trying to make the public spaces more open/transparent, with the goal of democratizing the programming of public spaces. Users can access the programmable elements through personal or commonly shared devices (such as kiosks or programmable tabletops or wall surfaces) to modify them to address their interests and needs. This also makes these public spaces more interactive, catering to a variety of different users and communities. This is currently being explored on a small scale in Etopia, but the eventual goal is for it to apply to other digital spaces in the city. 
+![Alt Text / Intelligent Lighting System diagram](./intelligentlighting.jpg )
+
+**Open Source Public Spaces**.  This was an idea included in the initial proposal where the public would have a level of access to the technological developments in the city. It applies open source ethics to the governance of public places in trying to make the public spaces more open/transparent, with the goal of democratizing the programming of public spaces. Users can access the programmable elements through personal or commonly shared devices (such as kiosks or programmable tabletops or wall surfaces) to modify them to address their interests and needs. This also makes these public spaces more interactive, catering to a variety of different users and communities. This is currently being explored on a small scale in Etopia, but the eventual goal is for it to apply to other digital spaces in the city. 
+
+![Alt Text / top: digital framework. bottom: A scenario for a responsive place system ](./networkmap.jpg "D. Frenchman and A. Sanal")
 
 **Ambient Technology**. All of the public spaces along the Digital Mile, and across almost the entire city now, have access to free, public wifi. Still in the works, the initial proposal also included location-based services that would offer customized content to individuals at key locations throughout the city, through their phones and/or other digital devices. For example, if an individual is at the Aljaferia, they can read about its history and significance, or get directions to their destinations while at the train station.   
 
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
+**Drone Expirmentation Area**.  Just announced a few months ago, the city of Zaragoza has received funding to create a drone experimentation area, and is being developed by a private company. This helps further support the idea of an innovation district, acting as a test bed for new developments in the area, and supporting research. This will establish Zaragoza as the first and only European city to authorize a space for the experimentation and training of drones in an urban city, with a strategic focus on the future of mobility. 
+
+![Alt Text / Drone Experimentation Area ](./drone.jpg "Astra UTM")
+
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
 
-**Ebrópolis**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+**Ebrópolis**.  Ebrópolis acts the strategic think tank of the city, where things like the industrial world, trade unions, political parties, universities, are all represented. They are responsible for the strategic agenda for the city 10 years in advance, and are the ones that had the original idea for the Digital Mile Project. [Ebrópolis](https://ebropolis.es/)
 
-**Spanish Government and City Hall**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+**Spanish Government and City Hall**.  The Spanish government, and City Hall in particular were a key stakeholder as well. Apart from owning the land that the project was going to be built on, as well as the National Railway Company land, they also were responsible for a large majority of the public funding that made this project possible.  [Zaragoza City Hall](https://www.zaragoza.es/sede/)
 
-**Ibercaja Banco**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+**Ibercaja Banco**.  They were and still are the main regional bank for Zaragoza, and are the main private investors for many of the projects built.  [Ibercaja Banco](https://www.ibercaja.es/)
 
-**University of Zaragoza**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+**University of Zaragoza**.  The University of Zaragoza gave a small fund to the project, alongside an agreement where they would fund the main researchers for the Foblabs and citizens’ science projects, and have them integrated into Etopia. This would give more citizens opportunities to do the research, as well as expand the university’s research.  [Universidad de Zaragoza](https://www.unizar.es/)
+
+**Neighborhood Associations**.  The local neighborhood associations had a big influence on the masterplan, as they acted in the interest of the current residents. For example, some things they advocated for were more green spaces and less residential buildings, and a large community park. 
 
 ## Leadership
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->
 
 **Daniel Sarasa Funes**. Daniel Sarasa Funes is an urban innovation and smart cities strategist. He first got involved with the Digital Mile when he was working in the Spanish Government to digitize rural areas, and joined the project at the end of 2008. He is now director of the zaragoza city Fundacion Zaragoza Ciudad del Conocimiento, which aims to help the city of Zaragoza get funding for various urban projects. [LinkedIn](https://www.linkedin.com/in/daniel-sarasa-funes-1315431/)
 
-**Insight 1**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Failure to Create Social Connection**. One interesting insight from my interview was when Daniel mentioned that he feels like a main failure of the projects has been to create a greater social connection within the city. He discussed how the team originally had a sociologist to target this gap between the technology and urban development, and the public, however she passed away at the beginning of the project and the gap was never filled. I find that really interesting, because this seems like it would be something that is important to the city, particularly as its people will be key to creating the innovative environment they are looking to achieve. As a result though, the public did not quite understand why this project was necessary, even though it would create digital innovation in addition to more jobs, supporting the local economy. Additionally, not all political parties were involved in this project, which added to the issue of lacking legitimacy. If they were to do it again, they would need to create a more solid foundation, even if it meant slower progress, as it would be important to create a strong sense of complicity around the project. I also thought it was an interesting insight, because as an outside observer, it would seem like a lot of the projects would have garnered a lot of public support and greater social connection within the city. The Etopia center in particular seems like a great hub for researchers, startup founders, and innovators alike to connect, as well as the digital-forward public spaces they are looking to build. 
 
-**Insight 2**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Renewable Energy**. Another interesting insight from my interview that Daniel mentioned was that the sector of clean energy and sustainability has not really been touched on by neither the Digital Mile plans, nor the current mini projects. This all comes despite the city of Zaragoza experiencing some of its highest temperatures ever, which I found interesting, because one would think that such a digital-forward, future-looking city plan would entail some vision for renewable energy. This may be due to the city’s greater focus on creating digital environments, that this sector partially got left behind. However looking forward, I think this gives the city of Zaragoza great potential to further research, explore, and tackle issues such as climate change with renewable energy and systems. There is also a relatively large area that could possible be used to build something like a green park. This also means that the landscape project that was written in 2008 likely needs to be redone to reflect the current situations and technologies.
 
-**Insight 3**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Digital Rights**. The last insight that I gathered from my interview surrounds the topic of digital rights. This is something that the city has become more conscious of more recently. Zaragoza recently joined the City Coalition of Digital Rights, who New York City is actually a founding member of, alongside Amsterdam and Barcelona. This coalition is actually responsible for launching an artificial intelligence department in New York City. I found this really interesting but also in line with their efforts, because this is something I thought about after learning about the open source public spaces the city has been planning to implement. Thinking about things such as how to preserve digital rights, who can own what in the open source public spaces, and the hierarchy of rights will be important going forward as the city further develops into digital-forward spaces.
 
 
 ## Financing
@@ -118,14 +127,13 @@ These project are being funded both publicly and privately. On the public front,
 
 <!-- 3-5 project plans, audits, reports, etc. --->
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
+* MIT's New Century City Developments by Michael Joroff, Dennis Frenchman, Francisca Rojas and the NCCs Massachusetts Institute of Technology http://web.mit.edu/newcenturycity/new-century-city-developments.pdf
+* LUIS CANIZO
+11.947 New Century Cities: CRE – CDD DUSP – Media Lab Joint Faculty-Student Seminar  https://ocw.mit.edu/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/ca287a75ffed700a679ea3cbb44fd9ec_canizo_final.pdf
+* 
 
 ### Secondary Sources
 
 <!-- 5-7 secondary source documents: news reports, blog posts, etc.. --->
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
+* http://senseable.mit.edu/biennale/pdfs/zaragoza_01.pdf
