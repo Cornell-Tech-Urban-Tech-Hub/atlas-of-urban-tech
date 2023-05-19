@@ -1,4 +1,5 @@
 ---
+
 title: NYC IoT Strategy
 description: The New York City's Internet of Things (IoT) Strategy is a comprehensive blueprint designed by the NYC Office of Technology and Innovation to leverage the potential of IoT technologies and enhance the quality of life for its inhabitants.
 status: completed
@@ -25,11 +26,11 @@ geography_caption: Optional Caption for the geograhic information.
 
 The New York City's Internet of Things (IoT) Strategy is a comprehensive blueprint designed by the NYC Office of Technology and Innovation to leverage the potential of IoT technologies and enhance the quality of life for its inhabitants. The strategy revolves around three key areas: improving government operations, enhancing public services, and promoting economic growth. The plan encompasses initiatives such as utilizing sensors to monitor air quality, traffic patterns, and building energy consumption, as well as deploying intelligent waste management systems and expanding public Wi-Fi access. Additionally, the city aims to encourage innovation in the IoT sector by building a network of research institutions, startups, and investors. Overall, the New York City IoT Strategy aims to position the city as a pioneer in the rapidly evolving field of IoT while making certain that technology advances the well-being of all its residents.
 
-
 ## Key Characteristics
 
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
+
 
 In 2015, NYC CTO published a foundational report entitled “Building a Smart + Equitable City,” which included ten case studies about how IoT can help improve government services and better the lives of all New Yorkers. This document was the first to highlight IoT projects undertaken by the City.
 
@@ -44,6 +45,7 @@ In 2019, Mayor Bill de Blasio released his OneNYC 2050 plan, outlining a broad v
 ## Goals and Aspirations
 
 <!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
+
 
 NYC IoT strategy provides an important framework about how to build a healthy IoT ecosystem. The framework has 6 principles across Governance + Coordination, Privacy + Transparency, Security + Safety, Fairness + Equity, Efficiency + Sustainability, and Openness +
 Public Engagement.       
@@ -68,6 +70,7 @@ It is also essential to optimize coordination among entities involved in IoT eff
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
 
+
 **Wireless Water Meters**. Wireless water meter is the city's argest-scale IoT project initiaetd by the Department of Environmental Protection. There are wirelessly connected water meters integrated to the buildings, and these meters allow DEP to monitor water usage in over 800,000 buildings across the city, eliminating the need to send physical inspectors to read meters, and also alert residents when they might have a leak, based on tracked increases in use, or whether a building is inhabited when it isn’t supposed to be, among other benefits. 
 ![Alt Text / Responsive Traffic Management](./dep-water-meters.jpeg "Responsive Traffic Management")
 
@@ -81,8 +84,10 @@ It is also essential to optimize coordination among entities involved in IoT eff
 
 ![Alt Text / CitiBike Station in New York City](./Citi_Bike_Riding_Exp.jpg "Citi Bike Official Website")
 
+
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
+
 
 **Government**. The city government is responsible for providing and managing a wide range of IoT services and IoT technologies have the potential to improve the efficiency, effectiveness, and quality of these services. The city government has a vested interest in leveraging these technologies to better serve its residents. 
 ![Alt Text / NYC Government ](./gov.jpeg "Government")
@@ -94,8 +99,10 @@ It is also essential to optimize coordination among entities involved in IoT eff
 **Residents**.  Residents of New York City are key stakeholders in the plan because they will be the primary beneficiaries, or even potential recipients of any negative impact, of the IoT initiatives. It is essential to engage with residents to understand their needs, concerns, and priorities, and to ensure that the benefits of IoT technologies are accessible to all residents. 
 ![Alt Text / NYC Residents](./residents.jpeg "NYC Residents")
 
+
 ## Leadership
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
+
 
 **Haotian Jiang**. Haotian works as a Architectural Designer at Robert A.M. Stern Architects. He got his bachelors degree from Cornell University College of Architecture, Art & Planing. He has a great passion for architecture representations with comprehensive skills in design logic.  [LinkedIn](https://www.linkedin.com/in/haotian-jiang-4a51a2173/)
 
@@ -110,8 +117,10 @@ It is also essential to optimize coordination among entities involved in IoT eff
 **Financing Scheme**. The financing scheme for the NYC IoT strategy is not explicitly outlined in the strategy document. However, the strategy mentions that funding will come from a variety of sources, including government budgets, grants, private investment, and partnerships with academic and research institutions.
 
 
+
 ## Outcomes
 <!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
+
 
 **Support Economic Growth**.  The plan aims to support the development of the IoT industry in New York City, and thus creating new business opportunities for entrepreneurs, startups, and established companies in many different sectors to drive the overall economic growth of the city. Entrepreneurs, startups, and established companies can benefit from the growth of the IoT industry by developing new products and services, entering new markets, and collaborating with other businesses and stakeholders in the IoT ecosystem.
 
@@ -119,12 +128,15 @@ It is also essential to optimize coordination among entities involved in IoT eff
 
 **Harness the Power of Data**.  One of the important goals of NYC IoT strategy is to promote data sharing across City agencies and with the public. It enables organizations to gain valuable insights, make informed decisions, improve operational efficiency, enhance customer experiences, and drive innovation. 
 
+
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
+
 
 **Open questions 1**.  The plan relies heavily on public and private funding sources, but it is unclear how sustainable these funding sources are over the long term. How will the city ensure that these initiatives are cost-effective and sustainable?
 
 **Open questions 2**.  The strategy covers a wide range of stakeholders, how will the city promote the interoperability and collaborative partnerships among theses parties, especially interoperability between private and public sectors?
+
 
 ## References
 
@@ -134,15 +146,17 @@ It is also essential to optimize coordination among entities involved in IoT eff
 
 <!-- 3-5 project plans, audits, reports, etc. -->
 
+
 - The New York City Internet of Things Strategy https://www.nyc.gov/assets/cto/downloads/iot-strategy/nyc_iot_strategy.pdf
 - The New York City Internet of Things Progress Report https://www.nyc.gov/assets/cto/downloads/iot-strategy/nyc_iot_progress_report.pdf
 - NYC IoT Guidelines, https://iot.cityofnewyork.us/#guidelines
 
-
 ### Secondary Sources
 
 <!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
+
 - Sarah Wray, *New York gears up for IoT growth with new strategy*, https://cities-today.com/new-york-gears-up-for-iot-growth-with-new-strategy/
 - Rachel Brown, *Fostering Innovation with NYC’s IoT 
 Strategy*, https://medium.com/intelligent-cities/fostering-innovation-with-nycs-iot-strategy-b7ee331fae15
 - Peter Bihr, *New York’s new NYC IoT Strategy*, https://thewavingcat.com/2021/03/new-yorks-new-nyc-iot-strategy/
+
