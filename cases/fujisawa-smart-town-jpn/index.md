@@ -84,7 +84,7 @@ The information terminal is also connected to other aspects of the town and can 
 
 **Fujisawa SST Council**.  The Fujisawa SST Council is an organization of businesses led by Panasonic that contribute to the town's development and meet regularly to discuss town issues and gather resident opinions. Other notable member organizations include [Yamato Transport](https://www.kuronekoyamato.co.jp/en/), which supports the EV and bike infrastructure in the town, and [Tokyo Gas]( https://www.tokyo-gas.co.jp/corporate/index.html?wovn=en), which supports the energy generation and management infrastructure. [Fujisawa SST Council]( https://fujisawasst.com/EN/)
 
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
+![Alt Text / A list of all Fujisawa SST Council members](./council.png "Fujisawa Sustainable Smart Town")
 
 **Fujisawa Citizens**.  Fujisawa SST citizens adopt sustainable practices and rethink their energy consumption and wasteful habits; they also help to shape the town as it evolves to support modern and emerging lifestyles. Additionally, those living outside the town benefit from positive environmental impacts on the surrounding areas and reduced CO2 emissions, creating a better quality of life.
 
