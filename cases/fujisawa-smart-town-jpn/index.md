@@ -6,7 +6,7 @@ author: Matt Drezdzon
 type: district
 city: Fujisawa Sustainable Smart Town
 country_code: JPN
-centroid: [35.33545003814586, 139.46362650298315]
+centroid: [35.335450, 139.463626]
 year_start: 2012
 year_completed: Ongoing
 featured_image: ./townwide.png
