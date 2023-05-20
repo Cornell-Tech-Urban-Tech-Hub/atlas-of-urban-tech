@@ -53,7 +53,7 @@ What makes a good innovation ecosystem? According to research on the topic, many
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
-[https://github.com/ob234/atlas-of-urban-tech/blob/38473aa295eb31bb854816cf166914cdeaac4fab/cases/montreal-can/Montreal%20timeline.png]
+[[https://github.com/ob234/atlas-of-urban-tech/blob/38473aa295eb31bb854816cf166914cdeaac4fab/cases/montreal-can/Montreal%20timeline.png]]
 
 **Mobility**. Sustainable mobility is on the forefront of Montreals 10-year plan. Since the 2019 project, Montreal also experiments with varying mobility initiatives. For instance, an autonomous shuttle service is offered between a few blocks near the city centre. The shuttles are programmed to travel on a predefined route, at a low maximum speed of 20 km/h. Ultimately, the aim is to reduce traffic and congestion. 
 
