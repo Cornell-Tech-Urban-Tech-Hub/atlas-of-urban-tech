@@ -53,7 +53,7 @@ What makes a good innovation ecosystem? According to research on the topic, many
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
-[](https://github.com/ob234/atlas-of-urban-tech/blob/38473aa295eb31bb854816cf166914cdeaac4fab/cases/montreal-can/Montreal%20timeline.png)
+[Montreal%20timeline.png]
 
 **Mobility**. Sustainable mobility is on the forefront of Montreals 10-year plan. Since the 2019 project, Montreal also experiments with varying mobility initiatives. For instance, an autonomous shuttle service is offered between a few blocks near the city centre. The shuttles are programmed to travel on a predefined route, at a low maximum speed of 20 km/h. Ultimately, the aim is to reduce traffic and congestion. 
 
@@ -66,6 +66,8 @@ On the legal front, Montreal has displayed an unwavering dedication to ensuring 
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
+
+[0001.png]
 
 **Industry**.  Industry stakeholders are companies and businesses directly involved in or affected by the implementation of the smart city plan. This group includes tech companies who design and produce smart technologies (IoT devices, sensors, AI software, data analytics tools, etc.), construction and infrastructure firms who are responsible for integrating these technologies into the city's physical infrastructure, telecommunication companies, energy providers, and transport organizations. They stand to gain from new business opportunities that arise as a result of the city's transformation. Their innovations, expertise, and resources are critical to driving the smart city initiative forward. For instance, with its AI-focused research lab, Microsoft Research Montreal, the tech giant is a key stakeholder in the city's AI initiatives. And, in 2019, DeepMind announced the opening of a new research lab in Montreal, further solidifying the city's status as a global AI hub. [Google Deepmind](https://www.deepmind.com/)
 
