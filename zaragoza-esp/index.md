@@ -1,7 +1,7 @@
 ---
 title: Zaragoza Milla Digital
 description: Case Study of the Digital Mile Project located in Zaragoza, Spain.
-status: Draft
+status: Completed
 author: Michele Chen
 type: case
 city: Zaragoza
@@ -103,13 +103,13 @@ Not long after the project was set in motion, Zaragoza was appointed to be the l
 These project are being funded both publicly and privately. On the public front, one of the biggest stakeholders in the project, City Hall, is providing a large bulk of the financial support. There is also the main bank of the region, and they are the main private contributor to the project. They also work with the Fundacion Zaragoza Ciudad del Conocimiento, which my interviewee was the founder of, to get competitive funding for proposals. They mainly work with European municipalities to get funding, as well as recovery funds. Lastly, they also received a small amount of funding from the University, as a result of an agreement where they would manage the research labs and citizens science projects that would be integrated into the Etopia Center. 
 
 ## Outcomes
-<!--- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. --->
+<!--- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? These should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. --->
 
-**Connect with other big cities**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Connect with other big cities**. The first anticipated outcome that I haven’t seen explored is how making Zaragoza a digital city and connecting it so closely with Spain’s two biggest cities- Madrid and Barcelona- will affect the ecosystem of Spain as a whole. Aside from the increase in innovation and connection within Zaragoza itself, this should allow for both physical and economic connection throughout a greater region of Spain, resulting in even larger labor markets, increased employment opportunities, reduced traffic costs. Additionally, this gives the chance to bring digital innovation from Zaragoza to these large cities with larger resources, making way for even more of a digital impact. 
 
-**Outcome 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Beginnings of Sustainability**.  The idea of building a technology-forward city around a nation-wide high speed railway station is really interesting, because this also gives the city the ability to further explore the realm of sustainability and efficient transportation mentioned above they have not planned much around. Additionally, it opens the possibility for further development of a sustainable, carbon-neutral public transportation network in the future that will weave throughout the city, which would greatly help them establish themselves as an environmentally-friendly digital city. This may lead to even greater growth and innovation within the city, positively impacting Spain as a whole.
 
-**Outcome 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Resident Privacy**.  With technology becoming an increasingly larger part of Zaragoza's residents' daily lives, something they haven’t really addressed is how they will protect citizen privacy. Technology such as the open source public spaces, location-based digital services, and a large concentration of drones in the area, how does the city plan to cater to each individual’s personal preferences when it comes to how much data is taken from them. How will this data be used in other ways? Will it be sold? What about the data of people who cannot consent, such as children? I believe an anticipated outcome as the city becomes more and more digital will be an increasingly greater discomfort among citizens about the level of technology involved in their lives, and what may feel like a lack of digital privacy. The city will have to adapt to the people’s preferences, and address it in a way that is fair to everyone. 
 
 ## Open Questions
 <!--- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. --->
@@ -130,10 +130,16 @@ These project are being funded both publicly and privately. On the public front,
 * MIT's New Century City Developments by Michael Joroff, Dennis Frenchman, Francisca Rojas and the NCCs Massachusetts Institute of Technology http://web.mit.edu/newcenturycity/new-century-city-developments.pdf
 * LUIS CANIZO
 11.947 New Century Cities: CRE – CDD DUSP – Media Lab Joint Faculty-Student Seminar  https://ocw.mit.edu/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/ca287a75ffed700a679ea3cbb44fd9ec_canizo_final.pdf
-* 
+* Zaragoza's Digital Mile: Place-Making in a New Public Realm [Media and the City] by Frenchman, Dennis;Rojas, Francisca https://escholarship.org/uc/item/5dm2932p 
+* Zaragoza Milla Digital: Designing a New Century Public Realm by MIT School of Architecture and Planning https://www.cideu.org/wp-content/uploads/2019/12/mitesp.pdf 
+* The high-speed rail project as an urban redevelopment tool by Carmen Bellet Sanfeliu et Luis Santos Ganges https://journals.openedition.org/belgeo/18153
 
 ### Secondary Sources
 
 <!-- 5-7 secondary source documents: news reports, blog posts, etc.. --->
 
 * http://senseable.mit.edu/biennale/pdfs/zaragoza_01.pdf
+* Zaragoza, Spain by Jess Blanch, Lauren Keene https://sdstudio.be.uw.edu/wp-content/uploads/sites/51/downloads/Winter2010/zaragoza.pdf
+* Zaragoza Bridge Pavilion by Zaha Hadid by Marcus Fairs https://www.dezeen.com/2008/06/16/zaragoza-bridge-pavilion-by-zaha-hadid/ 
+* Zaragoza Smart City: Sourcing the Code to Citizen Co-Creation by Vineeta Shetty https://urbequity.com/en/zaragoza-smart-city-open-source/
+* Zaragoza City to conduct second round of drone testing for Flying Forward 2020 by USA Traffic Management News and Urban Air Mobility https://www.unmannedairspace.info/latest-news-and-information/zaragoza-city-to-conduct-second-round-of-drone-testing-for-flying-forward-2020/
