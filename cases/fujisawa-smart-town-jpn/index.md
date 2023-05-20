@@ -114,7 +114,7 @@ Panasonic expects new technologies to revolutionize smart cities further. For ex
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
 
-The town was initially built from a $500 million (USD) investment in a public-private partnership between Panasonic, other members of the Fujisawa SST Council, and the Fujisawa government. While limited information is publicly available, the town has recouped real estate investment from housing sales. It continues to make money by investing in town management services and excess energy sales, which generate recurring income for the town and Panasonic. This recurring income has allowed for the planning and development of town expansions and new infrastructure. Panasonic continues to make small investments in the town each year, prioritizing investments that will last a long time, such as weather-resistant and durable solar panels.
+**Financing Scheme**. The town was initially built from a $500 million (USD) investment in a public-private partnership between Panasonic, other members of the Fujisawa SST Council, and the Fujisawa government. While limited information is publicly available, the town has recouped real estate investment from housing sales. It continues to make money by investing in town management services and excess energy sales, which generate recurring income for the town and Panasonic. This recurring income has allowed for the planning and development of town expansions and new infrastructure. Panasonic continues to make small investments in the town each year, prioritizing investments that will last a long time, such as weather-resistant and durable solar panels.
 
 
 ## Outcomes
@@ -144,14 +144,19 @@ The town was initially built from a $500 million (USD) investment in a public-pr
 
 <!-- 3-5 project plans, audits, reports, etc. -->
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
+- [Fujisawa SST Concept Book](https://fujisawasst.com/EN/wp_en/wp-content/themes/fujisawa_sst/pdf/FSST-ConceptBook.pdf)
+- [Fujisawa SST Project Overview](https://fujisawasst.com/EN/project/target/)
+- [Fujisawa SST Case Study](https://holdings.panasonic/global/corporate/sustainability/sdgs/case-study/case01.html)
 
 ### Secondary Sources
 
 <!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
+- [Businesswire: Panasonic to Make Fujisawa Sustainable Smart Town Operational With Its Partner Companies](https://www.businesswire.com/news/home/20150217005416/en/Panasonic-to-Make-Fujisawa-Sustainable-Smart-Town-Operational-With-Its-Partner-Companies)
+- [EdgeProp: Creating values worth paying for](https://www.edgeprop.my/content/1600427/creating-values-worth-paying)
+- [Fujisawa Sustainable Smart Town: Panasonic's Challenge in Building a Sustainable Society](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=4054&context=cais)
+- [The Guardian: Japan's Fujisawa Sustainable Smart Town - a model for 'smart life?](https://www.theguardian.com/sustainable-business/fujisawa-sustainable-smart-town-future-model)
+- [Panasonic: Fujisawa Sustainable Smart Town - Generating Sustainable Impacts](https://news.panasonic.com/global/stories/1025)
+- [Panasonic: The Tall Order of Developing a "100-Year Community" - Where Panasonic's First Smart Town is at 5 Years into That](https://news.panasonic.com/global/stories/877#:~:text=A%20smart%20community%20born%20in,blessed%20with%20wondrous%20natural%20surroundings.)
+- [Tomorrow City: Fujisawa Sustainable Smart Town - Planning for the Next 100 Years](https://tomorrow.city/a/fujisawa-sustainable-smart-town)
+
