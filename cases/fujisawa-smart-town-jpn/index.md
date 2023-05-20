@@ -67,7 +67,7 @@ The Fujisawa Sustainable Smart Town (Fujisawa SST) is a smart town project in Fu
 
 **Electric Bikes and Vehicles**.  The town offers a “total mobility service” with electric vehicles (EV) and bicycles for residents to share. This helps residents participate in a broader range of activities and live more active lives while reducing CO2 emissions. Residents can check the availability of vehicles from their smart TVs and homes and make reservations. Battery charging stations in convenient locations in the town allow residents to charge vehicles and swap out batteries for bicycles so that the next person does not rent out a vehicle with a battery that will die at an inconvenient time, lessening the environmental impact and removing a barrier to bicycle adoption. Battery charging stations also provide additional sources of electricity in case of emergencies.
 
-![Alt Text / Overview of battery charging and EV charging stations](./chargingandbattery.png "Fujisawa Sustainable Smart Town")
+![Alt Text / Overview of battery charging and EV charging stations](./chargingandbatteries.png "Fujisawa Sustainable Smart Town")
 
 **Multi-Device Push Notifications**.  All homes in the Fujisawa SST have information terminals connected to smart TVs that automatically display alerts to residents, including disaster information, weather alerts, and power outages. This messaging system, which also is connected to residents’ smartphones, is used for general communication during emergencies and to transmit any changes in the schedules of town events.
 
