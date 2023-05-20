@@ -34,6 +34,8 @@ What makes a good innovation ecosystem? According to research on the topic, many
 
 **City as a Lab**.  Montreal's innovation community experiments with concrete solutions to problems of mobility, food, and municipal regulations. This program makes it possible to quickly implement concreate solutions imagined by the community to test them with citizens. 
 
+**Montreal In Common - 2 fields of action**  Montreal is focused on innovation in two key areas: Food and mobility. Regarding the former, key target metrics include: reducing pollution, increasing sustainable mobility options, simplifying access to services, reducing local single-driver trips. For the latter, the enhanced sharing of local resources, improved organizational efficiency, increased distribution, and reduced foodwaste were important characteristics listed within the 2023 innovation community plan. 
+
 **Bottom-Up Approach to Governance**.  Whether it's the 10-year masterplan, or current projects, Montreal is focused on consulting with citizens to develop solutions from the ground up. Over the next 10 years, the goal is to speek up the ecological transition, strengthen solidarity, equality, and inclusion, promote democracy and participation, and stimulate innovation and creativity. Have smart city initiatives helped with this? 
 
 
@@ -67,21 +69,25 @@ On the legal front, Montreal has displayed an unwavering dedication to ensuring 
 
 **Government**.  Government stakeholders include local city administrators, provincial and national officials, and regulators. The Montreal City Government, as the entity initiating the smart city plan, plays a pivotal role in the overall decision-making, funding, regulation, and coordination of the initiative. They are responsible for ensuring that the plan aligns with the city's broader strategic goals, serves public interests, and complies with laws and regulations. They also have to maintain transparency and engage the public in the decision-making process. Other government bodies, like provincial and national governments, might be involved in providing support, setting policy, and regulation. 
 
-[Organization Name](https://www.markdownguide.org/basic-syntax/)
+[Montreal's Innovation Community](https://portail-m4s.s3.montreal.ca/pdf/mtlcommun_projectguide_montreal_in_common_-_an_innovation_community_2023.pdf.pdf)
 
-**Academia**. Universities, research institutions, and other academic bodies are crucial for the research and development aspect of the smart city initiative. They can help design, test, and improve smart technologies, and study the impact of these technologies on various aspects of city life. They can also provide education and training to prepare the workforce for a tech-centric urban environment. Their research can inform policy-making and contribute to making the initiative more effective and sustainable. In Montreal, universities such as McGill University and Université de Montréal may have significant involvement in this aspect. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+**Academia**. Universities, research institutions, and other academic bodies are crucial for the research and development aspect of the smart city initiative. They can help design, test, and improve smart technologies, and study the impact of these technologies on various aspects of city life. They can also provide education and training to prepare the workforce for a tech-centric urban environment. Their research can inform policy-making and contribute to making the initiative more effective and sustainable. In Montreal, universities such as McGill University and Université de Montréal may have significant involvement in this aspect. [Montreal Centre Projects, McGill](https://www.mcgill.ca/centre-montreal/projects)
 
 ## Leadership
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
-**Questions**. Potential questions to ask Montreals City Lab leaders are listed here. Unfortunately no one was available for an interview. 
+<!-- **Question 1**. In terms of academic and government partnerships, are there any specific partnerships you can share that have been particularly successful? 
+**Question 2**. In general, what are some unique insights you have received from citizens - are there any in particular that stand out to you? 
+**Question 3**. How have economic fluctuations, especially the recent downturn in tech financing, impacted the innovation ecosystem in Montreal, specifically regarding its smart city initiatives. 
+-/> 
 
-**Insight 1**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+<!--  While no one was available for an interview within this timeframe, I discovered feedback others have provided in the past.  -->
+**Insight 1** "Agreeing on high-levelprinciples regarding digitaldata, such as inclusion orthe common good, andtransposing such principlesinto concrete action cannot
+be done without substance. Best practices are achieved by people willing to spring into action. Montreal in common provdies the perfect framework for such action, through the diversity of its projects, the support provided for experimentation, and its vision for data use that is centered around humans." - Lauriane Gorce, Data Governance, Open North 
 
-**Insight 2**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Insight 2** "Creating concrete change at a neighborhood scale by empowering citizens, whether though join neighborhood creative or civic activities, is a way to generate collective solutison adn to implement them. To participate in Montreal in common is to realize major projects with the potential to affect the future." - Pascal Priori, Neighborhood mobility, Solon 
 
-**Insight 3**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
-
+**Insight 3** "Optimizing the supply of fresh local products in an effort to enabel the most underprivileged Montrealers to have access to healthy nutrition is a true source of motivation for us. We are equally enthusiastic abou treaching our goals, by forming partnerships on site, udnerstanding their needs, adn proposing efficient and effective tools and solutions on all levels." - Local and integrated food system, Recolte 
 
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
@@ -91,11 +97,11 @@ On the legal front, Montreal has displayed an unwavering dedication to ensuring 
 ## Outcomes
 <!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
-**Outcome 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Bottom-up Innovation Strategy**. Montreal relies on team collaboration and on-site experimentation, with the belief that projects must be centered on humans, and knowledge and data must be shared. Their framework and business model operates on the following tenets: (1) Broadcasting knoweldge and scaling up - conferences, public or targeted webinars, and durable solutions that are visible in Montreal and Abroad, (2) Supporting innovation and experimentation through agile managmeent, collaboration, experimentation, co-design, citizen participation, etc., (3) Harvesting and pooling of knowledge through platforms and other opportunities for exchange among partners (e.g. meetings, webinars, workships, etc.), and (4) Investing knowledge into programs and projects through the orientations of the governning committe and support team. 
 
-**Outcome 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Data Innovation and Legislation**.  
 
-**Outcome 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Future Directions**.  
 
 ## Open Questions
 
@@ -120,3 +126,4 @@ On the legal front, Montreal has displayed an unwavering dedication to ensuring 
 - [Mission, Propulsion Quebec](https://propulsionquebec.com/en/about/mission)
 - [Montreal City Studio](https://www.concordia.ca/academics/experiential-learning/partners/citystudio.html)
 - [About Us, Cite ID Labs](http://cite-id.com/en/about-us)
+- [Montreal Innovation Community](https://portail-m4s.s3.montreal.ca/pdf/mtlcommun_projectguide_montreal_in_common_-_an_innovation_community_2023.pdf.pdf)
