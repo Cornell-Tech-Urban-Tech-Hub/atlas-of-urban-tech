@@ -41,11 +41,11 @@ What makes a good innovation ecosystem? According to research on the topic, many
 
 <!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
 
-**Discover linkages between industry, govenrment, and academia.**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture. 
+**Discover linkages between industry, govenrment, and academia**. In the realm of AI and smart city initiatives, discovering the links between government, industry, and academia is essential to fostering a synergistic ecosystem. These connections, often facilitated by collaborative projects, shared objectives, and mutual support, serve to expedite innovation, encourage knowledge transfer, and ensure the development and application of AI technologies align with societal needs and ethical standards.
 
-**Assess the presence and influence of the AI industry on Montreals Smart City Strategy and Plan**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Assess the presence and influence of the AI industry on Montreals Smart City Strategy and Plan**. With more than 19,400 jobs in AI, and 6,000 researchers, Montreal's AI ecosystem generates $1.2 Billino in yearly revenue. This influences all aspects of life, including political, cultural, and financial structures that move the city forward.  
 
-**Consider the long-term outcomes of an AI innovation ecosystem.**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no. Romanesque acclimates investiture.
+**Consider the long-term impacts of an AI innovation ecosystem.**. An AI innovation ecosystem can foster significant long-term impacts: economic growth through job creation and new industries, improved municipal services via data-driven decision-making, enhanced quality of life through smart solutions, and increased environmental sustainability. However, it also presents challenges, such as data privacy concerns, ethical dilemmas, and workforce displacement due to automation, requiring careful management and regulation. How has the city found a balance regarding these elements? 
 
 
 ## Technology Interventions
@@ -73,7 +73,7 @@ What makes a good innovation ecosystem? According to research on the topic, many
 ## Leadership
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
-**Questions**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [LinkedIn](https://www.markdownguide.org/basic-syntax/)
+**Questions**. Potential questions to ask Montreals City Lab leaders are listed here. Unfortunately no one was available for an interview. 
 
 **Insight 1**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
 
@@ -85,8 +85,7 @@ What makes a good innovation ecosystem? According to research on the topic, many
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
-**Financing Scheme**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
-
+**Financing Scheme**. At the federal level, Montreal has the opportunity tto pull from awards, grants, scholarships, and funds. This includes the $50,000,000 smart cities grant funding, which was awarded to the city in 2019. Provincially, organizations like MITCAS, the Government of Quebec Research Fund, and the Quebec Infrastructure Fund are potential sources. And at the Municipal level, funding is scattered across a variety of institutions, including numerious innovation labs, research programs and acceleartors. 
 
 ## Outcomes
 <!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
@@ -98,30 +97,25 @@ What makes a good innovation ecosystem? According to research on the topic, many
 **Outcome 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
 
 ## Open Questions
-<!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-**Open questions 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**What are the funding sources and amounts currently allocated to Montreals municipal labs?**.  Currently, the information available on Montreals smart city lab funding is quite vague, and further exploration of the topic is required. 
 
-**Open questions 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**To what extent is the local government orienting itself to strategically align with industry? Has the development of a bottom-up approach been met with any contention?**.  
 
-**Open questions 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**How will the AI innovation ecosystem be impacted by economic influences?**. 
 
 ## References
-
----
-
-### Primary Sources
-
-<!-- 3-5 project plans, audits, reports, etc. -->
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
-
-### Secondary Sources
-
-<!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
+- [](https://www.mtl.org/en/experience/where-to-find-wi-fi-when-travelling-montreal)
+- [](https://www.mcgill.ca/centre-montreal/channels/news/montreal-wins-smart-cities-challenge-297205)
+- [](https://montreal.ca/en/articles/automated-electric-shuttles-plaza-saint-hubert-19054) 
+- [](https://blog.mtl.org/en/sustainable-transport)
+- [](https://montreal.ca/en/departments/laboratoire-de-linnovation-urbaine-de-montreal)
+- [](https://www.mcgill.ca/centre-montreal/projects)
+- [](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx)
+- [](https://www.canada.ca/en/services/science.html)
+- [](https://www.canada.ca/en/research-coordinating-committee.html)
+- [](https://www.canada.ca/en/services/science/researchfunding.html)
+- [](https://villeintelligente.esg.uqam.ca/partenaires/au-canada/)
+- [](https://propulsionquebec.com/en/about/mission)
+- [](https://www.concordia.ca/academics/experiential-learning/partners/citystudio.html)
+- [](http://cite-id.com/en/about-us)
