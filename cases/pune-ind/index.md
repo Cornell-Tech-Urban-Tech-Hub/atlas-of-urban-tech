@@ -1,9 +1,9 @@
 ---
-title: Pune Smart Cities Mission
+title: Pune
 description: A case study of Pune city - a city under the smart cities mission of India
-status: Draft
+status: Complete
 author: Parthit Patel
-type: example
+type: plan
 city: Pune
 country_code: IND
 centroid: [18.5204, 73.8567]

@@ -1,9 +1,9 @@
 ---
 title: Fujisawa Sustainable Smart Town
 description: Case Study of the Fujisawa Sustainable Smart Town Project
-status: Final
+status: Complete
 author: Matt Drezdzon
-type: case
+type: district
 city: Fujisawa Sustainable Smart Town
 country_code: JPN
 centroid: [35.33545003814586, 139.46362650298315]

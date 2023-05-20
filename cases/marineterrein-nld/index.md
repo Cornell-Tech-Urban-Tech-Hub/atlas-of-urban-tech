@@ -1,9 +1,9 @@
 ---
 title: Amsterdam Marineterrein Case Study
 description: Case study for Smart Cities Course
-status: Draft
+status: Complete
 author: Daan van der Zwaag
-type: example
+type: district
 city: Amsterdam
 country_code: NLD
 centroid: [52.373889, 4.916667]

@@ -3,7 +3,7 @@ title: Smart City Bhopal
 description: A research study of Bhopal Smart City plan 
 status: Draft
 author: Sourabh Singh
-type: example
+type: case
 city: Bhopal 
 country_code: IND 
 centroid: [23.2599, 77.4126]

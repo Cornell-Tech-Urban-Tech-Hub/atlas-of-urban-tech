@@ -1,16 +1,25 @@
 ---
-layout: Yichao Cui
-name: Masdar City
-city: 17 kilometres (11 mi) east-south-east of the city of Abu Dhabi
-country: United Arab Emirates
-latitude: 24°25′45″N
-longitude: 54°37′6″E
+title: Masdar City
+description: Case study for Smart Cities Course
+status: Complete
+author: Yichao Cui
+type: district
+city: Amsterdam
+country_code: AUH
+centroid: [24.4666, 54.3666]
 year_start: 2008
-year_completed: Ongoing, expected completion in 2030
-tags: 
+year_completed: 2030
+featured_image: 
+featured_alt: 
+featured_credit: 
+tags:
   - renewables
   - cleantech
+geography: 
+geography_caption: 
 ---
+
+
 
 ## Overview
 

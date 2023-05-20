@@ -1,9 +1,9 @@
 ---
 title: Montreal Smart City Initiatives
 description: An overview of Montreals AI innovation ecosystem, and it's impact on Montreals smart city programs. 
-status: Draft
+status: Complete
 author: Olena Bogdanov 
-type: example
+type: plan
 city: Montreal 
 country_code: CAN 
 centroid: [-73.5560000538157,45.519286941506806]

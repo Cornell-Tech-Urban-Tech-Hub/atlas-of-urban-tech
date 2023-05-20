@@ -1,9 +1,9 @@
 ---
-title: Case Study Ōtautahi-Christchurch
+title: Ōtautahi-Christchurch
 description: Christchurch City Council Draft Smart Christchurch Strategy
-status: Draft
+status: Complete
 author: Elizabeth Pysher
-type: case
+type: plan
 city: Ōtautahi-Christchurch
 country_code: NZL
 centroid: [-43.532055, 172.636230]

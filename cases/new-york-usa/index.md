@@ -1,10 +1,9 @@
 ---
-
 title: NYC IoT Strategy
 description: The New York City's Internet of Things (IoT) Strategy is a comprehensive blueprint designed by the NYC Office of Technology and Innovation to leverage the potential of IoT technologies and enhance the quality of life for its inhabitants.
-status: completed
+status: Complete
 author: Zhengfei Xiang
-type: example
+type: plan
 city: New York
 country_code: USA
 centroid: [40.712778, -74.006111]

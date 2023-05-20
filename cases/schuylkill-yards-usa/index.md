@@ -1,9 +1,9 @@
 ---
 title: Schuylkill Yards
 description: Case study for Schuylkill Yards
-status: Final
+status: Complete
 author: Matthew Shen
-type: City District
+type: district
 city: Philadelphia
 country_code: USA
 centroid: [39.955457, -75.183871]

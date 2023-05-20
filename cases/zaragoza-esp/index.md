@@ -1,9 +1,9 @@
 ---
 title: Zaragoza Milla Digital
 description: Case Study of the Digital Mile Project located in Zaragoza, Spain.
-status: Completed
+status: Complete
 author: Michele Chen
-type: case
+type: district
 city: Zaragoza
 country_code: ES
 centroid: [41.656841, -0.879420]

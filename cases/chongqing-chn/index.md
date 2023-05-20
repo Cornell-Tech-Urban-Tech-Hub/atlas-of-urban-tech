@@ -1,9 +1,9 @@
 ---
-title: Chongqing Case Study
+title: Chongqing
 description: A general case study on the city Chongqing's data governance "14th Five-Year Plan" (2021-2025)
-status: Review
+status: Complete
 author: Yuxuan Zhang
-type: example
+type: plan
 city:  Chongqing
 country_code: CHN
 centroid: [29.5637, 106.5504]

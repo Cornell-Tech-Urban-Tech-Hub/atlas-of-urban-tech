@@ -1,9 +1,9 @@
 ---
-title: Case Study Busan Eco Delta Smart City
+title: Busan Eco Delta Smart City
 description: Busan Eco Delta Smart City, a national pilot project, is set to revolutionize urban living in Gangseo-gu, Busan. The 2,773 m2 area, with a planned population of 8,500 people, will be equipped with the latest in 4IR technology to provide a balanced and inclusive society for all citizens. With a budget of 2.2 trillion won, the city will offer 10 innovative services including smart water, healthcare, mobility, and safety, while creating clusters for five innovative industries. The aim is to create a leading smart city model that provides a sustainable and high-quality life for future generations.
-status: Final
+status: Complete
 author: Haiyue Xi
-type: example
+type: district
 city: Busan
 country_code: KOR
 centroid: [35.097000, 129.008100]

@@ -1,9 +1,9 @@
 ---
-title: Barangaroo Case Study
+title: Barangaroo
 description: Analysis of a mixed-use urban district in Sydney, Australia
-status: Final
+status: Complete
 author: Divya Vedula
-type: case
+type: district
 city: Barangaroo Smart City
 country_code: AUS
 centroid: [-33.51, 151.12]

@@ -3,7 +3,7 @@ title: Philadelphia 5-Year Digital Equity Plan
 description: Lorem ipsum dolor sit amet
 status: Complete
 author: Nakia Kenon
-type: case
+type: plan
 city: Philadelphia
 country_code: USA
 centroid: [39.952583, -75.165222]

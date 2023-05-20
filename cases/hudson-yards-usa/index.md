@@ -3,7 +3,7 @@ title: Hudson Yards
 description: The largest mixed-use private real estate development in US history. 
 status: Complete
 author: Zain Abdelrazeq
-type: Case
+type: district
 city: New York
 country_code: USA
 centroid: [42.196308, -73.777328]
@@ -13,8 +13,6 @@ featured_image: ./hudson2.jpg
 featured_alt: Hudson Yards, a $25B mixed-use development
 featured_credit: Zain Abdelrazeq
 tags:
-  - Code
-  - Markdown
 geography: ./hudson-yards-usa.geojson
 geography_caption: 
 ---
