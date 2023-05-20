@@ -25,9 +25,10 @@ geography_caption: Christchurch City
 
 The Smart Christchurch Strategy was released and adopted by the Christchurch City Council in 2022 to “see Ōtautahi-Christchurch’s reputation build, so that when people “think innovation, they think Christchurch” - a city where anything is possible.” (p 22.) The Strategy showcases projects underway or completed and sets intentions to create further programs throughout the following three years.
 
-![Alt Text / Christchurch Cathedral in 2019](./Christchurch_Cathedral_2019.jpg"Personal Photograph")
+![Alt Text / Christchurch Cathedral in 2019](./Christchurch_Cathedral_2019.jpg "Personal Photograph")
 
-### Relevant Timeline
+
+### Timeline
 #### **2010-11:** Earthquakes 
 Multiple earthquakes of magnitude 7 damaging or destroying 90% of Christchurch’s CBD and infrastructure.
 #### **2013-15:** [Sensing City](https://www.arup.com/news-and-events/worldfirst-sensing-city-project-launched)
@@ -73,7 +74,7 @@ The Strategy is highly people and community centered. Page 13 states, “Smart C
 ## Goals and Aspirations
 
 <!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
-![Alt Text / Christchurch City Council Smart Christchurch Community Outcomes](./Smart_Cities_Strategy_Community_Outcomes.jpg"Christchurch City Council")
+![Alt Text / Christchurch City Council Smart Christchurch Community Outcomes](./Smart_Cities_Strategy_Community_Outcomes.jpg "Christchurch City Council")
 
 **Achieve & Advance**.  The main themes of the Strategy aim to inform residents, attract technical talent, summarize past efforts, and create a framework for future interventions. The Strategy describes Ōtautahi-Christchurch’s accomplishments since the earthquakes and defines intended advancements in supporting and growing their Smart Cities ecosystem. 
 
@@ -86,7 +87,7 @@ Page 17 states, “In conjunction with other councils we have been working to cr
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
-![Alt Text / Christchurch City Council Smart Christchurch Interventions](./Smart_Cities_Strategy_Interventions.jpg"Christchurch City Council")
+![Alt Text / Christchurch City Council Smart Christchurch Interventions](./Smart_Cities_Strategy_Interventions.jpg "Christchurch City Council")
 
 **Data Dissemination**. Ōtautahi-Christchurch participates in a cross-agency data sharing trial and the Council’s [SmartView](https://smartview.ccc.govt.nz/) web-based app aggregates and displays data from public and private organisations. SmartView’s replication strategy is to extend into their regions and expand nationally.
 
@@ -96,9 +97,9 @@ New Zealand’s Climate Tech investment continues to grow both locally and natio
 
 **Seismic Sensors**.  New Zealand is prone to earthquakes due to being located on the boundary between the Pacific and Australian tectonic plates. [Sentinel](https://sentinel.net.nz/) is a network of more than 150 seismological and geophysical sensors across Ōtautahi-Christchurch to manage earthquake response in real-time. In 2020, Sentinel began a [trial with the Wellington City Council](https://wellington.govt.nz/news-and-events/news-and-information/our-wellington/2020/07/seismic-sensor-network-trial) of approximately 100 sensors in Wellington using Canterbury Seismic Instruments](https://www.csi.net.nz/).
 
-![Alt Text / Christchurch Cardboard Cathedral Exterior](./Christchurch_Cardboard_Cathedral_Exterior_2019.jpg"Personal Photograph")
+![Alt Text / Christchurch Cardboard Cathedral Exterior](./Christchurch_Cardboard_Cathedral_Exterior_2019.jpg "Personal Photograph")
 
-![Alt Text / Christchurch Cardboard Cathedral Interior](./Christchurch_Cardboard_Cathedral_Interior_2019.jpg"Personal Photograph")
+![Alt Text / Christchurch Cardboard Cathedral Interior](./Christchurch_Cardboard_Cathedral_Interior_2019.jpg "Personal Photograph")
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
