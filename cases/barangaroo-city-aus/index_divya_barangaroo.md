@@ -16,6 +16,7 @@ tags:
   - Energy Efficiency
   - Sustainability
   - Smart Infrastructure
+  - Urban Renewal
 geography: ./map.geojson
 geography_caption: Barangaroo Smart City
 ---
