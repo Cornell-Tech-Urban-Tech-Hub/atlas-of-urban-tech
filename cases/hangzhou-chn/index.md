@@ -51,10 +51,9 @@ Close cooperation with mainly one technology vendor. The vibrant technology scen
 
 ## Technology Interventions
 
-**Smart Traffic **.
-Hangzhou's smart traffic management system, popularly known as the "City Brain," has been launched to improve urban traffic control through the use of AI and big data. The system collects real-time data from various sources such as traffic lights, cameras, and vehicle GPS systems to monitor and manage the flow of traffic. With its intelligent algorithms, the system can adjust traffic light timings to reduce congestion, identify optimal routes for emergency vehicles, and even detect traffic violations. This advanced technology is expected to contribute significantly to creating a safer and more efficient urban environment.
+**Smart Traffic**. Hangzhou's smart traffic management system, popularly known as the "City Brain," has been launched to improve urban traffic control through the use of AI and big data. The system collects real-time data from various sources such as traffic lights, cameras, and vehicle GPS systems to monitor and manage the flow of traffic. With its intelligent algorithms, the system can adjust traffic light timings to reduce congestion, identify optimal routes for emergency vehicles, and even detect traffic violations. This advanced technology is expected to contribute significantly to creating a safer and more efficient urban environment.
 
-**Digitalziation of Governement Service**. 
+**Digitalization of Governement Service**. 
 The centralization of the database serves as the foundation for digitalizing government services. When the data is siloed between departments, a citizen might need to visit many different departments to get verification and approval for a simple task. With the centralization of data, every department has the required data to help citizens accomplish the task without sending them to other departments.
 
 **COVID-19 Health Code**.
@@ -66,14 +65,10 @@ The centralization of the database serves as the foundation for digitalizing gov
 ## Stakeholders
 
 **Government**. 
-Government plays a leading role in proposing the main goals of the project and coordinating different parties involved.
-
- [Hangzhou Government](http://www.hangzhou.gov.cn/)
+Government plays a leading role in proposing the main goals of the project and coordinating different parties involved. [Hangzhou Government](http://www.hangzhou.gov.cn/)
 
 **Alibaba**. 
-As the main technology vendor of the city, Alibaba helps implement Hangzhou Smart Brain. After the onset of the project, the Hangzhou government and Alibaba established a joint venture to handle the development.
-
-[Alibaba Cloud](us.alibabacloud.com)
+As the main technology vendor of the city, Alibaba helps implement Hangzhou Smart Brain. After the onset of the project, the Hangzhou government and Alibaba established a joint venture to handle the development. [Alibaba Cloud](us.alibabacloud.com)
 
 **Citizen**. 
 Citizens are the primary users and beneficiaries of the improved public services and quality of life these initiatives offer. Their feedback, engagement, and adoption of new technologies are crucial for the success and sustainability of smart city transformations.
@@ -143,7 +138,7 @@ Without public active engagement during the process of designing, planning, and 
 
 ### Secondary Sources
 
--https://www.ourchinastory.com/zh/4614/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%EF%BD%9C%E6%9D%AD%E5%B7%9E%E9%A6%96%E5%89%B5%E3%80%8C%E5%9F%8E%E5%B8%82%E5%A4%A7%E8%85%A6%E3%80%8D%20%E6%9C%89%E4%BD%95%E7%A5%9E%E5%A5%87%E4%B9%8B%E8%99%95%EF%BC%9F
+- https://www.ourchinastory.com/zh/4614/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%EF%BD%9C%E6%9D%AD%E5%B7%9E%E9%A6%96%E5%89%B5%E3%80%8C%E5%9F%8E%E5%B8%82%E5%A4%A7%E8%85%A6%E3%80%8D%20%E6%9C%89%E4%BD%95%E7%A5%9E%E5%A5%87%E4%B9%8B%E8%99%95%EF%BC%9F
 - https://hznews.hangzhou.com.cn/chengshi/content/2017-11/20/content_6719481_0.htm
 - http://m.cnr.cn/news/20170529/t20170529_523777609.html
 - https://ongloballeadership.com/f/hangzhou-a-smart-city-practice

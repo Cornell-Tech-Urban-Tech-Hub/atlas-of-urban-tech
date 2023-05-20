@@ -104,52 +104,22 @@ By utilizing smart technology in energy management, the City graps the essence o
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
 
-**1. The Abu Dhabi Government.**
+**The Abu Dhabi Government.**
 The Abu Dhabi government is the key stakeholder of Masdar City. The Abu Dhabi government provides the majority of funds, guides the development of the City, and supervises the whole project[1]. From designing and building Masdar City, the Abu Dhabi government hopes to learn how to build a sustainable city that is independent from oil in the long term[1].
-Based on this study's current research, although the Abu Dhabi government consulted external agencies as stakeholders, there is still little transparency of their consultation with external stakeholders. It is unclear how the Abu Dhabi government made decisions based on both quantitative and qualitative evidence. 
+Based on this study's current research, although the Abu Dhabi government consulted external agencies as stakeholders, there is still little transparency of their consultation with external stakeholders. It is unclear how the Abu Dhabi government made decisions based on both quantitative and qualitative evidence. [Abu Dhabi Government](https://www.abudhabi.gov.ae)
 
+**Residents.**
+Residents are an important stakeholder of Masdar City. Current and future residents of Masdar City work and live in the City are beneficiaries of Masdar City's technologies. However, the power of residents might not be fully established yet, since the City is currently lightly occupied when compared to its ambitious goal of 50,000 people. [Residents](https://masdarcity.ae)
 
-[Abu Dhabi Government](https://www.abudhabi.gov.ae)
+**Business Owners.**
+Business owners are an important stakeholder of Masdar City. Businesses are essential to determine whether the City's model is commercially viable and sustainable - these businesses are expected to further the City's objectives on sustainability by contributing to innovations on green energy and clean technologies. Businesses are selected according to whether they are aligned with the City's vision on sustainsbility; they also partner with the City by exchanging knowledge and sharing the ecosystem that fosters technological innovations[2]. As the City sets up Masdar City Free Zone and The Catalyst, it has attracted big corporations, such as Siemens, Lockheed Martin, and Honeywell, and startups to become its corporate tenants[5]. The City currently has more than 450,000 m² of completed buildings fully leased and occupied by businesses of all sizes. [Lockheed Martin](https://www.lockheedmartin.com/en-ae/index.html) - [Honeywell](https://www.honeywell.com/ae/en) - [Alpin Limited](https://www.alpinme.com/contact/)
 
-**2. Residents.**
-Residents are an important stakeholder of Masdar City. Current and future residents of Masdar City work and live in the City are beneficiaries of Masdar City's technologies. However, the power of residents might not be fully established yet, since the City is currently lightly occupied when compared to its ambitious goal of 50,000 people.
-
-
-[Residents](https://masdarcity.ae)
-
-**3. Business Owners.**
-Business owners are an important stakeholder of Masdar City. Businesses are essential to determine whether the City's model is commercially viable and sustainable - these businesses are expected to further the City's objectives on sustainability by contributing to innovations on green energy and clean technologies. Businesses are selected according to whether they are aligned with the City's vision on sustainsbility; they also partner with the City by exchanging knowledge and sharing the ecosystem that fosters technological innovations[2]. As the City sets up Masdar City Free Zone and The Catalyst, it has attracted big corporations, such as Siemens, Lockheed Martin, and Honeywell, and startups to become its corporate tenants[5]. The City currently has more than 450,000 m² of completed buildings fully leased and occupied by businesses of all sizes.
-
-
-[Lockheed Martin](https://www.lockheedmartin.com/en-ae/index.html)
-
-
-[Honeywell](https://www.honeywell.com/ae/en)
-
-
-[Alpin Limited](https://www.alpinme.com/contact/)
-
-**4. Developer.**
+**Developer.**
 The developer is an important stakeholder of Masdar City. The developer is deeply involved in Masday City's development and construction. Masdar City's developer consists of two companies, both of which have the government of Abu Dhabi as the sole shareholder.
-According to their official website, Masdar-Abu Dhabi Future Energy Company was established in 2006. Masdar-Abu Dhabi Future Energy Company is a UAE-government owned renewable energy company. The company is involved in not only renewable energy projects, including solar power projects, wind power projects, and waste-to-energy projects, but also Masdar City as a sustainable urban developmenet project. Established in 2002, the Mubadala Development Company is a sovereign wealth fund that aims to create sustainable and diversified financial returns for Abu Dhabi. The company makes local and international investments in private, public, cash, real estate and infrastructure, alternatives, and credit. Starting from 2017, the Mubadala Development Company operates as the Mubadala Investment Company.
+According to their official website, Masdar-Abu Dhabi Future Energy Company was established in 2006. Masdar-Abu Dhabi Future Energy Company is a UAE-government owned renewable energy company. The company is involved in not only renewable energy projects, including solar power projects, wind power projects, and waste-to-energy projects, but also Masdar City as a sustainable urban developmenet project. Established in 2002, the Mubadala Development Company is a sovereign wealth fund that aims to create sustainable and diversified financial returns for Abu Dhabi. The company makes local and international investments in private, public, cash, real estate and infrastructure, alternatives, and credit. Starting from 2017, the Mubadala Development Company operates as the Mubadala Investment Company. [Masdar-Abu Dhabi Future Energy Company](https://masdar.ae) - [Mubadala Development Company](https://www.mubadala.com)
 
-
-[Masdar-Abu Dhabi Future Energy Company](https://masdar.ae)
-
-
-[Mubadala Development Company](https://www.mubadala.com)
-
-**5. Education and Research Institutions.**
-Education and research nstitutions are an important stakeholder of Masdar City. Masdar City is home to several universities and research institutions, including Khalifa University (original name as Masdar Institute) and The International Renewable Energy Agency (IRENA) Innovation and Technology Center. Furthermore, MIT has a graduate research facility in Masdar Institute focusing on alternative energy, sustainability, and advanced technologies. These institutions are involved in state-of-art research on green technology and renewable energy. These institutions collaborate closely with the City on research and knowledge exchange in green energy and sustainable technology.
-
-
-[Khalifa University](https://www.ku.ac.ae)
-
-
-[The International Renewable Energy Agency (IRENA) Innovation and Technology Center](https://www.irena.org)
-
-
-[MIT and Masdar Institute Cooperative Program](https://web.mit.edu/mit-mi-cp/)
+**Education and Research Institutions.**
+Education and research nstitutions are an important stakeholder of Masdar City. Masdar City is home to several universities and research institutions, including Khalifa University (original name as Masdar Institute) and The International Renewable Energy Agency (IRENA) Innovation and Technology Center. Furthermore, MIT has a graduate research facility in Masdar Institute focusing on alternative energy, sustainability, and advanced technologies. These institutions are involved in state-of-art research on green technology and renewable energy. These institutions collaborate closely with the City on research and knowledge exchange in green energy and sustainable technology. [Khalifa University](https://www.ku.ac.ae) - [The International Renewable Energy Agency (IRENA) Innovation and Technology Center](https://www.irena.org) - [MIT and Masdar Institute Cooperative Program](https://web.mit.edu/mit-mi-cp/)
 
 ## Leadership
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->

@@ -34,21 +34,15 @@ Hudson Yards, a $25 billion project, emerged from New York City's unsuccessful b
 
 **Sustainability**.  Hudson Yards incorporates sustainability at the heart of its design and planning. Key buildings hold LEED certification, exemplifying commitment to eco-friendly practices. The site employs energy-efficient features such as advanced HVAC systems, intelligent building management systems, and energy-saving lighting to minimize greenhouse gas emissions and conserve energy.
 
-A notable feature of the development is its microgrid, which uses combined heat and power (CHP) system to capture and resuse waste heat from electricty production. Although it relies on fossil fuel, this independent energy system improves energy reliability, reduces overall energy costs, and decreases carbon emissions by optimizing energy production and distribution. The enhanced reliability and resilience ensures a continuous power supply even during broader grid outages. 
+- A notable feature of the development is its microgrid, which uses **combined heat and power (CHP) system** to capture and resuse waste heat from electricty production. Although it relies on fossil fuel, this independent energy system improves energy reliability, reduces overall energy costs, and decreases carbon emissions by optimizing energy production and distribution. The enhanced reliability and resilience ensures a continuous power supply even during broader grid outages. 
 
-Water sustainability measures, such as green roofs, rainwater harvesting systems, and permeable pavements manage stormwater runoff, which ease the strain on city sewers and minimize water pollution.
+- Water sustainability measures, such as green roofs, rainwater harvesting systems, and permeable pavements manage stormwater runoff, which ease the strain on city sewers and minimize water pollution.
 
-Public spaces are designed to promote greenery, open areas, and pedestrian accessibility, enhancing urban biodiversity and contributing to a healthier city environment. The development is also well-integrated into the city's transportation infrastructure, encouraging public transport use.
+- Public spaces are designed to promote greenery, open areas, and pedestrian accessibility, enhancing urban biodiversity and contributing to a healthier city environment. The development is also well-integrated into the city's transportation infrastructure, encouraging public transport use.
 
-While Hudson Yards has made appreciable strides in sustainability, there is room for advancements, including wider use of renewable energy and stricter sustainability standards. 
+While Hudson Yards has made appreciable strides in sustainability, there is room for advancements, including wider use of renewable energy and stricter sustainability standards. Nevertheless, Hudson Yards stands as an environmentally conscious development in the urban landscape of New York City.
 
-Nevertheless, Hudson Yards stands as an environmentally conscious development in the urban landscape of New York City.
-
-**Accessibility and Connectivity**. Hudson Yards promotes easy, sustainable commuting and a connected urban environment 
-
-Strategically located, Hudson Yards provides diverse, accessible transport options. Adjacent to Penn Station, one of NYC's busiest transit hubs, it offers direct access to multiple subway lines, commuter trains, and buses. The extension of the 7 Subway Line to 34th Street-Hudson Yards subway station within the development, further enhances connectivity.
-
-Several bus routes serve Hudson Yards, linking it to various Manhattan neighborhoods and other boroughs. The development's design promotes pedestrian-friendly sidewalks, crosswalks, and plazas. Additionally, it supports eco-friendly commuting through robust bicycle infrastructure, including bike lanes, parking facilities, and sharing stations.
+**Accessibility and Connectivity**. Hudson Yards promotes easy, sustainable commuting and a connected urban environment. Strategically located, Hudson Yards provides diverse, accessible transport options. Adjacent to Penn Station, one of NYC's busiest transit hubs, it offers direct access to multiple subway lines, commuter trains, and buses. The extension of the 7 Subway Line to 34th Street-Hudson Yards subway station within the development, further enhances connectivity. Several bus routes serve Hudson Yards, linking it to various Manhattan neighborhoods and other boroughs. The development's design promotes pedestrian-friendly sidewalks, crosswalks, and plazas. Additionally, it supports eco-friendly commuting through robust bicycle infrastructure, including bike lanes, parking facilities, and sharing stations.
 
 ## Goals and Aspirations
 

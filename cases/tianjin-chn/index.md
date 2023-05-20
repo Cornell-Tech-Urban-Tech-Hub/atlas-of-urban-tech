@@ -33,7 +33,7 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Mix use**.  A very important characteristic of new centry smart cities is the business, commercial, recreation, and residential mix-use of its spaces, this helps diverse and interesting lifestyle to emerge as it empowers residence with more connecticity in their everyday life. The Eco-Cell, Eco-Community, and Eco-District modular hierarchy convinient zone allows everybody to find essential services within their 15-minutes walking cell, and all means of recreation within their neighborhood.
+**Mixed-use**.  A very important characteristic of new centry smart cities is the business, commercial, recreation, and residential mixed-use of its spaces, this helps diverse and interesting lifestyle to emerge as it empowers residence with more connecticity in their everyday life. The Eco-Cell, Eco-Community, and Eco-District modular hierarchy convinient zone allows everybody to find essential services within their 15-minutes walking cell, and all means of recreation within their neighborhood.
 
 ![Alt Text / Modular Neighborhood Concept](./masterplan.jpg "Masterplan (Unsplash)")
 
@@ -59,7 +59,7 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. --->
 
-**Green oriented building design**: Extensive use of new recyclable construction material. Usage of Argon glass to improve insulation, optimizing building design and orientation to provide adjustable sunlight heating, seasonal variable natural ventilation, and natural light coverage. Integration of green walls with vegetation to naturally improve indoor air quality.
+**Green-oriented building design**: Extensive use of new recyclable construction material. Usage of Argon glass to improve insulation, optimizing building design and orientation to provide adjustable sunlight heating, seasonal variable natural ventilation, and natural light coverage. Integration of green walls with vegetation to naturally improve indoor air quality.
 
 Building water usage is monitored, with rain-water harvesting and reuse system fully built in. Renewable energy collection system built in buildings. Water and power resources usage and recycling are monitored and controlled in a single platform.
 
@@ -117,7 +117,7 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 
 ![Alt Text / logo](./susgoal.jpg "logo(Unsplash)")
 
-**Gaining 140000 new residents as of 2023**:  Although the real-estate market is currently very low in China, it did not change the fact that the Eco-City is a very popular destination for people to move to. As of 2023, the population of permanent residents reached 140000, compared to 120000 in 2022. The Eco-City is also on-track in building a population foundation for future expansion. There are 34 schools and kindergardens in the city, serving 23400 students, which made close to 20% of the total population. These are indicators that the Eco-City has plenty of potential to continue developing in future.
+**Gaining 140,000 new residents as of 2023**:  Although the real-estate market is currently very low in China, it did not change the fact that the Eco-City is a very popular destination for people to move to. As of 2023, the population of permanent residents reached 140000, compared to 120000 in 2022. The Eco-City is also on-track in building a population foundation for future expansion. There are 34 schools and kindergardens in the city, serving 23400 students, which made close to 20% of the total population. These are indicators that the Eco-City has plenty of potential to continue developing in future.
 
 **The nature is truly a good feature for residents**:  Using [Zhihu](https://www.zhihu.com/), a platform similar to Reddit and Quora for the Chinese language internet, I viewed the posts by residents of the Eco-City related to how they live their life in the Eco-City. Although there are aspects in living there that troubles the residents, most of they found high coverage of vegetation and natural landscape extremely valuable. The post below is from a young lady who moved to the Eco-City two years ago, she has already bought a house and is actively getting ready to move in. She senses an oceanside vacation town vibe in the Eco-City, which gives her great comfort in everyday living. 
 

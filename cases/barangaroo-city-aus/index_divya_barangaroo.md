@@ -8,7 +8,7 @@ city: Barangaroo Smart City
 country_code: AUS
 centroid: [-33.8638, 151.2015]
 year_start: 2007
-year_completed: Ongoing
+year_completed:
 featured_image: ./dan-freeman-7Zb7kUyQg1E-unsplash.jpg
 featured_alt: Sydney Skyline
 featured_credit: Dan Greeman (Unsplash)

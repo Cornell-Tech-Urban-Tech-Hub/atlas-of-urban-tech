@@ -1,7 +1,7 @@
 ---
 title: Amsterdam Marineterrein Case Study
 description: Case study for Smart Cities Course
-status: Complete
+status: Review
 author: Daan van der Zwaag
 type: district
 city: Amsterdam
@@ -50,12 +50,11 @@ The Marineterrein, situated in the heart of Amsterdam, the Netherlands, is an em
 
 **Promote sustainability and resilience** - The district aims to boost sustainable and resilient practices via green infrastructure, principles of a circular economy, and renewable energy sources.
 
-**Promote community engagement and co-creation ** - The area aims to interact with the community through various channels like public events, workshops, and open houses, while also co-creating solutions for urban challenges alongside residents and stakeholders.
+**Promote community engagement and co-creation** - The area aims to interact with the community through various channels like public events, workshops, and open houses, while also co-creating solutions for urban challenges alongside residents and stakeholders.
 
-**Implement smart infrastructure **- The goal is to employ smart infrastructure to cultivate more efficient, sustainable, and liveable urban environments by leveraging renewable energy sources, intelligent mobility systems, and data-driven solutions.
+**Implement smart infrastructure**- The goal is to employ smart infrastructure to cultivate more efficient, sustainable, and liveable urban environments by leveraging renewable energy sources, intelligent mobility systems, and data-driven solutions.
 
-
-**Prioritize accessibility and inclusivity ** - Creating a barrier-free environment that is accessible and welcoming to all residents and visitors, irrespective of their backgrounds or abilities. This well-thought accesiblity is achieved through participatory design processes, community programmes, and accessible infrastructure and public spaces.
+**Prioritize accessibility and inclusivity** - Creating a barrier-free environment that is accessible and welcoming to all residents and visitors, irrespective of their backgrounds or abilities. This well-thought accesiblity is achieved through participatory design processes, community programmes, and accessible infrastructure and public spaces.
 
 
 ## Technology Interventions

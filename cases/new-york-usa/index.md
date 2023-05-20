@@ -9,9 +9,9 @@ country_code: USA
 centroid: [40.712778, -74.006111]
 year_start: 2019
 year_completed: 2050
-featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
+featured_image: ./nycskyline.jpeg
 featured_alt: New York City Skyline
-featured_credit: Hannah Busing (Unsplash)
+featured_credit:
 tags:
   - Code
   - Markdown

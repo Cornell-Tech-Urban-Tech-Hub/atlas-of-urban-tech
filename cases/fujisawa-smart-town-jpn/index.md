@@ -78,7 +78,7 @@ The information terminal is also connected to other aspects of the town and can 
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
 
-**Pansonic**.  Panasonic is a global leader in developing and manufacturing home appliances and, more recently, home automation. Panasonic is the leader of the Fujisawa SST initiative, aiming to create secure, eco-friendly, and comfortable communities. [Panasonic](https://na.panasonic.com/us/)
+**Panasonic**.  Panasonic is a global leader in developing and manufacturing home appliances and, more recently, home automation. Panasonic is the leader of the Fujisawa SST initiative, aiming to create secure, eco-friendly, and comfortable communities. [Panasonic](https://na.panasonic.com/us/)
 
 **City of Fujisawa**.  The city government of Fujisawa is looking to address growing problems in the surrounding region and Japan as a whole, including an aging population and increased air and water pollution. Fujisawa launched an initiative to develop a town in harmony with the surrounding environment and chose Panasonic’s bid to create a model project. [City of Fujisawa](http://www.city.fujisawa.kanagawa.jp/)
 
@@ -114,7 +114,7 @@ Panasonic expects new technologies to revolutionize smart cities further. For ex
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
 
-**Financing Scheme**. The town was initially built from a $500 million (USD) investment in a public-private partnership between Panasonic, other members of the Fujisawa SST Council, and the Fujisawa government. While limited information is publicly available, the town has recouped real estate investment from housing sales. It continues to make money by investing in town management services and excess energy sales, which generate recurring income for the town and Panasonic. This recurring income has allowed for the planning and development of town expansions and new infrastructure. Panasonic continues to make small investments in the town each year, prioritizing investments that will last a long time, such as weather-resistant and durable solar panels.
+**Public-Private Partnership**. The town was initially built from a $500 million (USD) investment in a public-private partnership between Panasonic, other members of the Fujisawa SST Council, and the Fujisawa government. While limited information is publicly available, the town has recouped real estate investment from housing sales. It continues to make money by investing in town management services and excess energy sales, which generate recurring income for the town and Panasonic. This recurring income has allowed for the planning and development of town expansions and new infrastructure. Panasonic continues to make small investments in the town each year, prioritizing investments that will last a long time, such as weather-resistant and durable solar panels.
 
 
 ## Outcomes

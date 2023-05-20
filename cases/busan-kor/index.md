@@ -8,7 +8,7 @@ city: Busan
 country_code: KOR
 centroid: [35.097000, 129.008100]
 year_start: 2012
-year_completed: Under Constrcution
+year_completed:
 featured_image: ./ch-9deej2hTRrY-unsplash.jpeg
 featured_alt: Busan Eco Delta City
 featured_credit: chɑɒµͻ (Unsplash)
