@@ -7,7 +7,9 @@ latitude: 24°25′45″N
 longitude: 54°37′6″E
 year_start: 2008
 year_completed: Ongoing, expected completion in 2030
-tags: Renewable energy resources; hub for cleantech companies; city in desert.
+tags: 
+  - renewables
+  - cleantech
 ---
 
 ## Overview
