@@ -1,7 +1,7 @@
 ---
 title: Montreal Smart City Initiatives
 description: An overview of Montreals AI innovation ecosystem, and it's impact on Montreals smart city programs. 
-status: Complete
+status: Review
 author: Olena Bogdanov 
 type: plan
 city: Montreal 
@@ -30,7 +30,7 @@ What makes a good innovation ecosystem? According to research on the topic, many
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-****.  Montreals Smart and Digital City Action Plan focuses on improving Quality of Life and improving economic development. What are the specifics? 
+** Montreal's Smart and Digital City Action Plan focuses on improving Quality of Life and improving economic development. What are the specifics? **
 
 **City as a Lab**.  Montreal's innovation community experiments with concrete solutions to problems of mobility, food, and municipal regulations. This program makes it possible to quickly implement concreate solutions imagined by the community to test them with citizens. 
 
@@ -67,7 +67,7 @@ On the legal front, Montreal has displayed an unwavering dedication to ensuring 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
-![Innovation Ecosystem](./0001.png) 
+![Innovation Ecosystem](./0001.jpg) 
 
 **Industry**.  Industry stakeholders are companies and businesses directly involved in or affected by the implementation of the smart city plan. This group includes tech companies who design and produce smart technologies (IoT devices, sensors, AI software, data analytics tools, etc.), construction and infrastructure firms who are responsible for integrating these technologies into the city's physical infrastructure, telecommunication companies, energy providers, and transport organizations. They stand to gain from new business opportunities that arise as a result of the city's transformation. Their innovations, expertise, and resources are critical to driving the smart city initiative forward. For instance, with its AI-focused research lab, Microsoft Research Montreal, the tech giant is a key stakeholder in the city's AI initiatives. And, in 2019, DeepMind announced the opening of a new research lab in Montreal, further solidifying the city's status as a global AI hub. [Google Deepmind](https://www.deepmind.com/)
 

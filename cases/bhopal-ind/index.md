@@ -25,9 +25,7 @@ geography_caption: Optional Caption for the geograhic information.
 
 The Bhopal Smart City project was initiated with the aim of transforming Bhopal, the capital city of Madhya Pradesh in India, into a technologically advanced and sustainable urban center. The project was part of the Indian government's Smart Cities Mission, which was launched in 2015 with the objective of developing 100 smart cities across the country. Smart Cities Mission envisions developing an area within the cities as a model area based on an area development plan, which is expected to have a rub off effect on other parts of the city, and nearby towns.
 
-Cities were selected based on the Smart Cities challenge, where cities submitted their Smart City Proposal (SCP) in a countrywide competition to obtain the benefits from this mission. Bhopal was selected on 28th Jan 2016 in Phase 1 which comprised of the first 20 cities.  
-SCP copy available at:
-https://smartnet.niua.org/content/86fbb1fa-155a-4a6f-a6b5-e6484c51e8a7
+Cities were selected based on the Smart Cities challenge, where cities submitted their Smart City Proposal (SCP) in a countrywide competition to obtain the benefits from this mission. Bhopal was selected on 28th Jan 2016 in Phase 1 which comprised of the first 20 cities. A copy of the SCP proposal is available [here](https://smartnet.niua.org/content/86fbb1fa-155a-4a6f-a6b5-e6484c51e8a7).
 
 ## Key Characteristics
 
@@ -36,11 +34,11 @@ https://smartnet.niua.org/content/86fbb1fa-155a-4a6f-a6b5-e6484c51e8a7
 
 **Infrastructure Development**. The project focuses on improving and modernizing the city's physical infrastructure, including transportation systems, water supply, sanitation, waste management, and electricity distribution. This involves the implementation of advanced technologies to optimize resource utilization and enhance efficiency.
 
-** Technology Integration**. The project aims to leverage technology to enhance the quality of life for the residents of Bhopal. This includes the integration of smart systems and solutions in various sectors such as governance, healthcare, education, public safety, and citizen services. For example, implementing integrated central command and control (ICCC), smart grid systems for efficient energy management, deploying intelligent traffic management systems, and setting up e-governance platforms for better service delivery.
+**Technology Integration**. The project aims to leverage technology to enhance the quality of life for the residents of Bhopal. This includes the integration of smart systems and solutions in various sectors such as governance, healthcare, education, public safety, and citizen services. For example, implementing integrated central command and control (ICCC), smart grid systems for efficient energy management, deploying intelligent traffic management systems, and setting up e-governance platforms for better service delivery.
 
-** Sustainable Development**. The Bhopal Smart City project emphasizes sustainable urban development. This involves installation of solar panels across lake bank, earmarking biking streets for shared biking, and effective waste management. This promotes green initiatives, energy efficiency and creates a more livable environment while reducing the city's carbon footprint.
+**Sustainable Development**. The Bhopal Smart City project emphasizes sustainable urban development. This involves installation of solar panels across lake bank, earmarking biking streets for shared biking, and effective waste management. This promotes green initiatives, energy efficiency and creates a more livable environment while reducing the city's carbon footprint.
 
-** Startup Incubation**. B-Nest (bnest.in) is the subsidiary of BSCDCL. In B-Nest young entrepreneurs are nurtured by providing them with mentorship, office space, workstation, and network connectivity. Bnest also helps startups understand Central government’s seed funding programs. Startups are selected through competition and hackathons.
+**Startup Incubation**. B-Nest (bnest.in) is the subsidiary of BSCDCL. In B-Nest young entrepreneurs are nurtured by providing them with mentorship, office space, workstation, and network connectivity. Bnest also helps startups understand Central government’s seed funding programs. Startups are selected through competition and hackathons.
 
 ## Goals and Aspirations
 
