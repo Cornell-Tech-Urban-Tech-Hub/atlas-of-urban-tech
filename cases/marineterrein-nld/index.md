@@ -9,7 +9,7 @@ country_code: NLD
 centroid: [52.373889, 4.916667]
 year_start: 1655
 year_completed: 2022
-featured_image: ./marineterrein-nld_header.jpg
+featured_image: ./img-context_4.jpg
 featured_alt: Aerial Picture of the Marineterrein district located in Amsterdam the Netherlands
 featured_credit: Gemeente Amsterdam (Public Domain)
 tags:
@@ -27,6 +27,8 @@ geography_caption: Optional Caption for the geograhic information.
 
 The Marineterrein, situated in the heart of Amsterdam, the Netherlands, is an emerging hub of innovation and urban development. Once serving as a military base, this area has become an exhilarating community that doubles as a living laboratory for urban technology and sustainability. As a shining example of a New Century City, the Marineterrein district manifests several unique aspects that distinguish it from typical urban surroundings. This case study delves into how the innovation district in the centre of Amsterdam incorporates adaptability, sustainability, technological innovation, collaboration, and inclusivity as its guiding principles.
 
+![Alt Text / Map of Marineterrein](./img-context-1.jpg "Collage own production, secondary images to respective owners")
+
 
 ## Key Characteristics
 
@@ -41,6 +43,9 @@ The Marineterrein, situated in the heart of Amsterdam, the Netherlands, is an em
 **Innovation and Entrepreneurship**. The district's Innovation Lab furnishes a collaborative workspace for entrepreneurs and innovators, including national and international startups. Meanwhile, the Marineterrein Living Lab provides a real-world testing environment for new concepts and products.
 
 **Sustainability and Resilience**. Many buildings within the Marineterrein feature green roofs and rain gardens for stormwater management and for creating green spaces and biodiversity corridors to nurture local ecosystems. Some buildings, like the historic Kommandants (Commander) building, are over a hundred years old, showcasing the use of circular economy principles to minimize waste and encourage resource efficiency. 
+
+![Alt Text / Map of Marineterrein](./img-context-3.jpg "Collage own production, secondary images to respective owners")
+
 
 ## Goals and Aspirations
 
@@ -64,26 +69,32 @@ The Marineterrein, situated in the heart of Amsterdam, the Netherlands, is an em
 **Roboat**.  
 The Roboat project in Amsterdam brings forth the world's first fleet of autonomous boats, pioneering a revolution in urban water systems. The research scheme explores the potential of autonomous floating vessels in metropolitan regions, enabling dynamic infrastructure, transportation, and environmental sensing on Amsterdam's canals. With a full-scale prototype in progress, Roboat offers an inventive solution for waste collection and transport. Utilizing LiDAR technology, Roboat creates a comprehensive city picture from millions of data points for navigation and object identification. The joint effort between the Massachusetts Institute of Technology (MIT), Amsterdam Institute for Advanced Metropolitan Solutions (AMS Institute), and local authorities has been met with significant support. Roboat's capabilities extend to temporary floating infrastructure and environmental exploration to enhance waste separation rates and contribute to sustainable urban practices. This project could have implications for water-based cities beyond Amsterdam, addressing the demand for efficient waste collection systems.
 
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
 
 **Druktemeter (Crowdmeter)**. They are testing the Druktemeter, a system utilizing cameras and visitor screens to measure and map crowd density during summer. The goal is to maintain a livable environment while respecting COVID-19 safety protocols. Cameras connected to a computer algorithm count visitors and generate data to enhance the quality of public spaces. Privacy is safeguarded as visitor identities are anonymized before analysis. The system offers real-time data to inform visitors about crowd density at different locations within the site. This experiment assesses crowd levels and livability at Marineterrein and investigates whether visitors adapt their behaviour and maintain physical distancing norms. The results of this test serve as a blueprint for future implementations of similar crowd management systems in urban areas.
-
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
 
 **Respyre**
 
 Respyre is determined to convert dull grey concrete into a green, cooling oasis. Using bioreceptive concrete, the project crafts healthy, green facades that augment urban livability and boost local biodiversity. This innovative concrete variant lets moss attach and grow, gradually turning bare concrete walls into living surfaces covered in moss. This moss layer offers natural capital by cooling the environment, purifying the air, and offering a habitat for various flora and fauna. Moreover, it needs minimal maintenance and is cost-effective. Respyre's "proof of concept" explores the potential of bio-receptive concrete in fighting heat and pollution while assessing its positive impact on the livability of cities.
 
-![Alt Text / CitiBike Station in New York City](./daniel-adams-URK0rZTiOHc-unsplash.jpeg "Daniel Adams (Unsplash)")
 
 ## Stakeholders
 <!-- Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
+![Alt Text / List of all stakeholders](./img-stakeholders.png "Own production")
+
+
 **Amsterdammers**. The locals are key! Marineterrein really prioritized their local engagement. During the summers, many Amsterdamers seek out the cool waters and drinks. Swimming with friends, blasting music, and long nights of partying are part of the deal.
+
+![Alt Text / Stakeholder](./img-stakeholders_ams.png "Own production, used image respective owners")
+
 
 **Codam**.  This place offers a tuition-free, peer-to-peer learning environment for aspiring programmers. With its unique curriculum and team-based approach, Codam aims to provide accessible and inclusive education to coding and software development students. Opposing to more classic academic (bachelor's to master's) education, Codam has a higher chance of landing a job, which is pretty cool! [Codam](https://www.codam.nl/en/)
 
+![Alt Text / Stakeholder](./img-stakeholders_codam.png "Own production, used image respective owners")
+
 **AMS Institute**. A collaboration between TU Delft, WUR, and MIT, AMS Institute serves as a networking organization, engaging a broad coalition of stakeholders. These include academic researchers, industry, civil society, policymakers, and the urban innovation community. Their unique partnership with the Municipality of Amsterdam and the Metropolitan Area forms the core of AMS Institute's stakeholdership. Through interdisciplinary collaboration and a diverse network, AMS Institute fosters urban innovation and addresses pressing challenges to reinvent cities. [AMS Institute](https://www.ams-institute.org)
+
+![Alt Text / Stakeholder](./img-stakeholders_ams.png "Own production, used image respective owners")
 
 ## Leadership
 <!-- Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
@@ -107,6 +118,10 @@ Respyre is determined to convert dull grey concrete into a green, cooling oasis.
 **Social (and fun!)** During all months there are great activities for everyone, but also to enjoy the sun, swim and eat/drink. Being at the Marineterrein feels alive. You are close to innovation but can also do whatever you want since you are in the heart of Amsterdam.
 
 **Talent Time** Marineterrein has proven to be an ideal platform for cultivating talent in various sectors, focusing on technology, entrepreneurship, and innovation. The district provides ample opportunities for skill enhancement, knowledge dissemination, and professional growth through comprehensive educational programs, collaborative research projects, and robust startup incubation support. Thus, Marineterrein is crucial in nurturing the next generation of leaders and innovators.
+
+
+![Alt Text / Outcomes](./img-outro.jpg "Own productio")
+
 
 ## Open Questions
 
