@@ -6,7 +6,7 @@ author: Olena Bogdanov
 type: plan
 city: Montreal 
 country_code: CAN 
-centroid: [-73.5560000538157,45.519286941506806]
+centroid: [45.519286941506806,-73.5560000538157]
 year_start: 2019
 year_completed: n/a
 featured_image: 
