@@ -57,7 +57,7 @@ The Sino-Singapore Eco-City is a joint venture between Chinese and Singapore gov
 
 
 ## Technology Interventions
-<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. --->
+<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
 **Green-oriented building design**: Extensive use of new recyclable construction material. Usage of Argon glass to improve insulation, optimizing building design and orientation to provide adjustable sunlight heating, seasonal variable natural ventilation, and natural light coverage. Integration of green walls with vegetation to naturally improve indoor air quality.
 
@@ -74,7 +74,7 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 ![Alt Text / Water Recycle System](./water.jpg "Water Recycle System(Unsplash)")
 
 ## Stakeholders
-<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
+<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
 **The Chinese Central Government**: Represented by tianjin eco-city investment & development co.ltd and Tianjin Infrastructure Investment Group, nationally owned companies dedicated to providing the public service, transportation, and utility to the Eco-City. Directly works with Singapore side to determine visions and strategies for development   [Tianjin Infrastructure Investment Group](https://www.tj-chengtou.com/about.aspx?cateid=1/)
 
@@ -93,7 +93,7 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 
 
 ## Leadership
-<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->
+<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
 **Real-Estate Development On-Site Manager: Mr. Qi**. The unnamed field manager, Mr. Qi, works for [Jia Liu](http://www.tianjineco-city.com/About/team?lang=english/), who is the Deputy CEO of SSTEC. This project leader manages the on-site construction works in developing the Eco-City, he has witnessed the waves of people moving into the city, and how the city was built over the past 8 years. The opportunity to interview him came from our family relationship back in my home Beijing, which we share family members who are siblings. He wished to remain unidentified in my report, so that he could speak freely of what he truly thinks.
 
@@ -105,7 +105,7 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 
 
 ## Financing
-<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. --->
+<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
 **Financing Scheme**: As introduced above, the Eco-City is a joint venture between China and Singapore, including government agencies, public sector, and private sectors from both China and Singapore. Strictly 50% of the initial investment was from Chinese government owned sources, represented by Tianjin Infrastructure Investment Group. The other 50% of the initial investment was from Keppels Group, Singapore, which represents the combined support from Singaporean government and Singaporean private sectors. The Eco-City development also receives high-priority attention and continuous funding from the Chinese central government directly, as it lies on the new pan-Beijing economic belt in the economic planning visions.
 
@@ -136,7 +136,7 @@ Most sources are from the Chinese internet.
 
 ### Primary Sources
 
-<!-- 3-5 project plans, audits, reports, etc. --->
+<!-- 3-5 project plans, audits, reports, etc. -->
 
 
 - http://www.tianjineco-city.com/static/web//en/singapore1.html?lang=english
@@ -147,7 +147,7 @@ Most sources are from the Chinese internet.
 
 ### Secondary Sources
 
-<!-- 5-7 secondary source documents: news reports, blog posts, etc.. --->
+<!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 - https://tieba.baidu.com/f?kw=%E4%B8%AD%E6%96%B0%E7%94%9F%E6%80%81%E5%9F%8E
 - https://www.zhihu.com/answer/34761877
 - https://www.zhihu.com/answer/2794269827
