@@ -68,7 +68,7 @@ The City's goal makes Masdar City inherently different from the cities that adop
 
 
 ## Technology Interventions
-<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. --->
+<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
 **1. Smart Technology in Buildings.**
 Masdar City utilizes smart technology in its energy-saving buildings, which consume 40% less energy and water than normal buildings. As a result, Masdar City is one of the places in the Middle East that have a large amount of high-performance buildings[1], which in turn make Masdar City become a "real-time laboratory" to monitor and explore how smart cities use, generate and share resources. Masdar City's Eco-Villa is a great example - it is a sustainable housing project that generates more energy than it consumes. The Eco-Villa deploys the Smart Home Energy Management System (SHEMS), which is an intelligent IT system to manage energy consumption within the building and potentially other buildings in Masdar city[2]. With the SHEMS, the Eco-Villa's all areas are euipped with motion sensors. The sensors (e.g., smart meters, temperature sensors, and lighting controls) that consist of photocells are all connected to a central control system that collects real-time data on energy consumption and provides real-time feedback to users[2]. For example, the sensors will shut off the lights automatically when daylight lighting levels are adequate[2].
@@ -102,7 +102,7 @@ By utilizing smart technology in energy management, the City graps the essence o
 ![Alt Text / Solar Energy](./energy.png "Solar Energy")
 
 ## Stakeholders
-<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
+<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
 **The Abu Dhabi Government.**
 The Abu Dhabi government is the key stakeholder of Masdar City. The Abu Dhabi government provides the majority of funds, guides the development of the City, and supervises the whole project[1]. From designing and building Masdar City, the Abu Dhabi government hopes to learn how to build a sustainable city that is independent from oil in the long term[1].
@@ -122,7 +122,7 @@ According to their official website, Masdar-Abu Dhabi Future Energy Company was 
 Education and research nstitutions are an important stakeholder of Masdar City. Masdar City is home to several universities and research institutions, including Khalifa University (original name as Masdar Institute) and The International Renewable Energy Agency (IRENA) Innovation and Technology Center. Furthermore, MIT has a graduate research facility in Masdar Institute focusing on alternative energy, sustainability, and advanced technologies. These institutions are involved in state-of-art research on green technology and renewable energy. These institutions collaborate closely with the City on research and knowledge exchange in green energy and sustainable technology. [Khalifa University](https://www.ku.ac.ae) - [The International Renewable Energy Agency (IRENA) Innovation and Technology Center](https://www.irena.org) - [MIT and Masdar Institute Cooperative Program](https://web.mit.edu/mit-mi-cp/)
 
 ## Leadership
-<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->
+<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
 **1. Name of Interviewee.**
 For this study, I have reached out to Masdar City's Digital Marketing Office, Free Zone Office, and official accounts on social media (including Facebook and Instagram). I have also reached out to different individuals on LinkedIn, such as the Director of Growth, the Associate Director of Sustainability and CSR, and the Head Of Engineering. However, so far I received no response. 
@@ -131,7 +131,7 @@ For this study, I have reached out to Masdar City's Digital Marketing Office, Fr
 Based on research on finding project leaders for my interview, one observation is that there is gender imbalance within Masdar City's leadership. The majority of project leaders are men, indicating that there is limited space for female professionals to lead and participate in the city project. This observation was further consolidated by reports that Masdar City confirms the gender imbalance and agrees to involve more females in designing and building the city[1, 3].
 
 ## Financing
-<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. --->
+<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
 **1. Government Funding.**
 The majority of the seed capital (USD $15 billion) was offered by the government of Abu Dhabi. The government also provides a significant amount of funding in ongoing support for city development and innovative research.
@@ -147,7 +147,7 @@ The sustainability bonds can help Masdar City get into a growing market of inves
 
 
 ## Outcomes
-<!--- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? These should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. --->
+<!--- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? These should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
 **Outcome 1**
 Masdar City is in the Phase I of its sustainable urban planning[17]. The City combines both traditional and innovative approaches to sustainable urban planning. The City adopted energy-saving buildings, smart energy management systems, and smart transpotation network. However, the City still has many projects and buildings that are under construction, which aroused doubts from the public[17]. The main doubts come from the mismatch between the City's ambition and its limited, actual financing[17]. To achieve its goal of completing the project by 2030, the City is expected to enlarge its resources of financing.
@@ -163,7 +163,7 @@ The City has established its economic assets by cultivating universities and res
 Masdar City is exploring and experimenting how to integrate smart technologies with other systems, such as the currency system. For example, Masdar City is studying an energy-based currency called "Ergos"[17]. Ergos correspond to the amount of energy that is supplied to the community and will be assigned to each resident and visitor. Ergos can be used to exchange the chosen energy of certain services. However, the ergos might trigger concerns over surveillance and privacy, since the government will need to monitor and analyze when, where, and how people use the ergos to exchange energy.
 
 ## Open Questions
-<!--- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. --->
+<!--- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
 **1. Question on accessibility and equity**
 As Masdar City plans to build a "car free" environment for its sustainability goals, the City does not allow any personal automobiles. The main ways of sustainable transporation include walking, biking, personal rapid transit (PRT), bus/light rapid transit, and metro[8]. However, it should be noted that it still takes people several minutes to get to the station[8]. It is unclear how the City builds facilities or develops services to accommodate physically-disabled people's needs of transportation?
@@ -183,7 +183,7 @@ With more than 50,000 people planned to inhabit Masdar City, only about 6,000 pe
 
 ### Primary Sources
 
-<!-- 3-5 project plans, audits, reports, etc. --->
+<!-- 3-5 project plans, audits, reports, etc. -->
 [1] 2021 Masdar Sustainability Report
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi11c2p6_z-AhV6EVkFHbqnB_0QFnoECBEQAQ&url=https%3A%2F%2Fmasdar.ae%2F-%2Fmedia%2Fcorporate%2Fdownloads%2Fabout-us%2Fmasdar-annual-sustainability-reports%2F2021%2520Masdar%2520Sustainability%2520Report.pdf&usg=AOvVaw3PJlmy9Y7Nhlclc8GZx6xE
 
@@ -206,7 +206,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjQ9J6w
 
 ### Secondary Sources
 
-<!-- 5-7 secondary source documents: news reports, blog posts, etc.. --->
+<!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 *************************
 [6] Masdar City attracts global and regional innovation giants amid focus on global green recovery from COVID-19
 https://www.prnewswire.com/news-releases/masdar-city-attracts-global-and-regional-innovation-giants-amid-focus-on-global-green-recovery-from-covid-19-301313590.html

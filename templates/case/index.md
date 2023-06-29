@@ -5,7 +5,7 @@ status: Draft
 author: Your Name
 type: example
 city:  
-country_code: 
+country_code: USA
 centroid: [40.712778, -74.006111]
 year_start: 2012
 year_completed: 2018
