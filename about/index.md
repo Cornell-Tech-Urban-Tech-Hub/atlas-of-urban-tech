@@ -37,3 +37,14 @@ Upon completion of the course, students are able to:
 - Understand key **stakeholders** in smart city innovation and diffusion, including their goals and motivations, and resources and constraints—including city governments, corporations, entrepreneurs, and NGOs;
 - Understand how to **unpack and critique claims** of government officials, entrepreneurs and business leaders, and citizens regarding specific smart city projects and technology solutions;
 - Understand how **foresight and strategic planning** is used in the smart cities movement to assess, anticipate, and adapt to technological, economic, and social change.
+
+## Credits
+
+Design and Coding
+- Ben Oldenburg
+
+Data Managmeent
+- Sriya Challa 
+- Tsung-Yin Hsieh
+- Vikranth Kanumuru
+- Sourabh Singh
