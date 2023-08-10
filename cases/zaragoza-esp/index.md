@@ -69,7 +69,7 @@ Not long after the project was set in motion, Zaragoza was appointed to be the l
 
 **Drone Expirmentation Area**.  Just announced a few months ago, the city of Zaragoza has received funding to create a drone experimentation area, and is being developed by a private company. This helps further support the idea of an innovation district, acting as a test bed for new developments in the area, and supporting research. This will establish Zaragoza as the first and only European city to authorize a space for the experimentation and training of drones in an urban city, with a strategic focus on the future of mobility. 
 
-![Alt Text / Drone Experimentation Area ](./drone.jpg "Astra UTM")
+<!--  ![Alt Text / Drone Experimentation Area ](./drone.jpg "Astra UTM") -- Image Broken -->
 
 
 ## Stakeholders
