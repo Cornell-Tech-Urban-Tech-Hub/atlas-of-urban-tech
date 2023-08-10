@@ -7,8 +7,7 @@ status: Review
 city: Cardiff
 country: United Kingdom
 country_code: GBR
-centroid: [-3.179202154865038,
-  51.482461155802895]
+centroid: [51.482461155802895, -3.179202154865038]
 featured_image: ./apekIDd6sT0.jpg
 featured_desc: nan
 featured_credit: Grooveland Designs

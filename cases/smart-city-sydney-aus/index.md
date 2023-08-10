@@ -7,7 +7,7 @@ status: Review
 city: Sydney
 country: Australia
 country_code: AUS
-centroid: [151.18174669018424, -33.85754233894982]
+centroid: [-33.85754233894982, 151.18174669018424]
 featured_image: ./dan-freeman-7Zb7kUyQg1E-unsplash.jpeg
 featured_desc: nan
 featured_credit: Dan Freeman (Unsplash)

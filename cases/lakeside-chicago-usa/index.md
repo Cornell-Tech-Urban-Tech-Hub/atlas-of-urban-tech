@@ -7,7 +7,7 @@ status: Review
 city: Chicago
 country: United States
 country_code: USA
-centroid: [-87.62512761385345,41.869969394597035]
+centroid: [41.869969394597035,-87.62512761385345]
 featured_image: ./natasha-t-aZcyFX5ca6A-unsplash.jpeg
 featured_desc: nan
 featured_credit: natasha t (Unsplash)

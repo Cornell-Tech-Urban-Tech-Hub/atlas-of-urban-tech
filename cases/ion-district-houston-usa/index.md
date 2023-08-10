@@ -7,7 +7,7 @@ status: Complete
 city: Houston
 country: United States
 country_code: USA
-centroid: [-95.55841245207556, 29.74369969751895]
+centroid: [29.74369969751895, -95.55841245207556]
 featured_image: ./vlad-busuioc-xyPxcqh8Tt8-unsplash.jpeg
 featured_desc: nan
 featured_credit: Vlad Busuioc (Unsplash)

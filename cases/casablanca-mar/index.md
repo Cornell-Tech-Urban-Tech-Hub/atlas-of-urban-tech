@@ -7,7 +7,7 @@ status: Review
 city: Casablanca, Morocco 
 country: Morocco
 country_code: MAR
-centroid: [-7.564418003256634,33.60816136534004]
+centroid: [33.60816136534004, -7.564418003256634]
 featured_image: ./max-bender-VmX3vmBecFE-unsplash.jpeg
 featured_desc: nan
 featured_credit: Max Bender (Unsplash)

@@ -7,7 +7,7 @@ status: Review
 city: New York City
 country: United States of America
 country_code: USA
-centroid:  [-74.00212368474817,40.755853958095656]
+centroid:  [40.755853958095656,-74.00212368474817]
 featured_image: ./-lfF1nJs_qY.jpg
 featured_desc: nan
 featured_credit: Nico Baum

@@ -7,7 +7,7 @@ status: Review
 city: West Hollywood
 country: United States
 country_code: USA
-centroid: [-118.37171748882436, 34.090321779420506]
+centroid: [34.090321779420506, -118.37171748882436]
 featured_image: ./nathan-dumlao-8zrA9plDsvE-unsplash.jpeg
 featured_desc: nan
 featured_credit: Nathan Dumlao (Unsplash)

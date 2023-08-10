@@ -7,7 +7,7 @@ status: Complete
 city: Detroit
 country: United States of America
 country_code: USA
-centroid: [-83.10942081239425, 42.35710635766111]
+centroid: [42.35710635766111, -83.10942081239425]
 featured_image: ./doug-zuba-6Yp99zMrsAI-unsplash.jpeg
 featured_desc: nan
 featured_credit: Doug Zuba (Unsplash)

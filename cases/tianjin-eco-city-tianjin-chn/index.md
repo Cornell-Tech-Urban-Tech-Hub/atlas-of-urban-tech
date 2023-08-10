@@ -7,7 +7,7 @@ status: Review
 city: Tianjin
 country: China
 country_code: CHN
-centroid: [117.73716447486817, 39.12590644690147]
+centroid: [39.12590644690147,117.73716447486817]
 featured_image: ./valery-rabchenyuk-nUQ8CoDUnAw-unsplash.jpeg
 featured_desc: nan
 featured_credit: Valery Rabchenyuk (Unsplash)

@@ -7,7 +7,7 @@ status: Complete
 city: Helsinki
 country: Finland
 country_code: FIN
-centroid: [24.940296394705854,60.16141442928034]
+centroid: [60.16141442928034, 24.940296394705854]
 featured_image: ./I9SWvZ9sO2U.jpg
 featured_desc: nan
 featured_credit: Tapio Haaja

@@ -7,7 +7,7 @@ status: Review
 city: Putrajaya
 country: Malaysia
 country_code: MYS
-centroid: [101.68099377021895, 2.910260180263819]
+centroid: [2.910260180263819, 101.68099377021895]
 featured_image: ./nazarizal-mohammad-KNQutiIL9WY-unsplash.jpeg
 featured_desc: nan
 featured_credit: Nazarizal Mohammad (Unsplash)

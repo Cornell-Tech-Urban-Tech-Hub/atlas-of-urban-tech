@@ -7,7 +7,7 @@ status: Review
 city: Stockholm
 country: Sweden
 country_code: SWE
-centroid: [18.065040932554297, 59.326378048620285]
+centroid: [59.326378048620285, 18.065040932554297]
 featured_image: ./raphael-andres-3cwvFD-YPtk-unsplash.jpeg
 featured_desc: nan
 featured_credit: Raphael Andres (Unsplash)

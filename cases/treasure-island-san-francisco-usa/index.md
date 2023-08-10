@@ -7,7 +7,7 @@ status: Complete
 city: San Francisco
 country: USA
 country_code: USA
-centroid: [-122.37226431955489, 37.82290147134073]
+centroid: [37.82290147134073, -122.37226431955489]
 featured_image: ./jared-erondu-1Fm_k4Ip7jM-unsplash.jpeg
 featured_desc: nan
 featured_credit: Jared Erondu (Unsplash)

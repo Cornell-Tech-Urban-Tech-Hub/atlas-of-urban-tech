@@ -7,7 +7,7 @@ status: Review
 city: Zurich
 country: Switzerland
 country_code: CHE
-centroid: [8.540175334462674, 47.36896474483814]
+centroid: [47.36896474483814,8.540175334462674]
 featured_image: ./ilia-bronskiy-kwrj-Bm6UwE-unsplash.jpeg
 featured_desc: nan
 featured_credit: Ilia Bronskiy (Unsplash)

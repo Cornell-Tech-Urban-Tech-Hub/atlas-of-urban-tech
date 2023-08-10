@@ -7,7 +7,7 @@ status: Complete
 city: Cambridge
 country: USA
 country_code: USA
-centroid: [-71.08461213885545, 42.36143258714506]
+centroid: [42.36143258714506, -71.08461213885545]
 featured_image: ./Kendall_Square_aerial-Nick-Allen-WikimediaCommons.jpeg
 featured_desc: nan
 featured_credit: Nick Allen (Wikimedia Commons)

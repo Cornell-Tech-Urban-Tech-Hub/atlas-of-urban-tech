@@ -7,7 +7,7 @@ status: Complete
 city: King Abdullah Economic City 
 country: Saudi Arabia
 country_code: SAU
-centroid: [39.13205558068793,22.491523557858912]
+centroid: [22.491523557858912,39.13205558068793]
 featured_image: ./edT7Ew2prRafk8Z88.jpg
 featured_desc: 
 featured_credit: Wikimedia Commons

@@ -7,7 +7,7 @@ status: Complete
 city: Edinburgh
 country: United Kingdom
 country_code: GBR
-centroid: [-3.191711486305678,55.9508279830261]
+centroid: [55.9508279830261, -3.191711486305678]
 featured_image: ./6oUsyeYXgTg.jpg
 featured_desc: nan
 featured_credit: Piotr Chrobot

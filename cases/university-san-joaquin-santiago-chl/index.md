@@ -7,7 +7,7 @@ status: Review
 city: Santiago
 country: Chile
 country_code: CHL
-centroid: [-70.65277717265296, -33.439485750130885]
+centroid: [-33.439485750130885, -70.65277717265296]
 featured_image: ./jeffrey-eisen-FqxBcH4sr8A-unsplash.jpeg
 featured_desc: nan
 featured_credit: Jeffrey Eisen (Unsplash)

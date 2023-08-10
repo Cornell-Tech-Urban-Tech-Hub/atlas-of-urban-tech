@@ -7,7 +7,7 @@ status: Review
 city: Forest City
 country: Malaysia
 country_code: MYS
-centroid: [103.58901048972933, 1.3380946121816777]
+centroid: [1.3380946121816777, 103.58901048972933]
 featured_image: ./sadie-teper-WG-hXR1rLNk-unsplash.jpeg
 featured_desc: nan
 featured_credit: Sadie Teper (Unsplash)

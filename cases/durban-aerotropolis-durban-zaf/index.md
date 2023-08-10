@@ -7,7 +7,7 @@ status: Complete
 city: Durban
 country: South Africa
 country_code: ZAF
-centroid: [31.058834235155388, -29.711832937418443]
+centroid: [-29.711832937418443, 31.058834235155388]
 featured_image: ./marlin-clark-YYWro5qSxAU-unsplash.jpeg
 featured_desc:
 featured_credit: Marlin Clark (Unsplash)

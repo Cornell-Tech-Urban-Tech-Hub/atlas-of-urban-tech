@@ -7,7 +7,7 @@ status: Complete
 city: Hamburg
 country: Germany
 country_code: DEU
-centroid: [9.995312569700786, 53.53039530327297]
+centroid: [53.53039530327297, 9.995312569700786]
 featured_image: ./claudio-testa-qpemSW6_1Z0-unsplash.jpeg
 featured_desc: nan
 featured_credit: Claudio Testa (Unsplash)

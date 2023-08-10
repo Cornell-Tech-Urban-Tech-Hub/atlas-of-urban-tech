@@ -7,7 +7,7 @@ status: Complete
 city: Tabuk Province
 country: Saudi Arabia
 country_code: SAU
-centroid: [46.63519113624642, 24.740976687743554]
+centroid: [24.740976687743554, 46.63519113624642]
 featured_image: ./saleh-rzMWVDocbJU-unsplash.jpeg
 featured_desc:
 featured_credit: SALEH (Unsplash)

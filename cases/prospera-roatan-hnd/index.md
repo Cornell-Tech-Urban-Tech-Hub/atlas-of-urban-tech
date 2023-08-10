@@ -7,7 +7,7 @@ status: Review
 city: Roatán
 country: Honduras
 country_code: HND
-centroid: [-86.5450812031916,16.323267038132656]
+centroid: [16.323267038132656, -86.5450812031916]
 featured_image: ./alisa-matthews-6HaB7Wni9_k-unsplash.jpeg
 featured_desc: nan
 featured_credit: Alisa Matthews (Unsplash)

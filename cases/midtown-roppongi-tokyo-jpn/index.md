@@ -7,7 +7,7 @@ status: Review
 city: Tokyo
 country: Japan
 country_code: JPN
-centroid: [139.73129864352398, 35.66260787889165]
+centroid: [35.66260787889165, 139.73129864352398]
 featured_image: ./erik-eastman-4HG5hlhmZg8-unsplash.jpeg
 featured_desc:
 featured_credit: Erik Eastman (Unsplash)

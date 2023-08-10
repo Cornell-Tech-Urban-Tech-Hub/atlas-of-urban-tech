@@ -7,7 +7,7 @@ status: Complete
 city: Copenhagen
 country: Denmark
 country_code: DNK
-centroid: [12.575935069611944, 55.63255615091336]
+centroid: [55.63255615091336, 12.575935069611944]
 featured_image: ./anthony-mcgee-EQHjzzBcKlE-unsplash.jpeg
 featured_desc:
 featured_credit: anthony mcgee (Unsplash)

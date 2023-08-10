@@ -7,7 +7,7 @@ status: Review
 city: Incheon
 country: South Korea
 country_code: KOR
-centroid: [126.6887963886503, 37.425706408649674]
+centroid: [37.425706408649674, 126.6887963886503]
 featured_image: ./hon-kim-VNlbnaaMEgA-unsplash.jpeg
 featured_desc: nan
 featured_credit: Hon Kim (Unsplash)
