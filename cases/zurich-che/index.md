@@ -1,5 +1,6 @@
 ---
 title: Zurich-Zurich
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Review

@@ -1,5 +1,6 @@
 ---
 title: King Abdullah Economic City -King Abdullah Economic City 
+template: stub
 author: Urban Tech Hub
 type: district
 status: Complete

@@ -1,5 +1,6 @@
 ---
 title: New York City Digital Playbook-New York City
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Complete

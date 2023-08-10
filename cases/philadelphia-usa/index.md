@@ -1,6 +1,7 @@
 ---
 title: Philadelphia 5-Year Digital Equity Plan
 description: Lorem ipsum dolor sit amet
+template: case-study
 status: Complete
 author: Nakia Kenon
 type: plan

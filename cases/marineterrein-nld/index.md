@@ -1,6 +1,7 @@
 ---
 title: Amsterdam Marineterrein Case Study
 description: Case study for Smart Cities Course
+template: case-study
 status: Review
 author: Daan van der Zwaag
 type: district

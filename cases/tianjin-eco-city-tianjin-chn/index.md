@@ -1,5 +1,6 @@
 ---
 title: Tianjin Eco-City-Tianjin
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Review

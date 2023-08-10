@@ -1,6 +1,7 @@
 ---
 title: Barangaroo
 description: Analysis of a mixed-use urban district in Sydney, Australia
+template: case-study
 status: Complete
 author: Divya Vedula
 type: district
@@ -64,7 +65,7 @@ Barangaroo is a waterfront urban district in Australia located on the western ed
 **Recycled Water Treatment Plant** To be more water positive, Barangaroo has constructed a recycled water treatment plant that enables sustainable water use. The water can be effectively treated and converted for non-drinking water purposes like irrigation, fire sprinklers, toilet flushing, and cleaning. The plant is a top facility that has treated over 140 million litres of contaminated water and has involved automated, logic control systems for ensuring safety and risk mitigation.
 
 ## Stakeholders
-<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
+<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.  -->
 
 **Barangaroo Delivery Authority (BDA)**.  Managed the strategic direction, development, design, construction, cost, and operations to ensure that the project milestones were delivered according to plan/contracts. for Barangaroo. It comprised of a board that oversees subgroups for legal, finance, infrastructure, property development, and the public domain. It also comprised of an audit and risk management committee. The BDA was terminated in 2019 and is now called Infrastructure NSW. [Organization Name](https://www.infrastructure.nsw.gov.au/)
 
@@ -76,7 +77,7 @@ Barangaroo is a waterfront urban district in Australia located on the western ed
 **New South Wales Government**.  The NSW Government led the overall transformation project and initiated the original challenge. It is involved in the planning, approval, and funding aspects along with being a public and economic advocate. [Organization Name](https://www.nsw.gov.au/)
 
 ## Leadership
-<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->
+<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here.  -->
 
 **Colin Sargent**. Has an Architecture Degree from University of Technology Sydney. Worked on Barangaroo for 10 years under the Barangaroo Delivery Authority (BDA). Served as Senior Project Manager, Development Manager, and lastly, Director of Planning and Design for Barangaroo South. He managed the delivery process over 4-5 years and oversaw the delivery of the public spaces. [LinkedIn](https://www.linkedin.com/in/colin-sargent-2bb30599/)
 

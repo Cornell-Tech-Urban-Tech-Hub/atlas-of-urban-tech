@@ -1,5 +1,6 @@
 ---
 title: Helsinki City Strategy-Helsinki
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Complete

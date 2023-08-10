@@ -1,5 +1,6 @@
 ---
 title: Chicago Lakeside-Chicago
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Review

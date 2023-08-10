@@ -1,6 +1,7 @@
 ---
 title: Smarter London Together
 description: The Mayor’s and GLA roadmap to transform London into the smartest city in the world.
+template: case-study
 status: Complete
 author: Thomas Wallace 
 type: plan

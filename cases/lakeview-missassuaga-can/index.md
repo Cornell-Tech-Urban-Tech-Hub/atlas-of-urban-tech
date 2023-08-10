@@ -1,5 +1,6 @@
 ---
 title: Lakeview Village Smart City-Missassuaga
+template: stub
 author: Urban Tech Hub
 type: district
 status: Complete

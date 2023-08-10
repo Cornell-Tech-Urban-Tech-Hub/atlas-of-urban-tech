@@ -1,5 +1,6 @@
 ---
 title: Songdo IBD-Incheon
+template: stub
 author: Urban Tech Hub
 type: district
 status: Review

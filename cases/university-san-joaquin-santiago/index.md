@@ -1,5 +1,6 @@
 ---
 title: UC Campus San Joaquin-Santiago
+template: stub
 author: Urban Tech Hub
 type: district
 status: Review

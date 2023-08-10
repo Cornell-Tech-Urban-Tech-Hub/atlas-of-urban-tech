@@ -1,6 +1,7 @@
 ---
 title: Masdar City
 description: Case study for Smart Cities Course
+template: case-study
 status: Complete
 author: Yichao Cui
 type: district
@@ -147,7 +148,7 @@ The sustainability bonds can help Masdar City get into a growing market of inves
 
 
 ## Outcomes
-<!--- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? These should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
+<!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? These should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
 **Outcome 1**
 Masdar City is in the Phase I of its sustainable urban planning[17]. The City combines both traditional and innovative approaches to sustainable urban planning. The City adopted energy-saving buildings, smart energy management systems, and smart transpotation network. However, the City still has many projects and buildings that are under construction, which aroused doubts from the public[17]. The main doubts come from the mismatch between the City's ambition and its limited, actual financing[17]. To achieve its goal of completing the project by 2030, the City is expected to enlarge its resources of financing.
@@ -163,7 +164,7 @@ The City has established its economic assets by cultivating universities and res
 Masdar City is exploring and experimenting how to integrate smart technologies with other systems, such as the currency system. For example, Masdar City is studying an energy-based currency called "Ergos"[17]. Ergos correspond to the amount of energy that is supplied to the community and will be assigned to each resident and visitor. Ergos can be used to exchange the chosen energy of certain services. However, the ergos might trigger concerns over surveillance and privacy, since the government will need to monitor and analyze when, where, and how people use the ergos to exchange energy.
 
 ## Open Questions
-<!--- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
+<!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
 **1. Question on accessibility and equity**
 As Masdar City plans to build a "car free" environment for its sustainability goals, the City does not allow any personal automobiles. The main ways of sustainable transporation include walking, biking, personal rapid transit (PRT), bus/light rapid transit, and metro[8]. However, it should be noted that it still takes people several minutes to get to the station[8]. It is unclear how the City builds facilities or develops services to accommodate physically-disabled people's needs of transportation?

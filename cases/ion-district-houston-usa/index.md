@@ -1,5 +1,6 @@
 ---
 title: Ion District-Houston
+template: stub
 author: Urban Tech Hub
 type: district
 status: Complete

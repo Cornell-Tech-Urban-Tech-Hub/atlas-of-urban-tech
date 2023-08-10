@@ -1,6 +1,7 @@
 ---
 title: Amazon HQ2 LIC-New York City
 author:
+template: stub
 type: district
 status: Review
 city: New York City

@@ -1,6 +1,7 @@
 ---
 title: Australia Smart Cities Plan
 author: Urban Tech Hub
+template: stub
 type: plan
 status: Complete
 city: Australia

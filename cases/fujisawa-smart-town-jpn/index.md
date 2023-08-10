@@ -1,6 +1,7 @@
 ---
 title: Fujisawa Sustainable Smart Town
 description: Case Study of the Fujisawa Sustainable Smart Town Project
+template: case-study
 status: Complete
 author: Matt Drezdzon
 type: district

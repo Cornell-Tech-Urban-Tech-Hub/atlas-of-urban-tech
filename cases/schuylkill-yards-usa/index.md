@@ -1,6 +1,7 @@
 ---
 title: Schuylkill Yards
 description: Case study for Schuylkill Yards
+template: case-study
 status: Complete
 author: Matthew Shen
 type: district

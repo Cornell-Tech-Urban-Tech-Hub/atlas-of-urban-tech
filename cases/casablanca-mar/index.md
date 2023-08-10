@@ -1,5 +1,6 @@
 ---
 title: Zenata Eco-City-Casablanca, Morocco 
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Review

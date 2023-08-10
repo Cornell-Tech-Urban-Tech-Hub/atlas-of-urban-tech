@@ -1,6 +1,7 @@
 ---
 title: Zaragoza Milla Digital
 description: Case Study of the Digital Mile Project located in Zaragoza, Spain.
+template: case-study
 status: Complete
 author: Michele Chen
 type: district
@@ -54,7 +55,7 @@ Not long after the project was set in motion, Zaragoza was appointed to be the l
 
 
 ## Technology Interventions
-<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. --->
+<!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
 **Intelligent Lighting System**. The first technological intervention I want to discuss is the intelligent and interactive street lighting systems, whose goal is to facilitate public use and draw the community to these areas, as well as create a greater understanding of the environment. It creates a distinctive atmosphere along the Mile by changing color or intensity in response to the time of day, demands for use, or artistic desires. In tandem, digital street furniture - like café tables, bus stops, and signage - would display information about practical matters as menus, bus arrivals, or the location of available parking spaces.
 
@@ -72,7 +73,7 @@ Not long after the project was set in motion, Zaragoza was appointed to be the l
 
 
 ## Stakeholders
-<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.--->
+<!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization. -->
 
 **Ebrópolis**.  Ebrópolis acts the strategic think tank of the city, where things like the industrial world, trade unions, political parties, universities, are all represented. They are responsible for the strategic agenda for the city 10 years in advance, and are the ones that had the original idea for the Digital Mile Project. [Ebrópolis](https://ebropolis.es/)
 
@@ -85,7 +86,7 @@ Not long after the project was set in motion, Zaragoza was appointed to be the l
 **Neighborhood Associations**.  The local neighborhood associations had a big influence on the masterplan, as they acted in the interest of the current residents. For example, some things they advocated for were more green spaces and less residential buildings, and a large community park. 
 
 ## Leadership
-<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. --->
+<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
 **Daniel Sarasa Funes**. Daniel Sarasa Funes is an urban innovation and smart cities strategist. He first got involved with the Digital Mile when he was working in the Spanish Government to digitize rural areas, and joined the project at the end of 2008. He is now director of the zaragoza city Fundacion Zaragoza Ciudad del Conocimiento, which aims to help the city of Zaragoza get funding for various urban projects. [LinkedIn](https://www.linkedin.com/in/daniel-sarasa-funes-1315431/)
 
@@ -97,13 +98,13 @@ Not long after the project was set in motion, Zaragoza was appointed to be the l
 
 
 ## Financing
-<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. --->
+<!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
 **Financing Scheme**. 
 These project are being funded both publicly and privately. On the public front, one of the biggest stakeholders in the project, City Hall, is providing a large bulk of the financial support. There is also the main bank of the region, and they are the main private contributor to the project. They also work with the Fundacion Zaragoza Ciudad del Conocimiento, which my interviewee was the founder of, to get competitive funding for proposals. They mainly work with European municipalities to get funding, as well as recovery funds. Lastly, they also received a small amount of funding from the University, as a result of an agreement where they would manage the research labs and citizens science projects that would be integrated into the Etopia Center. 
 
 ## Outcomes
-<!--- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? These should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. --->
+<!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? These should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
 **Connect with other big cities**. The first anticipated outcome that I haven’t seen explored is how making Zaragoza a digital city and connecting it so closely with Spain’s two biggest cities- Madrid and Barcelona- will affect the ecosystem of Spain as a whole. Aside from the increase in innovation and connection within Zaragoza itself, this should allow for both physical and economic connection throughout a greater region of Spain, resulting in even larger labor markets, increased employment opportunities, reduced traffic costs. Additionally, this gives the chance to bring digital innovation from Zaragoza to these large cities with larger resources, making way for even more of a digital impact. 
 
@@ -112,7 +113,7 @@ These project are being funded both publicly and privately. On the public front,
 **Resident Privacy**.  With technology becoming an increasingly larger part of Zaragoza's residents' daily lives, something they haven’t really addressed is how they will protect citizen privacy. Technology such as the open source public spaces, location-based digital services, and a large concentration of drones in the area, how does the city plan to cater to each individual’s personal preferences when it comes to how much data is taken from them. How will this data be used in other ways? Will it be sold? What about the data of people who cannot consent, such as children? I believe an anticipated outcome as the city becomes more and more digital will be an increasingly greater discomfort among citizens about the level of technology involved in their lives, and what may feel like a lack of digital privacy. The city will have to adapt to the people’s preferences, and address it in a way that is fair to everyone. 
 
 ## Open Questions
-<!--- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. --->
+<!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
 **Open questions 1**. Despite the numerous technological interventions and proposals, the Digital Mile project and plans that followed have yet to explore the topic of sustainability. What are ways the city could look into tapping into their potential for renewable energy systems?
 
@@ -125,7 +126,7 @@ These project are being funded both publicly and privately. On the public front,
 
 ### Primary Sources
 
-<!-- 3-5 project plans, audits, reports, etc. --->
+<!-- 3-5 project plans, audits, reports, etc. -->
 
 * MIT's New Century City Developments by Michael Joroff, Dennis Frenchman, Francisca Rojas and the NCCs Massachusetts Institute of Technology http://web.mit.edu/newcenturycity/new-century-city-developments.pdf
 * LUIS CANIZO
@@ -136,7 +137,7 @@ These project are being funded both publicly and privately. On the public front,
 
 ### Secondary Sources
 
-<!-- 5-7 secondary source documents: news reports, blog posts, etc.. --->
+<!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 
 * http://senseable.mit.edu/biennale/pdfs/zaragoza_01.pdf
 * Zaragoza, Spain by Jess Blanch, Lauren Keene https://sdstudio.be.uw.edu/wp-content/uploads/sites/51/downloads/Winter2010/zaragoza.pdf

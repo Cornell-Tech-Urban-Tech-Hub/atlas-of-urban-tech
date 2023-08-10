@@ -1,6 +1,7 @@
 ---
 title: Pune
 description: A case study of Pune city - a city under the smart cities mission of India
+template: case-study
 status: Complete
 author: Parthit Patel
 type: plan

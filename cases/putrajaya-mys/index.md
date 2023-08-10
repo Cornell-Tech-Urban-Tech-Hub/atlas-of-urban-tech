@@ -1,5 +1,6 @@
 ---
 title: Putrajaya -Putrajaya
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Review

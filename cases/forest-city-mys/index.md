@@ -1,5 +1,6 @@
 ---
 title: Forest City, Malaysia-Forest City
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Review

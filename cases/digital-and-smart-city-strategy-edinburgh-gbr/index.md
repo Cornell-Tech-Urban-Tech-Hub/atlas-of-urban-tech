@@ -1,5 +1,6 @@
 ---
 title: Digital and Smart City Strategy-Edinburgh
+template: stub
 author: 
 type: district
 status: Complete

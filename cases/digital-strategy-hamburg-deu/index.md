@@ -1,5 +1,6 @@
 ---
 title: Hamburg Digital Strategy Plan-Hamburg
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Complete

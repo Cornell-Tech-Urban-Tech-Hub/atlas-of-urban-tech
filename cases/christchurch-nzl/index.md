@@ -1,6 +1,7 @@
 ---
 title: Ōtautahi-Christchurch
 description: Christchurch City Council Draft Smart Christchurch Strategy
+template: case-study
 status: Complete
 author: Elizabeth Pysher
 type: plan

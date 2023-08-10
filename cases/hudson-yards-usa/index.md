@@ -1,6 +1,7 @@
 ---
 title: Hudson Yards 
 description: The largest mixed-use private real estate development in US history. 
+template: case-study
 status: Complete
 author: Zain Abdelrazeq
 type: district

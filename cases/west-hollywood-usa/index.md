@@ -1,5 +1,6 @@
 ---
 title: West Hollywood Smart City Strategic Plan-West Hollywood
+template: stub
 author: Urban Tech Hub
 type: district
 status: Review

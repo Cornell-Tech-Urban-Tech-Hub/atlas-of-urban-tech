@@ -1,6 +1,7 @@
 ---
 title: Suzhou Industrial Park (SIP)
 description: A joint venture between Singapore and Suzhou to create a world-class hub of innovation.
+template: case-study
 status: Complete
 author: Ruby Pan
 type: district

@@ -1,6 +1,7 @@
 ---
 title: Montreal Smart City Initiatives
 description: An overview of Montreals AI innovation ecosystem, and it's impact on Montreals smart city programs. 
+template: case-study
 status: Review
 author: Olena Bogdanov 
 type: plan
@@ -83,7 +84,7 @@ On the legal front, Montreal has displayed an unwavering dedication to ensuring 
 <!-- **Question 1**. In terms of academic and government partnerships, are there any specific partnerships you can share that have been particularly successful? 
 **Question 2**. In general, what are some unique insights you have received from citizens - are there any in particular that stand out to you? 
 **Question 3**. How have economic fluctuations, especially the recent downturn in tech financing, impacted the innovation ecosystem in Montreal, specifically regarding its smart city initiatives. 
--/> 
+--> 
 
 <!--  While no one was available for an interview within this timeframe, I discovered feedback others have provided in the past.  -->
 **Insight 1** "Agreeing on high-levelprinciples regarding digitaldata, such as inclusion orthe common good, andtransposing such principlesinto concrete action cannot

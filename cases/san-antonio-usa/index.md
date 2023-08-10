@@ -1,7 +1,8 @@
 ---
 title: San Antonio Smart Cities Roadmap
 description: Lorem ipsum dolor sit amet
-status: Complete
+template: case-study
+status: Review
 author: None
 type: case
 city:  San Antonio

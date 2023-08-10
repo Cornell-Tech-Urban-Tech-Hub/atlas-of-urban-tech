@@ -1,5 +1,6 @@
 ---
 title: Sydney Smart City-Sydney
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Review

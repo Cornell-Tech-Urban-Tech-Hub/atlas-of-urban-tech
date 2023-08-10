@@ -1,5 +1,6 @@
 ---
 title: Cardiff’s Smart City Roadmap-Cardiff
+template: stub
 author: Urban Tech Hub
 type: plan
 status: Review

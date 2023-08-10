@@ -1,5 +1,6 @@
 ---
 title: Tokyo Midtown Project (Roppongi)-Tokyo
+template: stub
 author: Urban Tech Hub
 type: district
 status: Review

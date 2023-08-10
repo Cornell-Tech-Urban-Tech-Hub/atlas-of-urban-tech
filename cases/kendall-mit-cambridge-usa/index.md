@@ -1,5 +1,6 @@
 ---
 title: MIT-Kendall-Cambridge
+template: stub
 author: Urban Tech Hub
 type: district
 status: Complete

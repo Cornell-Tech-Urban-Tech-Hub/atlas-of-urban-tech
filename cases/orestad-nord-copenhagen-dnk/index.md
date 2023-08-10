@@ -1,5 +1,6 @@
 ---
 title: Ørestad Nord, Copenhagen-Copenhagen
+template: stub
 author: Urban Tech Hub
 type: district
 status: Complete

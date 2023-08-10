@@ -1,5 +1,6 @@
 ---
 title: Durban Aerotropolis-Durban
+template: stub
 author: Urban Tech Hub
 type: district
 status: Complete

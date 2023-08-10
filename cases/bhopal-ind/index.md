@@ -1,6 +1,7 @@
 ---
 title: Smart City Bhopal
-description: A research study of Bhopal Smart City plan 
+description: A research study of Bhopal Smart City plan
+template: case-study
 status: Complete
 author: Sourabh Singh
 type: case

@@ -1,8 +1,9 @@
 ---
 title: Treasure Island Eco City-San Francisco
+template: stub
 author: Urban Tech Hub
 type: district
-status: Review
+status: Complete
 city: San Francisco
 country: USA
 country_code: USA
