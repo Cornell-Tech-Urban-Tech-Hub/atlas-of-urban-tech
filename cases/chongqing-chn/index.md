@@ -5,7 +5,7 @@ template: case-study
 status: Complete
 author: Yuxuan Zhang
 type: plan
-city:  Chongqing
+city: Chongqing
 country_code: CHN
 centroid: [29.5637, 106.5504]
 year_start: 2021
@@ -17,8 +17,8 @@ tags:
   - 14th Five-Year Plan
   - Government Guided
   - Big Data
-geography: ./map.geojson
-geography_caption: Chongqing Geography.
+geography: 
+geography_caption:
 ---
 
 ## Overview
