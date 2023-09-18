@@ -1,5 +1,5 @@
 ---
-title: Copenhagen -Copenhagen
+title: Copenhagen
 template: stub
 author: Urban Tech Hub
 type: plan

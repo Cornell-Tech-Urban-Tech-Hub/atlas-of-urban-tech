@@ -1,5 +1,5 @@
 ---
-title: Chicago Lakeside-Chicago
+title: Chicago Lakeside
 template: stub
 author: Urban Tech Hub
 type: plan
@@ -13,12 +13,10 @@ featured_desc: nan
 featured_credit: natasha t (Unsplash)
 description: Seeking to revitalize a vast, formerly industrial site on the South Chicago lakefront, SOM developed a vision for sustainable community that foregrounds renewable energy, zero waste, and biodiversity. The resulting Lakeside master plan serves as a model for development within the City of Chicago and for future LEED ND developments.
 geography: lakeside-chicago-usa.geojson
-geography_caption: Optional Caption for the geographic information.
+geography_caption:
 year_start:
 year_completed:
 tags:
-- Code
-- Markdown
 ---
 
 ## Overview
