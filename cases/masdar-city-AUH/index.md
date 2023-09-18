@@ -185,25 +185,20 @@ With more than 50,000 people planned to inhabit Masdar City, only about 6,000 pe
 ### Primary Sources
 
 <!-- 3-5 project plans, audits, reports, etc. -->
-[1] 2021 Masdar Sustainability Report
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi11c2p6_z-AhV6EVkFHbqnB_0QFnoECBEQAQ&url=https%3A%2F%2Fmasdar.ae%2F-%2Fmedia%2Fcorporate%2Fdownloads%2Fabout-us%2Fmasdar-annual-sustainability-reports%2F2021%2520Masdar%2520Sustainability%2520Report.pdf&usg=AOvVaw3PJlmy9Y7Nhlclc8GZx6xE
+[1] [2021 Masdar Sustainability Report](https://masdar.ae/-/media/corporate/downloads/about-us/masdar-annual-sustainability-reports/2021-masdar-sustainability-report.pdf)
 
 
-[2] Masdar City Eco-villa Net-zero Energy
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjSyIic1-T-AhU2M1kFHRcNBeUQFnoECCIQAQ&url=https%3A%2F%2Fmasdar.ae%2F-%2Fmedia%2Fcorporate%2Fdownloads%2Fmasdar-city%2Feco-villa-leaflet-en.pdf&usg=AOvVaw3PeQ-xZLpDtUPT8gdSN3KZ
+
+[2] [Masdar City Eco-villa Net-zero Energy](hhttps://masdar.ae/-/media/corporate/downloads/masdar-city/eco-villa-leaflet-en.pdf)
 
 
-[3] 2020 Masdar Sustainability Report
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwivmr-Snv3-AhWvEFkFHZJMCjwQFnoECDkQAQ&url=https%3A%2F%2Fmasdar.ae%2F-%2Fmedia%2Fcorporate%2Fdownloads%2Fabout-us%2Fmasdar-annual-sustainability-reports%2Fmasdar-2020-annual-sustainability-report.pdf&usg=AOvVaw1UMay3V8U59jFOeuk6LrIc
+[3] [2020 Masdar Sustainability Report](https://masdar.ae/-/media/corporate/downloads/about-us/masdar-annual-sustainability-reports/masdar-2020-annual-sustainability-report.pdf)
 
 
-[4] Masdar Green Finance Framework
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj_w4DS3v3-AhVyFlkFHUEoBfoQFnoECB0QAQ&url=https%3A%2F%2Fmasdar.ae%2F-%2Fmedia%2Fcorporate%2Farchive%2Fmasdar_green-finance_2023.pdf&usg=AOvVaw0k9_kkKVS0QDEjErIpoekK
+[4] [Masdar Green Finance Framework](https://masdar.ae/-/media/corporate/archive/masdar_green-finance_2023.pdf)
 
 
-[5] Masdar City Fact Sheet - 2022
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjQ9J6w0uP-AhU_FFkFHXzXDOYQFnoECBQQAQ&url=https%3A%2F%2Fmasdar.ae%2F-%2Fmedia%2Fcorporate%2Fdownloads%2Fmedia%2F2022%2Fmasdar_city_factsheet_en-2022_v3.pdf&usg=AOvVaw18JwXBgt-A64lPxzL6IMlg
-
+[5] [Masdar City Fact Sheet - 2022](https://masdar.ae/-/media/corporate/downloads/media/2022/masdar_city_factsheet_en-2022_v3.pdf)
 
 ### Secondary Sources
 
@@ -250,6 +245,7 @@ https://www.logisticsmiddleeast.com/transport/roads/31557-masdar-city-unveils-fi
 
 
 [16] Rethinking the future low-carbon city: Carbon neutrality, green design, and sustainability tensions in the making of Masdar City
+https://www.sciencedirect.com/science/article/pii/S2214629619308904
 
 
 [17] We Were Promised Smart Cities. What Happened?

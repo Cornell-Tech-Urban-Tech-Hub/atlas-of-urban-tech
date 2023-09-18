@@ -96,7 +96,6 @@ geography_caption: Optional Caption for the geographic information.
         InformationSystems
         HealthEducation
 
-
 - **geography**: A geojson file indicating the project boundary or other key geography formatted as **_./filename.geojson_**. Geojson files can be created or edited from an exisitng geodata format at [geojson.io](https://geojson.io).
 
 - **geography_caption**: A brief caption for the geojson boundary map.
