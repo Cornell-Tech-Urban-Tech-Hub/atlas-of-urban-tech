@@ -13,6 +13,10 @@ To create a post you will need to have a personal github.com account. Then you c
 
 Once ready you can then issue a pull request to merge your changes back to the main repo. You can choose to keep your local repo if you will continue to make additional edits or close it if submitting final changes.
 
+**If you need a thorough explanation of how forking and pull requests work, see [this video](https://www.youtube.com/watch?v=nT8KGYVurIU).** It's prety straightforward but seeing is believing and will make it make sense much faster than reading.
+
+**If you want to keep your fork in sync with the upstream repo, see this [video](https://www.youtube.com/watch?v=VOakLctEC2Q).** This is generally not needed for contributors but allows you to see changes made concurrently by others after you create your fork. The easiest way to do it, is to use the "Sync Fork" button at the top of your GitHub fork.
+
 ### 2. Create A New Case Study
 
 A new case study consists of at minimum a new folder with an plaintext markdown file inside. Case studies should a minimum have one featured image in the folder but is not required to create the initial draft. View the [example folder](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech/tree/main/templates/case).
