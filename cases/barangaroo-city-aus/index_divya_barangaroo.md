@@ -5,7 +5,7 @@ template: case-study
 status: Complete
 author: Divya Vedula
 type: district
-city: Barangaroo Smart City
+city: Sydney
 country_code: AUS
 centroid: [-33.8638, 151.2015]
 year_start: 2007
@@ -14,10 +14,9 @@ featured_image: ./dan-freeman-7Zb7kUyQg1E-unsplash.jpg
 featured_alt: Sydney Skyline
 featured_credit: Dan Greeman (Unsplash)
 tags:
-  - Energy Efficiency
-  - Sustainability
-  - Smart Infrastructure
-  - Urban Renewal
+  - Energy
+  - InnovationSystems
+
 geography: ./map.geojson
 geography_caption: Barangaroo Smart City
 ---
