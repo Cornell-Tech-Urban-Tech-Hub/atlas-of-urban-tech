@@ -163,9 +163,44 @@ We will spend a session in class on how to create the GeoJSON file to describe y
 
 ### 6. Commit, Push, and Merge Your Contribution
 
-The final step is to commit and push your changes to the fork, then submit a pull request to have your changes merged to the main repo.
+The final step is to submit your changes for inclusion in Atlas. This is a multi-step process designed provide an opportunity to review your contribution and prevent conflicting edits.
+
+All of the below commands should be executed on the command line in your project's root directory:
+
+**A. (Optional) Fetch Upstream Changes**
+
+To incorporate changes that have happened to the primary Atlas of Urban Tech repository to your local repo, you need to first add the orignal repo (the one you forked in Step 1 above) as an "upstream" remote and then pull the changes down:
+
+                        git remote add upstream https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech.git
+                        git fetch upstream
+
+**B. Stage Your Changes**
+
+Queue your edits to commit them to the repository.
+
+                git add . # stages all changed files recursively
+
+If you need to redact something, say a file called `example.md` that you don't really want to commit:
+
+                git reset HEAD example.md
+
+**C. Commit and Sync Them to Your GitHub Fork**
+
+                git commit -m "Message that describes what this change does"
+                git push origin main
 
 
+**D. Create A Pull Request**
+
+This you'll have to do from the GitHub website. Go to your fork's home page and follow these links to submit a pull request.
+
+![image](./doc/PR1.png)
+
+![image](./doc/PR2.png)
+
+You're all done. The maintainers will review your submission and accept the pull request.
+
+**If you need a thorough explanation of how forking and pull requests work, see [this video](https://www.youtube.com/watch?v=nT8KGYVurIU).**
 
 ## License
 
