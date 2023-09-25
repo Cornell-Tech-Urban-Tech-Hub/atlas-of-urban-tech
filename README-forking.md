@@ -6,7 +6,9 @@
 >
 > -- [GitHub Help](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)
 
-
+> Moreover, Git Fork establishes a clear workflow for contributing to open-source projects, making it easier for developers to submit their changes for review through pull requests. This process ensures that project maintainers have full control over the changes that get merged into the main repository while still encouraging contributions from the community.
+>
+> -- [Mastering Git Fork](https://marketsplash.com/tutorials/git/git-fork/)
 ## WHY IMPORTANT TO KEEP FORKS IN SYNC WITH UPSTREAM
 
 > Pretend that you are working on a fork of your colleague’s repo. Your colleague’s repo is the final home for the code and content that you are working together on collaboratively. Your colleague and others in your group may be updating code while you are working. It is important to ensure that your fork is in sync with your colleague’s repo, ideally before making a new pull request to that repo. Your repo being in sync refers to your fork having all of the commits or changes to the code and files that have been made to the parent repo. 
@@ -20,8 +22,31 @@
 >
 > -- [StackOverflow](https://stackoverflow.com/questions/55501551/what-is-the-standard-way-of-keeping-a-fork-in-sync-with-upstream-on-collaborativ)
 
+## WHAT SEEMS TO BE THE MOST COMMON METHOD
 
-## REBASING
+From [Mastering Git Fork: A Comprehensive Guide ](https://marketsplash.com/tutorials/git/git-fork/)
+
+To ensure that your forked repository stays current with the latest changes from the original project, you need to set up a link to the upstream repository and periodically sync your fork. Follow these steps to keep your fork up-to-date:
+
+1. **Add the upstream repository as a remote:** Run the following command to add the original repository (upstream) as a remote. Replace the URL with the original repository's URL.
+                
+                git remote add upstream https://github.com/ownerusername/original-repository.git
+
+2. **Fetch the latest changes from the upstream repository:** To retrieve the latest changes from the original repository, run: `
+
+                git fetch upstream
+
+3. **Merge the upstream changes into your local branch:**  To First, ensure you're on the branch you want to update (typically the main or master branch). Then, run, replace *main* with the appropriate branch name if the upstream repository uses a different default branch.
+
+                git merge upstream/main
+
+4. **Push the updated branch to your forked repository:** After merging the upstream changes, push the updated branch to your fork on GitHub. Again, replace *main* with the appropriate branch name if needed:
+
+                git push origin main
+
+
+
+## A DIFFERENT, POSSIBLY BETTER METHOD: REBASING
 
 https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
 
@@ -60,6 +85,19 @@ If you've rebased your branch onto upstream/master you may need to force the pus
         git push -f origin master
 
 You only need to use the -f the first time after you've rebased.
+
+
+## ANOTHER WAY OF REBASING
+
+
+From [Mastering Git Fork: A Comprehensive Guide ](https://marketsplash.com/tutorials/git/git-fork/)
+
+Rebasing your fork involves applying your changes to the latest version of the upstream repository, resulting in a linear history. Rebasing can be useful for keeping your changes up-to-date and maintaining a clean commit history. Here are some tips for rebasing your fork:
+
+1. Fetch the latest changes from the upstream repository using git fetch upstream.
+2. Check out your local branch and run git rebase upstream/main, where upstream/main is the branch you want to rebase onto.
+3. Resolve conflicts that occur during the rebase.
+4. Push your changes to your fork using git push -f origin your-branch-name.
 
 
 ## OFFICIAL GIHUB HOWTO FOR SYNCING A FORK
