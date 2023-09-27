@@ -1,5 +1,8 @@
 # GIT BEST PRACTICES FOR COLLABORATION
 
+## TL, DR;
+
+[This post](https://reflectoring.io/github-fork-and-pull/) is the most concise, comprehensive version on how to collaborate with the "fork and pull" method.
 ## WHAT's A FORK?
 
 > Forks let you make changes to a project without affecting the original repository, also known as the "upstream" repository. After you fork a repository, you can fetch updates from the upstream repository to keep your fork up to date, and you can propose changes from your fork to the upstream repository with pull requests. A fork can be owned by either a personal account or an organization.
@@ -80,9 +83,9 @@ Explained in this [thread](https://stackoverflow.com/questions/7244321/how-do-i-
 
         git rebase upstream/main
 
-If you've rebased your branch onto upstream/master you may need to force the push in order to push it to your own forked repository on GitHub. You'd do that with:
+If you've rebased your branch onto upstream/main you may need to force the push in order to push it to your own forked repository on GitHub. You'd do that with:
 
-        git push -f origin master
+        git push -f origin main
 
 You only need to use the -f the first time after you've rebased.
 
