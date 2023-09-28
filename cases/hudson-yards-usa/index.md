@@ -14,6 +14,8 @@ featured_image: ./hudson2.jpg
 featured_alt: Hudson Yards, a $25B mixed-use development
 featured_credit: Zain Abdelrazeq
 tags:
+    - Buildings
+    - Energy
 geography: ./hudson-yards-usa.geojson
 geography_caption: 
 ---
