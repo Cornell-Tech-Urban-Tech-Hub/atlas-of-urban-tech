@@ -13,7 +13,7 @@ featured_desc:
 featured_credit: SALEH (Unsplash)
 description: NEOM is a "living laboratory" and a hub for innovation, with a focus on technology and sustainability. It aims to create a global center for business, trade, and tourism in Saudi Arabia.
 
-geography: neom-sau.geojson
+geography: ./neom-sau.geojson
 geography_caption: Optional Caption for the geographic information.
 year_start:
 year_completed:

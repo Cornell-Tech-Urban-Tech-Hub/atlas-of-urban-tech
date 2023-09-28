@@ -14,9 +14,10 @@ featured_image:
 featured_alt: 
 featured_credit: 
 tags:
-  - renewables
-  - cleantech
-geography: 
+  - Buildings
+  - Energy
+  - Mobility
+geography: ./masdar.geojson
 geography_caption: 
 ---
 
