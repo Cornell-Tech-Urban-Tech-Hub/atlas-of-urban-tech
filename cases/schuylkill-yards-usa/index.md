@@ -14,10 +14,8 @@ featured_image: ./media/DrexelSquareFitness-81_sky.jpg
 featured_alt: Bulletin Building
 featured_credit: Brandywine Realty Trust
 tags:
-  - Real Estate
-  - Railroads
-  - Life Science
-  - University
+  - Buildings
+  - InnovationSystems
 geography: ./schuylkill-yards-usa.geojson
 geography_caption: Schuylkill Yards Bounding Box
 ---
@@ -25,13 +23,7 @@ geography_caption: Schuylkill Yards Bounding Box
 ## Overview
 
 <!-- About 100 to 150 word summary of the case study. -->
-Schuylkill Yards is a mixed-use real estate development led by Brandywine Realty Trust and Drexel University. The project plans to redevelop 14 acres of land along the Schuylkill River.
-
-Schuylkill Yards is expected to include ten buildings and a network of greenspaces.
-
-The project location is part of the University City district in West Philadelphia. It is surrounded by the city's main transit hub (30th Street Station) and Drexel University.
-
-The project plans to be completely finished by the third quarter of 2025.
+Schuylkill Yards is a mixed-use real estate development led by Brandywine Realty Trust and Drexel University. The project plans to redevelop 14 acres of land along the Schuylkill River. Schuylkill Yards is expected to include ten buildings and a network of greenspaces. The project location is part of the University City district in West Philadelphia. It is surrounded by the city's main transit hub (30th Street Station) and Drexel University. The project plans to be completely finished by the third quarter of 2025.
 
 The project itself is a major part of Philadelphia's revitalization over the past decade. During the latter half of the 20th century, the city was in decline. A large portion of the medium and high-income residents moved out to the suburbs, and most of the major corporations also relocated. This was due to a number of factors including a loss in manufacturing jobs, an increase in organized crime, and the expansion of regional rail systems that made suburbanization even easier.
 
@@ -44,9 +36,7 @@ That being said, since the 2000s Philadelphia has seen an economic resurgence. M
 
 **Life Science Specialization**.  One of the defining factors of the Schuylkill Yards project is its focus on attracting life science companies. Most of the buildings have dedicated lab spaces as part of their construction plans. Two major healthcare networks, Penn Medicine and the Children's Hospital of Philadelphia, have heavily invested in nearby facilities to help support new biotechnology companies. 
 
-**Creating a New Community**.  Real-estate projects often fight with the existing neighborhoods that surround them. Projects like Hudson Yards(New York City) and Canary Wharf(London) have been ridiculed for not taking into account existing neighborhoods.
-
-Schuylkill Yards is unlikely to face this issue due to its geographic location. The entire site is surrounded by existing rail infrastructure and Drexel University. The land that the project is being developed on is mostly abandoned buildings and parking lots for 30th Street Station. How Schuylkill Yards tackles this situation will be interesting because it is on a pseudo island.
+**Creating a New Community**.  Real-estate projects often fight with the existing neighborhoods that surround them. Projects like Hudson Yards(New York City) and Canary Wharf(London) have been ridiculed for not taking into account existing neighborhoods. Schuylkill Yards is unlikely to face this issue due to its geographic location. The entire site is surrounded by existing rail infrastructure and Drexel University. The land that the project is being developed on is mostly abandoned buildings and parking lots for 30th Street Station. How Schuylkill Yards tackles this situation will be interesting because it is on a pseudo island.
 
 **Joint University Implementation**.  One of the biggest advantages of this project is that the land being developed is mostly owned by Drexel University. The university has a vested interest in developing the area surrounding its campus. Due to Drexel's participation, the project has avoided many of the hurdles normally associated with such a large real-estate project. Additionally, the University's backing has allowed for the project to be oriented towards an innovation focus. Tenants will have the opportunity to work closely with existing research and development programs at Drexel. 
 
@@ -67,19 +57,9 @@ Schuylkill Yards is unlikely to face this issue due to its geographic location. 
 
 **Healthy Work Environment for a post-COVID world**. Schuylkill Yards was originally started prior to the COVID-19 pandemic. During the pandemic construction methods and materials were adjusted to minimize infection rates. These changes carried over to the final design of all the buildings. Additions include a premium MERV-13 Filtration, antimicrobial finishes, touchless locks, 24/7 HVAC operations, and destination dispatch elevators.  Many of these buildings were already designed for wet laboratories so they included a high performance VAV system, supplemental condenser water, critical high intensity cooling areas (backed up by generator), optimized fresh air intake, and space designated for clean rooms.
 
-**LEED Platinum Certification**.  One of the main goals of the project is to include at least one Leadership in Energy and Environmental Design (LEED) Platinum certified building. LEED is a certification that rates the environmental sustainability of a building. 
+**LEED Platinum Certification**.  One of the main goals of the project is to include at least one Leadership in Energy and Environmental Design (LEED) Platinum certified building. LEED is a certification that rates the environmental sustainability of a building. To achieve this certification Schuylkill Yards has promised a climate response design that includes advanced solar control. This system would dynamically change the facades to maximize thermal insulation. For example, when the internal building temperature needs to be cooled the facades can adjust and provide more shade. Another promise is the reduction in the amount of potable water being used in the building. This will likley be achieved through storm water capture and greywater recycling.
 
-To achieve this certification Schuylkill Yards has promised a climate response design that includes advanced solar control. This system would dynamically change the facades to maximize thermal insulation. For example, when the internal building temperature needs to be cooled the facades can adjust and provide more shade.
-
-Another promise is the reduction in the amount of potable water being used in the building. This will likley be achieved through storm water capture and greywater recycling.
-
-**JFK Blvd Esplanade**.  A defining part of the project is the network of greenspaces being constructed. These interconnected greenspaces should allow pedestrians to move across the entire neighborhood on foot. The unified greenspaces will also create a campus-like feel to the project site.
-
-The crux of these greenspaces is the JFK Blvd Esplanade. This stretch of road is modeled off the chaotic streets of southeast asia. The general concept is that chaotic road traffic does not necessarily result in traffic congestion. Many plazas in southeast asia house multiple modes of transit with no signalization or markings, yet people still manage to flow through them with minimal accidents.
-
-Schuylkill Yards plans to take this concept and redevelop JFK Blvd. This stretch of road will have the same grade elevation for vehicles and pedestrians. Vehicles will be expected to yield to pedestrians without any signals or markings.
-
-This project could also be interesting for autonomous vehicle development. The chaotic roadway would serve as challenge for all autonomous vehicles as they attempt to navigate an anarchical roadway.
+**JFK Blvd Esplanade**.  A defining part of the project is the network of greenspaces being constructed. These interconnected greenspaces should allow pedestrians to move across the entire neighborhood on foot. The unified greenspaces will also create a campus-like feel to the project site. The crux of these greenspaces is the JFK Blvd Esplanade. This stretch of road is modeled off the chaotic streets of southeast asia. The general concept is that chaotic road traffic does not necessarily result in traffic congestion. Many plazas in southeast asia house multiple modes of transit with no signalization or markings, yet people still manage to flow through them with minimal accidents. Schuylkill Yards plans to take this concept and redevelop JFK Blvd. This stretch of road will have the same grade elevation for vehicles and pedestrians. Vehicles will be expected to yield to pedestrians without any signals or markings. This project could also be interesting for autonomous vehicle development. The chaotic roadway would serve as challenge for all autonomous vehicles as they attempt to navigate an anarchical roadway.
 
 
 ## Stakeholders
@@ -153,7 +133,6 @@ The zone allows for investors to decrease the amount of capital gains tax by 10%
 
 ## References
 
----
 
 ### Primary Sources
 

@@ -16,7 +16,6 @@ featured_credit: Dan Greeman (Unsplash)
 tags:
   - Energy
   - InnovationSystems
-
 geography: ./map.geojson
 geography_caption: Barangaroo Smart City
 ---
