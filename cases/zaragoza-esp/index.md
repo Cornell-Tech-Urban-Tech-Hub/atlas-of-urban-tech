@@ -16,7 +16,10 @@ featured_credit: Iberian Escapes
 tags:
   - Code
   - Markdown
+geography: ./zaragoza.geojson
+geography_caption: Milla Digital
 ---
+
 
 ## Overview
 
@@ -100,7 +103,7 @@ Not long after the project was set in motion, Zaragoza was appointed to be the l
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
-**Financing Scheme**. 
+**Mix of Public and Private Sources**. 
 These project are being funded both publicly and privately. On the public front, one of the biggest stakeholders in the project, City Hall, is providing a large bulk of the financial support. There is also the main bank of the region, and they are the main private contributor to the project. They also work with the Fundacion Zaragoza Ciudad del Conocimiento, which my interviewee was the founder of, to get competitive funding for proposals. They mainly work with European municipalities to get funding, as well as recovery funds. Lastly, they also received a small amount of funding from the University, as a result of an agreement where they would manage the research labs and citizens science projects that would be integrated into the Etopia Center. 
 
 ## Outcomes
@@ -115,32 +118,30 @@ These project are being funded both publicly and privately. On the public front,
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-**Open questions 1**. Despite the numerous technological interventions and proposals, the Digital Mile project and plans that followed have yet to explore the topic of sustainability. What are ways the city could look into tapping into their potential for renewable energy systems?
+**Role of Sustainablity**. Despite the numerous technological interventions and proposals, the Digital Mile project and plans that followed have yet to explore the topic of sustainability. What are ways the city could look into tapping into their potential for renewable energy systems?
 
-**Open questions 2**. In my interview, Daniel Sarasa Funes discussed how there seemed to be a disconnect between the public and the urban development. Many people didn't quite understand the significance of what was being developed, nor did they understand how the communities would benefit, or why they were necessary. With regional elections coming up, what should politicians do to create a new narrative to garner more public support for further urban regeneration projects?
+**Public Perception**. In my interview, Daniel Sarasa Funes discussed how there seemed to be a disconnect between the public and the urban development. Many people didn't quite understand the significance of what was being developed, nor did they understand how the communities would benefit, or why they were necessary. With regional elections coming up, what should politicians do to create a new narrative to garner more public support for further urban regeneration projects?
 
 
 ## References
-
----
 
 ### Primary Sources
 
 <!-- 3-5 project plans, audits, reports, etc. -->
 
-* MIT's New Century City Developments by Michael Joroff, Dennis Frenchman, Francisca Rojas and the NCCs Massachusetts Institute of Technology http://web.mit.edu/newcenturycity/new-century-city-developments.pdf
-* LUIS CANIZO
-11.947 New Century Cities: CRE – CDD DUSP – Media Lab Joint Faculty-Student Seminar  https://ocw.mit.edu/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/ca287a75ffed700a679ea3cbb44fd9ec_canizo_final.pdf
-* Zaragoza's Digital Mile: Place-Making in a New Public Realm [Media and the City] by Frenchman, Dennis;Rojas, Francisca https://escholarship.org/uc/item/5dm2932p 
-* Zaragoza Milla Digital: Designing a New Century Public Realm by MIT School of Architecture and Planning https://www.cideu.org/wp-content/uploads/2019/12/mitesp.pdf 
-* The high-speed rail project as an urban redevelopment tool by Carmen Bellet Sanfeliu et Luis Santos Ganges https://journals.openedition.org/belgeo/18153
+* [MIT's New Century City Developments by Michael Joroff, Dennis Frenchman, Francisca Rojas and the NCCs Massachusetts Institute of Technology](http://web.mit.edu/newcenturycity/new-century-city-developments.pdf)
+* [LUIS CANIZO
+11.947 New Century Cities: CRE – CDD DUSP – Media Lab Joint Faculty-Student Seminar](https://ocw.mit.edu/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/ca287a75ffed700a679ea3cbb44fd9ec_canizo_final.pdf)
+* [Zaragoza's Digital Mile: Place-Making in a New Public Realm [Media and the City] by Frenchman, Dennis;Rojas, Francisca](https://escholarship.org/uc/item/5dm2932p)
+* [Zaragoza Milla Digital: Designing a New Century Public Realm by MIT School of Architecture and Planning](https://www.cideu.org/wp-content/uploads/2019/12/mitesp.pdf)
+* [The high-speed rail project as an urban redevelopment tool by Carmen Bellet Sanfeliu et Luis Santos Ganges](https://journals.openedition.org/belgeo/18153)
 
 ### Secondary Sources
 
 <!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 
 * http://senseable.mit.edu/biennale/pdfs/zaragoza_01.pdf
-* Zaragoza, Spain by Jess Blanch, Lauren Keene https://sdstudio.be.uw.edu/wp-content/uploads/sites/51/downloads/Winter2010/zaragoza.pdf
-* Zaragoza Bridge Pavilion by Zaha Hadid by Marcus Fairs https://www.dezeen.com/2008/06/16/zaragoza-bridge-pavilion-by-zaha-hadid/ 
-* Zaragoza Smart City: Sourcing the Code to Citizen Co-Creation by Vineeta Shetty https://urbequity.com/en/zaragoza-smart-city-open-source/
-* Zaragoza City to conduct second round of drone testing for Flying Forward 2020 by USA Traffic Management News and Urban Air Mobility https://www.unmannedairspace.info/latest-news-and-information/zaragoza-city-to-conduct-second-round-of-drone-testing-for-flying-forward-2020/
+* [Zaragoza, Spain by Jess Blanch, Lauren Keene](https://sdstudio.be.uw.edu/wp-content/uploads/sites/51/downloads/Winter2010/zaragoza.pdf)
+* [Zaragoza Bridge Pavilion by Zaha Hadid by Marcus Fairs](https://www.dezeen.com/2008/06/16/zaragoza-bridge-pavilion-by-zaha-hadid/) 
+* [Zaragoza Smart City: Sourcing the Code to Citizen Co-Creation by Vineeta Shetty](https://urbequity.com/en/zaragoza-smart-city-open-source/)
+* [Zaragoza City to conduct second round of drone testing for Flying Forward 2020 by USA Traffic Management News and Urban Air Mobility](https://www.unmannedairspace.info/latest-news-and-information/zaragoza-city-to-conduct-second-round-of-drone-testing-for-flying-forward-2020/)

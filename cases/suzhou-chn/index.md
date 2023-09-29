@@ -14,13 +14,10 @@ featured_image: ./sip_cbd.jpg
 featured_alt: Suzhou Industrial Park CBD
 featured_credit: Z. Ruikoto (Unsplash)
 tags:
-  - Smart City
-  - Industrial Park
-  - Urban Digitalization
-  - Smart Environment
-  - Smart Living
+  - Environment
+  - HealthEducation
 geography: ./sip.geojson
-geography_caption: Suzhou Industrial Park GeoJSON
+geography_caption: Suzhou Industrial Park
 ---
 
 
@@ -92,11 +89,11 @@ Over the past three decades, SIP has made significant efforts in smart city init
 
 **Anonymous Interviewee**: The anonymous interviewee is a manager of a state-owned bank in China with extensive experience in leading multiple bank-sponsored events in the SIP area and coordinating bank loans to SIP enterprises. The interviewee's bank has close cooperation with SIP, making them a valuable partner in the development of the area.
 
-**Insight 1**: The interviewee provides a critical insight into the financial sources for SIP. The park has a diverse range of funding options, including bank loans, government investments, private enterprises, and capital markets. To decrease overall risk, SIP will obtain loans from both state-owned and private banks. According to the interviewee, SIP prefers state-owned banks over private banks. As a result, the bank that the interviewee works for receives a significant amount of bank loans for projects in SIP.
+**Diverse Funding Sources**: The interviewee provides a critical insight into the financial sources for SIP. The park has a diverse range of funding options, including bank loans, government investments, private enterprises, and capital markets. To decrease overall risk, SIP will obtain loans from both state-owned and private banks. According to the interviewee, SIP prefers state-owned banks over private banks. As a result, the bank that the interviewee works for receives a significant amount of bank loans for projects in SIP.
 
-**Insight 2**: The second crucial insight is the partnership between the bank and SIP. The bank has provided funding to both the main operating companies in SIP and enterprises within the park. The main operating companies include the operation center, the different service systems, the technology center, the financial center, and so on. Most of the enterprises that receive funding are small to medium-sized local companies that seek new opportunities in SIP, although there are also large and renowned companies that choose the bank for their loan businesses.
+**Key Role of Bank**: The second crucial insight is the partnership between the bank and SIP. The bank has provided funding to both the main operating companies in SIP and enterprises within the park. The main operating companies include the operation center, the different service systems, the technology center, the financial center, and so on. Most of the enterprises that receive funding are small to medium-sized local companies that seek new opportunities in SIP, although there are also large and renowned companies that choose the bank for their loan businesses.
 
-**Insight 3**: The final insight worth noting is the returns that SIP offers to the bank in their partnership. In summary, SIP provides the bank with benefits such as deposits, loan interests, investment bank business, and derivatives as returns. It also gives priority to the bank for sponsorship when there are significant events as a way to promote the bank's brand and reputation within the SIP area.
+**Return on Investment**: The final insight worth noting is the returns that SIP offers to the bank in their partnership. In summary, SIP provides the bank with benefits such as deposits, loan interests, investment bank business, and derivatives as returns. It also gives priority to the bank for sponsorship when there are significant events as a way to promote the bank's brand and reputation within the SIP area.
 
 
 
@@ -123,11 +120,11 @@ Over the past three decades, SIP has made significant efforts in smart city init
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-**Open Questions 1**: How did Singapore come to initiate multiple smart city projects in China, and what are the distinctions between SIP and other projects?
+**Singapore's Role**: How did Singapore come to initiate multiple smart city projects in China, and what are the distinctions between SIP and other projects?
 
-**Open Questions 2**:  What will be the long-term international impact of SIP on economic development, trade relations, and global innovation?
+**Global Significance**:  What will be the long-term international impact of SIP on economic development, trade relations, and global innovation?
 
-**Open Questions 3**:  What are the key policy differences between industrial parks in developed and developing countries, and how do these policies impact their success? 
+**Comparative Industrial Park Policy**:  What are the key policy differences between industrial parks in developed and developing countries, and how do these policies impact their success? 
 
 
 ## References
