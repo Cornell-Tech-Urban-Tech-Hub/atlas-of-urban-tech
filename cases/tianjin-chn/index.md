@@ -10,17 +10,15 @@ country_code: CN
 centroid: [39.154496, 117.767878]
 year_start: 2008
 year_completed: 2023
-featured_image: ./tianjin.jpg
+featured_image: ./valery-rabchenyuk-nUQ8CoDUnAw-unsplash.jpeg
 featured_alt: Sino-Singapore Eco-City Skyline
 featured_credit: enorth.com.cn(Unsplash)
 tags:
-  - Code
-  - Markdown
+  - Energy
+  - Environment
 geography: ./tianjin.geojson
 geography_caption: District is located near Tianjin, by the ocean.
 ---
-
-![Alt Text / Overview](./tianjin.jpg "Overview (Unsplash)")
 
 ## Overview
 
@@ -98,17 +96,17 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 
 **Real-Estate Development On-Site Manager: Mr. Qi**. The unnamed field manager, Mr. Qi, works for [Jia Liu](http://www.tianjineco-city.com/About/team?lang=english/), who is the Deputy CEO of SSTEC. This project leader manages the on-site construction works in developing the Eco-City, he has witnessed the waves of people moving into the city, and how the city was built over the past 8 years. The opportunity to interview him came from our family relationship back in my home Beijing, which we share family members who are siblings. He wished to remain unidentified in my report, so that he could speak freely of what he truly thinks.
 
-**Insight 1: Personal Car Usage**: Sustainability is among the most important values that builds the foundation of the Eco-City, and the city has invested in a public transportation system capable of taking people anywhere around town to implement sustainable, green travelling. However, more than 90% of residential families own at least one vehicle. Being an ecological city that is comfortable to live in, the Eco-City actually lacks attractiveness for medical and technology industries to settle in, as they have already built large sites at nearby locations: Beijing and Tianjin. Most families moved here to allow children and elderly parents to enjoy how nature surrounds, while the adults have to commute to Tianjin for work. A city prepared for car-free living now suffers ironic rush hours daily.
+**Personal Car Usage**: Sustainability is among the most important values that builds the foundation of the Eco-City, and the city has invested in a public transportation system capable of taking people anywhere around town to implement sustainable, green travelling. However, more than 90% of residential families own at least one vehicle. Being an ecological city that is comfortable to live in, the Eco-City actually lacks attractiveness for medical and technology industries to settle in, as they have already built large sites at nearby locations: Beijing and Tianjin. Most families moved here to allow children and elderly parents to enjoy how nature surrounds, while the adults have to commute to Tianjin for work. A city prepared for car-free living now suffers ironic rush hours daily.
 
-**Insight 2: Living Concepts & Legislation Conflict**: As a city that promotes cultural growth, the residential buildings and neighborhoods of the Eco-City features an abundance in public spaces. Introduced by Keppels Group, there are many benefits to having large areas of public space in residential areas, significantly improving the comfort level of residents. However, the apartments are sold under traditional Chinese real-estate law, by which the household purchased area stated on contracts includes a certain percentage of the shared public area within the building, and also a smaller percentage of the outdoor area shared by the entire neighborhood. Many property owners are unhappy after they found the area of their own apartment is more than 30% smaller than the area stated in their contract of purchase, and passed their mood down to the property management agencies. It is difficult to communicate to the residents as property managing workers in some neighborhoods, and it creates limitation to the services residents receive.
+**Living Concepts & Legislation Conflict**: As a city that promotes cultural growth, the residential buildings and neighborhoods of the Eco-City features an abundance in public spaces. Introduced by Keppels Group, there are many benefits to having large areas of public space in residential areas, significantly improving the comfort level of residents. However, the apartments are sold under traditional Chinese real-estate law, by which the household purchased area stated on contracts includes a certain percentage of the shared public area within the building, and also a smaller percentage of the outdoor area shared by the entire neighborhood. Many property owners are unhappy after they found the area of their own apartment is more than 30% smaller than the area stated in their contract of purchase, and passed their mood down to the property management agencies. It is difficult to communicate to the residents as property managing workers in some neighborhoods, and it creates limitation to the services residents receive.
 
-**Insight 3: Green Spaces**: The best way to enjoy the Eco-City is to work and live locally. When its not in the winter, I always see green vegetaions when I go around the city. My commute to work, supermarkets, and pick up my kids from school are all very pleasant experiences, being surrounded by nature allow me to be more relaxed. The natural landscape is preserved well here, I like to go to the central wetland park after dinner for a jog, where I can see some water birds from time to time.
+**Green Spaces**: The best way to enjoy the Eco-City is to work and live locally. When its not in the winter, I always see green vegetaions when I go around the city. My commute to work, supermarkets, and pick up my kids from school are all very pleasant experiences, being surrounded by nature allow me to be more relaxed. The natural landscape is preserved well here, I like to go to the central wetland park after dinner for a jog, where I can see some water birds from time to time.
 
 
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
-**Financing Scheme**: As introduced above, the Eco-City is a joint venture between China and Singapore, including government agencies, public sector, and private sectors from both China and Singapore. Strictly 50% of the initial investment was from Chinese government owned sources, represented by Tianjin Infrastructure Investment Group. The other 50% of the initial investment was from Keppels Group, Singapore, which represents the combined support from Singaporean government and Singaporean private sectors. The Eco-City development also receives high-priority attention and continuous funding from the Chinese central government directly, as it lies on the new pan-Beijing economic belt in the economic planning visions.
+**Bilateral Joint Venture**: As introduced above, the Eco-City is a joint venture between China and Singapore, including government agencies, public sector, and private sectors from both China and Singapore. Strictly 50% of the initial investment was from Chinese government owned sources, represented by Tianjin Infrastructure Investment Group. The other 50% of the initial investment was from Keppels Group, Singapore, which represents the combined support from Singaporean government and Singaporean private sectors. The Eco-City development also receives high-priority attention and continuous funding from the Chinese central government directly, as it lies on the new pan-Beijing economic belt in the economic planning visions.
 
 
 ## Outcomes
@@ -133,7 +131,6 @@ Building water usage is monitored, with rain-water harvesting and reuse system f
 
 ## References
 Most sources are from the Chinese internet.
----
 
 ### Primary Sources
 
