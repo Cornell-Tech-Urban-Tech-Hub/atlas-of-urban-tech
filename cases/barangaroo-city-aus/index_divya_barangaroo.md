@@ -5,7 +5,7 @@ template: case-study
 status: Complete
 author: Divya Vedula
 type: district
-city: Sydney
+city: Barangaroo Smart City
 country_code: AUS
 centroid: [-33.8638, 151.2015]
 year_start: 2007
@@ -14,8 +14,7 @@ featured_image: ./dan-freeman-7Zb7kUyQg1E-unsplash.jpg
 featured_alt: Sydney Skyline
 featured_credit: Dan Greeman (Unsplash)
 tags:
-  - Energy
-  - InnovationSystems
+  - Environment
 geography: ./map.geojson
 geography_caption: Barangaroo Smart City
 ---
@@ -24,20 +23,20 @@ geography_caption: Barangaroo Smart City
 
 <!-- About 100 to 150 word summary of the case study. -->
 
-Barangaroo is a waterfront urban district in Australia located on the western edge of the Sydney Central Business District. It is made up of 3 precincts focused on different mixed-uses: Barangaroo Reserve is a public park and cultural center, Barangaroo South is a mixed-used office, commercial, and residential space, and Central Barangaroo is a mixed-use recreational, cultural, and festival space. Barangaroo was created to transform an industrial harbor into a mixed-use district and celebrate the Aboriginal heritage of the land. The district was named after “Barangaroo”, an Aboriginal women who was a powerful Cammeraygal leader of the Eaora Nation during the period of European colonization. She played a key role in protecting the heritage and culture of her people.
+Barangaroo is a waterfront urban district in Australia located on the western edge of the Sydney Central Business District. It is made up of 3 precincts focused on different uses: Barangaroo Reserve is a public park and cultural center, Barangaroo South is a mixed-used office, commercial, and residential space, and Central Barangaroo is a mixed-use recreational, cultural, and festival space. Barangaroo was created to transform an industrial harbor into a mixed-use district and celebrate the Aboriginal heritage of the land. The district was named after “Barangaroo”, an Aboriginal women who was a powerful Cammeraygal leader of the Eaora Nation during the period of European colonization. She played a key role in protecting the heritage and culture of her people.
 
 ## Key Characteristics
 
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
 -->
 
-**Promoting Sustainability**.  Barangaroo has embedded sustainability (economic, social, and ecological) in all its plans, implementation, partners, and community engagement activities. It has set sustainability targets with a focus on being water positive, delivering zero waste, and being carbon neutral through aspects that include but are not limited to: waste water treatment, energy efficient buildings, recycling/composting, and solar panel use. It even educates residents on sustainability through an eco-concierge. 
+**Promoting sustainability**.  Barangaroo has embedded sustainability (economic, social, and ecological) in all its plans, implementation, partners, and community engagement activities. It has set sustainability targets with a focus on being water positive, delivering zero waste, and being carbon neutral through features including waste water treatment, energy efficient buildings, recycling/composting, and solar panels. It even educates residents on sustainability through an eco-concierge. 
 
-**Provide mixed use and working/living environments that anticipate emerging lifestyles**.  The area accomodates all types of people from corporates, to families, to tourists, etc. It has retail outlets, bars, restaurants, corporate offices, a foreshore promenade, and parks, etc.
+**Providing mixed-use and working/living environments that anticipate emerging lifestyles**.  The area accomodates all types of people from companies to families and tourists. It has a range of environments including retail outlets, bars, restaurants, corporate offices, a foreshore promenade, and parks.
 
-**Foster new processes and arrangements for incubation**.  Close proximity to corporations, the existing matural Sydney business ecosystem,  and robust networks have given rise to things like Harbor City Labs - startup incubator as well as Lighthouse, a startup precinct. Barangaroo is a professional environment that can bring in investors, partners, and a network to support startups and the startup community to grow. It has incubated a learning hub (Barangaroo Skills Exchange (BSX)) to deliver skilling and workforce training at Barangaroo South.
+**Fostering new processes and arrangements for incubation**.  Proximity to corporations, the existing Sydney business ecosystem, and robust networks have given rise to innovations like Harbor City Labs, a startup incubator, as well as Lighthouse, a startup precinct. Barangaroo is a professional environment that can bring in investors, partners, and a network to support startups and the startup community to grow. It has incubated a learning hub, Barangaroo Skills Exchange (BSX) to deliver skilling and workforce training at Barangaroo South.
 
-**Use advanced information and community-oriented technologies for efficient management of urban services** Quality of community participation in proper waste and recycling participation is tagged via QR codes. Tenants can monitor their energy usage via the data platform.
+**Using advanced information and community-oriented technologies for efficient management of urban services** The quality of community participation in proper waste and recycling participation is tagged via QR codes. Tenants can monitor their energy usage via the data platform.
 
 
 ## Goals and Aspirations
@@ -104,11 +103,11 @@ Barangaroo is a waterfront urban district in Australia located on the western ed
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-**Open questions 1**.  Are public interests met? Were they truly considered or were public commitments more of a facade?
+**Public interests**.  Are public interests met? Were they truly considered or were public commitments more of a facade?
 
-**Open questions 2**.  Has Barangaroo truly expressed the cultural and historical narrative that celebrates the experience of the place/community? While Barangaroo Reserve does this through its cultural programming and being a designated space for this, Central Barangaroo and Barangaroo South seem more of a cut and dry real-estate project to benefit residents and businesses. 
+**Community authenticity**.  Has Barangaroo truly expressed the cultural and historical narrative that celebrates the experience of the place/community? While Barangaroo Reserve does this through its cultural programming and being a designated space for this, Central Barangaroo and Barangaroo South seem more of a cut and dry real-estate project to benefit residents and businesses. 
 
-**Open questions 3**.  Is it holding true to its values of sustainability? This is an open question because the land reclamation efforts involved could be considered an environmental disaster. The project boasts of setting world standards in climate conservation but is this entirely true?
+**Measuring sustainability**.  Is it holding true to its values of sustainability? This is an open question because the land reclamation efforts involved could be considered an environmental disaster. The project boasts of setting world standards in climate conservation but is this entirely true?
 
 ## References
 

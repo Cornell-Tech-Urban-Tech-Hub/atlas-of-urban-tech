@@ -14,11 +14,8 @@ featured_image: ./hangzhou.jpg
 featured_alt: Hangzhou Lake
 featured_credit: jj20.com
 tags:
-  - Data Science
-  - AI City Management
-  - Digital Civil Service
-  - Smart Waste Management
-  - Smart Transporation
+  - InformationSystems
+  - Mobility
 geography: ./example.geojson
 geography_caption: Optional Caption for the geographic information.
 ---
@@ -60,8 +57,6 @@ The centralization of the database serves as the foundation for digitalizing gov
 **COVID-19 Health Code**.
  Because of the pre-existing technology foundation, including IoT, computing centers, and government apps, Hangzhou quickly rolls out the Health Code application to manage the spread of the COVID-19 virus within a few months of the outbreak. Though controversial, the application played a central role during the pandemic control from 2020 to 2022.
 
-![Alt Text / Smart City Traffic Management](./smart_traffic.jpg)
-
 
 ## Stakeholders
 
@@ -71,15 +66,15 @@ Government plays a leading role in proposing the main goals of the project and c
 **Alibaba**. 
 As the main technology vendor of the city, Alibaba helps implement Hangzhou Smart Brain. After the onset of the project, the Hangzhou government and Alibaba established a joint venture to handle the development. [Alibaba Cloud](us.alibabacloud.com)
 
-**Citizen**. 
+**Citizens**. 
 Citizens are the primary users and beneficiaries of the improved public services and quality of life these initiatives offer. Their feedback, engagement, and adoption of new technologies are crucial for the success and sustainability of smart city transformations.
 
 
 ## Leadership
 
-**Name of Interviewee**. 
+**Traffic System Engineer**. 
 
-Personnel involved in implementing the smart traffic system. Preferred not to disclose.
+Personnel involved in implementing the smart traffic system. Preferred not to disclose identity.
 
 **Less Congestion**.
  Traffic congestion improved significantly after the implementation of the system. During the most congested time, the city often sends police standing under the light to manage the traffic flow. Now, the traffic camera + AI can take this tedious task off the shoulder of police officers.
@@ -100,35 +95,32 @@ The funding comes from the infrastructure spending budget of the Hangzhou. For t
 ## Outcomes
 
 
-**Congestion Improvement**. 
-After the deployment of the smart traffic management system, the congestion issues in China improved significantly. The system can react to real-tier traffic and other accident information to optimize light signaling. Before the implementation of the system, Hangzhou was the 5th most congested city in China. After the implementation, Hangzhou dropped to 57th on the list.
+**Improving Congestion**. 
+After the deployment of the smart traffic management system, congestion issues in China improved significantly. The system can react to real-tier traffic and other accident information to optimize light signaling. Before the implementation of the system, Hangzhou was the 5th most congested city in China. After the implementation, Hangzhou dropped to 57th on the list.
 
 
-**Streamlining of Governmental Services**.  
-During the first version of the Hangzhou Smart Brain plan, the goal is to accomplish any task, citizen only needs to approach any government’s physical office once. The slogan was “Only Once”. Now, over close to 97% of the tasks were completed with only one visit to the physical location. However, a new goal was made, which is deemed “Not Even Once”. It means that citizens should be able to accomplish the most task without visiting the physical office because of the mass adoption of smartphones.
+**Streamlining of Government Services**.  
 
-
-**Hosptial Management**. 
-Long wait time in Hospital has been a big problem for a citizen to receive timely treatment and experience a pleasant experience. Long queues and long processing times in making payments were identified as the bottleneck. One of the sub-project of Hangzhou smart brain is to 
+One of the goals during the first version of the Hangzhou Smart Brain plan was around the slogan "only once," referring to the need for citizens to approach any government’s physical office only once to accomplish any task. Now, close to 97% of public tasks have been completed with only one visit to a government office. However, a new goal was made, which is deemed “Not Even Once,” meaning that citizens should be able to accomplish most tasks without visiting the physical office because of the mass adoption of smartphones.
 
 
 ## Open Questions
 
 
 **Top-down vs. Bottom-up Planning**
- Different cities went on different routes to finalize their planning. Some heavily consult the citizen in the early process, while other governments identify the most pressing issues in the city and address them with the newest technology.
+ Different cities went on different routes to finalize their planning. Some heavily consult citizens early in the process, while other governments identify the most pressing issues in the city and address them with the newest technologies.
 
 
 **Efficiency vs. Privacy**. 
-Centralization of data serves as the foundation for the project. While this centralized database has enabled numerous highly useful applications, the privacy and security of personal data have come into question. 
+Centralization of data serves as the foundation for the project. While this centralized database has enabled numerous highly useful applications, the privacy and security of personal data has come into question. 
 
 **Equity**. 
-Without public active engagement during the process of designing, planning, and implementing, the smart city project needs to put other mechanisms in place to ensure minorities are protected.
+Without public engagement during the process of designing, planning, and implementing, smart city projects need to ensure other mechanisms in place to ensure minorities are protected.
 
 
 ## References
 
----
+
 
 ### Primary Sources
 

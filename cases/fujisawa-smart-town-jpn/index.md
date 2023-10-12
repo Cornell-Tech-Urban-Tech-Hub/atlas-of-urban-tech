@@ -14,10 +14,9 @@ featured_image: ./townwide.png
 featured_alt: Fujisawa Sustainable Smart Town Homes
 featured_credit: Panasonic
 tags:
-  - Smart Infrastructure
-  - Energy Efficiency
-  - Community Building
-  - Community Wellbeing
+  - Buildings
+  - Energy
+  - Environment
 geography: ./fujisawa_sst_boundaries.geojson
 geography_caption: Fujisawa Sustainable Smart Town, Fujisawa, Kanagawa Prefecture, Japan
 ---
@@ -51,7 +50,7 @@ The Fujisawa Sustainable Smart Town (Fujisawa SST) is a smart town project in Fu
 
 **Improve Quality of Life**. The town aspires to improve the quality of life for residents. With minimal traffic, the town provides quick, walking distance access to all essential services and needs; this provides safety and accessibility for residents across diverse needs and ages. Surveillance cameras offer security without intruding. An abundance of different wellness and activity spaces aspire to build resident physical and psychological health.
 
-**Serve as a Model**.  The Fujisawa SST aspires to be a model for future towns and smart cities. With technologies from Panasonic, its project lead, and other Japanese technology companies, the town is a testing ground for a broad range of smart city technologies and initiatives.
+**Serve as a Model for Smart Cities**.  The Fujisawa SST aspires to be a model for future towns and smart cities. With technologies from Panasonic, its project lead, and other Japanese technology companies, the town is a testing ground for a broad range of smart city technologies and initiatives.
 
 
 ## Technology Interventions

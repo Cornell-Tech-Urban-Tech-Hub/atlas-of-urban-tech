@@ -14,8 +14,9 @@ featured_image: ./nycskyline.jpeg
 featured_alt: New York City Skyline
 featured_credit:
 tags:
-  - Code
-  - Markdown
+  - InformationSystems
+  - Mobility
+  - InnovationSystems
 geography: ./example.geojson
 geography_caption: Optional Caption for the geograhic information.
 ---
@@ -56,13 +57,13 @@ It is also essential to optimize coordination among entities involved in IoT eff
 
 **Privacy + Transparency**. IoT projects should be open about the whole process of data collection, transmission and processing, and should also protect the privacy of users. 
 
-**Security + Safety**. Cybersecuirty should be considered when implementing IoT projects, and IoT projects shuold be designed to promote the security and safety of public.
+**Security + Safety**. Cybersecuirty should be considered when implementing IoT projects, and IoT projects should be designed to promote the security and safety of public.
 
-**Fairness + Equity**. Every resident in New York City should have equal access to the IoT services.
+**Fairness + Equity**. Every resident in New York City should have equal access to IoT services.
 
-**Efficiency + Sustainability**. IoT infrastructure shuold be designed and deployed in a way of sustainability, and the resources should be shareable and reusable. Entities shuold also untilize IoT projects to promote a more sustainable environment.
+**Efficiency + Sustainability**. IoT infrastructure should be designed and deployed efficiently, and the resources should be shareable and reusable. Entities should also utilize IoT projects to promote a more sustainable environment.
 
-**Openness + Public Engagementy**. Cybersecuirty should be considered when implementing IoT projects, and IoT projects shuold be designed to promote the security and safety of public.
+**Openness + Public Engagementy**. Collected data should be made accessible when reasonable, and device owners or users should have ownership of data.
 
 
 
@@ -71,16 +72,16 @@ It is also essential to optimize coordination among entities involved in IoT eff
 
 
 
-**Wireless Water Meters**. Wireless water meter is the city's argest-scale IoT project initiaetd by the Department of Environmental Protection. There are wirelessly connected water meters integrated to the buildings, and these meters allow DEP to monitor water usage in over 800,000 buildings across the city, eliminating the need to send physical inspectors to read meters, and also alert residents when they might have a leak, based on tracked increases in use, or whether a building is inhabited when it isn’t supposed to be, among other benefits. 
+**Wireless Water Meters**. Wireless water meters are the city's largest-scale IoT project initiated by the Department of Environmental Protection (DEP). Wirelessly connected water meters are integrated to buildings, allowing DEP to monitor water usage in over 800,000 buildings across the city. Wireless water meters eliminate the need to send physical inspectors to read meters, and alert residents when they might have a leak based on tracked increases in use or whether a building is inhabited when it isn’t supposed to be.
 ![Alt Text / Responsive Traffic Management](./dep-water-meters.jpeg "Responsive Traffic Management")
 
 
-**Responsive Traffic Management**. New York City has 6,000 miles of streets which are used by more than 5,000 public buses, 13,000 yellow taxis, countless vehicles, and millions of commuters daily. Midtown in Motion is a technologyenabled traffic management system that uses real-time traffic information from a variety of sources, such as microwave sensors, traffic video cameras and EZPass readers to gather traffic flow information to monitor and respond to various traffic conditions and strategically adjust the green light time to optimize the transportation efficiency. 
+**Responsive Traffic Management**. New York City has 6,000 miles of streets which are used by more than 5,000 public buses, 13,000 yellow taxis, countless vehicles, and millions of commuters daily. Midtown in Motion is a technology-enabled traffic management system that uses real-time traffic information from a variety of sources such as microwave sensors, traffic video cameras, and EZPass readers to gather traffic flow information. The system uses this information to monitor and respond to traffic conditions and strategically adjust green light times to optimize transportation efficiency. 
 
 ![Alt Text / Responsive Traffic Management](./traffic-mgmt.jpeg "Responsive Traffic Management")
 
 
-**Citi Bike**. The way in which New Yorkers travel around the city has been transformed by Citi Bike, and the system is constantly expanding into previously underserved areas. The bike sharing program features internet-connected, solar-powered docking stations that allow users to access bikes using RFID key fobs, the CitiBike smartphone application, or by entering a code at a station kiosk. Smartphone users can check for bike and docking station availability and process payments as well. Citi Bike also publishes data report monthly with the intention of being open and transparent with  customers and the residents.
+**Citi Bike**. Citi Bike has transformed the ways that New Yorkers travel around the city, and the system is constantly expanding into previously underserved areas. The bike sharing program features internet-connected, solar-powered docking stations that allow users to access bikes using RFID key fobs, the CitiBike smartphone application, or by entering a code at a station kiosk. Smartphone users can use the app to check for bike and docking station availability and process payments as well. Citi Bike also publishes data report monthly with the intention of being open and transparent with customers and residents.
 
 ![Alt Text / CitiBike Station in New York City](./Citi_Bike_Riding_Exp.jpg "Citi Bike Official Website")
 
@@ -89,14 +90,14 @@ It is also essential to optimize coordination among entities involved in IoT eff
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
 
-**Government**. The city government is responsible for providing and managing a wide range of IoT services and IoT technologies have the potential to improve the efficiency, effectiveness, and quality of these services. The city government has a vested interest in leveraging these technologies to better serve its residents. 
+**Government**. The city government is responsible for providing and managing a wide range of IoT services and IoT technologies that have the potential to improve the efficiency, effectiveness, and quality of public services. The city government has a vested interest in leveraging these technologies to better serve its residents. 
 ![Alt Text / NYC Government ](./gov.jpeg "Government")
 
 **Business and Community Organizations**. The business community is a key stakeholder in the New York City IoT Strategy because IoT technologies have the potential to drive economic growth and create new business opportunities. The plan includes initiatives to support the development of startups and encourage investment in the IoT industry. Community organizations, such as local non-profits, advocacy groups, and neighborhood associations, are also important stakeholders because they represent the interests and needs of the community. These organizations can provide input and feedback on the plan, help ensure that vulnerable populations have access to the benefits of IoT technologies, and advocate for the protection of data privacy. 
 ![Alt Text / NYC Education & Community Engagement ](./community.jpeg "NYC Education & Community Engagement")
 
 
-**Residents**.  Residents of New York City are key stakeholders in the plan because they will be the primary beneficiaries, or even potential recipients of any negative impact, of the IoT initiatives. It is essential to engage with residents to understand their needs, concerns, and priorities, and to ensure that the benefits of IoT technologies are accessible to all residents. 
+**Residents**.  Residents of New York City are key stakeholders in the plan because they will be the most directly affected by IoT initiatives. It is essential to engage with residents to understand their needs, concerns, and priorities, and to ensure that the benefits of IoT technologies are accessible to all residents. 
 ![Alt Text / NYC Residents](./residents.jpeg "NYC Residents")
 
 
@@ -104,11 +105,11 @@ It is also essential to optimize coordination among entities involved in IoT eff
 <!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
 
 
-**Haotian Jiang**. Haotian works as a Architectural Designer at Robert A.M. Stern Architects. He got his bachelors degree from Cornell University College of Architecture, Art & Planing. He has a great passion for architecture representations with comprehensive skills in design logic.  [LinkedIn](https://www.linkedin.com/in/haotian-jiang-4a51a2173/)
+**Haotian Jiang**. Haotian works as a Architectural Designer at Robert A.M. Stern Architects. He got his bachelors degree from Cornell University College of Architecture, Art & Planning. He is passionate about architecture and design.  [LinkedIn](https://www.linkedin.com/in/haotian-jiang-4a51a2173/)
 
-**Insight 1**. The NYC IoT Strategy takes a holistic approach to deploying IoT solutions. The city considers a range of factors beyond just the technology itself, including cybersecurity, data privacy, equity, and accessibility. By taking a holistic approach, the city aims to ensure that its use of IoT is responsible, sustainable, and meets the needs of all its citizens.
+**Responsible IoT**. The NYC IoT Strategy takes a holistic approach to deploying IoT solutions. The city considers a range of factors beyond just the technology itself, including cybersecurity, data privacy, equity, and accessibility. By taking a holistic approach, the city aims to ensure that its use of IoT is responsible, sustainable, and meets the needs of all its citizens.
 
-**Insight 2**. The city should also promote that architects and urban designers collaborate with technologists and other stakeholders to develop effective IoT solutions that are both functional and visually appealing.
+**Interdisciplinary Collaboration**. The city should promote opportunities for architects and urban designers to collaborate with technologists and other stakeholders. These groups can work together to develop effective IoT solutions that are both functional and visually appealing.
 
 
 ## Financing
@@ -122,25 +123,24 @@ It is also essential to optimize coordination among entities involved in IoT eff
 <!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
 
-**Support Economic Growth**.  The plan aims to support the development of the IoT industry in New York City, and thus creating new business opportunities for entrepreneurs, startups, and established companies in many different sectors to drive the overall economic growth of the city. Entrepreneurs, startups, and established companies can benefit from the growth of the IoT industry by developing new products and services, entering new markets, and collaborating with other businesses and stakeholders in the IoT ecosystem.
+**Support Economic Growth**.  The plan aims to support the development of the IoT industry in New York City, creating new business opportunities for entrepreneurs, startups, and established companies in different sectors to drive the city's overall economic growth. Entrepreneurs, startups, and established companies can also benefit from the growth of the IoT industry by developing new products and services, entering new markets, and collaborating with other businesses and stakeholders in the IoT ecosystem.
 
-**Build a Connected City**.  All resident in the city deserves equal access to be part of the connected city, this includes access to affordable high-speed internet, digital devices and servicesm and ensure they can take advatage of the benefits provided by the digital economy and society. The goal of providing equal access to the digital economy and society is important because it can create more job opportunities, enhance educational experiences, and improve access to services for all residents of New York City. 
+**Build a Connected City**.  All residents in the city deserve equal access to the connected city, including access to affordable high-speed internet and digital devices and services. The goal of providing equal access to the digital economy and society is important because it can create more job opportunities, enhance educational experiences, and improve access to services for all residents of New York City. 
 
-**Harness the Power of Data**.  One of the important goals of NYC IoT strategy is to promote data sharing across City agencies and with the public. It enables organizations to gain valuable insights, make informed decisions, improve operational efficiency, enhance customer experiences, and drive innovation. 
+**Harness the Power of Data**.  One of the goals of NYC's IoT strategy is to promote data sharing across City agencies and the public. This data enables organizations to gain valuable insights, make informed decisions, improve operational efficiency, enhance customer experiences, and drive innovation. 
 
 
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
 
-**Open questions 1**.  The plan relies heavily on public and private funding sources, but it is unclear how sustainable these funding sources are over the long term. How will the city ensure that these initiatives are cost-effective and sustainable?
+**Sustainable Funding**.  The plan relies heavily on public and private funding sources, but it is unclear how sustainable these funding sources are over the long term. How will the city ensure that these initiatives are cost-effective and sustainable?
 
-**Open questions 2**.  The strategy covers a wide range of stakeholders, how will the city promote the interoperability and collaborative partnerships among theses parties, especially interoperability between private and public sectors?
+**Public-Private Partnerships**.  The strategy covers a wide range of stakeholders, how will the city promote collaborative partnerships among theses parties, especially between the private and public sectors?
 
 
 ## References
 
----
 
 ### Primary Sources
 
