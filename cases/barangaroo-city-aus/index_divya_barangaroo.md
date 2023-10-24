@@ -32,7 +32,7 @@ Barangaroo is a waterfront urban district in Australia located on the western ed
 
 **Promoting sustainability**.  Barangaroo has embedded sustainability (economic, social, and ecological) in all its plans, implementation, partners, and community engagement activities. It has set sustainability targets with a focus on being water positive, delivering zero waste, and being carbon neutral through features including waste water treatment, energy efficient buildings, recycling/composting, and solar panels. It even educates residents on sustainability through an eco-concierge. 
 
-**Providing mixed-use and working/living environments that anticipate emerging lifestyles**.  The area accomodates all types of people from companies to families and tourists. It has a range of environments including retail outlets, bars, restaurants, corporate offices, a foreshore promenade, and parks.
+**Providing mixed-use and working/living environments that anticipate emerging lifestyles**.  The area accommodates all types of people from companies to families and tourists. It has a range of environments including retail outlets, bars, restaurants, corporate offices, a foreshore promenade, and parks.
 
 **Fostering new processes and arrangements for incubation**.  Proximity to corporations, the existing Sydney business ecosystem, and robust networks have given rise to innovations like Harbor City Labs, a startup incubator, as well as Lighthouse, a startup precinct. Barangaroo is a professional environment that can bring in investors, partners, and a network to support startups and the startup community to grow. It has incubated a learning hub, Barangaroo Skills Exchange (BSX) to deliver skilling and workforce training at Barangaroo South.
 
@@ -45,7 +45,7 @@ Barangaroo is a waterfront urban district in Australia located on the western ed
 
 **Increase Public Spaces**.  Establish a location for the people of Sydney to connect, explore, and integrate especially through the waterfront areas, parks, and the recreational areas. Barangaroo was created to enable more people access to the harbor with pedestrian and public transport connections along with mixed-use structures.
 
-**Exemplar for Sustainability**. Be a model in sustainable design and development through sustainability principles embedded through planning, design, construction, and day to day operations. Hence, Barangaroo is Australia’s first considerable precinct that is Carbon Neutral. All plans, leadership, innovations, and partnerships is committed to sustainability through its goals of carbon neutral operations, zero waste, and water positivity along with impactful social programs for community well-being. 
+**Exemplar for Sustainability**. Be a model in sustainable design and development through sustainability principles embedded through planning, design, construction, and day to day operations. Hence, Barangaroo is Australia’s first considerable precinct that is Carbon Neutral. All plans, leadership, innovations, and partnerships are committed to sustainability through its goals of carbon neutral operations, zero waste, and water positivity along with impactful social programs for community well-being. 
 
 **National Prestige**. Internally, Barangaroo was created to establish the precinct as a hub in Sydney for culture, business, retail, and residential spaces. Externally, Barangaroo was created to attract status, business, visitors, and serve as an international model for infrastructure, design, architecture, public spaces, and urban experiences. This is especially so for the region of Asia-Pac.
 
@@ -57,19 +57,19 @@ Barangaroo is a waterfront urban district in Australia located on the western ed
 
 **Property Data Platform**.  The buildings in Barangaroo have millions of sensors to capture data on different components like tenant data, energy efficiency etc. The property data platform allows for all the data to come together to provide insights and analysis on aspects like sustainability, energy efficiency, cost efficiency, workplace productivity, and creating a better experience for diverse stakeholders (tenants, building management teams, engineering teams, contractors etc.). This was especially so for Barangaroo South where Lendlease was the primary developer and was a big proponent of data analytics: there was high integration between the building systems and processes.
 
-**Smart Buildings**.  The buildings at Barangaroo include automated building management systems to ensure sustainability and energy efficiency. This includes efficienct heating, cooling, and ventilation along with smart lighting and sustainable management processes to ensure that the staff are able to optimize buidling operations. There are IoT solutions involved for maintenance, security monitoring, partner compliance, energy management, and enabling tenant services.
+**Smart Buildings**.  The buildings at Barangaroo include automated building management systems to ensure sustainability and energy efficiency. This includes efficient heating, cooling, and ventilation along with smart lighting and sustainable management processes to ensure that the staff are able to optimize building operations. There are IoT solutions involved for maintenance, security monitoring, partner compliance, energy management, and enabling tenant services.
 
 **Recycled Water Treatment Plant** To be more water positive, Barangaroo has constructed a recycled water treatment plant that enables sustainable water use. The water can be effectively treated and converted for non-drinking water purposes like irrigation, fire sprinklers, toilet flushing, and cleaning. The plant is a top facility that has treated over 140 million litres of contaminated water and has involved automated, logic control systems for ensuring safety and risk mitigation.
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.  -->
 
-**Barangaroo Delivery Authority (BDA)**.  Managed the strategic direction, development, design, construction, cost, and operations to ensure that the project milestones were delivered according to plan/contracts. for Barangaroo. It comprised of a board that oversees subgroups for legal, finance, infrastructure, property development, and the public domain. It also comprised of an audit and risk management committee. The BDA was terminated in 2019 and is now called Infrastructure NSW. [Organization Name](https://www.infrastructure.nsw.gov.au/)
+**Barangaroo Delivery Authority (BDA)**.  Managed the strategic direction, development, design, construction, cost, and operations to ensure that the project milestones were delivered according to plan/contracts. for Barangaroo. It comprised of a board that oversees subgroups for legal, finance, infrastructure, property development, and the public domain. It also comprised of an audit and risk management committee. The BDA was terminated in 2019 and is now called Infrastructure NSW. [Barangaroo Delivery Authority (BDA)](https://www.infrastructure.nsw.gov.au/)
 
 **Development Partners**.  Development partners enabled the build of Barangaroo and its precincts along with commitment to sustainability and public spaces. 
-  The partner for Barangaroo South is Lendlease (an engineering firm and real-estate developer) [Organization Name](https://www.lendlease.com/au/)
-  The partner for Central Barangaroo is Aqualand (an real - estate developer and investment firm) [Organization Name](https://www.aqualand.com.au/)
-  Other partners include Sydney Metro and Crown Resorts.   [Organization Name](https://www.crownresorts.com.au/)  [Organization Name](https://www.sydneymetro.info/)
+  The partner for Barangaroo South is Lendlease (an engineering firm and real-estate developer) [Lendlease](https://www.lendlease.com/au/)
+  The partner for Central Barangaroo is Aqualand (an real - estate developer and investment firm) [Aqualand](https://www.aqualand.com.au/)
+  Other partners include Sydney Metro and Crown Resorts.   [Crown Resorts](https://www.crownresorts.com.au/)  [Sydney Metro](https://www.sydneymetro.info/)
 
 **New South Wales Government**.  The NSW Government led the overall transformation project and initiated the original challenge. It is involved in the planning, approval, and funding aspects along with being a public and economic advocate. [Organization Name](https://www.nsw.gov.au/)
 
@@ -78,11 +78,11 @@ Barangaroo is a waterfront urban district in Australia located on the western ed
 
 **Colin Sargent**. Has an Architecture Degree from University of Technology Sydney. Worked on Barangaroo for 10 years under the Barangaroo Delivery Authority (BDA). Served as Senior Project Manager, Development Manager, and lastly, Director of Planning and Design for Barangaroo South. He managed the delivery process over 4-5 years and oversaw the delivery of the public spaces. [LinkedIn](https://www.linkedin.com/in/colin-sargent-2bb30599/)
 
-**Insight 1**. Barangaroo offered a way for the government to set targets and the private sectors stepping up. Hence, the NSW Gov did not dictate anything - it allowed developers to improve their development over time through technology. The government could ratchet up requirements over time - lending developers teh ability to improve their efforts over time as technology became better.
+**Government Targets**. Barangaroo offered a way for the government to set targets and the private sectors stepping up. Hence, the NSW Gov did not dictate anything - it allowed developers to improve their development over time through technology. The government could ratchet up requirements over time - lending developers the ability to improve their efforts over time as technology became better.
 
-**Insight 2**. The decision to develop with a single developer gave precinct scale benefits and flexibility especally for sustainability. For example, the office and residential buildings in Barangaroo South had single entity control so energy use can be offset by the commercial and residential sector, together.
+**Single developer**. The decision to develop with a single developer gave precinct scale benefits and flexibility especially for sustainability. For example, the office and residential buildings in Barangaroo South had single entity control so energy use can be offset by the commercial and residential sector, together.
 
-**Insight 3**. Sustainability and innovation were embedded in initial control and it was passed down through every other contract that has been let on the site (leases, managers, operators, etc.). This ultimately trickled down to residents and visitors of the public spaces who are encouraged to recycle and are invested in the outcome.
+**Sustainability**. Sustainability and innovation were embedded in initial contr and it was passed down through every other contract that has been let on the site (leases, managers, operators, etc.). This ultimately trickled down to residents and visitors of the public spaces who are encouraged to recycle and are invested in the outcome.
 
 
 ## Financing
@@ -98,7 +98,7 @@ Barangaroo is a waterfront urban district in Australia located on the western ed
 
 **Precinct Revitalization**.  Precinct revitalization through multi-use space for commercial, recreational, and public uses. It was originally a bustling industrial area which became an unused container terminal over the years. Then, in 2006, The NSW Government set an intent for the area to become usable and cater to art/culture, sustainability, retail/commercial, and residential areas. The space was revamped to fulfill many different flavors.
 
-**Improved Transport**.  The precinct being availabe by public transport is also strengthened with close bus routes, ferry routes, and train stations. The location encourages cycling and shared commuting options. The new Sydney Metro Barangaroo Station is set to open in 2024 with bike parking, kiss and ride services, an underground rapid transit station, and taxi facilities. It will service existing residential areas along with connections to the northern Sydney CBD.
+**Improved Transport**.  The precinct's accessibliity with public transport is also strengthened with close bus routes, ferry routes, and train stations. The location encourages cycling and shared commuting options. The new Sydney Metro Barangaroo Station is set to open in 2024 with bike parking, kiss and ride services, an underground rapid transit station, and taxi facilities. It will service existing residential areas along with connections to the northern Sydney CBD.
 
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
