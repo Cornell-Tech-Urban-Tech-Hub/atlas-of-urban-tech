@@ -22,7 +22,7 @@ tags:
  - Energy
  - Environment
 geography: ./marineterrein-nld.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography_caption: Amsterdam Marineterrein
 ---
 
 ## Overview
