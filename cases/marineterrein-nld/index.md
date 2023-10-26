@@ -11,18 +11,14 @@ centroid: [52.373889, 4.916667]
 year_start: 1655
 year_completed: 2022
 featured_image: ./img-context_4.jpg
-featured_alt: Aerial Picture of the Marineterrein district located in Amsterdam the Netherlands
+featured_alt: Aerial Picture of the Marineterrein district located in Amsterdam, the Netherlands
 featured_credit: Gemeente Amsterdam (Public Domain)
 tags:
- - Netherlands
- - Amsterdam
- - Smart District
- - Testing Ground
  - InnovationSystems
  - Energy
  - Environment
 geography: ./marineterrein-nld.geojson
-geography_caption: Amsterdam Marineterrein
+geography_caption: Amsterdam Marineterrein district
 ---
 
 ## Overview
