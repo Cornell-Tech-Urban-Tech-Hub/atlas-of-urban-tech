@@ -1,6 +1,6 @@
 ---
 title: Philadelphia 5-Year Digital Equity Plan
-description: Lorem ipsum dolor sit amet
+description: A case study of Philadelphia's plan to address digital inequity.
 template: case-study
 status: Complete
 author: Nakia Kenon
@@ -25,7 +25,7 @@ geography_caption: City of Philadelphia Neighborhoods
 
 <!-- About 100 to 150 word summary of the case study. -->
 
-The City of Philadelphia, through its Office of Innovation and Technology, has developed a roadmap to achieve a baseline of digital equity across the city over the next five years, starting from 2022. This initiative is driven by several factors, including the lack of working desktops or laptops in 25% of households and a significant gap in labor force participation between individuals with and without broadband access. Over the past fifteen years, the city of Philadelphia has implemented various digital equity initiatives, such as the Wireless Philadelphia Initiative, aimed at providing affordable internet services to its residents. Despite these efforts, digital inequity persists in the city. To address this issue, the Office of Technology and Innovation has released this comprehensive plan, which consists of four main goals, each accompanied by key strategies and intiatives that the city must adopt to achieve them.
+The City of Philadelphia, through its Office of Innovation and Technology, has developed a roadmap to achieve a baseline of digital equity across the city over the next five years, starting from 2022. This initiative is driven by several factors, including the lack of working desktops or laptops in 25% of households and a significant gap in labor force participation between individuals with and without broadband access. Over the past fifteen years, the city of Philadelphia has implemented various digital equity initiatives, such as the Wireless Philadelphia Initiative, aimed at providing affordable internet services to its residents. Despite these efforts, digital inequity persists in the city. To address this issue, the Office of Technology and Innovation has released this comprehensive plan, which consists of four main goals, each accompanied by key strategies and initiatives that the city must adopt to achieve them.
 
 
 
@@ -38,12 +38,12 @@ The City of Philadelphia, through its Office of Innovation and Technology, has d
 
 
 **Engagement**. 
-To enhance technology accessibility, the plan emphasizes collaboration with local education agencies to ensure a 1:1 device ratio in pre K-12 classrooms for all students. Additionally, devices will be provided to adult literacy, digital literacy, and workforce classrooms. Responding to the expressed needs of Philadelphia residents, who highlighted the importance of human touchpoints in utilizing technology, the city intends to expand public computing centers. These centers will cater not only to populations facing digital literacy challenges but also to multilingual communities.
+To enhance technology accessibility, the plan emphasizes collaboration with local education agencies to ensure a 1:1 device ratio in pre-K-12 classrooms for all students. Additionally, devices will be provided to adult literacy, digital literacy, and workforce classrooms. Responding to the expressed needs of Philadelphia residents, who highlighted the importance of human touchpoints in utilizing technology, the city intends to expand public computing centers. These centers will cater not only to populations facing digital literacy challenges but also to multilingual communities.
 
 Furthermore, the city aims to partner with local educational agencies to establish best practices and leverage federal resources for offering digital skill support services. They also seek to train school staff on identifying appropriate referrals for students when they require digital literacy assistance. Lastly, the city plans to collaborate with workforce partners to increase representation of underrepresented populations in technology careers. 
 
 **Implementation**.
-To ensure the success of the Digital Equity Plan, the city must focus on three key advocacy points. Firstly, it is crucial to secure reliable funding for a range of initiatives. PHLConnectED, a program offering free internet access to pre K-12 students, digital literacy providers, Keystone Innovation and Technology centers that provide technology access at recreation centers, and low-cost community-led wireless networks are some of the programs that are integral to fighting digital inequity.
+To ensure the success of the Digital Equity Plan, the city must focus on three key advocacy points. Firstly, it is crucial to secure reliable funding for a range of initiatives. PHLConnectED, a program offering free internet access to pre-K-12 students, digital literacy providers, Keystone Innovation and Technology centers that provide technology access at recreation centers, and low-cost community-led wireless networks are some of the programs that are integral to fighting digital inequity.
 
 Secondly, the city needs to ensure that federal funding allocated to the Commonwealth of Pennsylvania is appropriately distributed to the City of Philadelphia. Working closely with the commonwealth, negotiations must be conducted to address policies that impact the distribution of federal resources. Lastly, the city must actively engage private industry partners in digital equity endeavors. It is imperative to ensure their participation and collaboration in advancing digital equity goals.
 
@@ -97,7 +97,7 @@ The Digital Literacy Alliance in Philadelphia brings together leaders from vario
 **Digital Health Equity Taskforce**. 
 The Digital Health Equity Taskforce met three times in 2021, bringing together representatives from various departments in hospital systems and universities. In total, 40 individuals working in healthcare participated in discussions with the Office of Innovation and Technology.
  
-**Digital Equity Coordinating Commitee**. 
+**Digital Equity Coordinating Committee**. 
 The Digital Equity Coordinating Committee in Philadelphia consists of individuals from various city departments and agencies dedicated to ensuring digital equity for all residents. The committee collaborates across departments to develop and implement a digital equity strategy for the city. Their mission is to provide reliable, high-speed internet access and necessary devices to all households in need.  
 
 
@@ -108,7 +108,7 @@ The Digital Equity Coordinating Committee in Philadelphia consists of individual
 ![Ashley Pollard](ashley_pollard.jpeg "Title")
 
 **Ashley Pollard**. 
-Ashley Pollard is a digital inclusion manager with the city of Philadelphia. She has been working with the city since 2020 and was a part of the digital equity coordinating commitee that helped put together the digital equity plan. 
+Ashley Pollard is a digital inclusion manager with the city of Philadelphia. She has been working with the city since 2020 and was a part of the digital equity coordinating committee that helped put together the digital equity plan. 
 [LinkedIn](https://www.linkedin.com/in/pollardashley/)
 
 **Sustaining the Interventions**. Over a third of Philadelphians are eligible for the affordable connectivity plan, which was implemented to provide low-cost internet access for residents. Unfortunately, this program has a limited duration, and as we approach 2024, there is uncertainty regarding its future funding. The city now acknowledges the program's significant value to residents and is actively seeking ways to preserve it.
@@ -122,17 +122,17 @@ Ashley Pollard is a digital inclusion manager with the city of Philadelphia. She
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
 
 **Multiple Funding Sources**. 
-Through the Digital Literacy Alliance, the city was able to seed funds and was philanthropically funded through grants. Although most of the funding still comes from donations made to the Digital Literacy Alliance, the city also contributed 2 million of it's CARE's act dollars to the plan and some of the educational partners contributed as well. The plan should be included in the city's operating budget but council has to vote. Although the Digital Literacy Alliance has a good relationship with its philanthropic partners, the programs proposed in the plan need to demostrate their value so it can be sustained and moved forward.  They also need to keep an eye on the money coming from the bipartisan infrastructure law. This will be billions of dollars dedicated to broadband and digital equity. 
+Through the Digital Literacy Alliance, the city was able to seed funds and was philanthropically funded through grants. Although most of the funding still comes from donations made to the Digital Literacy Alliance, the city also contributed $2 million of its CARE's act dollars to the plan and some of the educational partners contributed as well. The plan should be included in the city's operating budget but council has to vote. Although the Digital Literacy Alliance has a good relationship with its philanthropic partners, the programs proposed in the plan need to demostrate their value so it can be sustained and moved forward.  They also need to keep an eye on the money coming from the bipartisan infrastructure law. This will be billions of dollars dedicated to broadband and digital equity. 
 
 
 ## Outcomes
 <!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
 **PHLConnectEd**. 
-Established in mid-2020, PHLConnectEd benefited from a $17 million investment in the program and collaboration among philanthropic partners, private businesses, and educational institutions such as the School District of Philadelphia. As a result, the city successfully provided free internet connections to 23,100 pre K-12 students and households. This shows an increase of 4,100 connections compared to the reported 19,000 connections in the fall of 2021. Multi-lingual digital skill classes also began spring of 2023, and pre K-12 parents can choose to take classes at any of the anchor institutions - Temple University, Drexel, Congreso etc. 
+Established in mid-2020, PHLConnectEd benefited from a $17 million investment in the program and collaboration among philanthropic partners, private businesses, and educational institutions such as the School District of Philadelphia. As a result, the city successfully provided free internet connections to 23,100 pre-K-12 students and households. This shows an increase of 4,100 connections compared to the reported 19,000 connections in the fall of 2021. Multi-lingual digital skill classes also began spring of 2023, and pre-K-12 parents can choose to take classes at any of the anchor institutions - Temple University, Drexel, Congreso etc. 
 
 **Device Distribution**. 
-The city recieved a federal grant from the emergency connectivity fund to provide free tablets to residents across Philadelphia (of all ages) and was a sucesssful distribution effort. The city also just launched a partnership with PCs for People, an organization that is being funded to provide recycled and refurbised devices to Philadelphians at an afforable price.
+The city received a federal grant from the emergency connectivity fund to provide free tablets to residents across Philadelphia (of all ages) and was a sucessful distribution effort. The city also just launched a partnership with PCs for People, an organization that is being funded to provide recycled and refurbished devices to Philadelphians at an affordable price.
 
 **Digital Equity Team**. 
 The city recently hired two full time employees that will focus their work solely on digital equity. They have also hired someone that will split their time between the digital equity team and the smart cities team. What they have found is that lack of broadband connectivity in Philadelphia is an issue for both the smart cities team and the digital equity team, many of the things the smart cities team wants to implement cannot be done without robust broadband connectivity. 
@@ -140,9 +140,9 @@ The city recently hired two full time employees that will focus their work solel
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-**The Role of Comcast**. I am unclear about the extent of Comcast's role in the execution of some of the initiatives (specifically the ones about internet connectivity). Comcast has an afforable connectivity program which provides connection in two tiers - 9.95/mo for 50 Mbps and 29.95/mo for 100 Mbps. Since the city discovered that an overwhelming majority of residents (75%) cannot afford more than $20 a month for internet and the PHLConnectEd program is only targeting pre-K-12 households, in what vein is the city negotiating with the largest ISP in Philadelphia about their programs? The plan only states that the city will push ISPs to provide more affordable options, but I was expecting to see more input from Comcast in this area, as they did help in the creation of this plan.
+**The Role of Comcast**. I am unclear about the extent of Comcast's role in the execution of some of the initiatives (specifically the ones about internet connectivity). Comcast has an affordable connectivity program which provides connection in two tiers - 9.95/mo for 50 Mbps and 29.95/mo for 100 Mbps. Since the city discovered that an overwhelming majority of residents (75%) cannot afford more than $20 a month for internet and the PHLConnectEd program is only targeting pre-K-12 households, in what vein is the city negotiating with the largest ISP in Philadelphia about their programs? The plan only states that the city will push ISPs to provide more affordable options, but I was expecting to see more input from Comcast in this area, as they did help in the creation of this plan.
 
-**Sustainablity Funding Sources**. The plan talks about funding very loosely, and I was only able to learn about the financing scheme through my interview. I would have liked to see more about the projected cost that the initiatives will be, especially since long-term funding is a big concern and vital for the plan's success. 
+**Sustainable Funding Sources**. The plan talks about funding very loosely, and I was only able to learn about the financing scheme through my interview. I would have liked to see more about the projected cost that the initiatives will be, especially since long-term funding is a big concern and vital for the plan's success. 
 
 ## References
 
