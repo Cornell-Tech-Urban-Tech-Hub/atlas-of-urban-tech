@@ -17,7 +17,7 @@ tags:
     - Buildings
     - Energy
 geography: ./hudson-yards-usa.geojson
-geography_caption: 
+geography_caption: Hudson Yards, NYC
 ---
 
 ## Overview
@@ -37,7 +37,7 @@ Hudson Yards, a $25 billion project, emerged from New York City's unsuccessful b
 
 **Sustainability**.  Hudson Yards incorporates sustainability at the heart of its design and planning. Key buildings hold LEED certification, exemplifying commitment to eco-friendly practices. The site employs energy-efficient features such as advanced HVAC systems, intelligent building management systems, and energy-saving lighting to minimize greenhouse gas emissions and conserve energy.
 
-- A notable feature of the development is its microgrid, which uses **combined heat and power (CHP) system** to capture and resuse waste heat from electricty production. Although it relies on fossil fuel, this independent energy system improves energy reliability, reduces overall energy costs, and decreases carbon emissions by optimizing energy production and distribution. The enhanced reliability and resilience ensures a continuous power supply even during broader grid outages. 
+- A notable feature of the development is its microgrid, which uses **combined heat and power (CHP) system** to capture and reuse waste heat from electricity production. Although it relies on fossil fuel, this independent energy system improves energy reliability, reduces overall energy costs, and decreases carbon emissions by optimizing energy production and distribution. The enhanced reliability and resilience ensures a continuous power supply even during broader grid outages. 
 
 - Water sustainability measures, such as green roofs, rainwater harvesting systems, and permeable pavements manage stormwater runoff, which ease the strain on city sewers and minimize water pollution.
 
@@ -124,7 +124,7 @@ While Hudson Yards has made appreciable strides in sustainability, there is room
 
 **Phase 2 Development and Affordable Housing**.  The plans for Phase 2, also known as the Western Yard, are still unclear. Initial proposals suggest a mixed-use development similar to Phase 1, with the addition of a school or potentially a casino. However, specifics about its timeline, financing, and exact features remain unresolved. Additionally, Hudson Yards has faced criticism for its lack of affordable housing options. As part of the Phase 2 development, there's an open question about how the project will address this issue and meet its obligations under the inclusionary housing program.
 
-**Sustainability Goals**.  While Hudson Yards has shown commitment to sustainability, it's unclear how it plans to achieve wider use of renewable energy and stricter sustainability standards. How will it address such future sustainability challenges?
+**Sustainability Goals**.  While Hudson Yards has shown a commitment to sustainability, it's unclear how it plans to achieve wider use of renewable energy and stricter sustainability standards. How will it address such future sustainability challenges?
 
 ## References
 
