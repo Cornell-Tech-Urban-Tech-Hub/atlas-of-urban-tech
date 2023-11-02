@@ -16,8 +16,8 @@ featured_credit: Hannah Busing (Unsplash)
 tags:
   - Mobility
   - InnovationSystems
-geography: ./example.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography: ./pune.geojson
+geography_caption: Pune, India
 ---
 
 ## Overview
