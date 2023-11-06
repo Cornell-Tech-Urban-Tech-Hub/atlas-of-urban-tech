@@ -14,10 +14,11 @@ featured_image: ./Bhopal_Top_View.jpg
 featured_alt: Bhopal Top View Picture
 featured_credit: BSCDCL
 tags:
-  - Code
-  - Markdown
+  - Environment
+  - InformationSystems
+  - Mobility
 geography: ./Bhopal.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography_caption: Bhopal, Madhya Pradesh, India
 ---
 
 ## Overview
@@ -46,7 +47,7 @@ Cities were selected based on the Smart Cities challenge, where cities submitted
 <!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
 
 **E-Governance**. Bhopal Integrated Control and Command Center (ICCC) aims to establish a collaborative framework where input from different functional municipal departments can be assimilated and analyzed on a single platform; consequently, resulting in aggregated city level information. This aggregated city level information can be converted to actionable intelligence, which would be propagated to relevant stakeholders and citizens.
-ICCC also selling their expertise to other departments. This year ICCC served Police Department in making their control center for US 1 Million. Also implemented US 0.5 million data center for Excise department for effective tracking of liquor movement and tax collection opportunities.
+ICCC also selling their expertise to other departments. This year ICCC served Police Department in making their control center for $1 million. Also implemented $0.5 million data center for Excise department for effective tracking of liquor movement and tax collection opportunities.
 **Housing**. TT Nagar Smart City gave preference to horizontal expansion over vertical. 3000 Government houses were demolished to free the land and these houses were to be rebuilt with modern mid-rise infrastructure. Care will also be taken to provide shops to street vendors (even non-permanent) for maintaining their livelihood.
 
 **Infrastructure Development**. 
@@ -57,7 +58,7 @@ Solid Waste Management: Monitored through ICCC and integrated with national Swac
 Smart Lighting: It will be developed in PPP model with Bharti Infratel, 20,000 smart poles (12 meter high) will be installed over a period of 15 years. Bharti purchased the rights for ~US 6 million.
 
 Mobility: Bike sharing (like City Bikes)
-Phase 1 for 500 bikes with 100 docking ststions was started in VGF (Viability gap funding) format where city provided ~US 300K for Operating expense (Opex) management. Phase 2 started in PPP model for 1000 electric bikes with 200 docking stations.	
+Phase 1 for 500 bikes with 100 docking stations was started in VGF (Viability gap funding) format where city provided ~US 300K for Operating expense (Opex) management. Phase 2 started in PPP model for 1000 electric bikes with 200 docking stations.	
 
 **Integrated Traffic Management System**. ITMS is for adaptive traffic management, automatic e-challan (fines). It is financially self-sufficient as 75% of fine collection is given back to Smart City project. It got its first installment in 2022-23 financial year. This money is used for the operation and management of systems while improving traffic situation in the city.
 69 out of 120 traffic junctions in city are integrated with ITMS. 34 locations have adaptive traffic control.
@@ -66,7 +67,7 @@ Phase 1 for 500 bikes with 100 docking ststions was started in VGF (Viability ga
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
-**Cloud Computing**. ICCC is implemented on ‘Common cloud’ for all 7 Madhya Pradesh based smart cities. The vendor is Tata Cloud ans ICCC hosts all smart city applications. Current data capacity is 500 TB plus 500 TB as backup. Security, firewall, load balancer all mechanisms have been deployed.
+**Cloud Computing**. ICCC is implemented on ‘Common cloud’ for all 7 Madhya Pradesh based smart cities. The vendor is Tata Cloud and ICCC hosts all smart city applications. Current data capacity is 500 TB plus 500 TB as backup. Security, firewall, load balancer all mechanisms have been deployed.
 All 7 smart cities will have a local server room and data center.
 Data Ownership is solely with the government and city. Every RFP mentions this and states that data cannot be used without the government permission.
 
@@ -125,7 +126,7 @@ The BOD does not have ‘political personas’ to avoid project delays due to po
 
 **Housing**. Phase 1 and Phase 2 of this plan have been completed with 2600 houses built by May 2023. Rest 400 houses will be completed under ‘Pradhan Mantri Awas Yojna’ (https://pmaymis.gov.in/) by end of 2024. Total 423 shops constructed and provided to vendors who operated in TT Nagar area before its selection in Smart City project at a nominal price of 6 lacs. 
 
-**Infrastructure**. Smart Lighting: 150 smart poles out of 20,000 have been installed. 100 of these poles have integrated cameras. Smart poles also have air sensors, solar charging, and battery storage to provide wi-fi as a service platform (like LynkNYC).
+**Infrastructure**. Smart Lighting: 150 smart poles out of 20,000 have been installed. 100 of these poles have integrated cameras. Smart poles also have air sensors, solar charging, and battery storage to provide wi-fi as a service platform (like LinkNYC).
 
 **Startup Incubation**. Bnest holds more than 60 startups (https://bnest.in/category/incubates/index.html) ranging from waste management, drone delivery, social media to transportation, few startups have also been funded. Help them in idea refinement and help gain seed funding from GOI.
 
