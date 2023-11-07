@@ -14,11 +14,11 @@ featured_image: ./london_aerial_view.jpg
 featured_alt: London Aerial Image
 featured_credit: Photo by <a href="https://unsplash.com/@jaanus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jaanus Jagomägi</a> on <a href="https://unsplash.com/photos/Dymu1WiZVko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 tags:
-  - Digital Inclusion
-  - City-wide Collaboration
-  - Smart Infrastructure
+  - CivicTech
+  - Mobility
+  - InformationSystems
 geography: ./london_boroughs.geojson
-geography_caption: London Boroughs GeoJSON
+geography_caption: London Boroughs
 ---
 
 ## Overview
@@ -46,7 +46,7 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 
 **New deal for city data:** The plan is committed to employing data in a consolidated, legal, ethical, and secure manner to benefit all Londoners. It encompasses a range of initiatives, such as data analytics, cyber security, data rights, data trusts, and open data. These measures are designed to instill a culture of transparency and responsible data practices, ensuring that data-driven decisions are equitable and considerate of all citizens.
 
-**World-class connectivity and smarter streets:** Aiming for comprehensive gigabit-capable digital connectivity, the Smarter London Together plan prepares the city for the 5G technology roll out. This goal entails mobilising public assets, enhancing public wifi, championing smart infrastructure, and promoting common standards. These initiatives collectively work towards establishing seamless, reliable connectivity across London, enabling the city to remain competitive on the global stage.
+**World-class connectivity and smarter streets:** Aiming for comprehensive gigabit-capable digital connectivity, the Smarter London Together plan prepares the city for the 5G technology roll out. This goal entails mobilising public assets, enhancing public WiFi, championing smart infrastructure, and promoting common standards. These initiatives collectively work towards establishing seamless, reliable connectivity across London, enabling the city to remain competitive on the global stage.
 
 **Digital leadership and skills:** The plan prioritizes digital leadership and skills development to make public services more receptive to innovation, and the enhancement of digital skills and understanding for its citizens. Key initiatives include fostering digital and data leadership, developing workforce digital capabilities, improving computing skills, and leveraging cultural institutions. These measures ensure that the city's populace is well-equipped to participate in the digital economy and navigate an increasingly connected world.
 
