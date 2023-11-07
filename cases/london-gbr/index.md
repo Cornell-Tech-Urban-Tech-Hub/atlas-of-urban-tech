@@ -96,20 +96,20 @@ The Smarter London Together Plan is an ambitious roadmap developed by the Greate
 **Citizens and civil society:** Citizens and civil society are the end-users and beneficiaries of smart city initiatives. They also play an active role in shaping the city’s vision and priorities through platforms such as [Talk London](https://www.london.gov.uk/talk-london/), [Crowdfund London](https://www.london.gov.uk/programmes-strategies/shaping-local-places/funding-opportunities/make-london/impact-community-crowdfunding) and [Civic Innovation Challenge](https://www.london.gov.uk/programmes-strategies/arts-and-culture/mayor-londons-civic-innovation-challenge). Citizens have rights and expectations regarding data privacy, security and transparency. The Mayor works with civil society organisations such as [Open Data Institute](https://www.theodi.org/), [Nesta](https://www.nesta.org.uk/), [DotEveryone](https://doteveryone.org.uk/) and [others](https://www.london.gov.uk/get-involved) to advance public understanding and trust in data and digital technologies.
 
 ## Leadership
-<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here. -->
+<!--  Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 s or themes from the interview. Feel free to add a photo of the individual here. -->
 
 **Stephen Lorimer**. Stephen Lorimer is an accomplished urban planner with a focus on digital transformation and sustainable development. He has co-authored the Greater London Authority's housing design manual and has been recognized for his innovative work on the gamification of planning with the Homes and Communities Agency. As the Smart London Strategy and Delivery Officer at the Greater London Authority, Stephen has played a pivotal role in shaping the city's digital future. [LinkedIn](https://www.linkedin.com/in/stephen-lorimer-7795203/?originalSubdomain=uk)
 
 ![Alt Text / Stephen Lorimer](./stephen_lorimer_profile_picture.jpeg "Stephen Lorimer (Linkedin)")
 
-**Insight 1**.
+**Public support and resources**.
 A key insight for cities looking to develop their own smart city initiatives is the importance of leveraging procurement, persuasion, and fundraising to create programs that garner support and resources. By strategically utilizing these tools, cities can attract partnerships from the private sector, academic institutions, and other stakeholders, fostering a collaborative environment for innovation and progress. An example from the Smarter London Together plan was the Listening Tour, which involved engaging with citizens and collecting their input, this in turn helped London gain the trust of the public and ensure that their concerns were addressed. This approach not only amplifies the impact of smart city projects, but also encourages knowledge-sharing and accelerates the pace of urban transformation, ultimately benefiting the communities they serve. By actively involving residents in the decision-making process, cities can create smart city solutions that are not only technologically advanced, but also truly responsive to the needs and desires of the people they are designed to serve.
 
 
-**Insight 2**.
+**Shift from private sector to public sector investments**.
 One key insight from this conversation is the shifting focus of smart city initiatives in London. In the 2013 plan, there was more emphasis on engaging the private sector, particularly SMEs (Small Medium Sized Enterprises) and startups, to develop and deliver innovative technologies and services. However, the 2018 plan shifted the focus to public sector investments to improve the city for its residents. One notable difference between the two plans is the attention given to infrastructure and broadband connectivity. The 2018 plan recognized the importance of connectivity as a crucial part of the smart city concept, whereas the 2013 plan did not view it as a smart city issue. This change reflects the evolving priorities and understanding of what constitutes a smart city and the role that infrastructure and connectivity play in creating a more inclusive and sustainable urban environment.
 
-**Insight 3**.
+**Smart city master plan governance**.
 In the future of digital master planning, the leadership structure for smart city development may shift towards a more versatile and adaptable approach. Cities may need to assign the responsibility of leading a smart city master plan to a specific department, such as analytics, climate, housing, or others, depending on the primary focus and objectives of the project. This would ensure that the team with the most relevant expertise takes charge, fostering a more targeted and efficient development process. However, cross-departmental collaboration would remain essential in order to create well-rounded, inclusive, and sustainable smart cities. 
 
 ## Financing
@@ -145,16 +145,16 @@ A shift occurred from seeking private sector fundraising to relying on public se
 ## Open Questions
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-**Open questions 1**.
+**Leading department for smart city plan**.
 In the context of the Smarter London Together plan, is there a need for a designated lead department? If so, which department should assume this role? Additionally, should a completely new plan be developed or would iterative changes be more appropriate?
 
-**Open questions 2**. 
+**Measuring long-term success**. 
 What new indicators could we take a look at to measure the success and impact of the Smarter London Together plan, both in terms of direct outcomes and long-term benefits for Londoners?
 
-**Open questions 3**.  
-How can Smart City plans ensure the continuity and long-term sustainability of its programs and initiatives, given the potential for shifts in political leadership and changing priorities
+**Continuity of programs**.  
+How can Smart City plans ensure the continuity and long-term sustainability of its programs and initiatives, given the potential for shifts in political leadership and changing priorities?
 
-**Open questions 4**
+**Top-down vs. bottom-up plans**
 What would a top-down smart city plan, like the Hangzhou smart city plan, look like if implemented in London, a city that, in contrast, centers on the opinions and ideas of locals (e.g., the Listening Tour)? Conversely, how would the Smarter London Together plan appear if applied in a city like Hangzhou?
 
 
