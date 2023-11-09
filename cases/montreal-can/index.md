@@ -1,6 +1,6 @@
 ---
 title: Montreal Smart City Initiatives
-description: An overview of Montreal's AI innovation ecosystem and its impact on Montreal's smart city programs. 
+description: A smart city plan focused on improving quality of fife and economic development.
 template: case-study
 status: Review
 author: Olena Bogdanov 
