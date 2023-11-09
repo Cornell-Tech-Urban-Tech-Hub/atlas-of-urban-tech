@@ -1,5 +1,5 @@
 ---
-title: Zurich-Zurich
+title: Zurich
 template: stub
 author: Urban Tech Hub
 type: plan
