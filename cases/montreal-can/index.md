@@ -2,7 +2,7 @@
 title: Montreal Smart City Initiatives
 description: A smart city plan focused on improving quality of fife and economic development.
 template: case-study
-status: Review
+status: Complete
 author: Olena Bogdanov 
 type: plan
 city: Montreal 
