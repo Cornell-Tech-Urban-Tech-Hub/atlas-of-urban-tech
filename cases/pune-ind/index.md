@@ -1,5 +1,5 @@
 ---
-title: Pune
+title: Pune Smart City
 description: A case study of Pune city - a city under the smart cities mission of India
 template: case-study
 status: Complete

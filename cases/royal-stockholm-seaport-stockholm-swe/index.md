@@ -17,8 +17,7 @@ geography_caption: Optional Caption for the geographic information.
 year_start:
 year_completed:
 tags:
-  - Code
-  - Markdown
+
 ---
 
 ## Overview
