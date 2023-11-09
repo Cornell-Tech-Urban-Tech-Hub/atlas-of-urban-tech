@@ -7,7 +7,7 @@ status: Complete
 city: New York City
 country: USA
 country_code: USA
-centroid: [-73.99037490737204, 40.723275332654396]
+centroid: [40.723275332654396, -73.99037490737204]
 featured_image: ./triston-dunn-rfj_wOYQkus-unsplash.jpeg
 featured_desc: 
 featured_credit: Triston Dunn (Unsplash)

@@ -7,7 +7,7 @@ status: Complete
 city: Missassuaga
 country: Canada
 country_code: CAN
-centroid: [-79.65040845342466,43.58311402266523]
+centroid: [43.58311402266523, -79.65040845342466,]
 featured_image: ./mwangi-gatheca-qlKaN7eqay8-unsplash.jpeg
 featured_desc: nan
 featured_credit: mwangi gatheca (Unsplash)
