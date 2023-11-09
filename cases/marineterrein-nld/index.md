@@ -2,7 +2,7 @@
 title: Amsterdam Marineterrein Case Study
 description: A former military base, Amsterdam's Marineterrein has become an exhilarating community that doubles as a living laboratory for urban technology and sustainability.
 template: case-study
-status: Review
+status: Complete
 author: Daan van der Zwaag
 type: district
 city: Amsterdam
