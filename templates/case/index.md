@@ -13,8 +13,7 @@ featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
 featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)
 tags:
-  - Code
-  - Markdown
+
 geography: ./example.geojson
 geography_caption: Optional Caption for the geograhic information.
 ---
