@@ -1,6 +1,6 @@
 ---
 title: Montreal Smart City Initiatives
-description: An overview of Montreals AI innovation ecosystem, and it's impact on Montreals smart city programs. 
+description: An overview of Montreal's AI innovation ecosystem and its impact on Montreal's smart city programs. 
 template: case-study
 status: Review
 author: Olena Bogdanov 
@@ -16,8 +16,8 @@ featured_credit: n/a
 tags:
   - Mobility
   - Food
-geography: ./example.geojson
-geography_caption: .
+geography: ./montreal.geojson
+geography_caption: Montreal, Canada
 ---
 
 ## Overview
