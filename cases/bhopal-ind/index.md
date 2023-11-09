@@ -4,7 +4,7 @@ description: A research study of Bhopal Smart City plan
 template: case-study
 status: Complete
 author: Sourabh Singh
-type: case
+type: plan
 city: Bhopal 
 country_code: IND 
 centroid: [23.2599, 77.4126]

@@ -17,12 +17,8 @@ geography_caption: Optional Caption for the geographic information.
 year_start:
 year_completed:
 tags:
-- Code
-- Markdown
+
 ---
 
 ## Overview
 New city built from scratch for mixed used development of different zones, each with its own purpose and character, for commercial, residential, and industrial use.
-
-## References
-

@@ -9,20 +9,18 @@ country: South Korea
 country_code: KOR
 centroid: [37.425706408649674, 126.6887963886503]
 featured_image: ./hon-kim-VNlbnaaMEgA-unsplash.jpeg
-featured_desc: nan
+featured_desc: 
 featured_credit: Hon Kim (Unsplash)
-description: Songdo is an older urban district plan
+description: Songdo is a master planned new town.
 geography: songdo-ibd-incheon-kor.geojson
-geography_caption: Optional Caption for the geographic information.
+geography_caption: .
 year_start:
 year_completed:
 tags:
-  - Code
-  - Markdown
 ---
 
 ## Overview
 
-Songdo is an older urban district plan
+Songdo is a master planned new town.
 
 ## References

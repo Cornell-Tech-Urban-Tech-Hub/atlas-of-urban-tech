@@ -1,5 +1,5 @@
 ---
-title: Lakeview Village Smart City-Missassuaga
+title: Lakeview Village Smart City
 template: stub
 author: Urban Tech Hub
 type: district
@@ -17,8 +17,7 @@ geography_caption: Optional Caption for the geographic information.
 year_start:
 year_completed:
 tags:
-- Code
-- Markdown
+
 ---
 
 ## Overview
