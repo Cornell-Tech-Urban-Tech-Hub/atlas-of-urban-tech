@@ -1,11 +1,11 @@
 ---
-title: Barangaroo
+title: Barangaroo Smart City
 description: Analysis of a mixed-use urban district in Sydney, Australia
 template: case-study
 status: Complete
 author: Divya Vedula
 type: district
-city: Barangaroo Smart City
+city: Barangaroo
 country_code: AUS
 centroid: [-33.8638, 151.2015]
 year_start: 2007

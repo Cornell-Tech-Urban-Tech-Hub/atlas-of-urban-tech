@@ -5,7 +5,7 @@ template: case-study
 status: Complete
 author: Matt Drezdzon
 type: district
-city: Fujisawa Sustainable Smart Town
+city: Fujisawa
 country_code: JPN
 centroid: [35.335450, 139.463626]
 year_start: 2012
