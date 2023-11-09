@@ -1,5 +1,5 @@
 ---
-title: Forest City, Malaysia-Forest City
+title: Forest City
 template: stub
 author: Urban Tech Hub
 type: plan

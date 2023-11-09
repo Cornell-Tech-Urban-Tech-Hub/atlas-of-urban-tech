@@ -1,5 +1,5 @@
 ---
-title: Próspera-Roatán
+title: Próspera
 template: stub
 author: Urban Tech Hub
 type: district

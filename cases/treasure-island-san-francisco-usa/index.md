@@ -1,5 +1,5 @@
 ---
-title: Treasure Island Eco City-San Francisco
+title: Treasure Island Eco City
 template: stub
 author: Urban Tech Hub
 type: district

@@ -1,5 +1,5 @@
 ---
-title: Ørestad Nord, Copenhagen-Copenhagen
+title: Ørestad Nord
 template: stub
 author: Urban Tech Hub
 type: district

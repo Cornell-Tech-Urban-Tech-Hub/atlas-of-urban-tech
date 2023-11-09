@@ -1,5 +1,5 @@
 ---
-title: Digital and Smart City Strategy-Edinburgh
+title: Edinburgh Digital and Smart City Strategy
 template: stub
 author: 
 type: district

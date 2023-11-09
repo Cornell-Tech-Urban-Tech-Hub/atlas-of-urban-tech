@@ -1,5 +1,5 @@
 ---
-title: New York City Digital Playbook-New York City
+title: New York City Digital Playbook
 template: stub
 author: Urban Tech Hub
 type: plan
