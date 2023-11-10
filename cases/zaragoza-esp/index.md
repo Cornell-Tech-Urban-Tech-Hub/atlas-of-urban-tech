@@ -9,7 +9,7 @@ city: Zaragoza
 country_code: ES
 centroid: [41.656841, -0.879420]
 year_start: 2005
-year_completed: N/A
+year_completed: Ongoing
 featured_image: ./Catedral-del-Salvador-de-Zaragoza.jpg
 featured_alt: View of Zaragoza 
 featured_credit: Iberian Escapes

@@ -9,10 +9,10 @@ city: Montreal
 country_code: CAN 
 centroid: [45.519286941506806,-73.5560000538157]
 year_start: 2019
-year_completed: n/a
+year_completed: Ongoing
 featured_image: 
 featured_alt: Montreal road 
-featured_credit: n/a
+featured_credit: 
 tags:
   - Mobility
   - Food
