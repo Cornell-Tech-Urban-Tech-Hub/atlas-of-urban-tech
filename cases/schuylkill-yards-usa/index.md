@@ -1,6 +1,6 @@
 ---
 title: Schuylkill Yards
-description: Case study for Schuylkill Yards
+description: A mixed-use real estate development focused on two grosin universities and the biotechnology sector.
 template: case-study
 status: Complete
 author: Matthew Shen
