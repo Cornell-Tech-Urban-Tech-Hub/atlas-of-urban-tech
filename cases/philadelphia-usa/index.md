@@ -1,5 +1,5 @@
 ---
-title: Philadelphia 5-Year Digital Equity Plan
+title: Philadelphia Digital Equity Plan
 description: A case study of Philadelphia's plan to address digital inequity.
 template: case-study
 status: Complete
