@@ -1,6 +1,6 @@
 ---
 title: Barangaroo Smart City
-description: Analysis of a mixed-use urban district in Sydney, Australia
+description: A mixed-use urban district that has embedded sustainability (economic, social, and ecological) in all its plans, implementation, partners, and community engagement activities. 
 template: case-study
 status: Complete
 author: Divya Vedula

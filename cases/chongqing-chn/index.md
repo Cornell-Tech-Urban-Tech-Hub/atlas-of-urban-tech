@@ -1,6 +1,7 @@
 ---
-title: Chongqing
-description: A general case study on the city Chongqing's data governance "14th Five-Year Plan" (2021-2025)
+title: Chongqing Data Governance 14th Five-Year Plan
+description: 
+A comprehensive plan to use digital technologies to transform the city, with the goal of creating a smarter and more intelligent living environment for its residents and organizations.
 template: case-study
 status: Complete
 author: Yuxuan Zhang
