@@ -1,6 +1,6 @@
 ---
 title: Pune Smart City
-description: A case study of Pune city - a city under the smart cities mission of India
+description: Under India's national Smart Cities Mission, the Pune Municipal Corporation (PMC) implemented various initiatives to address inadequate infrastructure and environmental concerns due to rapid urbanization.
 template: case-study
 status: Complete
 author: Parthit Patel

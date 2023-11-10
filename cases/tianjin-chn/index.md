@@ -1,5 +1,5 @@
 ---
-title: Sino-Singapore Tianjin Eco-City
+title: Sino-Singapore Eco-City
 description: A joint development between China and Singapore, as an experiment of radical eco-city concepts.
 template: case-study
 status: Complete

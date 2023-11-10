@@ -1,6 +1,6 @@
 ---
-title: Zaragoza Milla Digital
-description: Case Study of the Digital Mile Project located in Zaragoza, Spain.
+title: Milla Digital
+description: In 2005, Zaragoza Mayor Juan Alberto Belloch proposed the Digital Mile project, as he saw the development of the new high-speed railway system that was being built as an opportunity for urban redevelopment in the city.
 template: case-study
 status: Complete
 author: Michele Chen
@@ -25,7 +25,8 @@ geography_caption: Milla Digital
 
 <!-- About 100 to 150 word summary of the case study. -->
 
-Zaragoza is a Spanish city located at the halfway point between Madrid and Barcelona. In 2005, Zaragoza Mayor Juan Alberto Belloch proposed the Digital Mile project, as he saw the development of the new high-speed railway system that was being built as an opportunity for urban redevelopment in the city. This was even moreso as the new railway system now placed Zaragoza within commuting distance of Spain's two largest cities. 
+Zaragoza is a Spanish city located at the halfway point between Madrid and Barcelona. In 2005, Zaragoza Mayor Juan Alberto Belloch proposed the Digital Mile project, as he saw the development of the new high-speed railway system that was being built as an opportunity for urban redevelopment in the city. This was even more so as the new railway system now placed Zaragoza within commuting distance of Spain's two largest cities.
+
 Not long after the project was set in motion, Zaragoza was appointed to be the location of the international exposition. As a result, plans for the Digital Mile were put on hold until after the exposition. However, coincidentally on the day of the exposition, the 2008 economic crisis hit, and one of the Digital Mile’s biggest investors, the Lehman brothers, went bankrupt, which halted a majority of their development. Since then, the Digital Mile as a project is no longer active, however it has been broken down into mini projects that are happening around the city. 
 
 ## Key Characteristics
