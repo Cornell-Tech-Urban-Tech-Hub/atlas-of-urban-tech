@@ -1,7 +1,6 @@
 ---
 title: Chongqing Data Governance 14th Five-Year Plan
-description: 
-A comprehensive plan to use digital technologies to transform the city, with the goal of creating a smarter and more intelligent living environment for its residents and organizations.
+description: A comprehensive plan to use digital technologies to transform the city, with the goal of creating a smarter and more intelligent living environment for its residents and organizations.
 template: case-study
 status: Complete
 author: Yuxuan Zhang
