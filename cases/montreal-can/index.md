@@ -10,9 +10,9 @@ country_code: CAN
 centroid: [45.519286941506806,-73.5560000538157]
 year_start: 2019
 year_completed: Ongoing
-featured_image: 
-featured_alt: Montreal road 
-featured_credit: 
+featured_image: ./cases/montreal-can/matthias-mullie-VAxCHgJvZ0g-unsplash.jpg
+featured_alt: The view from Mont Royal.
+featured_credit: Matthias Mullie
 tags:
   - Mobility
   - Food
