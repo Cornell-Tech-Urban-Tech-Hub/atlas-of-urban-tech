@@ -1,6 +1,6 @@
 ---
 title: Busan Eco Delta Smart City
-description: Busan Eco Delta Smart City, a national pilot project, offers 10 innovative services including smart water, healthcare, mobility, and safety, while creating clusters for five innovative industries.
+description: A national pilot project that aims to create economic clusters for five urban tech industries.
 template: case-study
 status: Complete
 author: Haiyue Xi

@@ -1,6 +1,6 @@
 ---
 title: Fujisawa Sustainable Smart Town
-description: A is a smart town project in Fujisawa, Kanagawa Prefecture, Japan. The town began development in 2012, led by Panasonic in collaboration with multiple public and private partners.
+description: A smart town project led by Panasonic in collaboration with multiple public and private partners.
 template: case-study
 status: Complete
 author: Matt Drezdzon

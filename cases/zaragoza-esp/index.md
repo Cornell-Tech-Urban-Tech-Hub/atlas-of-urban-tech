@@ -1,6 +1,6 @@
 ---
 title: Milla Digital
-description: In 2005, Zaragoza Mayor Juan Alberto Belloch proposed the Digital Mile project, as he saw the development of the new high speed railway system that was being built as an opportunity for urban redevelopment in the city.
+description: A linear district leveraging an international expo to reinvent the city through digital elements.
 template: case-study
 status: Complete
 author: Michele Chen
