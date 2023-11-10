@@ -1,6 +1,6 @@
 ---
 title: Pune Smart City
-description: Under India's national Smart Cities Mission, the Pune Municipal Corporation (PMC) implemented various initiatives to address inadequate infrastructure and environmental concerns due to rapid urbanization.
+description: Under India's national Smart Cities Mission, the Pune Municipal Corporation implemented various initiatives to address inadequate infrastructure and environmental concerns due to rapid urbanization.
 template: case-study
 status: Complete
 author: Parthit Patel
@@ -26,7 +26,6 @@ geography_caption: Pune, India
 
 The Smart Cities Mission of India was a key offering of the Indian government. Launched by the Ministry of Housing and Urban Affairs in 2015, it has been instrumental in facilitating communication and resource sharing between different parts of the Indian government to achieve better living standards for Indians in 100 cities across the country. Pune is the second largest city in the State of Maharashtra. As a major urban center, it is faced by challenges with inadequate infrastructure and environmental concerns due to its rapid urbanization. Under the Smart Cities Mission, the Pune Municipal Corporation (PMC) implemented various initiatives to address these issues. Through the use of technology, IoT and Data Analytics, the city has improved its transport, waste management, healthcare offerings, and digital governance.
 
-
 ## Key Characteristics
 
 <!--  Summarize the most visible essential characteristics of the project. For districts: How does the district employ 3-5 of the key characteristics of New Century Cities? For plans: How does the plan address each of the three activities (development, engagement, implementation) of the digital masterplanning process described in the 2015 Townsend and Lorimer paper?
@@ -34,23 +33,17 @@ The Smart Cities Mission of India was a key offering of the Indian government. L
 
 **Infrastructure**.  The Smart City mission in Pune has focused on upgrading and modernizing its infrastructure. The city has made investments into improving roads, transportation systems and utilities. An example of this is the development of the Between the Road Transport System (BRTS) for public bus transportation. Other initiatives include the integration of IoT based systems for intelligent traffic management, waste management, and optimizing resource utilization.
 
-
 **Digital Connectivity**.  The city is a major center of IT in the State. It thus recognizes the importance of digital connectivity to enable smart-solutions. In order to provide widespread access to high-speed internet, the city has established Wi-Fi hotspots in public areas to create a digital infrastructure that supports the implementation of smart technologies. This has empowered the citizens to make use of the applications that the city runs, such as e-governance platforms. The initiative works in close tandem with the Ministry of Electronics and Information Technology. 
 
 ![Alt Text / Digital India logo](./Digital_India_logo.svg.png)
 
 **Citizen Engagement and Participation**.  Pune places a significant emphasis on its citizen engagement and participation. The city has implemented various channels to empower citizens to make their voice heard. Through mobile apps (Pune Connect), social media channels and community outreach programs, citizens can provide inputs to decision making, report issues and actively participate in the development of their neighborhood. 
 
-
 ## Goals and Aspirations
 
 <!-- Summarize the most important goals of the project. Replace the placeholder title with a succinct name for the goal. The text should be around 50 words. -->
 
 **Sustainable Infrastructure Development:**  The Smart City Mission in Pune aims to create a resilient urban infrastructure by upgrading and modernizing transportation systems, enhancing public amenities and implementing smart solutions for efficient resource utilization and management. The goal is to create an environmentally friendly city that meets the needs of its growing population. 
-
-
-
-
 
 **Enhanced Quality of Life**. The city strives to improve the quality of life for its citizens by providing reliable and accessible public services, healthcare, education and green spaces. The city has a goal to create an inclusive and livable environment where its residents can thrive and enjoy a high standard of living.
 
