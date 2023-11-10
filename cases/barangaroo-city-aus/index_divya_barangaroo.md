@@ -1,6 +1,6 @@
 ---
 title: Barangaroo Smart City
-description: A mixed-use urban district that has embedded economic, social, and ecological sustainability (economic, social, and ecological) in engagement, planning, and implementation. 
+description: A mixed-use urban district that has embedded economic, social, and ecological sustainability in its engagement, planning, and implementation. 
 template: case-study
 status: Complete
 author: Divya Vedula
