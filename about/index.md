@@ -1,8 +1,6 @@
 # About the Atlas
 
-The Atlas of Urban Tech collects case studies created by Cornell Tech students analyzing how city governments and city makers are using digital technology to make cities stronger, fairer, and more resilient. 
-
-You'll find two types of case studies here:
+The Atlas of Urban Tech collects case studies created by Cornell Tech students analyzing how city governments and city makers are using digital technology to make cities stronger, fairer, and more resilient. You'll find two types of case studies here:
 
 - **Digital masterplans** are comprehensive, long-range plans adopted by municipalities to guide policy, planning, and investment in smart city and urban tech solutions. These cases help us understand the technology priorities, strategies, and interventions of city governments.
 
