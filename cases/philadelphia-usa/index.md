@@ -1,6 +1,6 @@
 ---
 title: Philadelphia Digital Equity Plan
-description: A case study of Philadelphia's plan to address digital inequity.
+description: A roadmap to achieve a baseline of digital equity across the city..
 template: case-study
 status: Complete
 author: Nakia Kenon

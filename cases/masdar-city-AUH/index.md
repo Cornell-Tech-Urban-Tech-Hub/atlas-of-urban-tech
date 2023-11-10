@@ -1,6 +1,6 @@
 ---
 title: Masdar City
-description: Case study for Smart Cities Course
+description: An ambitious city project to build a low-carbon city in a desert region. 
 template: case-study
 status: Complete
 author: Yichao Cui
@@ -10,7 +10,7 @@ country_code: ARE
 centroid: [24.4666, 54.3666]
 year_start: 2008
 year_completed: 2030
-featured_image: 
+featured_image: ./buildings.png
 featured_alt: 
 featured_credit: 
 tags:
