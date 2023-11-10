@@ -1,5 +1,5 @@
 ---
-title: Organizing around Smart Cities - Smart City Networks in Montreal, Trondheim, and Tokyo-Trondheim
+title: Trondheim Smart City Strategy
 template: stub
 author: Urban Tech Hub
 type: stub
