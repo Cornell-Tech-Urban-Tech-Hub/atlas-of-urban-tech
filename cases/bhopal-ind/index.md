@@ -50,7 +50,7 @@ Cities were selected based on the Smart Cities challenge, where cities submitted
 ICCC also selling their expertise to other departments. This year ICCC served Police Department in making their control center for $1 million. Also implemented $0.5 million data center for Excise department for effective tracking of liquor movement and tax collection opportunities.
 **Housing**. TT Nagar Smart City gave preference to horizontal expansion over vertical. 3000 Government houses were demolished to free the land and these houses were to be rebuilt with modern mid-rise infrastructure. Care will also be taken to provide shops to street vendors (even non-permanent) for maintaining their livelihood.
 
-**Infrastructure Development**. 
+**Infrastructure Development**
 Road: 45 and 30-meter-wide roads with median containing plantation and all utility services (electricity, wireless, water – both drinking and sewage). No wire on the surface concept.
 
 Solid Waste Management: Monitored through ICCC and integrated with national Swachh Bharat (Clean India) program. Biometric attendance of sanitation workers, Garbage collection trucks monitored with IOT based GPS tracker. 30 Garbage transfer stations built for intermediate waste collection from door-to-door small trucks to segregate and compact waste before sending for landfill. Stations also have RFID and weigh machine to calculate garbage quantity and trips at vehicle level.  
@@ -60,9 +60,7 @@ Smart Lighting: It will be developed in PPP model with Bharti Infratel, 20,000 s
 Mobility: Bike sharing (like City Bikes)
 Phase 1 for 500 bikes with 100 docking stations was started in VGF (Viability gap funding) format where city provided ~US 300K for Operating expense (Opex) management. Phase 2 started in PPP model for 1000 electric bikes with 200 docking stations.	
 
-**Integrated Traffic Management System**. ITMS is for adaptive traffic management, automatic e-challan (fines). It is financially self-sufficient as 75% of fine collection is given back to Smart City project. It got its first installment in 2022-23 financial year. This money is used for the operation and management of systems while improving traffic situation in the city.
-69 out of 120 traffic junctions in city are integrated with ITMS. 34 locations have adaptive traffic control.
-
+**Integrated Traffic Management System**. ITMS is for adaptive traffic management, automatic e-challan (fines). It is financially self-sufficient as 75% of fine collection is given back to Smart City project. It got its first installment in 2022-23 financial year. This money is used for the operation and management of systems while improving traffic situation in the city. 69 out of 120 traffic junctions in city are integrated with ITMS. 34 locations have adaptive traffic control.
 
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
