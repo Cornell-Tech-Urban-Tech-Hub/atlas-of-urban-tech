@@ -1,6 +1,6 @@
 ---
 title: Organizing around Smart Cities - Smart City Networks in Montreal, Trondheim, and Tokyo-Trondheim
-template: case-study
+template: stub
 author: Urban Tech Hub
 type: stub
 status: Complete
