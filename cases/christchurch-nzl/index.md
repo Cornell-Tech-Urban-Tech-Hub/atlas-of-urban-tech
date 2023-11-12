@@ -1,6 +1,6 @@
 ---
 title: Smart Christchurch Strategy
-description: The Smart Christchurch Strategy was released and adopted by the Christchurch City Council in 2022 to “see Ōtautahi-Christchurch’s reputation build, so that when people “think innovation, they think Christchurch”.
+description: Adopted by the Christchurch City Council in 2022, to showcase projects underway or completed and set intentions for new programs.
 template: case-study
 status: Complete
 author: Elizabeth Pysher
