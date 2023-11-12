@@ -38,10 +38,19 @@ Upon completion of the course, students are able to:
 
 ## Credits
 
+Instructor
+- Anthony Townsend
+
+Editor
+- Rowan Wu
+
+Grader
+- Marie Demple
+
 Design and Coding
 - Ben Oldenburg
 
-Data Managmeent
+Data Migration
 - Sriya Challa 
 - Tsung-Yin Hsieh
 - Vikranth Kanumuru
