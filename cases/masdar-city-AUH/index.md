@@ -10,9 +10,9 @@ country_code: ARE
 centroid: [24.4666, 54.3666]
 year_start: 2008
 year_completed: 2030
-featured_image: ./buildings.png
+featured_image: ./masdarcity.jpg
 featured_alt: 
-featured_credit: 
+featured_credit: Raphael Iruzun Martins
 tags:
   - Buildings
   - Energy
