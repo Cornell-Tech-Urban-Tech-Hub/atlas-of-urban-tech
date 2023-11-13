@@ -1,6 +1,6 @@
 ---
 title: Pune Smart City
-description: Under India's national Smart Cities Mission, the Pune Municipal Corporation implemented various initiatives to address inadequate infrastructure and environmental concerns due to rapid urbanization.
+description: An initiative under India's Smart Cities Mission to improve the city's infrastructure and environment due to rapid urbanization.
 template: case-study
 status: Complete
 author: Parthit Patel
@@ -10,7 +10,7 @@ country_code: IND
 centroid: [18.5204, 73.8567]
 year_start: 2015
 year_completed: 2023
-featured_image: ./pune.jpg
+featured_image: ./pune.jpeg
 featured_alt: Pune skyline
 featured_credit: 	Ujjawal Gayakwad
 tags:
