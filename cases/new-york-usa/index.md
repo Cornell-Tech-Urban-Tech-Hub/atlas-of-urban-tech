@@ -17,7 +17,7 @@ tags:
   - InformationSystems
   - Mobility
   - InnovationSystems
-geography: ./example.geojson
+geography: ./newyork.geojson
 geography_caption: New York
 ---
 
