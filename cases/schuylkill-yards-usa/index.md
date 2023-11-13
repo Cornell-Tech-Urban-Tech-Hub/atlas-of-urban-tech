@@ -1,6 +1,6 @@
 ---
 title: Schuylkill Yards
-description: A mixed-use real estate development focused on two grosin universities and the biotechnology sector.
+description: A mixed-use real estate development focused on two universities and the biotechnology sector.
 template: case-study
 status: Complete
 author: Matthew Shen
@@ -9,7 +9,7 @@ city: Philadelphia
 country_code: USA
 centroid: [39.955457, -75.183871]
 year_start: 2016
-year_completed: 2036
+year_completed: 2026
 featured_image: ./media/DrexelSquareFitness-81_sky.jpg
 featured_alt: Bulletin Building
 featured_credit: Brandywine Realty Trust
