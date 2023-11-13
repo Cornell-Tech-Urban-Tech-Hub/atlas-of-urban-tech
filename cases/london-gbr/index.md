@@ -12,7 +12,8 @@ year_start: 2018
 year_completed: 2021
 featured_image: ./london_aerial_view.jpg
 featured_alt: London Aerial Image
-featured_credit: Photo by <a href="https://unsplash.com/@jaanus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jaanus Jagomägi</a> on <a href="https://unsplash.com/photos/Dymu1WiZVko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+featured_credit: Jaanus Jagomägi (Unsplash)
+featured_credit_link: https://unsplash.com/photos/Dymu1WiZVko
 tags:
   - CivicTech
   - Mobility
