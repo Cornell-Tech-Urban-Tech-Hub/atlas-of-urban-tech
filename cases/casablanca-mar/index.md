@@ -1,10 +1,10 @@
 ---
-title: Zenata Eco-City-Casablanca, Morocco 
+title: Zenata Eco-City
 template: stub
 author: Urban Tech Hub
 type: plan
 status: Review
-city: Casablanca, Morocco 
+city: Casablanca 
 country: Morocco
 country_code: MAR
 centroid: [33.60816136534004, -7.564418003256634]
