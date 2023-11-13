@@ -1,6 +1,6 @@
 ---
 title: Hangzhou City Brain
-description: Developed by the Chinese tech company Alibaba Group, the Hangzhou City Brain utilizes artificial intelligence and data collection for urban management.
+description: A platform developed by the Chinese tech company Alibaba Group that utilizes AI and big data for urban management.
 template: case-study
 status: Complete
 author: Ken He
@@ -17,7 +17,7 @@ tags:
   - InformationSystems
   - Mobility
 geography: ./example.geojson
-geography_caption: Optional Caption for the geographic information.
+geography_caption: Hangzhou City Brain
 ---
 
 ## Overview
