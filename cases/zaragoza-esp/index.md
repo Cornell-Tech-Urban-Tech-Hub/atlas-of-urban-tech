@@ -1,6 +1,6 @@
 ---
 title: Milla Digital
-description: A linear district leveraging an international expo to reinvent the city through digital elements.
+description: A linear district leveraging an international expo to reinvent the city through digital interventions.
 template: case-study
 status: Complete
 author: Michele Chen
