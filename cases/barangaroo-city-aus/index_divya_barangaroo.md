@@ -1,6 +1,6 @@
 ---
 title: Barangaroo Smart City
-description: A mixed-use urban district that has embedded economic, social, and ecological sustainability in its engagement, planning, and implementation. 
+description: An urban district in Australia transforming an industrial harbor into a mixed-use office, commercial, recreational, cultural, and residential space.
 template: case-study
 status: Complete
 author: Divya Vedula
@@ -9,7 +9,7 @@ city: Barangaroo
 country_code: AUS
 centroid: [-33.8638, 151.2015]
 year_start: 2007
-year_completed:
+year_completed: Ongoing
 featured_image: ./dan-freeman-7Zb7kUyQg1E-unsplash.jpg
 featured_alt: Sydney Skyline
 featured_credit: Dan Greeman (Unsplash)
