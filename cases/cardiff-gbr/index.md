@@ -3,7 +3,7 @@ title: Cardiff’s Smart City Roadmap
 template: stub
 author: Urban Tech Hub
 type: plan
-status: Review
+status: Complete
 city: Cardiff
 country: United Kingdom
 country_code: GBR
