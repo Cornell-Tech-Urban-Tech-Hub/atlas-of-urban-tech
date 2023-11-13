@@ -10,9 +10,9 @@ country_code: IND
 centroid: [18.5204, 73.8567]
 year_start: 2015
 year_completed: 2023
-featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
-featured_alt: New York City Skyline
-featured_credit: Hannah Busing (Unsplash)
+featured_image: ./pune.jpg
+featured_alt: Pune skyline
+featured_credit: 	Ujjawal Gayakwad
 tags:
   - Mobility
   - InnovationSystems
