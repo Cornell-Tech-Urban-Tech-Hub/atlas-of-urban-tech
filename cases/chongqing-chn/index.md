@@ -1,6 +1,6 @@
 ---
 title: Chongqing Data Governance 14th Five-Year Plan
-description: A comprehensive digital masterplan plan to transform the city focused on urban data.
+description: A comprehensive digital masterplan plan to transform an industrial hub to an innovative, smart, and digital metropolis.
 template: case-study
 status: Complete
 author: Yuxuan Zhang
@@ -9,14 +9,14 @@ city: Chongqing
 country_code: CHN
 centroid: [29.5637, 106.5504]
 year_start: 2021
-year_completed: 
+year_completed: Ongoing
 featured_image: ./zhang-qc-JlI4LPM0Ftk-unsplash.jpg
 featured_alt: Chongqing City Skyline
 featured_credit: Zhang qc (Unsplash)
 tags:
   - InformationSystems
   - CivicTech
-geography: 
+geography: ./map.geojson
 geography_caption: Chongqing, China
 ---
 
