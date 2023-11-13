@@ -93,7 +93,7 @@ On the legal front, Montreal has displayed an unwavering dedication to ensuring 
 
 **Civic Empowerment.** "Creating concrete change at a neighborhood scale by empowering citizens, whether though joint neighborhood creative or civic activities, is a way to generate collective solutions and to implement them. To participate in Montreal in common is to realize major projects with the potential to affect the future." - Pascal Priori, Neighborhood mobility, Solon 
 
-**Optimizing Food Systems** "Optimizing the supply of fresh local products in an effort to enable the most underprivileged Montrealers to have access to healthy nutrition is a true source of motivation for us. We are equally enthusiastic about reaching our goals, by forming partnerships on site, udnerstanding their needs, and proposing efficient and effective tools and solutions on all levels." - Local and integrated food system, Recolte 
+**Optimizing Food Systems** "Optimizing the supply of fresh local products in an effort to enable the most underprivileged Montrealers to have access to healthy nutrition is a true source of motivation for us. We are equally enthusiastic about reaching our goals, by forming partnerships on site, understanding their needs, and proposing efficient and effective tools and solutions on all levels." - Local and integrated food system, Recolte 
 
 ## Financing
 <!--  Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this. -->
@@ -103,12 +103,12 @@ On the legal front, Montreal has displayed an unwavering dedication to ensuring 
 ## Outcomes
 <!-- Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. -->
 
-**Bottom-up Innovation Strategy**. Montreal relies on team collaboration and on-site experimentation, with the belief that projects must be centered on humans, and knowledge and data must be shared. Their framework and business model operates on the following tenets: (1) Broadcasting knoweldge and scaling up through conferences, public or targeted webinars, and durable solutions that are visible in Montreal and abroad, (2) Supporting innovation and experimentation through agile managmeent, collaboration, experimentation, co-design, and citizen participation, (3) Harvesting and pooling of knowledge through platforms and other opportunities for exchange among partners (e.g. meetings, webinars, workshops), and (4) Investing knowledge into programs and projects through the orientations of the governning committee and support team. 
+**Bottom-up Innovation Strategy**. Montreal relies on team collaboration and on-site experimentation, with the belief that projects must be centered on humans, and knowledge and data must be shared. Their framework and business model operates on the following tenets: (1) Broadcasting knowledge and scaling up through conferences, public or targeted webinars, and durable solutions that are visible in Montreal and abroad, (2) Supporting innovation and experimentation through agile management, collaboration, experimentation, co-design, and citizen participation, (3) Harvesting and pooling of knowledge through platforms and other opportunities for exchange among partners (e.g. meetings, webinars, workshops), and (4) Investing knowledge into programs and projects through the orientations of the governing committee and support team. 
 
 
 ## Open Questions
 
-**What are the funding sources and amounts currently allocated to Montreal's' municipal labs?**.  Currently, the information available on Montreals smart city lab funding is quite vague, and further exploration of the topic is required. 
+**What are the funding sources and amounts currently allocated to Montreal's' municipal labs?**.  Currently, the information available on Montreal's smart city lab funding is quite vague, and further exploration of the topic is required. 
 
 **To what extent is the local government orienting itself to strategically align with industry? Has the development of a bottom-up approach been met with any contention?**  
 
