@@ -12,7 +12,7 @@ year_start: 2015
 year_completed: 2023
 featured_image: ./pune.jpeg
 featured_alt: Pune skyline
-featured_credit: 	Ujjawal Gayakwad
+featured_credit: Ujjawal Gayakwad
 tags:
   - Mobility
   - InnovationSystems
