@@ -1,6 +1,6 @@
 ---
 title: Smart City Bhopal
-description: Campaign to transforming the capital city of Madhya Pradesh into a technologically advanced and sustainable urban center.
+description: A campaign to transform the capital city of Madhya Pradesh into a technologically advanced and sustainable urban center.
 template: case-study
 status: Complete
 author: Sourabh Singh
