@@ -8,7 +8,7 @@ type: district
 city: Amsterdam
 country_code: NLD
 centroid: [52.373889, 4.916667]
-year_start: 1655
+year_start: 2013
 year_completed: 2022
 featured_image: ./img-context_4.jpg
 featured_alt: Aerial Picture of the Marineterrein district located in Amsterdam, the Netherlands
