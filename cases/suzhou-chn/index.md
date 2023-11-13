@@ -9,7 +9,7 @@ city: Suzhou
 country_code: CHN
 centroid: [31.3196, 120.7706]
 year_start: 1994
-year_completed: 
+year_completed: Ongoing
 featured_image: ./sip_cbd.jpg
 featured_alt: Suzhou Industrial Park CBD
 featured_credit: Z. Ruikoto (Unsplash)
