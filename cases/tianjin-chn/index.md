@@ -1,6 +1,6 @@
 ---
 title: Sino-Singapore Eco-City
-description: A joint development between China and Singapore, as an experiment of radical eco-city concepts.
+description: A joint development between China and Singapore as an experiment of radical eco-city concepts.
 template: case-study
 status: Complete
 author: Yuchen Ye
@@ -18,7 +18,7 @@ tags:
   - Environment
   - Buildings
 geography: ./Tianjin.geojson
-geography_caption: District is located near Tianjin, by the ocean.
+geography_caption: Sino-Singapore Eco-City
 ---
 
 ## Overview
