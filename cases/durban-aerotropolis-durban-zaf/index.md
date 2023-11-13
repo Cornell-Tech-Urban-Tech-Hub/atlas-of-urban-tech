@@ -3,7 +3,7 @@ title: Durban Aerotropolis-Durban
 template: stub
 author: Urban Tech Hub
 type: district
-status: Complete
+status: Review
 city: Durban
 country: South Africa
 country_code: ZAF
@@ -13,7 +13,7 @@ featured_desc:
 featured_credit: Marlin Clark (Unsplash)
 description: Durban Aerotropolis is a long term plan currently in its early stages.
 geography: durban-aerotropolis-durban-zaf.geojson
-geography_caption: Optional Caption for the geographic information.
+geography_caption: Durban
 year_start:
 year_completed:
 tags:
