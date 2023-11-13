@@ -12,13 +12,13 @@ year_start: 2019
 year_completed: 2050
 featured_image: ./nycskyline.jpeg
 featured_alt: New York City Skyline
-featured_credit:
+featured_credit: Unsplash/Hannah Busing
 tags:
   - InformationSystems
   - Mobility
   - InnovationSystems
 geography: ./example.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography_caption: New York
 ---
 
 ## Overview
