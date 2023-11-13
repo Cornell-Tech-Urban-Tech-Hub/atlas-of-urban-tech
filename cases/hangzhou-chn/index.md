@@ -9,7 +9,7 @@ city: Hangzhou
 country_code: CHN
 centroid: [30.250000, 120.166664]
 year_start: 2017
-year_completed: On-going
+year_completed: Ongoing
 featured_image: ./hangzhou.jpg
 featured_alt: Hangzhou Lake
 featured_credit: jj20.com
