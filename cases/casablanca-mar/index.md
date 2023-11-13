@@ -8,13 +8,13 @@ city: Casablanca, Morocco
 country: Morocco
 country_code: MAR
 centroid: [33.60816136534004, -7.564418003256634]
-featured_image: ./max-bender-VmX3vmBecFE-unsplash.jpeg
-featured_desc: 
-featured_credit: Max Bender (Unsplash)
-description: Starting in 2018, Zenata was planned to be one of Africa’s first eco-cities, built in Casablanca, Morocco. Their plan has three pillars of sustainable development – environmental, social, and economic.
+featured_image: ./barry-talley-hr31kfHe0Ao-unsplash.jpg
+featured_desc: Casablanca skyline
+featured_credit: Barry Talley (Unsplash)
+description: A plan for one of Africa’s first eco-cities built on the three pillars of sustainable development: environmental, social, and economic sustainability.
 geography: casablanca-mar.geojson
-geography_caption: Optional Caption for the geographic information.
-year_start:
+geography_caption: Casablanca
+year_start: 2018
 year_completed:
 tags:
 
