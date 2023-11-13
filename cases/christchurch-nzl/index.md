@@ -1,6 +1,6 @@
 ---
 title: Smart Christchurch Strategy
-description: Adopted by the Christchurch City Council in 2022, to showcase projects underway or completed and set intentions for new programs.
+description: A program set up by the Christchurch City Council with the goal of promoting Christchurch as an open and connected city.
 template: case-study
 status: Complete
 author: Elizabeth Pysher
