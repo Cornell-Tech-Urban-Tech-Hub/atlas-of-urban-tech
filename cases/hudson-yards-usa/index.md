@@ -7,7 +7,7 @@ author: Zain Abdelrazeq
 type: district
 city: New York
 country_code: USA
-centroid: [42.196308, -73.777328]
+centroid: [40.75407573218433, -74.00088951241872]
 year_start: 2001
 year_completed: 2027
 featured_image: ./hudson2.jpg
