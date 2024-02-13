@@ -7,10 +7,10 @@ status: Complete
 city: Tabuk Province
 country: Saudi Arabia
 country_code: SAU
-centroid: [24.740976687743554, 46.63519113624642]
-featured_image: ./saleh-rzMWVDocbJU-unsplash.jpeg
+centroid: [28.005886, 35.202701]
+featured_image: ./51746151123_50b8c7e343_k.jpg
 featured_desc:
-featured_credit: SALEH (Unsplash)
+featured_credit: Adel Al-Omrani (Flickr)
 description: NEOM is a "living laboratory" and a hub for innovation, with a focus on technology and sustainability. It aims to create a global center for business, trade, and tourism in Saudi Arabia.
 
 geography: ./neom-sau.geojson

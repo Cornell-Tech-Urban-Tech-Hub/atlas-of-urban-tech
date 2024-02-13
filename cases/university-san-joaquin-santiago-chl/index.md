@@ -22,7 +22,7 @@ tags:
 
 ## Overview
 
-Apartnership between [Lab Claro-UC 5G Innovation Centre](https://noticias.clarochile.cl/noticias/el-mercurio-destaca-avances-del-lab-claro-centro-de-innovacion-uc-5g/) and [“Sé Santiago"](https://www.sesantiago.cl/), a strategic program of [CORFO Metropolitano](https://corfo.cl/sites/cpp/movil/webingles) and [País Digital Foundation](https://paisdigital.org/). 
+A partnership between [Lab Claro-UC 5G Innovation Centre](https://noticias.clarochile.cl/noticias/el-mercurio-destaca-avances-del-lab-claro-centro-de-innovacion-uc-5g/) and [“Sé Santiago"](https://www.sesantiago.cl/), a strategic program of [CORFO Metropolitano](https://corfo.cl/sites/cpp/movil/webingles) and [País Digital Foundation](https://paisdigital.org/). 
 
 Press release: ["San Joaquín Campus Will Be Chile's First Smart City at Scale"](https://www.uc.cl/en/news/san-joaquin-campus-will-be-chiles-first-smart-city-at-scale/).
 
