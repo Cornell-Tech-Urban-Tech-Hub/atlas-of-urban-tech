@@ -3,7 +3,7 @@ title: Zurich
 template: stub
 author: Urban Tech Hub
 type: plan
-status: Review
+status: Complete
 city: Zurich
 country: Switzerland
 country_code: CHE

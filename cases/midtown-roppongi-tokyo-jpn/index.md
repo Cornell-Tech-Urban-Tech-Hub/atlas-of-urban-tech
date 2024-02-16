@@ -3,7 +3,7 @@ title: Tokyo Midtown Project(Roppongi)
 template: stub
 author: Urban Tech Hub
 type: district
-status: Review
+status: Complete
 city: Tokyo
 country: Japan
 country_code: JPN
@@ -22,4 +22,4 @@ tags:
 
 ## Overview
 
-The Tokyo Midtown Project is a mixed-use development project located in Tokyo, Japan in the Roppongi district. The project redeveloped a 10-hectare area that previously housed a military base.
+The [Tokyo Midtown Project](https://www.tokyo-midtown.com/en/) is a mixed-use development project located in Tokyo, Japan in the Roppongi district. The project redeveloped a 10-hectare area that previously housed a military base.
