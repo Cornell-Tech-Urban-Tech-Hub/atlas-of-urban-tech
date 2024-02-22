@@ -35,15 +35,15 @@ The Sino-Singapore Eco-City is a joint venture between the Chinese and Singapore
 
 **Mixed-use**.  A key characteristic of smart cities in the new century is the mixed-use of spaces for business, commercial, recreation, and residential purposes. This fosters a diverse and interesting lifestyle while enabling residents to have greater connectivity in their everyday lives. The Eco-Cell, Eco-Community, and Eco-District zones provide convenient access to essential services within a 15-minute walk and offer various recreational opportunities within the neighborhood.
 
-![Alt Text / Modular Neighborhood Concept](./masterplan.jpg "Masterplan (Unsplash)")
+![Alt Text / Modular Neighborhood Concept](./masterplan.jpg "Masterplan (Tianjin Infrastructure Investment Group)")
 
 **Promote sustainability**.  The Sino-Singapore Eco-City is driven by the goal of developing a nature-friendly city, setting it apart from other major Chinese cities. The city incorporates dedicated green spaces that are not earmarked for future development, recognizing their role in reducing the carbon footprint and improving the residents' quality of life. Additionally, the city boasts extensive public transportation coverage, ensuring that residents have easy access to public transportation for all their needs.
 
-![Alt Text / Convenient Public Transportation Options](./transport1.jpg "Transport (Unsplash)")
+![Alt Text / Convenient Public Transportation Options](./transport1.jpg "Transport (Tianjin Infrastructure Investment Group)")
 
 **Use advanced information and community-oriented technologies for efficient management of urban services**.  To truly thrive in the new century, a city must be able to leverage technology to efficiently manage its services. In the Eco-City, residents can access over 95% of administrative public services through a mobile app. In case of natural emergencies, the digitized utility maintenance and operation center provides real-time monitoring of the city's infrastructure, enabling decision-makers to act with greater awareness and effectiveness.
 
-![Alt Text / Digitally integrated urban control system](./smartmonitor.jpg "Monitoring Systems(Unsplash)")
+![Alt Text / Digitally integrated urban control system](./smartmonitor.jpg "Monitoring Systems (Tianjin Infrastructure Investment Group)")
 
 ## Goals and Aspirations
 
@@ -63,33 +63,33 @@ The Sino-Singapore Eco-City is a joint venture between the Chinese and Singapore
 
 Building water usage is monitored, with a rainwater harvesting and reuse system fully built in. Renewable energy collection system built in buildings. Water and power resources usage and recycling are monitored and controlled in a single platform.
 
-![Alt Text / Green Building Design](./greenbuilding.jpg "Green Building Design(Unsplash)")
+![Alt Text / Green Building Design](./greenbuilding.jpg "Green Building Design (Tianjin Infrastructure Investment Group)")
 
 **Pneumatic Waste Collection System**:  Residents are encouraged and rewarded for sorting their waste. A Pneumatic Waste Collection System allows waste to be sorted and transported on a large scale, where transportation to a centralized facility is an air-tight process. Recyclables are turned into products, and kitchen waste is used as material for fertilizers and industrial soaps. Other wastes are turned harmless locally using chemical procedures, instead of being shipped out.
 
-![Alt Text / Waste Management](./waste.jpg "Waste Management(Unsplash)")
+![Alt Text / Waste Management](./waste.jpg "Waste Management (Tianjin Infrastructure Investment Group)")
 
 **Sponge City concept**:  Resilience against and efficient use of water are integral to the foundation of the Eco-City. Permanent sensors have been installed at various points along the tap water service pipelines, guaranteeing that the water quality meets drinking standards from the facility to the tap. By effectively harvesting rainwater through real-time stormwater runoff control, the city is able to monitor and regulate water quality and volume in a centralized system. In the event of storms, flooding is effectively prevented through the use of permeable pavement, large natural landscape dampening, a rainwater storage system for future use, and high-capacity runoff to the ocean.
 
-![Alt Text / Water Recycle System](./water.jpg "Water Recycle System(Unsplash)")
+![Alt Text / Water Recycle System](./water.jpg "Water Recycle System (Tianjin Infrastructure Investment Group)")
 
 ## Stakeholders
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
 
 **The Chinese Central Government**: Represented by Tianjin eco-city investment & development co.ltd and Tianjin Infrastructure Investment Group, nationally owned companies dedicated to providing the public service, transportation, and utility to the Eco-City. Directly works with Singapore side to determine visions and strategies for development   [Tianjin Infrastructure Investment Group](https://www.tj-chengtou.com/about.aspx?cateid=1/)
 
-![Alt Text / logo](./tiig.jpg "logo(Unsplash)")
+![Alt Text / logo](./tiig.jpg "Logo")
 
 
 
 **Singapore**: Represented by the Ministry of National Development, a government agency, symbolizing the high level of cooperation between Singapore and China on developing the Eco-City. The Keppel Group, primarily responsible for green building design, and integrating its expertise in energy, environment, urban development, connectivity, and property management, introducing the smart city technologies making the Eco-City unique. [The Keppel Group](https://www.kepcorp.com/cn/who-we-are/about-keppel/#tab-urban-development/)
 
-![Alt Text / logo](./Keppel.jpg "logo(Unsplash)")
+![Alt Text / logo](./Keppel.jpg "(Tianjin Infrastructure Investment Group)")
 
 
 **Sino-Singapore Tianjin Eco-City Investment and Development Co., Ltd. (SSTEC)**.  As the master developer, SSTEC works closely with the governments and private sectors of China and Singapore, as well as other international partners, to plan and develop the Eco-City. The SSTEC is the platform where both Chinese and Singaporean nationally owned capital work together to develop the city. [Tianjin eco-city investment & development co.ltd](https://www.tjeco-city.com/?lang=english/)
 
-![Alt Text / logo](./setttttcccc.jpg "logo(Unsplash)")
+![Alt Text / logo](./setttttcccc.jpg "(Tianjin Infrastructure Investment Group)")
 
 
 ## Leadership
@@ -115,7 +115,7 @@ Building water usage is monitored, with a rainwater harvesting and reuse system 
 
 **Highly aggressive sustainable implementation**:  The Eco-City was awarded first place among cities globally for using a sustainable model of development for urban space, by [Construction 21 International](https://www.construction21.org/en/index.html). The Eco-City has accomplished its Sustainability KPIS, which regulated that the city needs to build its dependency on sustainable resources. Its completion encourages the city to take itself to the next level. The Eco-City is currently working to achieve its Sustainability 36 KPIs 2.0, which include increasing sustainable energy sources to more than 32%, and harnessing non-traditional sources of tap water to more than 60% by 2035. 
 
-![Alt Text / logo](./susgoal.jpg "logo(Unsplash)")
+![Alt Text / logo](./susgoal.jpg "(Tianjin Infrastructure Investment Group)")
 
 **Gaining 140,000 new residents as of 2023**:  Although the real-estate market is currently very low in China, it has not changed the fact that the Eco-City is a very popular destination for people to move to. As of 2023, the population of permanent residents reached 140,000, compared to 120,000 in 2022. The Eco-City is also on-track in building the population foundation for a future expansion. There are 34 schools and kindergartens in the city, serving 23,400 students, which made close to 20% of the total population. These are indicators that the Eco-City has plenty of potential to continue developing in future.
 
@@ -153,4 +153,3 @@ Most sources are from the Chinese internet.
 - https://www.zhihu.com/answer/2794269827
 - https://tj.zhaoshang.net/yuanqu/detail/55
 - https://www.zhihu.com/answer/863054265
-
