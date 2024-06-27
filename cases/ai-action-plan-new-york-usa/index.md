@@ -39,11 +39,11 @@ The plan also focuses on enhancing public engagement, building AI capabilities w
 
 <!-- What is the project trying to achieve? Identify 3-5 high-level goals that define the entire project.Replace the placeholder title with a succinct name for the goal. -->
 
-**Goal 1**. Enhance Governance and Oversight of AI Technologies: The plan aims to establish a robust governance framework that ensures AI technologies used by city agencies are deployed responsibly and ethically.
+**Enhance Governance and Oversight of AI Technologies**. The plan aims to establish a robust governance framework that ensures AI technologies used by city agencies are deployed responsibly and ethically.
 
-**Goal 2**. Foster Public Engagement and Transparency: The initiative seeks to enhance public understanding and involvement in AI policy-making and its applications within the city. This involves holding public listening sessions, developing public-facing resources, and ensuring that the city's efforts in AI are transparent and accountable to New Yorkers.
+**Foster Public Engagement and Transparency**. The initiative seeks to enhance public understanding and involvement in AI policy-making and its applications within the city. This involves holding public listening sessions, developing public-facing resources, and ensuring that the city's efforts in AI are transparent and accountable to New Yorkers.
 
-**Goal 3**. Build AI Capability within City Government: The plan outlines steps to increase AI literacy and capability across city agencies. This includes identifying skills needs, fostering information sharing, and supporting the implementation of AI projects within the city government. The goal is to ensure that city personnel are equipped to utilize AI tools effectively and responsibly.
+**Build AI Capability within City Government**. The plan outlines steps to increase AI literacy and capability across city agencies. This includes identifying skills needs, fostering information sharing, and supporting the implementation of AI projects within the city government. The goal is to ensure that city personnel are equipped to utilize AI tools effectively and responsibly.
 
 
 
@@ -76,31 +76,31 @@ The plan also focuses on enhancing public engagement, building AI capabilities w
 <!--  What specific technology-enabled interventions does the project propose? Identify 3-5 technology interventions. Describe use cases, value proposition, solution architecture, data created or consumed, key platforms and standards, business models, regulatory issues, etc. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
 **AI Risk Assessment and Project Review Process**. 
-<p>Use Case: This intervention is intended to evaluate AI projects for risks like bias, privacy breaches, and other potential negative impacts before their deployment.<br>
-Value Proposition: Ensures AI tools used in city operations adhere to ethical standards, minimizing the risk of harm and enhancing trust in public sector AI use.<br>
-Solution Architecture: Involves tools and frameworks for assessing AI algorithms against predefined criteria, possibly integrating automated testing and monitoring systems that continuously evaluate the performance and impact of AI applications.<br>
-Data Created or Consumed: Consumes operational data from AI applications and produces reports on compliance and risk assessments.<br>
-Key Platforms and Standards: Might utilize existing AI assessment platforms, integrate with the city’s IT infrastructure, and adhere to standards such as the AI Risk Management Framework by NIST.<br>
-Business Models: Operates under a governance-focused model, with funding from city budgets allocated for technology oversight.<br>
-Regulatory Issues: Aligns with local and federal regulations on data privacy and AI, such as NYC’s Local Law 49 concerning automated decision systems.</p>
+- Use Case: This intervention is intended to evaluate AI projects for risks like bias, privacy breaches, and other potential negative impacts before their deployment.
+- Value Proposition: Ensures AI tools used in city operations adhere to ethical standards, minimizing the risk of harm and enhancing trust in public sector AI use.
+- Solution Architecture: Involves tools and frameworks for assessing AI algorithms against predefined criteria, possibly integrating automated testing and monitoring systems that continuously evaluate the performance and impact of AI applications.
+- Data Created or Consumed: Consumes operational data from AI applications and produces reports on compliance and risk assessments.
+- Key Platforms and Standards: Might utilize existing AI assessment platforms, integrate with the city’s IT infrastructure, and adhere to standards such as the AI Risk Management Framework by NIST.
+- Business Models: Operates under a governance-focused model, with funding from city budgets allocated for technology oversight.
+- Regulatory Issues: Aligns with local and federal regulations on data privacy and AI, such as NYC’s Local Law 49 concerning automated decision systems.</p>
 
 **Public AI Reporting and Engagement Platform**.  
-<p>Use Case: Designed to enhance transparency and public engagement through a comprehensive reporting and feedback mechanism on AI projects.<br>
-Value Proposition: Provides a direct line of communication between the city’s AI initiatives and the public, fostering transparency, accountability, and trust.<br>
-Solution Architecture: A web-based platform that allows users to access AI project details, feedback mechanisms, and educational resources about AI applications within city operations.<br>
-Data Created or Consumed: Creates public engagement data and consumes feedback and AI performance data to inform continuous improvements and policy adjustments.<br>
-Key Platforms and Standards: Could be built on open-source technologies with adherence to web accessibility standards to ensure broad public access.<br>
-Business Models: Supported through city funding, focusing on public service and community engagement without direct revenue generation.<br>
-Regulatory Issues: Must comply with digital accessibility and privacy regulations.</p>
+- Use Case: Designed to enhance transparency and public engagement through a comprehensive reporting and feedback mechanism on AI projects.
+- Value Proposition: Provides a direct line of communication between the city’s AI initiatives and the public, fostering transparency, accountability, and trust.
+- Solution Architecture: A web-based platform that allows users to access AI project details, feedback mechanisms, and educational resources about AI applications within city operations.
+- Data Created or Consumed: Creates public engagement data and consumes feedback and AI performance data to inform continuous improvements and policy adjustments.
+- Key Platforms and Standards: Could be built on open-source technologies with adherence to web accessibility standards to ensure broad public access.
+- Business Models: Supported through city funding, focusing on public service and community engagement without direct revenue generation.
+- Regulatory Issues: Must comply with digital accessibility and privacy regulations.
 
 **Centralized AI Knowledge Hub for City Employees**.  
-<p>Use Case: Aims to build AI capability within city government by providing centralized resources and training for city employees.<br>
-Value Proposition: Equips city employees with the skills necessary to implement and manage AI tools responsibly, enhancing the effectiveness and ethical deployment of AI technologies.<br>
-Solution Architecture: An intranet portal featuring training modules, best practices, policy guidelines, and forums for collaboration among city employees.<br>
-Data Created or Consumed: Consumes educational content and user interaction data; creates data on learning progress, skills assessment, and potentially anonymized case studies of AI usage.<br>
-Key Platforms and Standards: Likely integrates with existing city IT infrastructure and learning management systems, adhering to standards for educational content and IT security.<br>
-Business Models: Funded as a capacity-building initiative within city budgets, focusing on long-term value through enhanced employee performance and risk reduction.<br>
-Regulatory Issues: Compliance with IT security and data protection standards is crucial, particularly concerning the handling of sensitive information.</p>
+- Use Case: Aims to build AI capability within city government by providing centralized resources and training for city employees.
+- Value Proposition: Equips city employees with the skills necessary to implement and manage AI tools responsibly, enhancing the effectiveness and ethical deployment of AI technologies.
+- Solution Architecture: An intranet portal featuring training modules, best practices, policy guidelines, and forums for collaboration among city employees.
+- Data Created or Consumed: Consumes educational content and user interaction data; creates data on learning progress, skills assessment, and potentially anonymized case studies of AI usage.
+- Key Platforms and Standards: Likely integrates with existing city IT infrastructure and learning management systems, adhering to standards for educational content and IT security.
+- Business Models: Funded as a capacity-building initiative within city budgets, focusing on long-term value through enhanced employee performance and risk reduction.
+- Regulatory Issues: Compliance with IT security and data protection standards is crucial, particularly concerning the handling of sensitive information.</p>
 
 ![Brooklyn Bridge in New York City](./clay-banks-1KPfcPdbWFM-unsplash.jpg "Clay Banks(Unsplash)")
 
@@ -109,27 +109,25 @@ Regulatory Issues: Compliance with IT security and data protection standards is 
 ## Financing
 <!--  How are the technology interventions identified to be financed? How does this fit into financing of the larger project? Identify at least one financing mechanism that is being used. -->
 
-**Financing Scheme**. The NYC AI Action Plan does not explicitly detail the specific financing mechanisms for each technology intervention, but it outlines the general approach to funding as part of the larger project framework. Typically, such initiatives are funded through a combination of city budget allocations, which are approved by the city council and mayor's office, potentially supplemented by state or federal grants, especially when the projects align with broader governmental goals of promoting innovative technologies and public safety.
+The NYC AI Action Plan does not explicitly detail the specific financing mechanisms for each technology intervention, but it outlines the general approach to funding as part of the larger project framework. Typically, such initiatives are funded through a combination of city budget allocations, which are approved by the city council and mayor's office, potentially supplemented by state or federal grants, especially when the projects align with broader governmental goals of promoting innovative technologies and public safety.
 
 
 ## Outcomes
 <!-- What results has the project produced to date? What outcomes and impacts are anticipated? Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. -->
 
-**Outcome 1**.  Establish a framework for AI governance that acknowledges the risks of AI, including bias and disparate impact; NYC could set a precedent for others.
-
-**Outcome 2**.  Enable responsible AI acquisition with AI-specific guidance to support agency-level contracting.
-
-**Outcome 3**.  Publish an annual AI progress report to communicate about the city’s progress and implementation.
+- Establish a framework for AI governance that acknowledges the risks of AI, including bias and disparate impact; NYC could set a precedent for others.
+- Enable responsible AI acquisition with AI-specific guidance to support agency-level contracting.
+- Publish an annual AI progress report to communicate about the city’s progress and implementation.
 
 
 ## Open Questions
 <!-- What is uncertain, unclear, or still unresolved about this project? Identify 1-3 open question(s). -->
 
-**Open questions 1**.  How will the AI Action Plan handle data privacy concerns, particularly regarding the collection, use, and sharing of personal information by AI systems?
+- How will the AI Action Plan handle data privacy concerns, particularly regarding the collection, use, and sharing of personal information by AI systems?
 
-**Open questions 2**.  How does the plan propose to measure and report the success and impact of its AI implementations across different sectors of city governance?
+- How does the plan propose to measure and report the success and impact of its AI implementations across different sectors of city governance?
 
-**Open questions 3**.  Will the public engagement efforts sufficiently address the concerns and expectations of New Yorkers regarding AI use in city governance?
+- Will the public engagement efforts sufficiently address the concerns and expectations of New Yorkers regarding AI use in city governance?
 
 
 ## References
