@@ -14,7 +14,7 @@ featured_image: ./Catedral-del-Salvador-de-Zaragoza.jpg
 featured_alt: View of Zaragoza 
 featured_credit: Iberian Escapes
 tags:
-  - CivicInnovation
+  - CivicTech
   - Mobility
 geography: ./zaragoza.geojson
 geography_caption: Milla Digital

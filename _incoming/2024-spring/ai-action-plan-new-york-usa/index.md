@@ -3,7 +3,7 @@ title: Case Study on NYC AI Action Plan
 description: This case study examines the accountability mechanisms within the NYC AI Action Plan, focusing on how the city ensures responsible deployment and oversight of AI technologies to mitigate risks and protect public interests.
 status: Complete
 author: Shacen(Vera) Xie
-type: 
+type: plan
 city:  New York City
 country_code: USA
 centroid: [40.712778, -74.006111]
@@ -11,17 +11,17 @@ year_start: 2022
 year_completed: 2035
 featured_image: ./clay-banks-1KPfcPdbWFM-unsplash.jpg
 featured_alt: Brooklyn Bridge in New York City 
-featured_credit: 
-tags: 
+featured_credit: Clay Banks on Unsplash
+tags: InformationSystems
 geography: ./NewYorkCityMap.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography_caption: 
 ---
 <!--
 Allowed values:
 
 type: district, plan
 
-tags: AI, Accountability, ResponsibleUse, Transparency, PublicInterests, Governance
+tags: Environment, Mobility, Buildings, Energy, InformationSystems, HealthEducation, InnovationSystems, CivicTech, CivicInnovation, Food
 
 -->
 
