@@ -12,7 +12,8 @@ year_completed: 2035
 featured_image: ./clay-banks-1KPfcPdbWFM-unsplash.jpg
 featured_alt: Brooklyn Bridge in New York City 
 featured_credit: Clay Banks on Unsplash
-tags: InformationSystems
+tags: 
+    - InformationSystems
 geography: ./NewYorkCityMap.geojson
 geography_caption: 
 ---
