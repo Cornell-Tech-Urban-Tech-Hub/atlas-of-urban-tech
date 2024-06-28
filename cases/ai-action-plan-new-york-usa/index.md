@@ -5,7 +5,7 @@ status: Complete
 author: Shacen(Vera) Xie
 type: plan
 city:  New York City
-country_code: USA
+country_code: USA   
 centroid: [40.712778, -74.006111]
 year_start: 2022
 year_completed: 2035
