@@ -87,7 +87,7 @@ The ambitious Chicago Lakeside development ultimately did not proceed as planned
 
 - How could this development affect the local communities, particualrly in terms of housing, employment, and infrastructure?
 
-- How do you envision the Lakeside area evolving in the next decade? 
+- How do you envision the Lakeside area evolving in the next decade?
 
 ## References
 
