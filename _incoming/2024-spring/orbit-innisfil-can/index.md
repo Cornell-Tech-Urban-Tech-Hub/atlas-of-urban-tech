@@ -6,7 +6,7 @@ author: Your Name
 type: district
 city: Innisful
 country_code: CAN
-centroid: [40.712778, -74.006111]
+centroid: [44.30083098412486, -79.61133703198178]
 year_start: 2018
 year_completed: 2091
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
@@ -24,7 +24,6 @@ type: district, plan
 tags: Environment, Mobility, Buildings, Energy, InformationSystems, HealthEducation, InnovationSystems, CivicTech, CivicInnovation, Food
 
 -->
-
 
 ## Overview
 

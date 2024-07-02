@@ -6,7 +6,7 @@ author: Ka Wing Lui
 type: plan
 city:  San Antonio
 country_code: USA
-centroid: [-98.48606, 29.429030]
+centroid: [29.429028465217467, -98.48605981427318]
 year_start: 2017
 year_completed: Ongoing
 featured_image: ./san-antonio.png
