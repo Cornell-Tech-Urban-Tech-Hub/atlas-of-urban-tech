@@ -4,7 +4,6 @@ A global atlas of case studies of tech-enabled urban districts and municipal dig
 
 This content will be published at [https://www.atlasofurbantech.org](https://www.atlasofurbantech.org).
 
-
 ## Contributing to the Atlas
 
 ### 1. Fork the Repo
@@ -29,7 +28,7 @@ Copy the contents of the `/templates/case` folder into this new folder. You will
 - A featured image for the page heading along with any other images referenced in the case study post. (in the template file, ```daniel-adams-URK0rZTiOHc-unsplash.jpeg``` and ```hannah-busing-0V6DmTuJaIk-unsplash.jpeg``` )
 - A geojson file describing the approximate geogrpahic boundary of your case study municipality or district (in the template ```example.geojson```, but you should rename yours using the same city-country string you used for the folder name)
 
-Inside the folder you will create a markdown  called **index.md**. 
+Inside the folder you will create a markdown  called **index.md**.
 
 ### 3. Fill in Case Study Metadata
 
@@ -60,6 +59,7 @@ geography_caption: Optional Caption for the geographic information.
 ```
 
 #### Required Fields
+
 - **title**: The main title of the case study. Usually the plan or district name (e.g. "New York City Internet of Things Plan" or "Songdo International Business District")
 
 - **status**: The state of the case study. Leave your case in `Draft` while composing and change to `Review` when it is merged into the main repo (See below). Do not use `Complete`—this is for the instructor to publish your case to the website.
@@ -117,31 +117,29 @@ The following sections are required:
 - **Stakeholders**. Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.
 - **Leadership**. Conduct one interview with a project leader, and link to a LinkedIn or other profile. Provide a brief biography, no more than 75 words. Identify 3-5 insights or themes from the interview. Feel free to add a photo of the individual here.
 - **Financing**. Identify at least one financing scheme being used in this project or plan. About 100 words is probably a good length for this.
-- **Outcomes**. Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need. 
+- **Outcomes**. Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. About 50 words per is minimum, but these can be as long as you want/need.
 - **Open Questions**. Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less
 - **References**. This should have 2 sections, primary and secondary sources.
-    - Primary Sources: 3-5 project plans, audits, reports, etc.
-    - Secondary Sources: 5-7 secondary source documents: news reports, blog posts, etc
+  - Primary Sources: 3-5 project plans, audits, reports, etc.
+  - Secondary Sources: 5-7 secondary source documents: news reports, blog posts, etc
 
-        ### Primary Sources
+### Primary Sources
 
         <!--  -->
 
-        - Create a list by starting a line with `+`, `-`, or `*`
-        - Sub-lists are made by indenting 2 spaces:
-        - Very easy!
+    - Create a list by starting a line with `+`, `-`, or `*`
+    - Sub-lists are made by indenting 2 spaces:
+    - Very easy!
 
-        ### 
+###
 
         <!-- .. -->
 
-        - Create a list by starting a line with `+`, `-`, or `*`
-        - Sub-lists are made by indenting 2 spaces:
-        - Very easy!
-
+    - Create a list by starting a line with `+`, `-`, or `*`
+    - Sub-lists are made by indenting 2 spaces:
+    - Very easy!
 
 These sections are all included in the example [index.md](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech/blob/main/cases/example/index.md) that you copied from the ```templates/case``` folder to create your case study. Simply replace the dummy text and links with your own.
-
 
 ### 4. Add Images and Links
 
@@ -193,7 +191,6 @@ If you need to redact something, say a file called `example.md` that you don't r
                 git commit -m "Message that describes what this change does"
                 git push origin main
 
-
 **D. Create A Pull Request**
 
 This you'll have to do from the GitHub website. Go to your fork's home page and follow these links to submit a pull request.
@@ -209,4 +206,3 @@ You're all done. The maintainers will review your submission and accept the pull
 ## License
 
  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech">Atlas of Urban Tech</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://urban.tech.cornell.edu/">Jacobs Urban Tech Hub, Cornell Tech</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
-
