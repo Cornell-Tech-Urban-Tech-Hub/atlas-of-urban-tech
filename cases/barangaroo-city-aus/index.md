@@ -117,10 +117,11 @@ Barangaroo is a waterfront urban district in Australia located on the western ed
 
 <!-- 3-5 project plans, audits, reports, etc. -->
 
-- https://www.infrastructure.nsw.gov.au/media/3290/barangaroo-delivery-authority-annual-report-2010.pdf
-- https://www.sydneymetro.info/sites/default/files/2022-10/Barangaroo-Station-Heritage-Interpretation-Plan.pdf
-- https://resource.barangaroo.com/hc/article_attachments/115016038028/Barangaroo%20public%20art%20and%20cultural%20plan%202015.pdf
-- https://www.infrastructure.nsw.gov.au/media/2450/barangaroo-realising-the-vision_april-2020.pdf
+- [Barangaroo
+Delivery Authority Annual Report 2010](https://www.infrastructure.nsw.gov.au/media/3290/barangaroo-delivery-authority-annual-report-2010.pdf)
+- [Barangaroo Station Heritage Interpretation Plan](https://www.sydneymetro.info/sites/default/files/2022-10/Barangaroo-Station-Heritage-Interpretation-Plan.pdf)
+- <https://resource.barangaroo.com/hc/article_attachments/115016038028/Barangaroo%20public%20art%20and%20cultural%20plan%202015.pdf>
+- [BARANGAROO - REALISING THE VISION](https://www.infrastructure.nsw.gov.au/media/2450/barangaroo-realising-the-vision_april-2020.pdf)
 
 ### Secondary Sources
 
