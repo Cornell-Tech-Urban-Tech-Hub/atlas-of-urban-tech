@@ -1,5 +1,5 @@
 ---
-title: NYC AI Action Plan
+title: Case Study on NYC AI Action Plan
 description: This case study examines the accountability mechanisms within the NYC AI Action Plan, focusing on how the city ensures responsible deployment and oversight of AI technologies to mitigate risks and protect public interests.
 status: Review
 author: Shacen(Vera) Xie
