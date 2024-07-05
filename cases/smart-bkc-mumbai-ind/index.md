@@ -1,7 +1,7 @@
 ---
 title: Smart BKC, Mumbai
 description: An initiative to make a prime business hub 'smart' in Mumbai with focus on internet connectivity, transportation, safety, and sustainability.
-status: Complete
+status: Review
 author: Meet Oza
 type: district
 city: Mumbai

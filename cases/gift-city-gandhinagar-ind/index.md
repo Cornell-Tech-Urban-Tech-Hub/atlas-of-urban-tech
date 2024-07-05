@@ -1,7 +1,7 @@
 ---
 title: GIFT City
 description: Gujarat 
-status: Ongoing
+status: Review
 author: Aamanya Palkhiwala
 type: district
 city: Gandhinagar
@@ -10,7 +10,7 @@ centroid: [23.164068203185845, 72.67817390644922]
 year_start: 2013
 year_completed: ~2025
 featured_image: ./Night-view-of-GIFT-City.jpeg
-featured_alt:
+featured_alt: Night View of GIFT City
 featured_credit: DSP2092, Wikimedia Commons
 tags: Environment, Buildings, Energy
 geography: ./map.geojson

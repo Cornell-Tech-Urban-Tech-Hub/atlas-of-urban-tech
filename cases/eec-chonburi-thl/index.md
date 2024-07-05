@@ -1,7 +1,7 @@
 ---
 title: Eastern Economic Corridor Smart City Case Study
 description: A smart city plan for the special economic zone of Eastern Thailand 
-status: Complete
+status: Review
 author: Chanan Suksangium
 type: plan
 city: Huay Yai, Chonburi, Thailand
@@ -14,7 +14,7 @@ featured_alt: Pattaya Skyline
 featured_credit: Nopparuj Lamaikul (Unsplash)
 tags: Environment, Energy, Buildings
 geography: ./eec.geojson
-geography_caption:
+geography_caption: Huay Yai, THA
 ---
 <!--
 Allowed values:

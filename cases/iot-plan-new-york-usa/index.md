@@ -1,7 +1,7 @@
 ---
 title: IoT Strategy
 description: The New York City Internet of Things Strategy
-status: Withheld
+status: Review
 author: Katie Gdula
 type: plan
 city: New York City

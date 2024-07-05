@@ -14,7 +14,7 @@ featured_alt: Michigan Central
 featured_credit: Practice for Architecture and Urbanism via Ford
 tags: Mobility, Buildings, InnovationSystems
 geography: ./michigancentral.geojson
-geography_caption: Michigan Central Innovation District
+geography_caption: Detroit, USA
 ---
 <!--
 Allowed values:

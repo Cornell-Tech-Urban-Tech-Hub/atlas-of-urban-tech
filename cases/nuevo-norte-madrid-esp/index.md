@@ -1,9 +1,9 @@
 ---
 title: Madrid Nuevo Norte
 description: An ambitious urban redevelopment initiative transforming the northern zone of Madrid into a state-of-the-art business district
-status: Draft
+status: Review
 author: Leihao Fang
-type: Tech-Enabled District
+type: district
 city: Madrid
 country_code: ESP
 centroid: [40.47209354848392, -3.6827311013564628]
