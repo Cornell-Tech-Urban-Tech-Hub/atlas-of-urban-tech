@@ -1,20 +1,23 @@
 ---
 title: Yongsan International Business District (YIBD)
 description: A case study on the plan of a smart city district in Seoul, South Korea. Although the development was previously suspended, it is scheduled to resume in 2025 under a new plan established by Mayor Oh Se-hoon, with completion expected in 203N (exact timeline undetermined).
-status: Complete
+status: Review
 author: Andrew Park
 type: plan
 city: Seoul
-country_code: South Korea (82)
+country_code: KOR
 centroid: [37.52925782369547, 126.95917335990788]
 year_start: 2025
 year_completed: 2039
 featured_image: ./images/fig1_main_Wiki.jpg
 featured_alt: Rendering of Yongsan International Business District
 featured_credit: Seoul city government (NamuWiki)
-tags: Environment, Mobility, Buildings, Energy, InnovationSystems
+tags: 
+- Buildings
+- Energy
+- InnovationSystems
 geography: ./yongsan_ibd.geojson
-geography_caption: Boundary of Yongsan International Business District
+geography_caption: Seoul, KOR
 ---
 <!--
 Allowed values:
@@ -232,5 +235,5 @@ The YIBD's comprehensive three-dimensional transportation system will significan
 - [6] “Full-Scale Promotion of Transitioning to a Digital Logistics System - Building and Supporting a Smart Logistics System.” Selection of 6 Support Projects, Including 4 Logistics Service Demonstrations and 2 Logistics Pilot City Development Projects, Ministry of Land, Infrastructure and Transport, 3 Mar. 2022, m.molit.go.kr/viewer/skin/doc.html?fn=6086bad5957a085a619c61aa17fcc500&rs=%2Fviewer%2Fresult%2F20220303.
 - [7] Yun, Hyeok-ryul, and Hyeon-gu Ki. “Introduction Plan for Seoul-Type Integrated Transportation Service (MaaS).” The Seoul Institute, 9 Sept. 2019, www.si.re.kr/node/62422.
 - [8] Seoul Metropolitan Government. Seoul Metropolitan Government to Collaborate with Global Eco-Friendly Certification Authorities... Creating ’Seoul-Type LEED, 20 Sept. 2023, www.seoul.go.kr/news/news_report.do#view/396887?tr_code=snews.
-- [9] Jeon, Jeong-hun. “Yongsan International Business District to Break Ground in ’25... Planned as a Green Vertical City.” https://Www.Seoul.Go.Kr/News/News_report.Do#view/404852?Tr_code=snews, Seoul Metropolitan Government, 5 Feb. 2024, english.seoul.go.kr/?SSid=101_01. 
+- [9] Jeon, Jeong-hun. “Yongsan International Business District to Break Ground in ’25... Planned as a Green Vertical City.” https://Www.Seoul.Go.Kr/News/News_report.Do#view/404852?Tr_code=snews, Seoul Metropolitan Government, 5 Feb. 2024, english.seoul.go.kr/?SSid=101_01.
 - [10] “Yongsan International Business District to Break Ground in 2025.” YouTube, Seoul Metropolitan Government, 5 Feb. 2024, www.youtube.com/watch?v=-wiKmTe6a0k&t=355s.

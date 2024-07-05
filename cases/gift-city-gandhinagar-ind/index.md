@@ -4,7 +4,7 @@ description: Gujarat
 status: Ongoing
 author: Aamanya Palkhiwala
 type: district
-city:  Gandhinagar
+city: Gandhinagar
 country_code: IND
 centroid: [23.164068203185845, 72.67817390644922]
 year_start: 2013

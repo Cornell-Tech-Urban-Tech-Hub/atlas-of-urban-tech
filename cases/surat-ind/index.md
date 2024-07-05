@@ -2,10 +2,10 @@
 title: Surat Smart City Project
 description: The project is a public sector municipal digital master plan aimed at elevating urban living standards with a core emphasis on equity. Rooted in sustainability principles and propelled by cutting-edge AI technologies, this initiative stands as a beacon of innovation, tailored to meet the dynamic needs of Surat's diverse populace. By embracing forward-thinking mobility solutions, including automated transit systems, and strategically implementing post-pandemic restructuring measures, Surat is charting a course towards inclusive urban progress.
 
-status: Ongoing
+status: Review
 author: Rajshri Jain
-type: Public sector technology plan
-city:  Surat, Gujarat
+type: plan
+city: Surat, Gujarat
 country_code: IND
 centroid: [21.1702, 72.8311] 
 year_start: 2013
@@ -14,8 +14,11 @@ featured_image: https://i.pinimg.com/originals/e9/65/01/e96501b0d766e6dc2147f195
 featured_alt: Surat City Skyline
 featured_credit: Tourist Dealer
 tags: 
+- InformationSystems
+- Mobility
+- Environment
 geography: ./example.geojson
-geography_caption: Surat, Gujarat
+geography_caption: Surat, IND
 ---
 <!--
 Allowed values:
@@ -26,7 +29,6 @@ tags: Environment, Mobility, Buildings, Energy, InformationSystems, HealthEducat
 
 -->
 
-
 ## Overview
 
 <!-- About 100 to 150 word summary of the case study. -->
@@ -36,7 +38,6 @@ With a population of over 7 million, Surat is one of the fastest-growing cities 
 The project encompasses both Pan City and Area-Based initiatives. The Pan City proposal focuses on enhancing public services and citizen interface, particularly emphasizing Intelligent Transport and Connectivity to envision a more citizen-friendly Surat. Meanwhile, Area-Based interventions target sustainable economic growth and quality of life enhancements in specific areas, allocating 3% of Surat's total geographical area for transformation into well-planned urban spaces.
 
 ![Alt Text / Financing](https://imgur.com/ZjDNhkM.png "Pan City")
-
 
 ## Goals and Aspirations
 
@@ -50,9 +51,7 @@ The project encompasses both Pan City and Area-Based initiatives. The Pan City p
 
 **Foster Economic Growth**. Building on Surat's robust economic base, the project seeks to drive further development and attract investment. Initiatives include supporting startups, research institutions, and technology parks to create new job opportunities and stimulate economic activity. By enhancing the business environment, the project aims to make Surat a preferred destination for both domestic and international investors. This goal also involves fostering entrepreneurship and developing a skilled workforce to meet the demands of a rapidly evolving economy.
 
-
 **Promote Inclusive Urban Development**. Ensuring that all segments of the population benefit from the city's development is a key focus. The project includes initiatives for affordable housing, healthcare, education, and improved public amenities, particularly for marginalized and vulnerable groups. By fostering community engagement and participation, the project aims to create an inclusive urban environment where every resident has access to essential services and opportunities for economic and social advancement.
-
 
 ## Key Characteristics
 
@@ -61,12 +60,11 @@ The project encompasses both Pan City and Area-Based initiatives. The Pan City p
 
 The Surat Smart City Project falls under the category of a municipal digital master plan. The project specifically focuses on developing and implementing comprehensive digital and technology plans to address urban challenges, improve infrastructure, enhance public services, and promote sustainable development within the city of Surat.
 
-**Development**.  The development phase of the Surat Smart City Project involves laying the groundwork for various initiatives to address urban challenges and promote sustainable growth. This begins with comprehensive feasibility studies to assess the viability and impact of proposed projects, ensuring they align with Surat’s long-term goals. Securing funding is critical, and the project leverages government grants, public-private partnerships, and private investments to finance its initiatives. Detailed blueprints are created for upgrading essential infrastructure, including implementing a 24x7 water supply system with smart metering, enhancing sewage networks and treatment plants, and developing integrated traffic management systems. 
+**Development**.  The development phase of the Surat Smart City Project involves laying the groundwork for various initiatives to address urban challenges and promote sustainable growth. This begins with comprehensive feasibility studies to assess the viability and impact of proposed projects, ensuring they align with Surat’s long-term goals. Securing funding is critical, and the project leverages government grants, public-private partnerships, and private investments to finance its initiatives. Detailed blueprints are created for upgrading essential infrastructure, including implementing a 24x7 water supply system with smart metering, enhancing sewage networks and treatment plants, and developing integrated traffic management systems.
 
 **Engagement**. The engagement phase involves extensive stakeholder engagement through public consultations, workshops, and community meetings. These activities gather input and feedback from residents, businesses, and other stakeholders, ensuring their voices are heard and concerns addressed. By involving the community in the planning process, the project fosters a sense of ownership and ensures that the benefits of the smart city transformation are equitably distributed, particularly to marginalized groups. This participatory approach helps build trust and ensures that the project's outcomes are aligned with the community’s needs.
 
 **Implementation**. The implementation phase translates the detailed plans developed during the earlier stages into tangible actions. This includes the construction and deployment of critical infrastructure projects such as upgrading water supply systems to ensure a continuous 24x7 supply and enhancing sewage treatment capabilities. Technology-enabled solutions are rolled out to improve municipal operations and urban management, including the implementation of an ERP (Enterprise Resource Planning) system and a GIS (Geographic Information System) platform. payment system facilitates seamless transactions for various civic services. Monitoring and evaluation mechanisms are put in place to track progress, assess the impact of initiatives, and make necessary adjustments to ensure the project's goals are met effectively.
-
 
 ## Stakeholders
 <!--  Who initiated the project? Who is leading the project forward? Who else has a say in how it unfolds? Who is directly affected but marginalized? Identify 3-5 key stakeholder organizations or groups. Identify 3-5 key individuals. These are people who are associated with the project as leaders, supporters, critics, or regulators. They are likely to be members of the stakeholder groups identified above. These are people you should try to contact for one or more interviews.-->
@@ -74,11 +72,11 @@ The Surat Smart City Project falls under the category of a municipal digital mas
 
 **Surat Municipal Corporation(SMC)**. [Surat Municipal Corporation](https://www.suratmunicipal.gov.in/) is the primary driving force behind the Surat Smart City Project. Tasked with planning, executing, and monitoring the various initiatives, SMC is pivotal in ensuring that the project aligns with the city's broader urban development objectives. By coordinating with multiple stakeholders, SMC facilitates the integration of infrastructure upgrades, technological advancements, and community engagement activities.
 
-**Government of Gujarat**. [Government of Gujarat](https://en.wikipedia.org/wiki/Government_of_Gujarat) plays a crucial supporting role by providing policy guidance, financial backing, and a regulatory framework for the Surat Smart City Project. The state government ensures that the project adheres to regional development policies and contributes to the overall growth strategy for Gujarat. 
+**Government of Gujarat**. [Government of Gujarat](https://en.wikipedia.org/wiki/Government_of_Gujarat) plays a crucial supporting role by providing policy guidance, financial backing, and a regulatory framework for the Surat Smart City Project. The state government ensures that the project adheres to regional development policies and contributes to the overall growth strategy for Gujarat.
 
-**Surat Smart City Development Ltd.(SSCDL)**. This is a special purpose vehicle created to implement the smart city initiatives.[SSCDL](https://www.suratsmartcity.com/SSCDL/AboutSSCDL) is responsible for managing project execution, working closely with various stakeholders, including private sector entities and technology providers. The organization is essential in turning the strategic vision of the Surat Smart City Project into reality by meeting project milestones within the set timelines and budgets. 
+**Surat Smart City Development Ltd.(SSCDL)**. This is a special purpose vehicle created to implement the smart city initiatives.[SSCDL](https://www.suratsmartcity.com/SSCDL/AboutSSCDL) is responsible for managing project execution, working closely with various stakeholders, including private sector entities and technology providers. The organization is essential in turning the strategic vision of the Surat Smart City Project into reality by meeting project milestones within the set timelines and budgets.
 
-**Local Community Groups**.  Local community groups, comprising resident associations and business organizations provide critical input, feedback, and support, ensuring that the project's initiatives are in line with the community's needs and expectations. Their participation helps foster a sense of ownership and ensures that the benefits of the smart city transformation are distributed fairly among all residents, including marginalized populations. 
+**Local Community Groups**.  Local community groups, comprising resident associations and business organizations provide critical input, feedback, and support, ensuring that the project's initiatives are in line with the community's needs and expectations. Their participation helps foster a sense of ownership and ensures that the benefits of the smart city transformation are distributed fairly among all residents, including marginalized populations.
 
 **Private Sector Partners**.  Private sector partners, including technology companies, urban planners, and infrastructure developers, are vital to the project’s success. These partners bring in necessary expertise, cutting-edge technologies, and financial investments. Key collaborations include:
 
@@ -86,8 +84,7 @@ The Surat Smart City Project falls under the category of a municipal digital mas
 
 • [IBM](https://economictimes.indiatimes.com/news/economy/infrastructure/ibm-picks-surat-allahabad-vizag-among-16-global-locations-for-smart-cities-project/articleshow/47250982.cms?from=mdr): Assisting with improved citizen services through the IBM Smarter City program, addressing challenges such as waste management, disaster management, and overall citizen engagement.
 
-These partnerships significantly enhance the project's capability to implement innovative solutions, ensuring that Surat remains a leader in urban development. 
- 
+These partnerships significantly enhance the project's capability to implement innovative solutions, ensuring that Surat remains a leader in urban development.
 
 ## Technology Interventions
 <!--  What specific technology-enabled interventions does the project propose? Identify 3-5 technology interventions. Describe use cases, value proposition, solution architecture, data created or consumed, key platforms and standards, business models, regulatory issues, etc. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
@@ -96,8 +93,8 @@ These partnerships significantly enhance the project's capability to implement i
 One of the key benefits of IT-MAC is its ability to enhance road safety. The system can detect traffic violations, monitor accident-prone areas, and provide instant alerts to traffic management authorities. Moreover, by optimizing traffic light cycles based on real-time data, the system minimizes idle time at intersections, thereby reducing vehicle emissions and contributing to better air quality.
 Additionally, IT-MAC supports the integration of public transport systems, prioritizing buses and other mass transit vehicles at traffic signals to promote public transportation usage. This not only improves the efficiency of public transport but also encourages residents to shift from private vehicles to more sustainable modes of travel, further easing traffic congestion and reducing the city’s carbon footprint.
 
-**Common City Payment System**.  The common city payment system is designed to streamline the financial transactions associated with various municipal services, making it easier and more convenient for residents to access and pay for these services. This system involves the use of a contactless smart card that can be used across multiple services, including utilities (such as water and electricity), public transportation, parking, and even entry to municipal facilities like libraries and recreational centers. This unified payment system offers several advantages. 
-For residents, it simplifies the payment process, eliminating the need to carry multiple cards or cash for different services. 
+**Common City Payment System**.  The common city payment system is designed to streamline the financial transactions associated with various municipal services, making it easier and more convenient for residents to access and pay for these services. This system involves the use of a contactless smart card that can be used across multiple services, including utilities (such as water and electricity), public transportation, parking, and even entry to municipal facilities like libraries and recreational centers. This unified payment system offers several advantages.
+For residents, it simplifies the payment process, eliminating the need to carry multiple cards or cash for different services.
 For the city administration, it enhances operational efficiency by consolidating payment processing and reducing the administrative burden associated with managing numerous payment systems.
 The implementation of the common city payment system also includes robust security measures to protect user data and prevent fraud. Advanced encryption technologies ensure that transactions are secure and user information is protected. Additionally, the system generates valuable data on service usage patterns, which can be analyzed to improve service delivery and plan future infrastructure developments.
 
@@ -108,11 +105,9 @@ Furthermore, the project explores the potential of wind energy and other renewab
 The GIS platform complements the ERP system by providing spatial analysis and mapping capabilities. This technology is crucial for urban planning, as it allows city planners to visualize data geographically, analyze spatial relationships, and make informed decisions based on comprehensive data sets. For example, GIS can be used to map out areas with high water leakage rates, identify locations for new infrastructure projects, or analyze the distribution of public services to ensure equitable access for all residents.
 
 **Smart Water Management**. The system is designed to address the challenges of water distribution and usage in a rapidly growing city like Surat. One of the primary components of this system is the implementation of a 24x7 water supply, ensuring that residents have continuous access to clean water. This is achieved through the installation of smart water meters that provide real-time monitoring of water usage across the city. These smart meters are equipped with sensors that detect leaks and monitor water flow, allowing for immediate identification and resolution of issues in the water supply network. This proactive approach significantly reduces water wastage and ensures that the city's water resources are used efficiently.
-In addition to leak detection, the smart water management system also includes the use of advanced analytics to predict water demand and optimize supply. By analyzing usage patterns and predicting future demand, the system can adjust water distribution in real-time to ensure that supply meets demand without overburdening the infrastructure. Moreover, the system promotes the recycling and reuse of treated wastewater for non-potable purposes, such as industrial use and irrigation. This reduces the strain on the city's fresh water resources and promotes sustainable water management practices. 
+In addition to leak detection, the smart water management system also includes the use of advanced analytics to predict water demand and optimize supply. By analyzing usage patterns and predicting future demand, the system can adjust water distribution in real-time to ensure that supply meets demand without overburdening the infrastructure. Moreover, the system promotes the recycling and reuse of treated wastewater for non-potable purposes, such as industrial use and irrigation. This reduces the strain on the city's fresh water resources and promotes sustainable water management practices.
 
 ![Alt Text / Pan City Projects](https://i.imgur.com/6EzKsx8.png "Pan City")
-    
-
 
 ## Financing
 <!--  How are the technology interventions identified to be financed? How does this fit into financing of the larger project? Identify at least one financing mechanism that is being used. -->
@@ -137,62 +132,57 @@ In addition to these primary financing mechanisms, the project also explores alt
 
 **Informed Urban Planning**. The deployment of the Geographic Information System (GIS) platform has revolutionized urban planning and management in Surat. This outcome encompasses informed decision-making processes, allowing city planners to optimize resource allocation and infrastructure development. By enhancing strategic planning capabilities, this outcome ensures the city's growth is sustainable and well-coordinated, laying the groundwork for future urban development initiatives.
 
-
 ## Open Questions
 <!-- What is uncertain, unclear, or still unresolved about this project? Identify 1-3 open question(s). -->
 
-**Open question 1**.  How will the project ensure the long-term sustainability of its technology interventions, particularly in terms of maintenance and upgrades? While the project has made significant progress in implementing advanced technological solutions, ensuring their long-term sustainability requires a robust strategy for maintenance, upgrades, and continuous improvement. This includes securing ongoing funding, developing skilled personnel, and establishing partnerships with technology providers to support the system's life cycle.
+How will the project ensure the long-term sustainability of its technology interventions, particularly in terms of maintenance and upgrades? While the project has made significant progress in implementing advanced technological solutions, ensuring their long-term sustainability requires a robust strategy for maintenance, upgrades, and continuous improvement. This includes securing ongoing funding, developing skilled personnel, and establishing partnerships with technology providers to support the system's life cycle.
 
-**Open question 2**. What measures are being taken to ensure that marginalized and vulnerable populations are not left behind in the smart city transformation? While the project aims to benefit all residents, it is essential to ensure that marginalized and vulnerable populations are included in the planning and implementation processes. This includes addressing their specific needs, providing equitable access to services, and ensuring that the benefits of the smart city transformation are distributed fairly.
+What measures are being taken to ensure that marginalized and vulnerable populations are not left behind in the smart city transformation? While the project aims to benefit all residents, it is essential to ensure that marginalized and vulnerable populations are included in the planning and implementation processes. This includes addressing their specific needs, providing equitable access to services, and ensuring that the benefits of the smart city transformation are distributed fairly.
 
-**Open question 3**. How will the project adapt to evolving technological trends and potential regulatory changes in the future? The rapid pace of technological advancements and changes in regulatory frameworks present ongoing challenges for the project. It is crucial to have a flexible and adaptive approach to incorporate new technologies, comply with emerging regulations, and respond to changing needs and expectations of the city's residents. This includes continuous monitoring of technological trends, proactive engagement with regulators, and regular updates to project plans and strategies.
-
-
-
+How will the project adapt to evolving technological trends and potential regulatory changes in the future? The rapid pace of technological advancements and changes in regulatory frameworks present ongoing challenges for the project. It is crucial to have a flexible and adaptive approach to incorporate new technologies, comply with emerging regulations, and respond to changing needs and expectations of the city's residents. This includes continuous monitoring of technological trends, proactive engagement with regulators, and regular updates to project plans and strategies.
 
 ## References
 
-1. NEC Corporation. (n.d.). Transportation solutions - NEC. Retrieved May 19, 2024, from https://www.nec.com/en/global/solutions/transportation/case-datumsi/index.html
+1. NEC Corporation. (n.d.). Transportation solutions - NEC. Retrieved May 19, 2024, from <https://www.nec.com/en/global/solutions/transportation/case-datumsi/index.html>
 
-2. Surat Smart City Development Ltd. (n.d.). About SSCDL. Retrieved May 19, 2024, from http://www.suratiilab.org/about-sscdl
+2. Surat Smart City Development Ltd. (n.d.). About SSCDL. Retrieved May 19, 2024, from <http://www.suratiilab.org/about-sscdl>
 
-3. Square Yards. (n.d.). Surat smart city: Current progress and development plans. Retrieved May 19, 2024, from https://www.squareyards.com/blog/surat-smart-city-smcart
+3. Square Yards. (n.d.). Surat smart city: Current progress and development plans. Retrieved May 19, 2024, from <https://www.squareyards.com/blog/surat-smart-city-smcart>
 
-4. Shift Cities. (2021, May 21). Surat smart city: Leading India's sustainable urban development movement. Retrieved May 19, 2024, from https://www.shiftcities.org/post/surat-smart-city-leading-indias-sustainable-urban-development-movement
+4. Shift Cities. (2021, May 21). Surat smart city: Leading India's sustainable urban development movement. Retrieved May 19, 2024, from <https://www.shiftcities.org/post/surat-smart-city-leading-indias-sustainable-urban-development-movement>
 
-5. Surat Municipal Corporation. (n.d.). Retrieved May 19, 2024, from https://www.suratmunicipal.gov.in/
+5. Surat Municipal Corporation. (n.d.). Retrieved May 19, 2024, from <https://www.suratmunicipal.gov.in/>
 
 ### Primary Sources
 
-1. National Institute of Urban Affairs. (2015). Surat city plan (SCP). Retrieved May 19, 2024, from https://smartnet.niua.org/sites/default/files/resources/SCP_%20SURAT.pdf
+1. National Institute of Urban Affairs. (2015). Surat city plan (SCP). Retrieved May 19, 2024, from <https://smartnet.niua.org/sites/default/files/resources/SCP_%20SURAT.pdf>
 
-2. Pundir, R. (2017). Surat smart city in the making. ResearchGate. Retrieved May 19, 2024, from https://www.researchgate.net/publication/319442268_Surat_Smart_City_in_the_making
+2. Pundir, R. (2017). Surat smart city in the making. ResearchGate. Retrieved May 19, 2024, from <https://www.researchgate.net/publication/319442268_Surat_Smart_City_in_the_making>
 
-3. My Surat. (n.d.). Projects. Retrieved May 19, 2024, from https://mysurat.in/projects.htm
+3. My Surat. (n.d.). Projects. Retrieved May 19, 2024, from <https://mysurat.in/projects.htm>
 
-4. Surat Smart City Development Ltd. (n.d.). Annual reports. Retrieved May 19, 2024, from https://www.suratsmartcity.com/SSCDL/AnnualReports
+4. Surat Smart City Development Ltd. (n.d.). Annual reports. Retrieved May 19, 2024, from <https://www.suratsmartcity.com/SSCDL/AnnualReports>
 
-5. Resilient Cities Network. (2023). Surat TFURP project logic. Retrieved May 19, 2024, from https://resilientcitiesnetwork.org/wp-content/uploads/2023/07/Surat-TFURP-Project-Logic.pdf
-
+5. Resilient Cities Network. (2023). Surat TFURP project logic. Retrieved May 19, 2024, from <https://resilientcitiesnetwork.org/wp-content/uploads/2023/07/Surat-TFURP-Project-Logic.pdf>
 
 ### Secondary Sources
 
-1. Bhatt, R. (n.d.). Smart city and case of Surat. Academia.edu. Retrieved May 19, 2024, from https://www.academia.edu/9755852/SMART_CITY_AND_CASE_OF_SURAT
+1. Bhatt, R. (n.d.). Smart city and case of Surat. Academia.edu. Retrieved May 19, 2024, from <https://www.academia.edu/9755852/SMART_CITY_AND_CASE_OF_SURAT>
 
-2. IUDX. (n.d.). Surat smart cities. Retrieved May 19, 2024, from https://iudx.org.in/surat-smart-cities/
+2. IUDX. (n.d.). Surat smart cities. Retrieved May 19, 2024, from <https://iudx.org.in/surat-smart-cities/>
 
-3. Shukla, S. (2017). Surat smart city. ResearchGate. Retrieved May 19, 2024, from https://www.researchgate.net/publication/316824250_Surat_Smart_City
+3. Shukla, S. (2017). Surat smart city. ResearchGate. Retrieved May 19, 2024, from <https://www.researchgate.net/publication/316824250_Surat_Smart_City>
 
-4. Traffic Infra Tech. (2017, May 4). Surat smart city in the making. Retrieved May 19, 2024, from https://trafficinfratech.com/surat-smart-city-in-the-making/
+4. Traffic Infra Tech. (2017, May 4). Surat smart city in the making. Retrieved May 19, 2024, from <https://trafficinfratech.com/surat-smart-city-in-the-making/>
 
-5. Surat Municipal Corporation. (2017). Day 1 of the smart city Surat's mega event to showcase India's excellence in the field. Retrieved May 19, 2024, from https://www.facebook.com/MySuratMySMC/videos/day-1-of-the-smart-city-surats-mega-event-to-showcase-indias-excellence-in-the-f/1316589982170416/
+5. Surat Municipal Corporation. (2017). Day 1 of the smart city Surat's mega event to showcase India's excellence in the field. Retrieved May 19, 2024, from <https://www.facebook.com/MySuratMySMC/videos/day-1-of-the-smart-city-surats-mega-event-to-showcase-indias-excellence-in-the-f/1316589982170416/>
 
-6. Surat Municipal Corporation. (2022, January 19). MySuratMySMC status update. Retrieved May 19, 2024, from https://x.com/MySuratMySMC/status/1484392650426171392
+6. Surat Municipal Corporation. (2022, January 19). MySuratMySMC status update. Retrieved May 19, 2024, from <https://x.com/MySuratMySMC/status/1484392650426171392>
 
-7. Surat Smart City. (n.d.). Retrieved May 19, 2024, from https://www.slideshare.net/SuratSmartCity1
+7. Surat Smart City. (n.d.). Retrieved May 19, 2024, from <https://www.slideshare.net/SuratSmartCity1>
 
-8. Swarajya. (2021, December 31). Surat tops list for smart city completion; Agra and Ahmedabad follow while UTS and NE cities lag behind. Retrieved May 19, 2024, from https://swarajyamag.com/infrastructure/surat-tops-list-for-smart-city-completion-agra-and-ahmedabad-follow-while-uts-and-ne-cities-lag-behind
+8. Swarajya. (2021, December 31). Surat tops list for smart city completion; Agra and Ahmedabad follow while UTS and NE cities lag behind. Retrieved May 19, 2024, from <https://swarajyamag.com/infrastructure/surat-tops-list-for-smart-city-completion-agra-and-ahmedabad-follow-while-uts-and-ne-cities-lag-behind>
 
-9. Ministry of Housing and Urban Affairs. (n.d.). Surat: Resource document. Retrieved May 19, 2024, from https://dsc.smartcities.gov.in/uploads/resource/resourceDoc/Resource_Doc_1708420849_Surat.pdf
+9. Ministry of Housing and Urban Affairs. (n.d.). Surat: Resource document. Retrieved May 19, 2024, from <https://dsc.smartcities.gov.in/uploads/resource/resourceDoc/Resource_Doc_1708420849_Surat.pdf>
 
-10. Surat Smart City. (n.d.). Retrieved May 19, 2024, from https://www.suratsmartcity.com/
+10. Surat Smart City. (n.d.). Retrieved May 19, 2024, from <https://www.suratsmartcity.com/>
