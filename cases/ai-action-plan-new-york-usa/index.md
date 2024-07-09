@@ -1,21 +1,21 @@
 ---
-title: New York City AI Action Plan
+title: Case Study on NYC AI Action Plan
 description: This case study examines the accountability mechanisms within the NYC AI Action Plan, focusing on how the city ensures responsible deployment and oversight of AI technologies to mitigate risks and protect public interests.
-status: Complete
+status: Review
 author: Shacen(Vera) Xie
 type: plan
 city:  New York City
-country_code: USA   
+country_code: USA
 centroid: [40.712778, -74.006111]
 year_start: 2022
 year_completed: 2035
 featured_image: ./clay-banks-1KPfcPdbWFM-unsplash.jpg
-featured_alt: Brooklyn Bridge in New York City 
-featured_credit: Clay Banks on Unsplash
+featured_alt: Brooklyn Bridge
+featured_credit: Clay Banks, Unsplash
 tags: 
-    - InformationSystems
+- InformationSystems
 geography: ./NewYorkCityMap.geojson
-geography_caption: 
+geography_caption: New York City, USA
 ---
 <!--
 Allowed values:
@@ -75,7 +75,7 @@ The plan also focuses on enhancing public engagement, building AI capabilities w
 - Data Created or Consumed: Consumes operational data from AI applications and produces reports on compliance and risk assessments.
 - Key Platforms and Standards: Might utilize existing AI assessment platforms, integrate with the city’s IT infrastructure, and adhere to standards such as the AI Risk Management Framework by NIST.
 - Business Models: Operates under a governance-focused model, with funding from city budgets allocated for technology oversight.
-- Regulatory Issues: Aligns with local and federal regulations on data privacy and AI, such as NYC’s Local Law 49 concerning automated decision systems.</p>
+- Regulatory Issues: Aligns with local and federal regulations on data privacy and AI, such as NYC’s Local Law 49 concerning automated decision systems.
 
 **Public AI Reporting and Engagement Platform**.  
 
@@ -95,7 +95,7 @@ The plan also focuses on enhancing public engagement, building AI capabilities w
 - Data Created or Consumed: Consumes educational content and user interaction data; creates data on learning progress, skills assessment, and potentially anonymized case studies of AI usage.
 - Key Platforms and Standards: Likely integrates with existing city IT infrastructure and learning management systems, adhering to standards for educational content and IT security.
 - Business Models: Funded as a capacity-building initiative within city budgets, focusing on long-term value through enhanced employee performance and risk reduction.
-- Regulatory Issues: Compliance with IT security and data protection standards is crucial, particularly concerning the handling of sensitive information.</p>
+- Regulatory Issues: Compliance with IT security and data protection standards is crucial, particularly concerning the handling of sensitive information.
 
 ![Brooklyn Bridge in New York City](./clay-banks-1KPfcPdbWFM-unsplash.jpg "Clay Banks(Unsplash)")
 
@@ -128,9 +128,9 @@ The NYC AI Action Plan does not explicitly detail the specific financing mechani
 
 <!-- 3-5 project plans, audits, reports, etc. -->
 
-- <https://www.nyc.gov/assets/oti/downloads/pdf/reports/artificial-intelligence-action-plan.pdf>
-- <https://www.nyc.gov/content/oti/pages/press-releases/oti-announces-progress-on-nations-first-comprehensive-artificial-intelligence-action-plan>
-- <https://datascience.columbia.edu/news/2024/data-science-institute-leadership-helps-nyc-advance-its-ai-action-plan/>
+- [The New York City Artificial Intelligence Action Plan](https://www.nyc.gov/assets/oti/downloads/pdf/reports/artificial-intelligence-action-plan.pdf)
+- [NYCOTI - OTI Announces Progress on Nation’s First Comprehensive Artificial Intelligence Action Plan](https://www.nyc.gov/content/oti/pages/press-releases/oti-announces-progress-on-nations-first-comprehensive-artificial-intelligence-action-plan)
+- [Columbia University Data Science Institute- Data Science Institute Leadership Helps NYC Advance its AI Action Plan](https://datascience.columbia.edu/news/2024/data-science-institute-leadership-helps-nyc-advance-its-ai-action-plan/)
 
 ### Secondary Sources
 

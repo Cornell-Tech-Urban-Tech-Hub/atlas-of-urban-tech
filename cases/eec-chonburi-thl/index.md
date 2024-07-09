@@ -1,7 +1,7 @@
 ---
 title: Eastern Economic Corridor Smart City Case Study
 description: A smart city plan for the special economic zone of Eastern Thailand 
-status: Complete
+status: Review
 author: Chanan Suksangium
 type: plan
 city: Huay Yai, Chonburi, Thailand
@@ -14,7 +14,7 @@ featured_alt: Pattaya Skyline
 featured_credit: Nopparuj Lamaikul (Unsplash)
 tags: Environment, Energy, Buildings
 geography: ./eec.geojson
-geography_caption:
+geography_caption: Huay Yai, THA
 ---
 <!--
 Allowed values:
@@ -58,7 +58,7 @@ Additionally, the EEC is committed to promoting and hosting various Thai festiva
 
 **Emphasis on Sustainability and Green Initiatives**.  The EEC smart city will prioritize sustainable urban development and environmental conservation. For example, in the development stage, the existing waterways & bodies of water will not be altered & the project will try to preserve existing vegetation. In construction, the city will incorporate green building practices, renewable energy sources, and smart grid technologies to reduce its carbon footprint and promote energy efficiency; the guidelines state that 40% of the buildings will be LEED Silver/Gold. Additionally, green spaces, parks, and urban forests will be integrated into the city landscape to enhance biodiversity, improve air quality, and provide recreational opportunities for residents; the EEC targets 30% of the land use to be green spaces. The city will also implement smart waste management systems, water conservation measures, and sustainable transportation options to minimize environmental impact.
 
-![Alt Text / Temple in Chonburi](./kal-photography--edrQR3_-FY-unsplash.jpeg "Kal Photography (Unsplash)")
+![Temple in Chonburi](kal-photography--edrQR3_-FY-unsplash.jpg)
 
 ## Stakeholders
 <!--  Who initiated the project? Who is leading the project forward? Who else has a say in how it unfolds? Who is directly affected but marginalized? Identify 3-5 key stakeholder organizations or groups. Identify 3-5 key individuals. These are people who are associated with the project as leaders, supporters, critics, or regulators. They are likely to be members of the stakeholder groups identified above. These are people you should try to contact for one or more interviews.-->
@@ -113,7 +113,7 @@ By leveraging the City OS and Dashboard, the EEC smart city project can tackle v
 
 **Policy Continuity and Consistency**. Thailand has experienced frequent changes in government and political leadership in recent years, raising concerns about the continuity and consistency of policies related to the EEC project. Will the vision, objectives, and implementation plans for the EEC smart city remain stable across different political administrations? How will potential shifts in political priorities or ideologies impact the long-term support and resources allocated to the project? The instability & corruption can affect investor confidence and perception of the EEC project, especially among foreign investors.
 
-![Alt Text / Beach in Chonburi](./norbert-braun-wnLUkSsDPeU-unsplash.jpeg "Norbert Braun (Unsplash)")
+![Beach in Chonburi](norbert-braun-wnLUkSsDPeU-unsplash.jpg)
 
 ## References
 
