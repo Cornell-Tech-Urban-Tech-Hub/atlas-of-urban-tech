@@ -12,7 +12,10 @@ year_completed:
 featured_image: ./Chicago-Lakeside-Master-Plan.jpg
 featured_alt: Chicago Lakeside Master Plan
 featured_credit: SOM
-tags: Environment, Energy, Mobility
+tags: 
+- Environment
+- Energy
+- Mobility
 geography: ./lakeside.geojson
 geography_caption: Chicago, USA
 ---
