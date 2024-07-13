@@ -12,7 +12,9 @@ year_completed: 2021
 featured_image: ./ben-benjamin-PhxAQwwf9o8-unsplash.jpg
 featured_alt: New York City Building
 featured_credit: Photo by ben benjamin on Unsplash
-tags: InformationSystems, InnovationSystems
+tags:
+- InformationSystems
+- InnovationSystems
 geography: ./map.geojson
 geography_caption: New York City, USA
 ---
@@ -21,7 +23,16 @@ Allowed values:
 
 type: district, plan
 
-tags: Environment, Mobility, Buildings, Energy, InformationSystems, HealthEducation, InnovationSystems, CivicTech, CivicInnovation, Food
+tags: 
+- Environment
+- Mobility
+- Buildings
+- Energy
+- InformationSystems
+- HealthEducation
+- InnovationSystems
+- CivicTech
+- Food
 
 -->
 
