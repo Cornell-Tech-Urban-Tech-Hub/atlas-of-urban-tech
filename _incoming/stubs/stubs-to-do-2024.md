@@ -1,14 +1,14 @@
-Sydney Smart City Strategic Framework
-MIT-Kendall-Cambridge
-Hartford 2035 Plan	
-Smart City Strategy Berlin
-Energizing Kowloon East Initiative	
-Singapore Smart Nation Strategy	
-Toronto Digital Infrastructure Strategic Framework
-The Forestias (Bangkok)	
-EEC Smart City
-Detroit Innovation Hub
-Singapore Punggol Digital District
-Stockholm Royal Seaport	
+[done] Sydney Smart City Strategic Framework
+[done] MIT-Kendall-Cambridge
+[done] Hartford 2035 Plan	
+[done] Smart City Strategy Berlin
+[done] Energizing Kowloon East Initiative	
+[done] Singapore Smart Nation Strategy	
+[done] Toronto Digital Infrastructure Strategic Framework
+[done]The Forestias (Bangkok)	
+[done] EEC Smart City
+[done] Detroit Innovation Hub
+[done] Singapore Punggol Digital District
+[done] Stockholm Royal Seaport	
 Growing Smart Cites in Denmark plan
-Smart Memphis Plan https://osr.shelbycountytn.gov/plan/smartmemphisplan
+[done] Smart Memphis Plan https://osr.shelbycountytn.gov/plan/smartmemphisplan

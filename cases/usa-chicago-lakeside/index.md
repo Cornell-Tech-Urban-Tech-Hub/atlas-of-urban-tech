@@ -101,7 +101,7 @@ The ambitious Chicago Lakeside development ultimately did not proceed as planned
 - [City of Chicago: Chicago Lakeside Phase 1 TIF](https://www.chicago.gov/city/en/depts/dcd/supp_info/tif/chicago_lakesidephase1.html)
 - [Park 566 (USX) Framework Plan](https://assets.chicagoparkdistrict.com/s3fs-public/documents/page/Park_566_Framework_Plan_2015-4-30.pdf)
 - [McCaffery: Chicago Lakeside Development](https://www.mccafferyinc.com/portfolio/chicago-lakeside-development)
-- [ResearchGate](https://www.researchgate.net/publication/281099639_Designing_Future_Cities_-_LakeSIM_Integrated_Design_Tool_For_Assessing_Short-_and_Long-Term_Impacts_of_Urban_Scale_Conceptual_Designs)
+- [Designing Future Cities – LakeSIM Integrated Design Tool For Assessing Short- and Long-Term Impacts of Urban Scale Conceptual Designs](https://www.researchgate.net/publication/281099639_Designing_Future_Cities_-_LakeSIM_Integrated_Design_Tool_For_Assessing_Short-_and_Long-Term_Impacts_of_Urban_Scale_Conceptual_Designs)
 
 ### Secondary Sources
 

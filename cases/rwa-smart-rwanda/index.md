@@ -102,7 +102,7 @@ As the Minister of ICT and Innovation, Paula Ingabire has been a driving force b
 - Resource Mobilization: Paula is responsible for securing the necessary resources, both financial and human, to support the implementation of the Smart Rwanda Master Plan. This includes seeking funding from government budgets, development partners, and private sector investments.
 - Monitoring and Evaluation: Paula oversees the monitoring and evaluation of the Smart Rwanda Master Plan's implementation, ensuring that the initiatives are on track and delivering the desired outcomes. This involves regular progress reviews, performance assessments, and course corrections as needed.
 
-***Claudette Irere, Permanent Secretary at MINICT_***
+***Claudette Irere, Permanent Secretary at MINICT***
 
 Irere is responsible for translating the policies and strategies developed by MINICT into actionable plans and programs. This involves coordinating with various government agencies, local authorities, and other stakeholders to ensure seamless execution. Specifically:
 
