@@ -3,7 +3,7 @@ title: Hartford 2035 Plan
 template: stub
 author: Urban Tech Hub
 type: plan
-status: Draft
+status: Review
 city: Hartford
 country: United States
 country_code: USA

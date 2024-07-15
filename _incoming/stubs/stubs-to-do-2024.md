@@ -10,5 +10,5 @@
 [done] Detroit Innovation Hub
 [done] Singapore Punggol Digital District
 [done] Stockholm Royal Seaport	
-Growing Smart Cites in Denmark plan
+[done] Growing Smart Cites in Denmark plan
 [done] Smart Memphis Plan https://osr.shelbycountytn.gov/plan/smartmemphisplan

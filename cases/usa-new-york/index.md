@@ -5,7 +5,7 @@ template: case-study
 status: Complete
 author: Zhengfei Xiang
 type: plan
-city: New York
+city: New York City
 country_code: USA
 centroid: [40.712778, -74.006111]
 year_start: 2019
@@ -18,7 +18,7 @@ tags:
   - Mobility
   - InnovationSystems
 geography: ./newyork.geojson
-geography_caption: New York
+geography_caption: New York City, USA
 ---
 
 ## Overview

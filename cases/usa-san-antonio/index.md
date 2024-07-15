@@ -1,6 +1,7 @@
 ---
 title: San Antonio Smart Cities Roadmap
 description: A people centered smart city plan that uses smart city as a service
+template: case-study
 status: Complete
 author: Ka Wing Lui
 type: plan

@@ -3,7 +3,7 @@ title: Smart City Strategy Berlin
 template: stub
 author: Urban Tech Hub
 type: plan
-status: Draft
+status: Review
 city: Berlin 
 country: Germany
 country_code: DEU

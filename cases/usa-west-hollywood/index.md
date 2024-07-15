@@ -1,10 +1,11 @@
 ---
 title: WeHo Smart City Strategic Plan
 description: A digital masterplan developed by the City of West Hollywood to incorporate technology in a way that benefits both citizens and visitors.
+template: case-study
 status: Complete
 author: Paige Brown
 type: plan
-city:  West Hollywood, CA
+city:  West Hollywood
 country_code: USA
 centroid: [34.0900, -118.3617]
 year_start: 2018

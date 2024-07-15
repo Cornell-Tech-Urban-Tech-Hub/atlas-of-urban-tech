@@ -3,7 +3,7 @@ title: Toronto Digital Infrastructure Strategic Framework
 template: stub
 author: Urban Tech Hub
 type: plan
-status: Draft
+status: Review
 city: Toronto 
 country: Canada
 country_code: CAN

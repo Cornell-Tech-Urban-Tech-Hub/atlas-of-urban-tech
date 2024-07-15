@@ -3,7 +3,7 @@ title: The Forestias
 template: stub
 author: Urban Tech Hub
 type: plan
-status: Draft
+status: Review
 city: Bangkok 
 country: Thailand
 country_code: THA

@@ -3,7 +3,7 @@ title: Energizing Kowloon East Initiative
 template: stub
 author: Urban Tech Hub
 type: plan
-status: Draft
+status: Review
 city: Hong Kong
 country_code: HK
 centroid: [22.3193, 114.1694]

@@ -1,10 +1,11 @@
 ---
 title: Rwanda Smart City Master Plan
 description: The Smart Rwanda 2020 Master Plan is a comprehensive framework aimed at transforming Rwanda into a knowledge-based economy and ICT hub in Africa through strategic investments in seven key sectors, with a focus on developing smart city capabilities, enhancing ICT infrastructure, and fostering digital innovation to boost economic growth and job creation.
+template: case-study
 status: Complete
 author: Amit Shanbhoug
 type: plan
-city: 
+city: Kigali
 country_code: RWA
 centroid: [-1.944072291274308, 30.061912415521657]
 year_start: 2017
