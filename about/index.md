@@ -6,6 +6,8 @@ The Atlas of Urban Tech collects case studies created by Cornell Tech students a
 
 - **Tech-enabled districts** are neighborhood-scale real estate development projects that combine buildings, utilities, and digital services to create value for tenants, residents, and visitors. These cases help us understand the opportunities, risks, and rewards facing private sector investors.
 
+Want to contribute to the Atlas? Take a look at our [list of prospects](https://atlasofurbantech.org/prospects/) and then [read the docs](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech) on Github.
+
 ## Key Takeaways
 
 Collectively, these case studies of digital masterplans and tech-enabled districts highlight some underlying truths about the smart cities movement—a broad web of change that includes all of the technology advances, policy innovations, and new social movements unleased by urban tech.
