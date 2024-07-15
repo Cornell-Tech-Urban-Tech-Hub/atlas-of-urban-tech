@@ -14,7 +14,6 @@ featured_image: ./san-antonio.png
 featured_alt: San Antonio Skyline
 featured_credit: San Antonio Smart Cities Roadmap
 tags:
-- CivicInnovation
 - InnovationSystems
 - InformationSystems
 geography: ./map.geojson

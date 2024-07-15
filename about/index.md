@@ -19,7 +19,7 @@ Here are a few of our key takeaways:
 
 ## About the Class
 
-These case studies were created by Cornell Tech students enrolled in a Spring 2023 course, "Smart Cities: Requirements, Ambitions, and Limitations", taught by Dr. Anthony Townsend. The course syllabus can be found [here](https://classes.cornell.edu/download/syllabus-simple/SP23/INFO/5455/1/030).
+These case studies were created by Cornell Tech students enrolled in "Smart Cities: Requirements, Ambitions, and Limitations", taught by Dr. Anthony Townsend, in the Spring 2023 and Spring 2024 semesters. The course syllabus can be found [here](https://classes.cornell.edu/download/syllabus-simple/SP23/INFO/5455/1/030).
 
 This course examined the concept of “smart cities” as a sociotechnical movement that seeks to expand the use of digital technologies in urban development, service delivery, and governance. This movement began in the 1990s, and coalesced during the Global Financial Crisis of 2007-8 when global tech vendors like IBM, Cisco, and Siemens exploited an opportunity to port digitalization solutions from the private sector to municipal governments. Now, consumer-facing companies like Google, Amazon, and Uber are part of a shift to “urban tech”, bringing new technologies, more money, new business models, and more aggressive approaches to government affairs and deregulation.
 
@@ -42,10 +42,11 @@ Instructor
 - Anthony Townsend
 
 Editor
-- Rowan Wu
+- Rowan Wu (2023)
+- Leihao Fang (2024)
 
 Grader
-- Marie Demple
+- Marie Demple (2023)
 
 Design and Coding
 - Ben Oldenburg
