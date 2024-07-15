@@ -3,7 +3,6 @@ title: Trondheim Smart City Strategy
 template: stub
 author: Urban Tech Hub
 type: plan
-type: stub
 status: Complete
 city: Trondheim
 country: Norway
