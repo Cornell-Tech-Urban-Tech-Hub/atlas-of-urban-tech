@@ -1,10 +1,11 @@
 ---
 title: Michigan Central Innovation District
 description: A mixed-use mobility innovation district anchored by the historic Michigan Central Station.
+template: case-study
 status: Complete
 author: Rowan Wu
-Type: district
-city: Detroit, MI
+type: district
+city: Detroit
 country_code: USA
 centroid: [42.32871640851587, -83.07776625954314]
 year_start: 2018

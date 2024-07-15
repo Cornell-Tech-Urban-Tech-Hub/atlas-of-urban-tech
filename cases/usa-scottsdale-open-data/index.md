@@ -1,6 +1,7 @@
 ﻿---
 title: Open Data Scottsdale
 description: Initiative by the city of Scottsdale Arizona to provide data openness, transparency, and accountability through 88 publicly available datasets.
+template: case-study
 status: Complete
 author: Dylan Hanback
 type: plan

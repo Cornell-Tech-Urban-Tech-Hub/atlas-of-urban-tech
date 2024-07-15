@@ -1,6 +1,7 @@
 ---
 title: Sino-Signapore Knowledge city in Guangzhou
 description: The Sino-Singapore Guangzhou Knowledge City (SSGKC) is a 123-square-kilometer joint venture between China and Singapore, designed as an innovation hub and smart city demonstration zone, integrating advanced infrastructure and focusing on high-tech industries, sustainable urban solutions, and smart living technologies.
+template: case-study
 status: Complete
 author: Linjing Rao
 type: district

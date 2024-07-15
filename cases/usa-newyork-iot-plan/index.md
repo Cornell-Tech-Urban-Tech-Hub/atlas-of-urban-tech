@@ -1,6 +1,7 @@
 ---
 title: IoT Strategy
 description: The New York City Internet of Things Strategy
+template: case-study
 status: Complete
 author: Katie Gdula
 type: plan

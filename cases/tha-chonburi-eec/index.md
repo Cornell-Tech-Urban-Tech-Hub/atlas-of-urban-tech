@@ -1,6 +1,7 @@
 ---
 title: Eastern Economic Corridor Smart City
 description: A smart city plan for the special economic zone of Eastern Thailand 
+template: case-study
 status: Complete
 author: Chanan Suksangium
 type: plan

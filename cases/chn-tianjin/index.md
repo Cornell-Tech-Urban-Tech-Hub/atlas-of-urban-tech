@@ -6,7 +6,7 @@ status: Complete
 author: Yuchen Ye
 type: district
 city: Tianjin
-country_code: CN 
+country_code: CHN 
 centroid: [39.154496, 117.767878]
 year_start: 2008
 year_completed: 2023

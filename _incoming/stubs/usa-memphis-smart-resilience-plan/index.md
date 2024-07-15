@@ -3,7 +3,7 @@ title: Smart Memphis Resilience Plan
 template: stub
 author: Urban Tech Hub
 type: plan
-status: Draft
+status: Review
 city: Memphis 
 country: United States 
 country_code: USA

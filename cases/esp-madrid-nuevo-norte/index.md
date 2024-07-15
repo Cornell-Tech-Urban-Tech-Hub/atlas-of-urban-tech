@@ -1,6 +1,7 @@
 ---
 title: Madrid Nuevo Norte
 description: An ambitious urban redevelopment initiative transforming the northern zone of Madrid into a state-of-the-art business district
+template: case-study
 status: Complete
 author: Leihao Fang
 type: district

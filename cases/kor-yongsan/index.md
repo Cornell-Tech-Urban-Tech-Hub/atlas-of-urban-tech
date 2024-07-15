@@ -1,6 +1,7 @@
 ---
 title: Yongsan International Business District (YIBD)
 description: A case study on the plan of a smart city district in Seoul, South Korea. Although the development was previously suspended, it is scheduled to resume in 2025 under a new plan established by Mayor Oh Se-hoon, with completion expected in 203N (exact timeline undetermined).
+template: case-study
 status: Complete
 author: Andrew Park
 type: plan
