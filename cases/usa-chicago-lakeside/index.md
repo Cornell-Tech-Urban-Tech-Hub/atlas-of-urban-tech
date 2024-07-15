@@ -1,6 +1,6 @@
 ---
 title: Chicago Lakeside Master Plan
-description: Chicago Lakeside Master Plan is a redevelopment plan aimed to transform a 600-acre former industrial site on the South Side of Chicago into a sustainable, mixed-use community focusing on renewable energy, zero waste, and biodiversity.
+description: Redevelopment plan aimed to transform a 600-acre former industrial site on the South Side of Chicago into a sustainable, mixed-use community focusing on renewable energy, zero waste, and biodiversity.
 template: case-study
 status: Complete
 author: Haoming Li

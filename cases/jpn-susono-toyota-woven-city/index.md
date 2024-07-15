@@ -1,6 +1,6 @@
 ---
 title: Toyota Woven City
-description: Toyota Woven City is an innovative smart city project in Japan that serves as a living laboratory for developing and testing cutting-edge mobility solutions, sustainable technologies, and urban living concepts through real-world implementation and collaboration among researchers, businesses, and residents.
+description: An innovative smart city project in Japan that serves as a living laboratory for developing and testing mobility solutions, sustainable technologies, and urban living concepts through real-world implementation and collaboration among researchers, businesses, and residents.
 template: case-study
 status: Complete
 author: Yubang Wu

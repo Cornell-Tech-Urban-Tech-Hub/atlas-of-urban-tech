@@ -1,6 +1,6 @@
 ---
 title: GIFT City
-description: India's first operational greenfield smart city and international financial services centre, designed to be a global hub for financial and IT services with state-of-the-art infrastructure, tax incentives, and regulatory benefits to attract foreign investment and compete with other global financial centers。
+description: India's first operational greenfield smart city and international financial services centre, designed to be a global hub for financial and IT services.
 template: case-study
 status: Complete
 author: Aamanya Palkhiwala

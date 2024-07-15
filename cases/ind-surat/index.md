@@ -1,6 +1,6 @@
 ---
 title: Surat Smart City Project
-description: The project is a public sector municipal digital master plan aimed at elevating urban living standards with a core emphasis on equity. Rooted in sustainability principles and propelled by cutting-edge AI technologies, this initiative stands as a beacon of innovation, tailored to meet the dynamic needs of Surat's diverse populace. By embracing forward-thinking mobility solutions, including automated transit systems, and strategically implementing post-pandemic restructuring measures, Surat is charting a course towards inclusive urban progress.
+description: A municipal digital master plan aimed at elevating urban living standards with a core emphasis on equity and sustainability principles and enabled by AI technologies 
 template: case-study
 status: Complete
 author: Rajshri Jain

@@ -1,6 +1,6 @@
 ---
 title: The Orbit, Innisfil
-description: The Orbit of Innisfil, Canada, is a sustainable and community-centered urban development initiative launched by The Cortel Group in 2019, aiming to create a high-density living area for 30,000 to 150,000 people, leveraging IoT for infrastructure management, and centered around a new GO Transit station to enhance connectivity and reduce car dependency.
+description: A sustainable and community-centered urban development initiative aiming to create a high-density living area for 30,000 to 150,000 people, leveraging IoT for infrastructure management.
 template: case-study
 status: Complete
 author: Jacqueline Kim
