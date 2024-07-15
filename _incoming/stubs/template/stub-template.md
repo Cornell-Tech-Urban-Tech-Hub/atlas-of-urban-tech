@@ -22,6 +22,6 @@ tags:
 
 ## Overview
 
-Starting in 2018, Zenata was planned to be one of Africa’s first eco-cities, built in Casablanca, Morocco. Their plan has three pillars of sustainable development: environmental, social, and economic. 
+Starting in 2018, Zenata was planned to be one of Africa’s first eco-cities, built in Casablanca, Morocco. Their plan has three pillars of sustainable development: environmental, social, and economic.
 
 [Website (Francaís)](https://zenataecocity.ma)

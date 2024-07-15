@@ -80,7 +80,7 @@ Its important to understand how BKC has evolved over time. To make it easy to co
 3. Brought Yulu (a private company) into the picture for electric motorbikes within BKC - ended more for recreational than actually for transportation.
 4. Working with MMRDA was quite transparent, but found a lack of public involvement.
 
-![Alt Text / Nilesh Lele](./nilesh.jpeg "Nilesh Lele (Linkedin)")
+![Alt Text / Nilesh Lele](./Nilesh.jpeg "Nilesh Lele (Linkedin)")
 
 ## Technology Interventions
 <!--  What specific technology-enabled interventions does the project propose? Identify 3-5 technology interventions. Describe use cases, value proposition, solution architecture, data created or consumed, key platforms and standards, business models, regulatory issues, etc. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->

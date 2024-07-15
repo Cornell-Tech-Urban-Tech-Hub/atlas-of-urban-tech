@@ -211,7 +211,9 @@ The YIBD's comprehensive three-dimensional transportation system will significan
 <!-- What is uncertain, unclear, or still unresolved about this project? Identify 1-3 open question(s). -->
 
 **1. Balancing Economic Viability and Technological Integration**: One of the key uncertainties surrounding the YIBD project is the ability to handle the balance between economic viability and the successful integration of smart city technologies. As the district is located in an area with high real estate demand, there may be pressure on private companies to prioritize profitability over the implementation of cutting-edge technologies. It remains to be seen how the project stakeholders will navigate this challenge and ensure that the YIBD achieves its goal of becoming a showcase for smart city development while maintaining its financial feasibility.
+
 **2. Long-term Adaptability and Resilience**: Another open question is the YIBD's ability to adapt and remain resilient in the face of rapidly evolving technologies and changing urban needs. As the project has a long development timeline, spanning from 2025 to 2039, it is crucial that the district's infrastructure and systems are designed with flexibility and future-proofing in mind. The success of the YIBD will depend on its capacity to accommodate new technologies, respond to shifting market demands, and maintain its relevance as a smart city hub over the long term.
+
 **3. Connectivity between the Newly Developed YIBD Area and the Adjacent Urban Area**: A significant open question is about the integration and connectivity between the newly developed YIBD area and the existing urban districts. As the YIBD is being built within an established urban context, it is essential to ensure that the district seamlessly merges with its surroundings, both physically and socially. This involves creating efficient transportation links, pedestrian-friendly connections, and coherent urban design that respects the local character and heritage. Moreover, the project must foster synergies between the new development and the adjacent neighborhoods, encouraging social interaction, economic spillovers, and a sense of community cohesion. Achieving this harmonious integration will be a critical challenge for the YIBD project, as it seeks to create a vibrant and inclusive urban environment that enhances the overall quality of life in the area.
 
 ## References
@@ -224,16 +226,16 @@ The YIBD's comprehensive three-dimensional transportation system will significan
 
 - [1] Seoul Metropolitan Government. "Yongsan International Business District Zoning and Development Plan", Feb. 2024.
 - [2] Seoul Metropolitan Government. "Yongsan International Business District Development Concept", Jul. 2022.
-- [3] Seoul Metropolitan Government. 2040 Seoul Metropolitan Master Plan, Feb. 2023, urban.seoul.go.kr/UpisArchive/DATA/PWEB/STATIC/2040_seoul_plan.pdf.
-- [4] Seoul Metropolitan Government. 2030 Seoul Metropolitan Master Plan, Apr. 2014, urban.seoul.go.kr/UpisArchive/DATA/PWEB/STATIC/1_seoul_plan.pdf.
+- [3] [Seoul Metropolitan Government. 2040 Seoul Metropolitan Master Plan, Feb. 2023](https://urban.seoul.go.kr/UpisArchive/DATA/PWEB/STATIC/2040_seoul_plan.pdf)
+- [4] [Seoul Metropolitan Government. 2030 Seoul Metropolitan Master Plan, Apr. 2014](https://urban.seoul.go.kr/UpisArchive/DATA/PWEB/STATIC/1_seoul_plan.pdf)
 
 ### Secondary Sources
 
 <!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 
-- [5] Kakao Mobility. “2023 KakaoMobility Report, the Road Not Taken.” 2023 KakaoMobility Report , KakaoMobility, 12 Apr. 2024, report.kakaomobility.com/archive/2023-report.
-- [6] “Full-Scale Promotion of Transitioning to a Digital Logistics System - Building and Supporting a Smart Logistics System.” Selection of 6 Support Projects, Including 4 Logistics Service Demonstrations and 2 Logistics Pilot City Development Projects, Ministry of Land, Infrastructure and Transport, 3 Mar. 2022, m.molit.go.kr/viewer/skin/doc.html?fn=6086bad5957a085a619c61aa17fcc500&rs=%2Fviewer%2Fresult%2F20220303.
-- [7] Yun, Hyeok-ryul, and Hyeon-gu Ki. “Introduction Plan for Seoul-Type Integrated Transportation Service (MaaS).” The Seoul Institute, 9 Sept. 2019, <www.si.re.kr/node/62422>.
-- [8] Seoul Metropolitan Government. Seoul Metropolitan Government to Collaborate with Global Eco-Friendly Certification Authorities... Creating ’Seoul-Type LEED, 20 Sept. 2023, <www.seoul.go.kr/news/news_report.do#view/396887?tr_code=snews>.
+- [5] Kakao Mobility. “2023 KakaoMobility Report, the Road Not Taken.” 2023 KakaoMobility Report , KakaoMobility, 12 Apr. 2024, <https://report.kakaomobility.com/archive/2023-report>.
+- [6] “Full-Scale Promotion of Transitioning to a Digital Logistics System - Building and Supporting a Smart Logistics System.” Selection of 6 Support Projects, Including 4 Logistics Service Demonstrations and 2 Logistics Pilot City Development Projects, Ministry of Land, Infrastructure and Transport, 3 Mar. 2022, <https://m.molit.go.kr/viewer/skin/doc.html?fn=6086bad5957a085a619c61aa17fcc500&rs=%2Fviewer%2Fresult%2F20220303>.
+- [7] Yun, Hyeok-ryul, and Hyeon-gu Ki. “Introduction Plan for Seoul-Type Integrated Transportation Service (MaaS).” The Seoul Institute, 9 Sept. 2019, <https://www.si.re.kr/node/62422>.
+- [8] Seoul Metropolitan Government. Seoul Metropolitan Government to Collaborate with Global Eco-Friendly Certification Authorities... Creating ’Seoul-Type LEED, 20 Sept. 2023, <https://www.seoul.go.kr/news/news_report.do#view/396887?tr_code=snews>.
 - [9] Jeon, Jeong-hun. “Yongsan International Business District to Break Ground in ’25... Planned as a Green Vertical City.” <https://Www.Seoul.Go.Kr/News/News_report.Do#view/404852?Tr_code=snews>, Seoul Metropolitan Government, 5 Feb. 2024, english.seoul.go.kr/?SSid=101_01.
-- [10] “Yongsan International Business District to Break Ground in 2025.” YouTube, Seoul Metropolitan Government, 5 Feb. 2024, <www.youtube.com/watch?v=-wiKmTe6a0k&t=355s>.
+- [10] “Yongsan International Business District to Break Ground in 2025.” YouTube, Seoul Metropolitan Government, 5 Feb. 2024, <https://www.youtube.com/watch?v=-wiKmTe6a0k&t=355s>.
