@@ -34,7 +34,7 @@ tags: Environment, Mobility, Buildings, Energy, InformationSystems, HealthEducat
 
 The Orbit of Innisfil, Canada is an initiative aimed at reshaping urban life through sustainability and community centered design. Launched by The Cortel Group, a private real estate company, in 2019, the development envisions a high-density living area spread across 40 million square feet, projecting to house between 30,000 to 150,000 people. Innisfil is a commuter town in the Greater Toronto Area aiming to bolster its economic and social assets, with its vast greenery and proximity to Ontario being attractive to future residents. The development leverages the existing regional transit system (GO Transit), making The Orbit GO station the heart of the growing development plan. The Orbit hopes to implement IoT devices for managing utilities and infrastructure, as well as road infrastructure with the potential of handling autonomous vehicles.
 
-![Alt Text / Lake Simcoe Conservation](https://static.dezeen.com/uploads/2019/12/the-orbit-partisans-news-architecture_dezeen_2364_col_1-1704x1136.jpg "Daniel Adams (Unsplash)")
+![Alt Text / Lake Simcoe Conservation](./orbit.webp "Daniel Adams (Unsplash)")
 
 ## Key Characteristics
 
@@ -64,11 +64,11 @@ The Orbit of Innisfil, Canada is an initiative aimed at reshaping urban life thr
 
 **Lake Simcoe Conservation**.  The Orbit's proximity to Lake Simcoe harbors a delicate balance between development and nature quality conservation. The cooperation of both parties allows for a minimal disruption to Lake Simcoe's conservation, restoration, and management. [Lake Simcoe Conservation](https://lsrca.on.ca/)
 
-![Alt Text / Lake Simcoe Conservation](https://lsrca.on.ca/wp-content/uploads/2023/05/LSRCA_Colour_Logo_PNG.png "Daniel Adams (Unsplash)")
+![Alt Text / Lake Simcoe Conservation](./simcoe.png "Daniel Adams (Unsplash)")
 
 **Third Party Partners**. Various third party partners, such as the Ministry of Transportation and Metrolinx are involved in order to keep The Orbit transit accessible via the pending GO station. Other stakeholders include The Cortel Group, among other developers.
 
-![Alt Text / Lake Simcoe Conservation](https://upload.wikimedia.org/wikipedia/en/4/4e/Ministry_of_Transportation_Logo.png "Daniel Adams (Unsplash)")
+![Alt Text / Lake Simcoe Conservation](./transportation.png "Daniel Adams (Unsplash)")
 
 ## Technology Interventions
 <!--  What specific technology-enabled interventions does the project propose? Identify 3-5 technology interventions. Describe use cases, value proposition, solution architecture, data created or consumed, key platforms and standards, business models, regulatory issues, etc. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
