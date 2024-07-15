@@ -6,7 +6,6 @@ The Atlas of Urban Tech collects case studies created by Cornell Tech students a
 
 - **Tech-enabled districts** are neighborhood-scale real estate development projects that combine buildings, utilities, and digital services to create value for tenants, residents, and visitors. These cases help us understand the opportunities, risks, and rewards facing private sector investors.
 
-Want to contribute to the Atlas? Take a look at our [list of prospects](https://atlasofurbantech.org/prospects/) and then [read the docs](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech) on Github.
 
 ## Key Takeaways
 
@@ -18,6 +17,7 @@ Here are a few of our key takeaways:
 2. **City stakeholders choose which technologies succeed.** The stories we tell about new technologies are full of inevitabilities (e.g. "self-driving cars will cause urban sprawl"). These plans and districts highlight the power that diverse groups of stakeholders have in deciding which urban technologies succeed—by setting priorities, creating incentives and regulating uses.
 3. **Cyber-physical integration is hard, but pays off.** Urban tech combines digital, built, and human components. Building occupancy sensors are useless if they aren't connected to the HVAC system. And a smart building's predictive cooling algorithms must account for how people actually move around throughout the day. This integration is hard, and requires collaboration across disciplines and organizations. But it is where the real opportunity for value creation is found.
 
+Want to contribute to the Atlas? Take a look at our [list of prospects](https://atlasofurbantech.org/prospects/) and then [read the docs](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech) on Github.
 
 ## About the Class
 
