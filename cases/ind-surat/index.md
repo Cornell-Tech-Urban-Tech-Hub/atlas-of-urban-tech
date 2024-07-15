@@ -10,9 +10,9 @@ country_code: IND
 centroid: [21.1702, 72.8311] 
 year_start: 2013
 year_completed: Ongoing
-featured_image: https://i.pinimg.com/originals/e9/65/01/e96501b0d766e6dc2147f195442aa3d0.jpg
+featured_image: ./welcome-surat.jpg
 featured_alt: Surat City Skyline
-featured_credit: Tourist Dealer
+featured_credit: My Surat (Facebook)
 tags: 
 - InformationSystems
 - Mobility

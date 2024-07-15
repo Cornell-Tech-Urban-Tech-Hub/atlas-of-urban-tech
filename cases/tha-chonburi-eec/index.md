@@ -117,7 +117,8 @@ By leveraging the City OS and Dashboard, the EEC smart city project can tackle v
 
 **Policy Continuity and Consistency**. Thailand has experienced frequent changes in government and political leadership in recent years, raising concerns about the continuity and consistency of policies related to the EEC project. Will the vision, objectives, and implementation plans for the EEC smart city remain stable across different political administrations? How will potential shifts in political priorities or ideologies impact the long-term support and resources allocated to the project? The instability & corruption can affect investor confidence and perception of the EEC project, especially among foreign investors.
 
-![Beach in Chonburi](norbert-braun-wnLUkSsDPeU-unsplash.jpg)
+![Alt Text / Beach in Chonburi](./norbert-braun-wnLUkSsDPeU-unsplash.jpg "Norbert Braun (Unsplash)")
+
 
 ## References
 

@@ -18,7 +18,7 @@ tags:
 - Mobility
 - Buildings
 geography: ./madrid_nuevo_norte.geojson
-geography_caption: Madrid, ESP
+geography_caption: Madrid Nuevo Norte
 ---
 
 <!--

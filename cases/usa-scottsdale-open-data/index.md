@@ -29,8 +29,6 @@ type: district, plan
 tags: Environment, Mobility, Buildings, Energy, InformationSystems, HealthEducation, InnovationSystems, CivicTech, CivicInnovation, Food
 -->
 
-![Scottsdale AZ](./images/SCOTTSDALEAZ_COLIN_LLOYD.jpg "Colin Lloyd (Unsplash)")
-
 ## Overview
 
 <!-- About 100 to 150 word summary of the case study. -->
