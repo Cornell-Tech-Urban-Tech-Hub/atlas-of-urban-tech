@@ -1,6 +1,8 @@
 # About the Atlas
 
-The Atlas of Urban Tech collects case studies created by Cornell Tech students analyzing how city governments and city makers are using digital technology to make cities stronger, fairer, and more resilient. You'll find two types of case studies here:
+The Atlas of Urban Tech collects case studies created by Cornell Tech students analyzing how city governments and city makers are using digital technology to make cities stronger, fairer, and more resilient.
+
+You'll find two types of case studies here:
 
 - **Digital masterplans** are comprehensive, long-range plans adopted by municipalities to guide policy, planning, and investment in smart city and urban tech solutions. These cases help us understand the technology priorities, strategies, and interventions of city governments.
 
@@ -17,7 +19,6 @@ Here are a few of our key takeaways:
 2. **City stakeholders choose which technologies succeed.** The stories we tell about new technologies are full of inevitabilities (e.g. "self-driving cars will cause urban sprawl"). These plans and districts highlight the power that diverse groups of stakeholders have in deciding which urban technologies succeed—by setting priorities, creating incentives and regulating uses.
 3. **Cyber-physical integration is hard, but pays off.** Urban tech combines digital, built, and human components. Building occupancy sensors are useless if they aren't connected to the HVAC system. And a smart building's predictive cooling algorithms must account for how people actually move around throughout the day. This integration is hard, and requires collaboration across disciplines and organizations. But it is where the real opportunity for value creation is found.
 
-Want to contribute to the Atlas? Take a look at our [list of prospects](https://atlasofurbantech.org/prospects/) and then [read the docs](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech) on Github.
 
 ## About the Class
 
@@ -37,6 +38,8 @@ Upon completion of the course, students are able to:
 - Understand key **stakeholders** in smart city innovation and diffusion, including their goals and motivations, and resources and constraints—including city governments, corporations, entrepreneurs, and NGOs;
 - Understand how to **unpack and critique claims** of government officials, entrepreneurs and business leaders, and citizens regarding specific smart city projects and technology solutions;
 - Understand how **foresight and strategic planning** is used in the smart cities movement to assess, anticipate, and adapt to technological, economic, and social change.
+
+ Want to contribute to the Atlas? Take a look at our [list of prospects](https://atlasofurbantech.org/prospects/) and then [read the docs](https://github.com/Cornell-Tech-Urban-Tech-Hub/atlas-of-urban-tech) on Github.
 
 ## Credits
 
