@@ -9,8 +9,7 @@ country: United States
 country_code: USA
 centroid: [35.1495, -90.0490]
 featured_image: ./terrance-raper-sirl4pukPBw-unsplash.jpg
-featured_desc: 
-Reflection of Memphis/Arkansas bridge
+featured_desc: Reflection of Memphis/Arkansas bridge
 featured_credit: Terrance Raper, Unsplash
 description: A comprehensive plan to enhance Memphis and Shelby County's resilience through sustainable practices, smart technologies, and community-driven initiatives.
 geography: usa-memphis-smart-resilience-plan.geojson
