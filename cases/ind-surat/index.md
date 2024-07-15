@@ -37,7 +37,7 @@ Known for its diamond and textile industries, Surat is a crucial economic hub fa
 With a population of over 7 million, Surat is one of the fastest-growing cities in Gujarat, necessitating effective strategies to manage its expansion. Key initiatives include integrated traffic management systems, a common city payment system, renewable energy projects, and ERP and GIS platforms for municipal operations.
 The project encompasses both Pan City and Area-Based initiatives. The Pan City proposal focuses on enhancing public services and citizen interface, particularly emphasizing Intelligent Transport and Connectivity to envision a more citizen-friendly Surat. Meanwhile, Area-Based interventions target sustainable economic growth and quality of life enhancements in specific areas, allocating 3% of Surat's total geographical area for transformation into well-planned urban spaces.
 
-![Alt Text / Financing](https://imgur.com/ZjDNhkM.png "Pan City")
+![Alt Text / Financing](./ZjDNhkM.png "Pan City")
 
 ## Goals and Aspirations
 
@@ -107,7 +107,7 @@ The GIS platform complements the ERP system by providing spatial analysis and ma
 **Smart Water Management**. The system is designed to address the challenges of water distribution and usage in a rapidly growing city like Surat. One of the primary components of this system is the implementation of a 24x7 water supply, ensuring that residents have continuous access to clean water. This is achieved through the installation of smart water meters that provide real-time monitoring of water usage across the city. These smart meters are equipped with sensors that detect leaks and monitor water flow, allowing for immediate identification and resolution of issues in the water supply network. This proactive approach significantly reduces water wastage and ensures that the city's water resources are used efficiently.
 In addition to leak detection, the smart water management system also includes the use of advanced analytics to predict water demand and optimize supply. By analyzing usage patterns and predicting future demand, the system can adjust water distribution in real-time to ensure that supply meets demand without overburdening the infrastructure. Moreover, the system promotes the recycling and reuse of treated wastewater for non-potable purposes, such as industrial use and irrigation. This reduces the strain on the city's fresh water resources and promotes sustainable water management practices.
 
-![Alt Text / Pan City Projects](https://i.imgur.com/6EzKsx8.png "Pan City")
+![Alt Text / Pan City Projects](./6EzKsx8.png "Pan City")
 
 ## Financing
 <!--  How are the technology interventions identified to be financed? How does this fit into financing of the larger project? Identify at least one financing mechanism that is being used. -->
@@ -117,7 +117,7 @@ Surat Smart City Project employs a multifaceted financing strategy to support it
 Private sector contributions, especially from technology and infrastructure companies, further bolster the project's financial health. These contributions not only provide essential funding but also bring in cutting-edge technologies and innovative solutions that are vital for the project's success. Companies involved in these sectors often see the Smart City initiative as a valuable opportunity for collaboration and investment, leading to mutually beneficial outcomes.
 
 In addition to these primary financing mechanisms, the project also explores alternative funding sources such as international development funds, loans from financial institutions, and municipal bonds. International development funds can offer grants and low-interest loans to support specific aspects of the project, particularly those related to sustainability and resilience. Loans from financial institutions provide additional capital for large-scale infrastructure projects, while municipal bonds can be issued to raise funds from public investors, offering them a stake in the city's future development. By employing this diversified financing approach, the Surat Smart City Project ensures a steady flow of resources necessary to achieve its comprehensive objectives. This strategy not only secures the financial sustainability of the project but also fosters a collaborative environment where various stakeholders contribute to the city's transformation into a modern, sustainable, and inclusive urban center.
-![Alt Text / Financing](https://imgur.com/FtwFquH.png "Pan City")
+![Alt Text / Financing](./FtwFquH.png "Pan City")
 
 ## Outcomes
 <!-- What results has the project produced to date? What outcomes and impacts are anticipated? Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. -->
