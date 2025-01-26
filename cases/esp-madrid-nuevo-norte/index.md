@@ -81,7 +81,7 @@ Madrid Nuevo Norte is one of Europe's largest urban renewal initiatives, transfo
 
 **Merlin Properties**. Merlin Properties is a leading real estate company in Spain and one of the main developers spearheading the Madrid Nuevo Norte project through its subsidiary Crea Madrid Nuevo Norte, S.A. Merlin owns a 14% stake in this subsidiary and is a crucial private sector stakeholder responsible for the planning and execution of the large-scale redevelopment. [Merlin Properties](https://www.merlinproperties.com/)
   
-**BBVA**. BBVA (Banco Bilbao Vizcaya Argentaria) is a major Spanish multinational financial services company. BBVA communicated with Merlin Properties, one of the key developers, regarding the project's plans. As a major bank, BBVA is the major player involved in providing financing or investment for the Madrid Nuevo Norte development.[BBVA](https://www.bbva.com/en/)
+**BBVA**. BBVA (Banco Bilbao Vizcaya Argentaria) is a major Spanish multinational financial services company. BBVA communicated with Merlin Properties, one of the key developers, regarding the project's plans. As a major bank, BBVA is the major player involved in providing financing or investment for the Madrid Nuevo Norte development. [BBVA](https://www.bbva.com/en/)
 
 ## Technology Interventions
 
@@ -124,7 +124,17 @@ Madrid Nuevo Norte is one of Europe's largest urban renewal initiatives, transfo
 **Impact on Local Businesses and Communities**. Although the project promises to improve quality of life and provide affordable housing options, the sources do not address the potential effects on existing local small businesses and communities during the extensive construction phase. How will their interests and livelihoods be safeguarded, and what measures will be taken to mitigate any negative impacts on these stakeholders?
 
 **Integration of Advanced Technologies**. The project envisions incorporating smart city technologies, sustainable building practices, and community engagement platforms. However, the specific details and implementation plans for seamlessly integrating these advanced technologies into the urban fabric are not clearly outlined. How will the adoption and maintenance of these technologies be managed, and what challenges may arise in terms of infrastructure, data governance, and user adoption?
-  
+
+## Urban Systems Profiles
+
+Additional explorations undertaken by students in Cornell Tech's [Urban Systems](https://classes.cornell.edu/browse/roster/FA24/class/INFO/5410) course build on this case study. During this course, taken by students in [Urban Tech concentration](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-urban-tech/) in their first semester, students explore two types of urban systems—"hard" and "soft"—and emergent urban dynamics arising at the intersection of these systems.
+
+- [**Analysis of Urban Transportation in Madrid**](./Madrid_hard_system.pdf): Explores Madrid's extensive transportation system, including the Metro, suburban trains, buses, and cycling networks, which enable seamless travel. Highlights innovative features like contactless payments, smart mobility integration, and major nodes like Atocha and Nuevos Ministerios.
+
+- [**Analysis of Education and Economics in Madrid**](./Madrid_soft_system.pdf): Examines Madrid's educational landscape, emphasizing the importance of higher education in economic development. Key topics include digital networks in education, dropout prevention strategies, and economic inequalities reflected in the M-30 Ring Road Separation.
+
+- [**Emerging Systems in Madrid: Digital Transformation Strategy**](./Madrid_final.pdf): Focuses on Madrid's digital transformation (2023–2027), including initiatives like the Madrid Digital Twin, intelligent transport systems, and STEAM programs. Discusses the role of data-driven urban planning and innovations like the Virtual Space Demonstrator to enhance city management.
+
 ## References
 
 ---
@@ -144,17 +154,11 @@ Madrid Nuevo Norte is one of Europe's largest urban renewal initiatives, transfo
 - Very easy!-->
 
 ### Secondary Sources
+  
+<!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 
 - <https://www.arup.com/projects/madrid-nuevo-norte>
 - <https://cdn.filepicker.io/api/file/aKL8EtXvRbqQwmG3IGIq?fit=max>
 - <https://www.mdpi.com/2071-1050/13/4/2094>
 - <https://www.iberian.property/news/archive/bbva-merlin-and-san-jose-will-invest-eur216m-on-madrid-nuevo-norte-project/>
 - <https://www.reuters.com/world/europe/madrids-new-business-district-aims-learn-rivals-2024-01-11/>
-  
-<!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
-
-<!-- Create a list by starting a line with `+`, `-`, or `*`
-
-- Sub-lists are made by indenting 2 spaces:
-
-- Very easy!>

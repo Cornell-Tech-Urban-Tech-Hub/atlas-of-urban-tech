@@ -118,6 +118,14 @@ Key performance indicators will be determined based on the department. These key
 
 **Changing Technological Landscape**.  How will the city deal with the rise of generative AI given limited city resources?
 
+## Urban Systems Profiles
+
+Additional explorations undertaken by students in Cornell Tech's [Urban Systems](https://classes.cornell.edu/browse/roster/FA24/class/INFO/5410) course build on this case study. During this course, taken by students in [Urban Tech concentration](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-urban-tech/) in their first semester, students explore two types of urban systems—"hard" and "soft"—and emergent urban dynamics arising at the intersection of these systems.
+
+- [**West Hollywood’s Soft System: The City as a Business**](./atlas_weho.pdf): Focuses on West Hollywood's vendor-driven model for executing smart city initiatives. Discusses procurement strategies, smart bus shelter prototypes, and governance structures while addressing the role of AI and transparency in digital contracts and urban planning.
+
+- [**Emergence and Dynamics in West Hollywood Smart City Projects**](./weho_emergence.pdf): Analyzes the digital and physical systems in West Hollywood, including smart bus shelters and augmented reality projects like the Body Politic. Highlights challenges such as public resistance, lack of engagement, and ambitious digital master planning efforts emphasizing civic participation and cultural identity.
+
 ## References
 
 ---
@@ -125,7 +133,7 @@ Key performance indicators will be determined based on the department. These key
 ### Primary Sources
 
 <!-- 3-5 project plans, audits, reports, etc. -->
-- City of West Hollywood Strategic Plan
+- [City of West Hollywood Strategic Plan](https://www.weho.org/city-government/city-manager/capital-projects/strategic-initiatives-archive/strategic-plan)
 - [WeHo Smart City Strategic Plan Progress Update](https://weho.granicus.com/MetaViewer.php?view_id=16&clip_id=3540&meta_id=191347)
 
 ### Secondary Sources
