@@ -121,6 +121,16 @@ Scottsdale data services is a small team of three people (as of May 2024). This 
 
 **Public backlash**.  Is the public on board because of philosophical alignment or because nothing has gone wrong so far?
 
+## Urban Systems Profiles
+
+Additional explorations undertaken by students in Cornell Tech's [Urban Systems](https://classes.cornell.edu/browse/roster/FA24/class/INFO/5410) course build on this case study. During this course, taken by students in [Urban Tech concentration](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-urban-tech/) in their first semester, students explore two types of urban systems—"hard" and "soft"—and emergent urban dynamics arising at the intersection of these systems.
+
+- [**Analysis of Urban Transportation in Scottsdale**](./Scottsdale_hard_system.pdf): Focuses on Scottsdale's transportation infrastructure, including bike lanes, bus routes, and car-centric planning. Highlights challenges like traffic congestion, limited public transit options, and opportunities to expand smart transit systems and alternative transportation modes.
+
+- [**Scottsdale Soft Systems: Urbanization and Social Concerns**](./Scottsdale_soft_system.pdf): Explores Scottsdale's resistance to urbanization and reliance on private vehicles, emphasizing cultural, environmental, and economic factors. Discusses debates over light rail expansion, homelessness, and community-driven urban planning initiatives.
+
+- [**Emergence and Urban Dynamics in Scottsdale**](./Scottsdale_final.pdf): Analyzes Scottsdale's future urban planning dynamics, including potential impacts of light rail and economic development strategies. Key themes include balancing urban growth with community character, enhancing public transit, and addressing socio-economic disparities.
+
 ## References
 
 ---

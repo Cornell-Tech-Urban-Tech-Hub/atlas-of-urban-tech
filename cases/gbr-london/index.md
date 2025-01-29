@@ -148,6 +148,16 @@ How can Smart City plans ensure the continuity and long-term sustainability of i
 **Top-down vs. bottom-up plans**
 What would a top-down smart city plan, like the Hangzhou smart city plan, look like if implemented in London, a city that, in contrast, centers on the opinions and ideas of locals (e.g., the Listening Tour)? Conversely, how would the Smarter London Together plan appear if applied in a city like Hangzhou?
 
+## Urban Systems Profiles
+
+Additional explorations undertaken by students in Cornell Tech's [Urban Systems](https://classes.cornell.edu/browse/roster/FA24/class/INFO/5410) course build on this case study. During this course, taken by students in [Urban Tech concentration](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-urban-tech/) in their first semester, students explore two types of urban systems—"hard" and "soft"—and emergent urban dynamics arising at the intersection of these systems.
+
+- [**Transportation System in London**](./London_hard.pdf): Analyzes London's vast and multi-modal transportation system, including the Underground, buses, and cycling networks. Highlights include smart technologies like real-time data integration, ultra-low emission zones (ULEZ), and physical and digital flows that support seamless commuter experiences.
+
+- [**Demographic System in London:**](./London_soft.pdf): Focuses on London's demographic dynamics, with insights into income and ethnicity distributions, as well as accessibility gaps in transportation and digital connectivity. Discusses the role of smart infrastructure, open data platforms, and digital programs like 'Get Online London' in reducing social and economic segregation.
+
+- [**Congestion Pricing System and Social Segregation**:](./London_final.pdf) Explores the evolution of London's transportation and demographic systems, emphasizing the role of the congestion pricing system. Key topics include air quality improvements, equity challenges, and future strategies like dynamic pricing, income-based adjustments, and green vehicle incentives.
+
 ## References
 
 ---

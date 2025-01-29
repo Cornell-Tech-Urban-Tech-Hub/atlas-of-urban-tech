@@ -93,6 +93,16 @@ The ambitious Chicago Lakeside development ultimately did not proceed as planned
 
 - How do you envision the Lakeside area evolving in the next decade?
 
+## Urban Systems Profiles
+
+Additional explorations undertaken by students in Cornell Tech's [Urban Systems](https://classes.cornell.edu/browse/roster/FA24/class/INFO/5410) course build on this case study. During this course, taken by students in [Urban Tech concentration](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-urban-tech/) in their first semester, students explore two types of urban systems—"hard" and "soft"—and emergent urban dynamics arising at the intersection of these systems.
+
+- [**Chicago Lakeside Master Plan - Hard System Analysis**](./Chicago_hard_system.pdf): Examines Chicago's transportation infrastructure, focusing on its extensive transit networks, including the "L" train system, buses, and bike-sharing services. Emphasizes the integration of smart technologies, sustainable practices, and seamless connectivity for urban commuters.
+
+- [**Soft System of Chicago Lakeside Master Plan**](./Chicago_soft_system.pdf): Analyzes Chicago's demographic patterns, highlighting income disparities, ethnic distributions, and public service accessibility. Discusses initiatives for reducing segregation and enhancing resource equity through smart infrastructure and community-based programs.
+
+- [**Emergence and Urban Dynamics of Chicago Lakeside**](./Chicago_final.pdf): Investigates the effects of congestion pricing on Chicago's urban environment, focusing on air quality improvements, equity challenges, and adaptive policies. Key strategies include dynamic pricing, public transit subsidies, and incentives for low-emission vehicles.
+
 ## References
 
 ---
