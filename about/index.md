@@ -1,4 +1,8 @@
-# About the Atlas
+---
+title: About the Atlas
+section: about
+ref: page-about
+---
 
 The Atlas of Urban Tech collects case studies created by Cornell Tech students analyzing how city governments and city makers are using digital technology to make cities stronger, fairer, and more resilient.
 
