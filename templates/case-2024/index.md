@@ -1,11 +1,11 @@
 ---
-title: Case Study Template
+title: Songdo International Business District
 description: Lorem ipsum dolor sit amet
 status: Draft
-author: Your Name
+author: Hongyang Zhou
 type: 
-city:  
-country_code: USA
+city: Incheon
+country_code: KOR
 centroid: [40.712778, -74.006111]
 year_start: 2012
 year_completed: 2018
