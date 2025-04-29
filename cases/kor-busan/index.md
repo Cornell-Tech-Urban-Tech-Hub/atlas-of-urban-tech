@@ -97,7 +97,9 @@ The Busan Eco Delta Smart City project has a total cost of 5.4 trillion won ($4.
 <!-- Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
 **Potential Displacement**. How will the project address the potential displacement of residents during the construction phase?
+
 **Fostering Inclusivity**. How will the project ensure the inclusivity and accessibility of its smart technology platforms, such as smart healthcare services or opportunities for decent jobs, for citizens of all socioeconomic backgrounds?
+
 **Protecting Privacy**. How will the project address potential privacy concerns that may arise from the extensive use of data and technology in the city?
 
 ## References
