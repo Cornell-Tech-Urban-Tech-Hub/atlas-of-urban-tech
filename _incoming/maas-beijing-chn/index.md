@@ -3,7 +3,7 @@ title: Beijing MaaS - A Brief
 status: Draft
 description: This is a brief overview of the Beijing Mobility as a Service (MaaS) system. Includes a summary of the goals, key characteristics, and a list of the main stakeholders, as well as discussion of the implications and future directions.
 city: Beijing
-country_code: CN
+country_code: CHN
 centroid: [39.90872, 116.39749]
 year_start: 2019
 year_completed: Ongoing
@@ -67,7 +67,7 @@ By integrating navigation tools, public transit, ride-hailing, and shared bikes,
 
 Like many Mobility-as-a-Service initiatives globally, Beijing's MaaS system lacks publicly available comprehensive architecture documentation. The following analysis synthesizes insights from discussions with Mr. Yuhuan Zhai, the Director of Technology at BMCT and with Mr. Yi Zhao, the Director of MaaS Carbon Inclusive Initiatives at AMap, Beijing MaaS 2.0 work plan (北京 MaaS 2.0 工作方案, [link to Chinese version](https://jtw.beijing.gov.cn/kjjt/tzgg/202306/t20230627_3147334.html)), and news reports covering the system's development to identify key strategic priorities. While not exhaustive, the analysis should provide a comprehensive overview of the system's principal objectives, key features, impacts, and future directions.
 
-## Goals and Aspirations:
+## Goals and Aspirations.
 
 At its core, Beijing MaaS leverages digital platforms to enhance mobility experiences while generating precise insights into travel patterns and behaviors. What distinguishes Beijing's approach is its use of navigation systems as behavioral intervention points, which is creating opportunities to incentivize user actions that advance multiple policy objectives simultaneously, from carbon reduction to economic development in peripheral areas. These interventions align with directives from China's 14th Five-Year Plan ([link to English version](https://cset.georgetown.edu/publication/china-14th-five-year-plan/)), which emphasizes smart transportation integration and carbon reduction as national priorities, while also serving municipal interests in user satisfaction, revenue generation, and coordinated urban-regional development.
 
@@ -75,23 +75,23 @@ At its core, Beijing MaaS leverages digital platforms to enhance mobility experi
 
 **Objective**: Create a unified urban mobility ecosystem that seamlessly connects transportation modes for travelers while providing a intergrated data hub for data vendors and mobility service providers.
 
-**Data Infrastructure**: Operating under the Beijing Management Measures for Opening and Sharing Transport and Travel Data (Trial) (北京市交通出行数据开放管理办法(试行), [link to Chinese version](https://www.beijing.gov.cn/zhengce/zhengcefagui/201911/t20191105_483739.html)), the platform aggregates datasets from public operators and private mobility providers. This standardized data exchange supports both third-party application development and provides planners with insights into mobility patterns.
+**Data Infrastructure**. Operating under the Beijing Management Measures for Opening and Sharing Transport and Travel Data (Trial) (北京市交通出行数据开放管理办法(试行), [link to Chinese version](https://www.beijing.gov.cn/zhengce/zhengcefagui/201911/t20191105_483739.html)), the platform aggregates datasets from public operators and private mobility providers. This standardized data exchange supports both third-party application development and provides planners with insights into mobility patterns.
 
-**Aggregated Route Planning**: Like many other existing MaaS systems, Beijing MaaS partners with navigation apps (e.g., Amap, Baidu), Beijing MaaS provides real-time multimodal route planning, including metro-to-bike transitions, shared bike availability, and ride-hailing options from multiple providers. Users can view metro crowdedness, bus arrival times, and bike parking zones in one place.
+**Aggregated Route Planning**. Like many other existing MaaS systems, Beijing MaaS partners with navigation apps (e.g., Amap, Baidu), Beijing MaaS provides real-time multimodal route planning, including metro-to-bike transitions, shared bike availability, and ride-hailing options from multiple providers. Users can view metro crowdedness, bus arrival times, and bike parking zones in one place.
 
-**Regional Connectivity**: Beijing has one of the longest average commuting times in the world, with many residents commuting from outskirts to the city center. To enhance service across the Jing-Jin-Ji (Beijing-Tianjin-Hebei, 京津冀) region, Beijing MaaS 2.0 implements cross-regional "air/rail + urban transit" planning capabilities, facilitating connections such as intercity rail to suburban bus transfers. This integration allows users to navigate transit systems across different cities more seamlessly while providing transportation agencies with more comprehensive Origin-Destination (OD) data for planning purposes.
+**Regional Connectivity**. Beijing has one of the longest average commuting times in the world, with many residents commuting from outskirts to the city center. To enhance service across the Jing-Jin-Ji (Beijing-Tianjin-Hebei, 京津冀) region, Beijing MaaS 2.0 implements cross-regional "air/rail + urban transit" planning capabilities, facilitating connections such as intercity rail to suburban bus transfers. This integration allows users to navigate transit systems across different cities more seamlessly while providing transportation agencies with more comprehensive Origin-Destination (OD) data for planning purposes.
 
 ### Carbon Reduction & Green Financing
 
 **Objective**: Promote sustainable transportation choices by integrating carbon reduction incentives with Beijing's emissions trading framework. This approach encourages residents to adopt lower-carbon travel options while creating sustainable funding mechanisms for both public infrastructure and private innovation. The initiative supports China's broader goals for digital financial systems and carbon neutrality, testing evidence-based carbon credit (碳普惠) programs and sustainable finance tools that could potentially scale to other urban contexts.
 
-**Carbon Inclusive Incentives**:
+**Carbon Inclusive Incentives**.
 Since 2020, the "MaaS Travel, Green Life" campaign has tracked user emissions reductions through municipality-approved calculation methodologies ([1](https://www.beijing.gov.cn/zhengce/zhengcefagui/202303/t20230327_483739.html), [2](https://sthjj.beijing.gov.cn/bjhrb/resource/cms/article/201256520/325814543/2022042818252517641.docx)). Users can opt into carbon reduction programs via navigation apps by selecting "green routes," earning credits that can be redeemed for transit discounts, retail vouchers, or charitable donations. This incentive structure encourages more sustainable transportation choices across the metropolitan region.
 
-**Carbon Market Integration**:
+**Carbon Market Integration**.
 In partnership with the Beijing Emissions Trading System (BJETS), 97,600 tons of carbon credits were traded during 2021–2023. Beyond generating revenue, a significant portion of these credits were redistributed to users through the Carbon Inclusive Incentives program. Future plans include expanding trading operations to the broader Jing-Jin-Ji region and establishing linkages with national China Certified Emission Reduction (CCER)([3](https://www.chinadaily.com.cn/a/202401/23/WS65af1efea3105f21a507dcc8.html)) standards.
 
-**Green Finance**: Beijing is exploring "traffic-behavior-linked" financial instruments through collaborations with banks and green exchanges, including digital yuan payments and carbon-accounting frameworks that support ESG objectives.
+**Green Finance**. Beijing is exploring "traffic-behavior-linked" financial instruments through collaborations with banks and green exchanges, including digital yuan payments and carbon-accounting frameworks that support ESG objectives.
 
 ### Commuting Optimization
 
