@@ -100,7 +100,7 @@ For this assignment, I used AI to assist with text composing, word phrasing, sou
 
 ## References
 
-## Primary Sources
+### Primary Sources
 
 - **Intersector Project, *The Development of Boston’s Innovation District* (2015)**  
   Available at: [https://intersector.com/wp-content/uploads/2015/10/The-Development-of-Bostons-Innovation-District.pdf](https://intersector.com/wp-content/uploads/2015/10/The-Development-of-Bostons-Innovation-District.pdf)
@@ -119,7 +119,7 @@ For this assignment, I used AI to assist with text composing, word phrasing, sou
 
 ---
 
-## Secondary Sources
+### Secondary Sources
 
 - **TSP Space, *Low Voltage Design for Iconic Tech Hub* (n.d.)**  
   Available at: [https://www.tsp.space/our-work/low-voltage-design-iconic-tech-hub/](https://www.tsp.space/our-work/low-voltage-design-iconic-tech-hub/)
