@@ -12,7 +12,13 @@ year_completed: ongoing
 featured_image: ./1.jpg
 featured_alt: Aerial view of Zürich-West district showing the Prime Tower and surrounding development
 featured_credit: Courtesy of Stadt Zürich (Public Domain)
-tags: Environment, Mobility, Buildings, Energy, InformationSystems, CivicTech
+tags: 
+- Environment
+- Mobility
+- Buildings
+- Energy
+- InformationSystems
+- CivicTech
 geography: ./zurich-west.geojson
 geography_caption: The boundaries of the Zürich-West innovation district, encompassing the former industrial area now transformed into a mixed-use smart district.
 ---

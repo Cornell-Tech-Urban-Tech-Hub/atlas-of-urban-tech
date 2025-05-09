@@ -12,7 +12,12 @@ year_completed: 2025
 featured_image: 20220812_Central_Business_District_of_Zhengdong_New_Area.jpg, 20220617_View_of_Longzihu_02.jpg, 20211221_Zhengzhoudong_Railway_Station.jpg
 featured_alt: Aerial view of Zhengdong New District
 featured_credit: Zhengzhou Municipal Government
-tags: InformationSystems, Mobility, Energy, CivicTech, InnovationSystems
+tags: 
+- InformationSystems
+- Mobility
+- Energy
+- CivicTech
+- InnovationSystems
 geography: ./map.geojson
 geography_caption: Geographic extent of the Zhengdong New District development
 ---
@@ -61,40 +66,40 @@ Zhengzhoudong Railway Station
 
 The successful development of Zhengdong New District's smart city initiative hinges on the collaboration of various stakeholders:
 
-Local Government Authorities: The Zhengzhou Municipal Government and the Zhengdong New District Management Committee play pivotal roles in policy formulation, strategic planning, and providing essential funding and resources for the smart city projects. Their leadership ensures alignment with national development goals and addresses local needs.
+**Local Government Authorities**. The Zhengzhou Municipal Government and the Zhengdong New District Management Committee play pivotal roles in policy formulation, strategic planning, and providing essential funding and resources for the smart city projects. Their leadership ensures alignment with national development goals and addresses local needs.
 
-Technology Providers: Companies such as Inspur have been instrumental in implementing technological solutions. For instance, Inspur's involvement in the Zhengdong New District's City Brain project has enhanced urban management through integrated platforms that facilitate intelligent decision-making and efficient public services. inspur.com
+**Technology Providers**. Companies such as Inspur have been instrumental in implementing technological solutions. For instance, Inspur's involvement in the Zhengdong New District's City Brain project has enhanced urban management through integrated platforms that facilitate intelligent decision-making and efficient public services. inspur.com
 
-Financial Institutions: Banks like China Zheshang Bank and China Minsheng Bank offer financial products and services tailored to support the digital economy and smart city infrastructure projects. Their involvement provides the necessary financial backing for large-scale urban development initiatives. 棉花银行
+**Financial Institutions**. Banks like China Zheshang Bank and China Minsheng Bank offer financial products and services tailored to support the digital economy and smart city infrastructure projects. Their involvement provides the necessary financial backing for large-scale urban development initiatives. 棉花银行
 
-Academic and Research Institutions: Universities and research centers contribute by conducting studies on urbanization challenges and technological innovations, offering insights that guide the development and implementation of smart city solutions.
+**Academic and Research Institutions**. Universities and research centers contribute by conducting studies on urbanization challenges and technological innovations, offering insights that guide the development and implementation of smart city solutions.
 
-## Leadership
+### Leadership
 
 Effective leadership is crucial for the advancement of Zhengdong New District's smart city projects:
 
-Government Leadership: Local government leaders are responsible for setting strategic directions, ensuring the integration of smart technologies into urban planning, and fostering collaborations among various stakeholders. Their vision and commitment drive the momentum of smart city initiatives.
+**Government Leadership**. Local government leaders are responsible for setting strategic directions, ensuring the integration of smart technologies into urban planning, and fostering collaborations among various stakeholders. Their vision and commitment drive the momentum of smart city initiatives.
 
-Corporate Leadership: Executives from technology firms and financial institutions bring expertise in innovation and project management. Their leadership ensures that technological implementations are both cutting-edge and practical, aligning with the city's goals.
+**Corporate Leadership**. Executives from technology firms and financial institutions bring expertise in innovation and project management. Their leadership ensures that technological implementations are both cutting-edge and practical, aligning with the city's goals.
 
 ## Financing
 
 The financial framework supporting Zhengdong New District's smart city initiatives involves multiple strategies:
 
-Government Funding: Allocations from municipal budgets are directed toward foundational infrastructure and pilot projects, demonstrating the government's commitment to smart city development.
+**Government Funding**. Allocations from municipal budgets are directed toward foundational infrastructure and pilot projects, demonstrating the government's commitment to smart city development.
 
-Private Investments: Public-private partnerships attract investments from technology companies and financial institutions, sharing risks and benefits while accelerating project implementation.
+**Private Investments**. Public-private partnerships attract investments from technology companies and financial institutions, sharing risks and benefits while accelerating project implementation.
 
-Special Funds: Establishment of dedicated funds supports digital technology innovation and data governance projects, encouraging enterprises to participate in the smart city ecosystem.
+**Special Funds**. Establishment of dedicated funds supports digital technology innovation and data governance projects, encouraging enterprises to participate in the smart city ecosystem.
 
 
 ## Outcomes
 
-Enhanced Urban Management: The implementation of the City Brain project has led to more efficient urban management, integrating various data sources to improve decision-making processes. 
+**Enhanced Urban Management**. The implementation of the City Brain project has led to more efficient urban management, integrating various data sources to improve decision-making processes. 
 
-Improved Public Services: Smart applications have been developed to provide residents with convenient access to services, enhancing the overall quality of life in the district.
+**Improved Public Services**. Smart applications have been developed to provide residents with convenient access to services, enhancing the overall quality of life in the district.
 
-Economic Growth: The focus on digital infrastructure has attracted businesses and stimulated economic activities, positioning Zhengdong New District as a hub for innovation and technology.
+**Economic Growth**. The focus on digital infrastructure has attracted businesses and stimulated economic activities, positioning Zhengdong New District as a hub for innovation and technology.
 
 ## Open Questions
 
