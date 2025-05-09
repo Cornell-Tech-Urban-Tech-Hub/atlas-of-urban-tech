@@ -9,14 +9,14 @@ country_code: CHN
 centroid: [22.5415, 114.0596]
 year_start: 2021
 year_completed: ongoing
-featured_image: 
+featured_image: ./QianHai.png
 featured_alt: 
 featured_credit: 
 tags: 
 - Mobility
 - InformationSystems
 - CivicTech
-geography: 
+geography: ./Qianhai-in-Shenzhen.geojson
 geography_caption: 
 ---
 
