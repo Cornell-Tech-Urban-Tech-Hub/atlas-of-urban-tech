@@ -4,7 +4,7 @@ description: 	A government-backed technology cluster and mixed-use development, 
 status: Final
 author: Zixin Li
 type: 
-city:  ShenZhen
+city:  Shenzhen
 country_code: CHN
 centroid: [22.531389, 113.941389]
 year_start: 2015

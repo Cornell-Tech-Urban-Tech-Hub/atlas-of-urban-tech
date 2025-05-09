@@ -12,7 +12,11 @@ year_completed: ongoing
 featured_image: ./jimmy-woo-SUMtPksZXBE-unsplash.jpg
 featured_alt: Boston Seaport Skyline
 featured_credit: Jimmy Woo (Unsplash)
-tags: InnovationSystems, Mobility, CivicInnovation, InformationSystems
+tags: 
+- InnovationSystems
+- Mobility
+- CivicInnovation
+- InformationSystems
 geography: ./boston_seaport.geojson
 geography_caption: Boston Seaport District boundaries.
 ---
