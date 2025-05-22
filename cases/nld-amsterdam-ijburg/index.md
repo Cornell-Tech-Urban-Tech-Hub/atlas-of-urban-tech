@@ -12,9 +12,6 @@ year_completed: ongoing
 featured_image: ./ijburg-floating-homes.jpg
 featured_alt: Floating housing in IJburg, Amsterdam
 featured_credit:  Wikimedia Commons, CC BY-SA 4.0
-featured_image: ./sluishuis-in-amsterdam.png
-featured_alt: Sluishuis floating housing in IJburg
-featured_credit:  Wikimedia Commons, CC BY-SA 4.0
 tags: 
 - Environment
 - Mobility
