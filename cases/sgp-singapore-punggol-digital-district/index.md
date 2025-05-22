@@ -17,9 +17,9 @@ geography_caption: Punggol, SGP
 year_start: 2018
 year_completed: 2024
 tags: 
-- InnovationSystems
-- InformationSystems
-- Environment
+  - InnovationSystems
+  - InformationSystems
+  - Environment
 
 
 ---
