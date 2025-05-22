@@ -25,9 +25,9 @@ The Qianhai Smart City Project in Shenzhen is a high-tech urban development init
   
 
 ## Goals and Aspirations
-**Digital Governance & Smart Services - Establish a fully digitized government service system to streamline administrative processes and improve public service efficiency**.
-**AI & Big Data Integration - Implement AI and big data analytics to enhance urban management, including traffic optimization, environmental monitoring, and public security**.
-**Green & Sustainable Urban Development - Develop a low-carbon, smart energy infrastructure with IoT-enabled environmental monitoring and smart grid integration**.
+**Digital Governance & Smart Services** - Establish a fully digitized government service system to streamline administrative processes and improve public service efficiency.
+**AI & Big Data Integration** - Implement AI and big data analytics to enhance urban management, including traffic optimization, environmental monitoring, and public security
+**Green & Sustainable Urban Development** - Develop a low-carbon, smart energy infrastructure with IoT-enabled environmental monitoring and smart grid integration
 
 ## Key Characteristics
 
@@ -88,11 +88,9 @@ The Qianhai Smart City Project in Shenzhen is a high-tech urban development init
 
 I used AI tools, including ChatGPT, to help write and organize this report. ChatGPT was used to summarize Shenzhen’s Smart City Plan, structure the content, and format it in Markdown. I also used AI to find relevant government documents and fact-checked the information by comparing it with official sources and news reports. Finally, I reviewed and edited everything to make sure it met the assignment requirements.
 
-# References
+---
 
 ## References
-
----
 
 ### Primary Sources
 
