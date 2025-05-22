@@ -13,7 +13,6 @@ featured_image: ./theline.jpeg
 featured_alt: The Line Cityscape
 featured_credit: NEOM
 tags: 
-tags: 
   - InformationSystems
   - Mobility
   - InnovationSystems
