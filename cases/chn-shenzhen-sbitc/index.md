@@ -1,9 +1,9 @@
 ---
 title: Shenzhen Bay Innovation and Technology Center
-description: 	A government-backed technology cluster and mixed-use development, home to major tech giants.
-status: Final
+description: A government-backed technology cluster and mixed-use development, home to major tech giants.
+status: Complete
 author: Zixin Li
-type: 
+type: district
 city:  Shenzhen
 country_code: CHN
 centroid: [22.531389, 113.941389]

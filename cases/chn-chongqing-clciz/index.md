@@ -1,7 +1,7 @@
 ---
 title: Chongqing Liangjiang Collaborative Innovation Zone
 description:  A 680-hectare smart city district integrating R&D clusters, sustainable design, and cutting-edge industries to drive technological innovation in Southwest China.  
-status: Draft
+status: Complete
 author: Zhuoqi Xu
 type: district
 city: Chongqing

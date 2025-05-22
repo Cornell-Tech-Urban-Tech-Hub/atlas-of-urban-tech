@@ -1,7 +1,7 @@
 ---
 title: Shanghai Zhangjiang Hi-Tech Park Case Study
 description: Zhangjiang Hi-Tech Park, located in Shanghai's Pudong district, is a leading innovation hub specializing in life sciences, software, semiconductors, and information technology. Recognized as a Special Economic Zone, the park has earned the nickname "China's Silicon Valley" for its dynamic ecosystem and critical role in advancing the country's high-tech industries.
-status: Completed
+status: Complete
 author: Weilin Pan
 type: district, plan
 city: Shanghai

@@ -1,6 +1,7 @@
 ---
 title: Beirut Digital District
-status: Draft
+status: Complete
+type: district
 author: Oliver Obeid 
 city: Beirut
 country_code: LBN

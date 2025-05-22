@@ -3,7 +3,7 @@ title: Punggol Digital District
 template: stub
 author: Urban Tech Hub
 type: district
-status: Review
+status: Complete
 city: Singapore 
 country: Singapore
 country_code: SGP

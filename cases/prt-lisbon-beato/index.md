@@ -1,7 +1,7 @@
 ---
 title: Lisbon's Unicorn Factory in the Beato District
 description: Lorem ipsum dolor sit amet
-status: Draft
+status: Complete
 author: Zack Pakin
 type: district
 city: Lisbon

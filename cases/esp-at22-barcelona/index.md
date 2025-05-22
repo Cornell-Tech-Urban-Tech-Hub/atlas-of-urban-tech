@@ -1,7 +1,7 @@
 ---
 title: 22@Barcelona
 description: The 22@Barcelona project is committed to reclaiming city control over technology and data within this former industrial area, reducing dependence on large tech corporations. By developing open-source technologies, establishing autonomous standards, and implementing strict data management policies within the innovation district, Barcelona aims to protect citizen data and ensure it serves public rather than commercial interests. 
-status: In Progress
+status: Complete
 author: Yueqi Hu
 type: district
 city: Barcelona

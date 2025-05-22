@@ -1,7 +1,7 @@
 ---
 title: IJburg Smart Community 
 description: A climate adaptive, digitally connected, and community driven community, built on artificial islands in Amsterdam.
-status: Final
+status: Complete
 author: Hanqi Guo
 type: district
 city: Amsterdam

@@ -1,7 +1,7 @@
 ---
 title: The Line from NEOM
 description: A smart, AI-driven linear city designed for sustainability, connectivity, and cognitive urbanism.
-status: Draft
+status: Complete
 author: Yixuan Wang
 type: district
 city: Neom in Tabuk Province 

@@ -1,9 +1,9 @@
 ---
 title: Xi’an High-tech Zone Smart City Project
 description: A data-driven smart district of GaoXin district in Xi’an city
-status: Draft
+status: Complete
 author: Xuexin He
-type: 
+type: district
 city: Xi’an
 country_code: CHN
 centroid: [34.2144, 108.8721]

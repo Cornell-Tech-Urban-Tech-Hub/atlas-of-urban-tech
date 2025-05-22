@@ -1,7 +1,7 @@
 ---
 title: Zürich-West Innovation District
 description: Transforming a former industrial area into a smart urban living lab that balances technological innovation with quality of life
-status: Draft
+status: Complete
 author: Liang Ge
 type: district
 city: Zurich

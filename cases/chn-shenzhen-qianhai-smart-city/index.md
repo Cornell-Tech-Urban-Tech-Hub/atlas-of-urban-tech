@@ -1,9 +1,9 @@
 ---
 title: The Qianhai Smart City Project in Shenzhen
 description: The Qianhai Smart City Project in Shenzhen is a high-tech urban development initiative.
-status: Draft
-author: 
-type: 
+status: Complete
+author: Ian Zheng
+type: district
 city: Shenzhen
 country_code: CHN
 centroid: [22.5415, 114.0596]
