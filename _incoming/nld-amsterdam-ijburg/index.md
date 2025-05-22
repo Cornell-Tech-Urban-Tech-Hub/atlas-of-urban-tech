@@ -1,5 +1,5 @@
 ---
-title: IJburg Smart Community 
+title: IJburg Smart Community
 description: A climate adaptive, digitally connected, and community driven community, built on artificial islands in Amsterdam.
 status: Complete
 author: Hanqi Guo
@@ -11,15 +11,15 @@ year_start: 1997
 year_completed: ongoing
 featured_image: ./ijburg-floating-homes.jpg
 featured_alt: Floating housing in IJburg, Amsterdam
-featured_credit:  Wikimedia Commons, CC BY-SA 4.0
-tags: 
+featured_credit: Wikimedia Commons, CC BY-SA 4.0
+tags:
   - Environment
   - Mobility
   - Buildings
   - Energy
   - CivicTech
   - InnovationSystems
-geography:  ./ijburg.geojson
+geography: ./ijburg.geojson
 geography_caption: District boundaries of IJburg
 ---
 <!--
