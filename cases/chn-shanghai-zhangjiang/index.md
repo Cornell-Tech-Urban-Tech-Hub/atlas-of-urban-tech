@@ -16,7 +16,6 @@ featured_alt2: Zhangjiang D2 Charging Station
 featured_image3: ./solar.png
 featured_alt3: Solar panels installed on a series of buildings
 featured_credit: Caroline Morin et al.
-tags: Environment, Sustainability, Energy, InformationSystems, InformationTechnology, InnovationSystems, CivicTech, CivicInnovation
 geography: ./zhangjiang.geojson
 geography_caption: 
 tags:
