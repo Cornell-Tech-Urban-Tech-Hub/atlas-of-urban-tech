@@ -19,6 +19,8 @@ featured_credit: Caroline Morin et al.
 tags: Environment, Sustainability, Energy, InformationSystems, InformationTechnology, InnovationSystems, CivicTech, CivicInnovation
 geography: ./zhangjiang.geojson
 geography_caption: 
+tags:
+  - InnovationSystems
 ---
 <!--
 Allowed values:
