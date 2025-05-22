@@ -12,7 +12,11 @@ year_completed: 2015
 featured_image: ./songdo1.jpg
 featured_alt: 
 featured_credit: Jun Michael Park
-tags: Buildings, InformationSystems, Environment, InnovationSystems
+tags: 
+  - Buildings
+  - InformationSystems
+  - Environment
+  - InnovationSystems
 geography: ./songdoIBD.geojson
 geography_caption: Optional Caption for the geograhic information.
 ---
