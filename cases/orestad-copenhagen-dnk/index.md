@@ -1,9 +1,9 @@
 ---
 title: Ørestad Smart District
 description: A high-density urban development that integrates sustainable practices and innovative technologies, featuring smart transportation systems, energy-efficient buildings, and data-driven urban management.
-status: Completed
+status: Complete
 author: Jingming He
-type: District
+type: district
 city:  Copenhagen
 country_code: DNK
 centroid: [55.6283, 12.5767]
@@ -12,25 +12,16 @@ year_completed: 2025 (anticipated)
 featured_image: ./Ørestad_Street_Hall.jpg
 featured_alt: Ørestad Street Hall
 featured_credit: Adam Mørk (visitcopenhagen)
-tags: 
+tags:
   - Environment
   - Mobility
   - Buildings
   - Energy
-  - InformationSystems
-  - InnovationSystems
 geography: /map.geojson
 geography_caption: Map highlighting the Ørestad district within Copenhagen
 
 ---
-<!--
-Allowed values:
 
-type: district, plan
-
-tags: Environment, Mobility, Buildings, Energy, InformationSystems, HealthEducation, InnovationSystems, CivicTech, CivicInnovation, Food
-
--->
 
 
 ## Overview
