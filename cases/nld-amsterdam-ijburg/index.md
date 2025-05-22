@@ -13,12 +13,12 @@ featured_image: ./ijburg-floating-homes.jpg
 featured_alt: Floating housing in IJburg, Amsterdam
 featured_credit:  Wikimedia Commons, CC BY-SA 4.0
 tags: 
-- Environment
-- Mobility
-- Buildings
-- Energy
-- CivicTech
-- InnovationSystems
+  - Environment
+  - Mobility
+  - Buildings
+  - Energy
+  - CivicTech
+  - InnovationSystems
 geography:  ./ijburg.geojson
 geography_caption: District boundaries of IJburg
 ---
