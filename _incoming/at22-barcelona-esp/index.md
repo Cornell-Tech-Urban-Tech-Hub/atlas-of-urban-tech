@@ -5,14 +5,17 @@ status: In Progress
 author: Yueqi Hu
 type: district
 city: Barcelona
-country_code: Spain
+country_code: ESP
 centroid: [41.4036, 2.1944]
 year_start: 2000
 year_completed: 2019
 featured_image: ./22@.png
 featured_alt: 22@plan
 featured_credit: https://www.researchgate.net/publication/254091209_The_knowledge_city_against_urban_creativity_Artists'_workshops_and_urban_regeneration_in_Barcelona 
-tags: InformationSystems, Mobility, InnovationSystems
+tags: 
+- InformationSystems
+- Mobility
+- InnovationSystems
 geography: ./22@.geojson
 geography_caption: 22@Barcelona
 ---
@@ -37,11 +40,11 @@ social renewal. And the project has to be seen in the Barcelona tradition of lon
 
 <!-- What is the project trying to achieve? Identify 3-5 high-level goals that define the entire project.Replace the placeholder title with a succinct name for the goal. -->
 
-**Urban Regeneration**: Transform the industrial Poblenou neighborhood into a modern, mixed-use district with quality public spaces, sustainable infrastructure, and improved connectivity. The plan aims to preserve industrial heritage while creating a compact Mediterranean urban model that integrates residential areas with innovation spaces, maintaining Barcelona's human-scale urban design tradition.
+**Urban Regeneration**. Transform the industrial Poblenou neighborhood into a modern, mixed-use district with quality public spaces, sustainable infrastructure, and improved connectivity. The plan aims to preserve industrial heritage while creating a compact Mediterranean urban model that integrates residential areas with innovation spaces, maintaining Barcelona's human-scale urban design tradition.
 
-**Economy System**: Establish a vibrant innovation district that attracts knowledge-intensive activities and fosters collaboration between businesses, universities, and research centers. The plan designates space for five strategic clusters (media, ICT, medical technologies, energy, and design) to position Barcelona as a competitive hub in the global knowledge economy while creating high-quality employment opportunities.
+**Economy System**. Establish a vibrant innovation district that attracts knowledge-intensive activities and fosters collaboration between businesses, universities, and research centers. The plan designates space for five strategic clusters (media, ICT, medical technologies, energy, and design) to position Barcelona as a competitive hub in the global knowledge economy while creating high-quality employment opportunities.
 
-**Social Renewal**: Ensure the urban and economic transformation benefits existing residents through affordable housing provisions, public facilities, and job training programs. The plan seeks to preserve neighborhood identity and cultural heritage while creating a socially diverse district that prevents displacement and promotes equitable participation in the knowledge economy.
+**Social Renewal**. Ensure the urban and economic transformation benefits existing residents through affordable housing provisions, public facilities, and job training programs. The plan seeks to preserve neighborhood identity and cultural heritage while creating a socially diverse district that prevents displacement and promotes equitable participation in the knowledge economy.
 
 
 ## Key Characteristics
@@ -49,7 +52,7 @@ social renewal. And the project has to be seen in the Barcelona tradition of lon
 <!--  How is the project organized into specific activities that advance these goals? For plans: How does the plan address each of the three activities in digital master plans (development, engagement, implementation). For districts: How does the district employ 3-5 of the key characteristics of innovation hubs?
 -->
 
-**Strategic Clustering**
+**Strategic Clustering**.
 One of the defining features of 22@Barcelona is its focus on clustering related industries to drive economic growth and innovation. The district is structured around five primary knowledge-based sectors:
 - Information and Communication Technologies (ICT)
 - Media and Cultural Industries
@@ -57,19 +60,19 @@ One of the defining features of 22@Barcelona is its focus on clustering related 
 - Energy and Environmental Technologies
 - Biomedical Technologies
 
-**Mixed-Use Urban Development** 
+**Mixed-Use Urban Development**.
 22@ employs a comprehensive mixed-use development model that integrates residential, commercial, educational, and recreational functions within the district. Key elements include:
 - The adaptive reuse of industrial buildings for startups and creative enterprises
 - The inclusion of both market-rate and affordable housing to accommodate a diverse population
 - The development of public parks and green spaces to enhance quality of life
 
-**Innovation and Sustainability**
+**Innovation and Sustainability**.
 The district is supported by modern infrastructure tailored to the needs of innovative enterprises and a sustainable urban lifestyle. Notable investments include:
 - Deployment of high-speed fiber-optic internet and digital city services
 - Expansion of green infrastructure, including pedestrian zones and public gardens
 - Enhancement of sustainable mobility options, such as public transport, bike lanes, and smart mobility systems
 
-**Talent Attraction**
+**Talent Attraction**.
 22@ places a strong emphasis on human capital by aligning its physical and institutional infrastructure to support talent development. This is achieved through:
 - Partnerships with universities such as Pompeu Fabra University and the Polytechnic University of Catalonia (UPC)
 - The establishment of research centers, business incubators, and startup accelerators
@@ -79,18 +82,18 @@ The district is supported by modern infrastructure tailored to the needs of inno
 ## Stakeholders
 <!--  Who initiated the project? Who is leading the project forward? Who else has a say in how it unfolds? Who is directly affected but marginalized? Identify 3-5 key stakeholder organizations or groups. Identify 3-5 key individuals. These are people who are associated with the project as leaders, supporters, critics, or regulators. They are likely to be members of the stakeholder groups identified above. These are people you should try to contact for one or more interviews.-->
 
-**Barcelona City Council**
+**Barcelona City Council**.
 Initiator and primary public authority responsible for urban planning, policy-making, and infrastructure development in 22@.\
 Key Individual: Francesca Bria
 
-**22@Network BCN**
+**22@Network BCN**.
 A non-profit association of businesses, institutions, and universities in the district.\
 Key Individual: Susana Prado
 
-**Universities and Research Institutions**
+**Universities and Research Institutions**.
 Provide academic, research, and talent infrastructure critical to 22@’s knowledge economy.\
 
-**Citizens of Barcelona**
+**Citizens of Barcelona**.
 Directly affected by gentrification, housing prices, and urban transformation, but often marginalized in planning decisions.\
 Key individual: Yee Ding
 
@@ -98,19 +101,19 @@ Key individual: Yee Ding
 ## Technology Interventions
 <!--  What specific technology-enabled interventions does the project propose? Identify 3-5 technology interventions. Describe use cases, value proposition, solution architecture, data created or consumed, key platforms and standards, business models, regulatory issues, etc. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
 
-**Smart Urban Infrastructure**
+**Smart Urban Infrastructure**.
 One of the earliest and most foundational technology interventions in 22@ was the deployment of high-speed fiber-optic broadband infrastructure, ensuring universal internet access throughout the district. This backbone has supported the growth of ICT companies and enabled advanced smart city applications.\
 Use cases include real-time urban monitoring, energy-efficient lighting systems, and smart mobility solutions. The infrastructure follows open standards and interoperability guidelines to facilitate integration with future technologies. 
 
-**Smart Mobility Solutions**
+**Smart Mobility Solutions**.
 The district emphasizes smart, low-emission transport systems, including real-time public transport tracking, bike-sharing platforms, and pedestrian-first street design. IoT devices and GPS-enabled infrastructure feed data into a centralized traffic management system that improves efficiency and reduces environmental impact.
 Key platforms involved include Barcelona’s SMOU mobility app and integrations with TMB (Transports Metropolitans de Barcelona). The city promotes open access to mobility data through its Open Data BCN platform, supporting innovation by third-party developers and startups in the mobility sector.
 
-**Open City Dashboard**
+**Open City Dashboard**.
 22@ has leveraged digital platforms to enhance citizen interaction and transparency in urban governance. Through digital participation portals (e.g., Decidim Barcelona), residents can provide feedback on public projects and vote on local initiatives.
 These platforms use secure authentication standards and GDPR-compliant data protocols, ensuring that residents can participate safely. 
 
-**Technological Entrepreneurship and Startups Supports**
+**Technological Entrepreneurship and Startups Supports**.
 The district features a network of technology incubators, co-working spaces, and accelerators, many of which are supported by Barcelona Activa. These facilities offer access to digital tools, cloud computing credits, and training in AI, blockchain, and IoT technologies.
 Startups can leverage open APIs and real-world urban datasets to build and test solutions within a "living lab" environment. Business models vary, but many operate under public-private partnership models that balance innovation support with commercial viability.
 
@@ -118,7 +121,7 @@ Startups can leverage open APIs and real-world urban datasets to build and test 
 ## Financing
 <!--  How are the technology interventions identified to be financed? How does this fit into financing of the larger project? Identify at least one financing mechanism that is being used. -->
 
-**Financing Scheme**
+**Financing Scheme**.
 | **Financing Mechanism**           | **Description**               | **Details**                   |
 |-----------------------------------|-------------------------------|-------------------------------|
 | **Public Funding**   |Direct investment from the Barcelona City Council and public agencies |Over €180 million invested in infrastructure, public space, and basic services improvements |

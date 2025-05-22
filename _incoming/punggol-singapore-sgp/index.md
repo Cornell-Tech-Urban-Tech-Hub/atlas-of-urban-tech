@@ -5,14 +5,18 @@ status: Final
 author: Saga Salim
 type: district
 city: Singapore 
-country_code: Singapore
+country_code: SGP
 centroid: [1.3521, 103.8198]
 year_start: 2015
 year_completed: 2026
 featured_image: ./shawn-kT0UDQjRKfs-unsplash.jpeg
 featured_alt: Coney Island
 featured_credit: [Shawn](https://unsplash.com/@shawnanggg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) (Unsplash)
-tags: Buildings, Energy, InformationSystems, CivicTech
+tags: 
+- Buildings
+- Energy
+- InformationSystems
+- CivicTech
 geography: ./map.geojson
 geography_caption: Punggol Digital District, Singapore.
 ---

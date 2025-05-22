@@ -5,7 +5,7 @@ status: Draft
 author: Zack Pakin
 type: district
 city: Lisbon
-country_code: PT
+country_code: PRT
 centroid: [-9.111340000002542, 38.72658863000558]
 year_start: 2016
 year_completed: 2024 #Much is still in progress
@@ -87,20 +87,20 @@ The Beato Innovation district is a urban regeneration project encompassing the B
 ## Outcomes
 <!-- What results has the project produced to date? What outcomes and impacts are anticipated? Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. -->
 
-**Outcome 1: International Recognition**. Since the completion of the Beato Innovation District, Lisbon has been recognized as a top European tech city, such as by winning the European Capital of Innovation award in 2023. This award and broader recognition demonstrates that Lisbon has become a go-to for founders and freelancers looking for their next opportunity.  
+**International Recognition**. Since the completion of the Beato Innovation District, Lisbon has been recognized as a top European tech city, such as by winning the European Capital of Innovation award in 2023. This award and broader recognition demonstrates that Lisbon has become a go-to for founders and freelancers looking for their next opportunity.  
 
-**Outcome 2: Successful Investment in Numerous Beato Startups**. Besides awards, collective financial success of Beato's startups has been astounding. As of late 2024, $1 billion in funding has been generated for Beato startups. The Unicorn Factory has supported more than 820 startups, creating a transformation of the Beato neighorhood and greater Portuguese economy.
+**Successful Investment in Numerous Beato Startups**. Besides awards, collective financial success of Beato's startups has been astounding. As of late 2024, $1 billion in funding has been generated for Beato startups. The Unicorn Factory has supported more than 820 startups, creating a transformation of the Beato neighorhood and greater Portuguese economy.
 
-**Outcome 3: Expansion of Programming**. Due to the cohesive and innovative community that has been created over the past few years, the Unicorn Factory has been able to expand the programs it offers, targeting youth with My First Startup or Innovation Summer School. Additional hubs, such as the greenhub, were also made possible by the success of other initiatives. This outcome is not a static one, rather one that is ongoing, as continued success is the reason that Beato is able to host these new programs.  
+**Expansion of Programming**. Due to the cohesive and innovative community that has been created over the past few years, the Unicorn Factory has been able to expand the programs it offers, targeting youth with My First Startup or Innovation Summer School. Additional hubs, such as the greenhub, were also made possible by the success of other initiatives. This outcome is not a static one, rather one that is ongoing, as continued success is the reason that Beato is able to host these new programs.  
 
 ## Open Questions
 <!-- What is uncertain, unclear, or still unresolved about this project? Identify 1-3 open question(s). -->
 
-**Open questions 1**.  How do residents of Beato and the surrounding neighborhood feel about the transformation to a startup hub?
+**How do residents of Beato and the surrounding neighborhood feel about the transformation to a startup hub?**
 
-**Open questions 2**.  Given that so many startup hubs are popping up around the world, how will the Beato district maintain its edge?
+**Given that so many startup hubs are popping up around the world, how will the Beato district maintain its edge?**
 
-**Open questions 3**.  How reliant are the current initiatives on government support and how might the district change if that support is withdrawn or reduced?
+**How reliant are the current initiatives on government support and how might the district change if that support is withdrawn or reduced?**
 
 ## AI Disclaimer
 ChatGPT and Claude were used as tools to research high-level information and sources about the Beato Innovation District and Unicorn Factory. These platforms were utilized in each of the sections, except the open questions. None of the content on this brief was written by generative AI tools. Both tools had web search enabled, increasing the accuracy of the information provided. For each piece of information gathered, the cited source was verified to ensure that information provided was correct. Additionally, in some larger documents, like the 60-page student thesis, ChatGPT was used to extract insights, supported by quotes.
