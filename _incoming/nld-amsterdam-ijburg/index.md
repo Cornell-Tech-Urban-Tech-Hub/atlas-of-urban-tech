@@ -8,7 +8,7 @@ city: Amsterdam
 country_code: NLD
 centroid: [52.3567, 4.9931]
 year_start: 1997
-year_completed: ongoing
+year_completed: Ongoing
 featured_image: ./ijburg-floating-homes.jpg
 featured_alt: Floating housing in IJburg, Amsterdam
 featured_credit: Wikimedia Commons, CC BY-SA 4.0

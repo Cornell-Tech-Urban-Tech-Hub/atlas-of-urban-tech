@@ -8,7 +8,7 @@ city: Xi’an
 country_code: CHN
 centroid: [34.2144, 108.8721]
 year_start: 2020
-year_completed: ongoing
+year_completed: Ongoing
 featured_image: ./xian-gaoxin-zone.png
 featured_alt: Xi’an High-tech Zone Smart City
 featured_credit: Image via Wikimedia Commons (CC BY-SA 4.0)

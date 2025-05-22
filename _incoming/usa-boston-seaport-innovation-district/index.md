@@ -8,7 +8,7 @@ city: Boston
 country_code: USA
 centroid: [42.3521, -71.0457]
 year_start: 2010
-year_completed: ongoing
+year_completed: Ongoing
 featured_image: ./jimmy-woo-SUMtPksZXBE-unsplash.jpg
 featured_alt: Boston Seaport Skyline
 featured_credit: Jimmy Woo (Unsplash)

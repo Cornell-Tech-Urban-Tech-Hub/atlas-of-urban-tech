@@ -14,8 +14,8 @@ featured_image: ./ch-9deej2hTRrY-unsplash.jpeg
 featured_alt: Busan Eco Delta City
 featured_credit: chɑɒµͻ (Unsplash)
 tags:
-- Environment  
-- HealthEducation
+  - Environment  
+  - HealthEducation
 geography: ./busan-kor.geojson
 geography_caption: Busan Eco-Delta City, Gangseo-gu, Busan, South Korea
 ---

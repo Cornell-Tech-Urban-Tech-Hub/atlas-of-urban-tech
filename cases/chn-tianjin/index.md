@@ -14,9 +14,9 @@ featured_image: ./valery-rabchenyuk-nUQ8CoDUnAw-unsplash.jpeg
 featured_alt: Sino-Singapore Eco-City Skyline
 featured_credit: enorth.com.cn(Unsplash)
 tags:
-  - Energy
-  - Environment
-  - Buildings
+- Energy
+- Environment
+- Buildings
 geography: ./Tianjin.geojson
 geography_caption: Sino-Singapore Eco-City
 ---

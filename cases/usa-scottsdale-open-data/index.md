@@ -9,7 +9,7 @@ city:  Scottsdale
 country_code: USA
 centroid: [33.4930555556, -111.9261111111]
 year_start: 2017
-year_completed: ongoing
+year_completed: Ongoing
 featured_image: ./images/SCOTTSDALEAZ_COLIN_LLOYD.jpg
 featured_alt: City of Scottsdale
 featured_credit: Colin Lloyd (Unsplash)
