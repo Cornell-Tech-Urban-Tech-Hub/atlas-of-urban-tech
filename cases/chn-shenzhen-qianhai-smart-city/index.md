@@ -13,9 +13,9 @@ featured_image: ./QianHai.png
 featured_alt: 
 featured_credit: 
 tags: 
-- Mobility
-- InformationSystems
-- CivicTech
+  - Mobility
+  - InformationSystems
+  - CivicTech
 geography: ./Qianhai-in-Shenzhen.geojson
 geography_caption: 
 ---

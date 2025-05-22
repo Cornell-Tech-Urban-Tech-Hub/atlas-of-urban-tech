@@ -13,6 +13,10 @@ featured_image: ./theline.jpeg
 featured_alt: The Line Cityscape
 featured_credit: NEOM
 tags: 
+tags: 
+  - InformationSystems
+  - Mobility
+  - InnovationSystems
 geography: ./neom-sau.geojson
 geography_caption: Optional Caption for the geograhic information.
 ---

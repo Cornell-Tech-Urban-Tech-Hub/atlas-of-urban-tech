@@ -13,6 +13,7 @@ featured_image: ./UFL.jpg
 featured_alt: Unicorn Factory Exterior
 featured_credit: Unicorn Factory Lisboa
 tags: 
+  - InnovationSystems
 geography: ./beato.geojson
 geography_caption: Lisbon's Beato neighborhood, highlighting the Unicorn Factory.
 ---

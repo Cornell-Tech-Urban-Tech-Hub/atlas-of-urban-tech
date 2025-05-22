@@ -13,12 +13,12 @@ featured_image: ./Ørestad_Street_Hall.jpg
 featured_alt: Ørestad Street Hall
 featured_credit: Adam Mørk (visitcopenhagen)
 tags: 
-- Environment
-- Mobility
-- Buildings
-- Energy
-- InformationSystems
-- InnovationSystems
+  - Environment
+  - Mobility
+  - Buildings
+  - Energy
+  - InformationSystems
+  - InnovationSystems
 geography: /map.geojson
 geography_caption: Map highlighting the Ørestad district within Copenhagen
 

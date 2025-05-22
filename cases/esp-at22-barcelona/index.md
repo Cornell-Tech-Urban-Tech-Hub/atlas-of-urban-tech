@@ -13,9 +13,9 @@ featured_image: ./22@.png
 featured_alt: 22@plan
 featured_credit: https://www.researchgate.net/publication/254091209_The_knowledge_city_against_urban_creativity_Artists'_workshops_and_urban_regeneration_in_Barcelona 
 tags: 
-- InformationSystems
-- Mobility
-- InnovationSystems
+  - InformationSystems
+  - Mobility
+  - InnovationSystems
 geography: ./22@.geojson
 geography_caption: 22@Barcelona
 ---

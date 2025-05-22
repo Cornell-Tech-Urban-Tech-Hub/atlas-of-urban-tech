@@ -13,11 +13,11 @@ featured_image: ./641.jpg
 featured_alt: Aerial view of Chongqing Liangjiang Collaborative Innovation Zone
 featured_credit: www.cqcp.com
 tags: 
-- InnovationSystems
-- Environment
-- Mobility
-- Buildings
-- Energy
+  - InnovationSystems
+  - Environment
+  - Mobility
+  - Buildings
+  - Energy
 geography: ./liangjiang-innovation-zone.geojson
 geography_caption: Boundaries of the Chongqing Liangjiang Collaborative Innovation Zone.
 ---

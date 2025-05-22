@@ -13,9 +13,9 @@ featured_image: ./xian-gaoxin-zone.png
 featured_alt: Xi’an High-tech Zone Smart City
 featured_credit: Image via Wikimedia Commons (CC BY-SA 4.0)
 tags: 
-- Mobility
-- InformationSystems
-- CivicTech
+  - Mobility
+  - InformationSystems
+  - CivicTech
 geography: ./xian-gaoxin-zone.geojson
 geography_caption: Optional Caption for the geograhic information.
 ---
