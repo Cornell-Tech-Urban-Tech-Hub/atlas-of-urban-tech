@@ -1,9 +1,10 @@
 ---
-title: Kalasatama Smart City District
-description: Kalasatama is a tech-enabled urban district in Helsinki, Finland, designed to be a model for sustainable and smart urban development.
-status: Draft
+title: Smart Kalasatama (1)
+description: A tech-enabled urban district in Helsinki, Finland, designed to be a model for sustainable and smart urban development.
+status: Complete
 author: Haozhe Chen
 type: District
+template: case-study
 city: Helsinki
 country_code: FIN
 centroid: [60.1785, 24.9847]
@@ -24,6 +25,8 @@ geography: ./kalasatama.geojson
 geography_caption: Map of Kalasatama Smart City District in Helsinki, Finland.
 
 ---
+
+See also [Smart Kalasatama 2](https://atlasofurbantech.org/cases/fin-helsinki-kalasatama-2) for another case study of this district.
 
 ## Overview
 

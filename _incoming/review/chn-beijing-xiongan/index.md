@@ -1,7 +1,8 @@
 ---
 title: Xiongan New Area
 description: 
-status: Draft
+status: Complete
+template: case-study
 author: Yubang Wu
 type: district
 city:  Beijing

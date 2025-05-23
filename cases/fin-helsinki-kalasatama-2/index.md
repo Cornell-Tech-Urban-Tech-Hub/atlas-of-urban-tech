@@ -1,8 +1,10 @@
 ---
-title: Tech Enabled District Brief
-status: Draft
-description: Smart Kalasatama is one of Europe's leading smart city districts, designed as a living lab for urban innovation.
+title: Smart Kalasatama (2)
+status: Complete
+description: One of Europe's leading smart city districts, designed as a living lab for urban innovation.
 city: Helsinki 
+type: district
+template: case-study
 country_code: FIN
 centroid: [24.9800,60.1891]
 year_start: 2013
@@ -24,6 +26,7 @@ type: district, plan
 tags: Environment, Mobility, Buildings, Energy, InformationSystems, InnovationSystems, CivicTech, CivicInnovation
 -->
 
+See also [Smart Kalasatama 1](https://atlasofurbantech.org/cases/fin-helsinki-kalasatama-1) for another case study of this district.
 
 ## Overview
 

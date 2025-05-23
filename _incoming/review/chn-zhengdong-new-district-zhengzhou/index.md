@@ -1,9 +1,10 @@
 ---
 title: Zhengdong New District Smart City Case
 description: A case study of Zhengdong New District's transformation into a smart city
-status: Final
+status: Complete
 author: Zeyu Zhang
 type: district
+template: case-study
 city: Zhengzhou
 country_code: CHN
 centroid: [34.773554, 113.720722]
