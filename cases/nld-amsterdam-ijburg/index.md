@@ -4,6 +4,7 @@ description: A climate adaptive, digitally connected, and community driven commu
 status: Complete
 author: Hanqi Guo
 type: district
+template: case-study
 city: Amsterdam
 country_code: NLD
 centroid: [52.3567, 4.9931]
@@ -13,6 +14,12 @@ featured_image: ./ijburg-floating-homes.jpg
 featured_alt: Floating housing in IJburg, Amsterdam
 featured_credit: Wikimedia Commons, CC BY-SA 4.0
 tags:
+  - Environment
+  - Mobility
+  - Buildings
+  - Energy
+  - CivicTech
+  - InnovationSystems
 geography: ./ijburg.geojson
 geography_caption: District boundaries of IJburg
 ---
