@@ -3,7 +3,7 @@ title: Smart Kalasatama (1)
 description: A tech-enabled urban district in Helsinki, Finland, designed to be a model for sustainable and smart urban development.
 status: Complete
 author: Haozhe Chen
-type: District
+type: district
 template: case-study
 city: Helsinki
 country_code: FIN

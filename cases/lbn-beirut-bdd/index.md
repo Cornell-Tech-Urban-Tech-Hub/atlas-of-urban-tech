@@ -1,18 +1,25 @@
 ---
 title: Beirut Digital District
+description: A business district providing value added services and cutting edge facilities for developing, producing and exchanging innovative tools and applications
+template: case-study
 status: Complete
 type: district
 author: Oliver Obeid 
+type: district
 city: Beirut
 country_code: LBN
 centroid: [33.898056, 35.505833]
 year_start: 2012
-year_completed: 
-tags: 
+year_completed: Ongoing
+featured_image: ./figure03-14.jpg
+featured_alt: 
+featured_credit:
+tags:
 - InformationSystems
 - Mobility
 - InnovationSystems
-
+geography: ./map.geojson
+geography_caption: Beirut Digital District
 ---
 
 ## Goals and Aspirations
@@ -62,6 +69,8 @@ One of the foundational technology interventions within BDD is its district wide
 
 **International grants and diaspora investment funds**. International grants and diaspora investment funds represent an additional stream of financing for BDD. Several programs have been supported through partnerships with international development organizations and foreign donors interested in Lebanon’s digital economy. These funds are typically earmarked for innovation initiatives, community development, or training programs rather than physical infrastructure. Likewise, Lebanese expatriates play a role by investing in BDD startups or co-financing events and mentorship networks. These capital inflows provide non-traditional support that reinforces BDD’s community oriented mission.
 
+![Aerial view of the Beirut Digital District](./Beirut_Digital_District.jpg)
+
 ## Outcomes and Impacts
 
 **High density innovation ecosystem**. The Beirut Digital District has succeeded in creating a high density innovation ecosystem that now houses more than 100 startups, SMEs, NGOs, and regional tech offices. This concentration of creative energy has helped position Beirut as a serious contender in the Middle East’s digital economy, despite national level instability. BDD’s success has also improved Lebanon’s visibility in global tech discourse, serving as a model of grassroots led resilience and transformation. Its brand as a “smart city district” helps to shift narratives about Lebanon from crisis to creativity.
@@ -84,7 +93,8 @@ One of the foundational technology interventions within BDD is its district wide
 
 **BDD’s ability to adapt to environmental challenges**. How will the district respond to growing climate risks such as heatwaves, water shortages, and energy disruptions? While the project incorporates some sustainability measures, it is unclear whether it is prepared for long term environmental stress. Addressing this question will be crucial for making BDD not just smart, but truly resilient.
 
-AI Use Disclosure: 
+## AI Use Disclosure
+
 This report was proofread with the assistance of AI tools, to ensure there were no grammatical errors in the writeup. Lastly, I cross referenced a couple key ideas using an AI tool to help ensure my interpretation of the technological interventions and their impacts in the referenced materials was accurate.
 
 ## References
