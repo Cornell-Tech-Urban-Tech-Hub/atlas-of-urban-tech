@@ -1,6 +1,6 @@
 ---
 title: Punggol Digital District
-template: stub
+template: case-study
 author: Urban Tech Hub
 type: district
 status: Complete

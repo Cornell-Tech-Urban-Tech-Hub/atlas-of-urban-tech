@@ -4,6 +4,7 @@ description: A high-density urban development that integrates sustainable practi
 status: Complete
 author: Jingming He
 type: district
+template: case-study
 city:  Copenhagen
 country_code: DNK
 centroid: [55.6283, 12.5767]

@@ -4,6 +4,7 @@ description: A government-backed technology cluster and mixed-use development, h
 status: Complete
 author: Zixin Li
 type: district
+template: case-study
 city:  Shenzhen
 country_code: CHN
 centroid: [22.531389, 113.941389]

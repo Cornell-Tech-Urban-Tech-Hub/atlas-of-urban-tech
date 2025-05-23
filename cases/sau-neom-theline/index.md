@@ -4,6 +4,7 @@ description: A smart, AI-driven linear city designed for sustainability, connect
 status: Complete
 author: Yixuan Wang
 type: district
+template: case-study
 city: Neom in Tabuk Province 
 country_code: SAU
 centroid: [28.005886, 35.202701]

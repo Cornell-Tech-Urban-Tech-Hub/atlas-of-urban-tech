@@ -4,6 +4,7 @@ description: A data-driven smart district of GaoXin district in Xi’an city
 status: Complete
 author: Xuexin He
 type: district
+template: case-study
 city: Xi’an
 country_code: CHN
 centroid: [34.2144, 108.8721]

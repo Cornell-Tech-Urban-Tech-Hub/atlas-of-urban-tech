@@ -4,6 +4,7 @@ description: Transforming a former industrial area into a smart urban living lab
 status: Complete
 author: Liang Ge
 type: district
+template: case-study
 city: Zurich
 country_code: CHE
 centroid: [47.3875, 8.5168]

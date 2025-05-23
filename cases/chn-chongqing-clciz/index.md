@@ -1,7 +1,8 @@
 ---
 title: Chongqing Liangjiang Coordinative Zone
 description:  A 680-hectare smart city district integrating R&D clusters, sustainable design, and cutting-edge industries to drive technological innovation in Southwest China.  
-status: Draft
+status: Complete
+template: case-study
 author: Zhuoqi Xu
 type: district
 city: Chongqing

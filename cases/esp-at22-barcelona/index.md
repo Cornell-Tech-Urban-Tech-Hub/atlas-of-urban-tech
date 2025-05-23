@@ -4,6 +4,7 @@ description: The 22@Barcelona project is committed to reclaiming city control ov
 status: Complete
 author: Yueqi Hu
 type: district
+template: case-study
 city: Barcelona
 country_code: ESP
 centroid: [41.4036, 2.1944]

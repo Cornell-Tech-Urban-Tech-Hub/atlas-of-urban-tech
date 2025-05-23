@@ -4,6 +4,7 @@ description: Lorem ipsum dolor sit amet
 status: Complete
 author: Zack Pakin
 type: district
+template: case-study
 city: Lisbon
 country_code: PRT
 centroid: [-9.111340000002542, 38.72658863000558]

@@ -4,6 +4,7 @@ description: A smart city project built on reclaimed land near Incheon, South Ko
 status: Complete
 author: Hongyang Zhou
 type: district
+template: case-study
 city: Incheon
 country_code: KOR
 centroid: [37.3886, 126.6428]
