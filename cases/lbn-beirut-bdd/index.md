@@ -4,8 +4,7 @@ description: A business district providing value added services and cutting edge
 template: case-study
 status: Complete
 type: district
-author: Oliver Obeid 
-type: district
+author: Oliver Obeid
 city: Beirut
 country_code: LBN
 centroid: [33.898056, 35.505833]
