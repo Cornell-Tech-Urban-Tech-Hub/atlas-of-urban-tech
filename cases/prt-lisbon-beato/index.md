@@ -1,13 +1,13 @@
 ---
 title: Lisbon's Unicorn Factory in the Beato District
-description: Lorem ipsum dolor sit amet
+description: Urban regeneration project transforms underutilized Portuguese neighborhood into entrepreneurial tech hub aimed at creating billion-dollar startup companies.
 status: Complete
 author: Zack Pakin
 type: district
 template: case-study
 city: Lisbon
 country_code: PRT
-centroid: [-9.111340000002542, 38.72658863000558]
+centroid: [38.72658863000558, -9.111340000002542]
 year_start: 2016
 year_completed: 2024 #Much is still in progress
 featured_image: ./UFL.jpg
