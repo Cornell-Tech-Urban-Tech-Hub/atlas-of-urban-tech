@@ -10,6 +10,9 @@ centroid: [24.9800,60.1891]
 year_start: 2013
 year_completed: 2021
 author: Qiwei Qu
+featured_image: ./1024px-Kalasatama_2020-03-06.jpg
+featured_alt: Aerial view of Kalasatama region of Helsinki, Finland. 
+featured_credit: Wikimedia Commons
 tags: 
 - InnovationSystems
 - Energy
