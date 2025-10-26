@@ -13,10 +13,10 @@ featured_image: ./shawn-kT0UDQjRKfs-unsplash.jpeg
 featured_alt: Coney Island
 featured_credit: [Shawn](https://unsplash.com/@shawnanggg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) (Unsplash)
 tags: 
-- Buildings
-- Energy
-- InformationSystems
-- CivicTech
+  - Buildings
+  - Energy
+  - InformationSystems
+  - CivicTech
 geography: ./map.geojson
 geography_caption: Punggol Digital District, Singapore.
 ---
