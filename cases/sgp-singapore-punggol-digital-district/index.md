@@ -4,6 +4,7 @@ description: Punggol Digital District, Singapore
 status: Complete
 author: Saga Salim
 type: district
+template: case-study
 city: Singapore 
 country_code: sin
 centroid: [1.3521, 103.8198]
@@ -15,8 +16,7 @@ featured_credit: [Shawn](https://unsplash.com/@shawnanggg?utm_content=creditCopy
 tags: 
   - Buildings
   - Energy
-  - InformationSystems
-  - CivicTech
+  - InnovationSystems
 geography: ./map.geojson
 geography_caption: Punggol Digital District, Singapore.
 ---
