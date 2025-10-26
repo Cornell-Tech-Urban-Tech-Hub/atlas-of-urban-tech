@@ -12,11 +12,7 @@ year_start: 2015
 year_completed: 2026
 featured_image: ./shawn-kT0UDQjRKfs-unsplash.jpeg
 featured_alt: Coney Island
-featured_credit: [Shawn](https://unsplash.com/@shawnanggg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) (Unsplash)
-tags: 
-  - Buildings
-  - Energy
-  - InnovationSystems
+featured_credit: Shawn (Unsplash)
 geography: ./map.geojson
 geography_caption: Punggol Digital District, Singapore.
 ---
