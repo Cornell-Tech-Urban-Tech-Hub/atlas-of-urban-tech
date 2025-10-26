@@ -6,7 +6,7 @@ author: Saga Salim
 type: district
 template: case-study
 city: Singapore 
-country_code: sin
+country_code: SGP
 centroid: [1.3521, 103.8198]
 year_start: 2015
 year_completed: 2026
