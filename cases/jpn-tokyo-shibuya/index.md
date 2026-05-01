@@ -10,7 +10,7 @@ country_code: JPN
 centroid: [139.6987759419482, 35.6646718652876]
 year_start: 2021
 year_completed: present
-featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
+featured_image: ./denys-nevozhai-6ULy3pxuxL8-unsplash.jpg
 featured_alt: Shibuya crossing
 featured_credit: Denys Nevozhai (Unsplash)
 tags:
