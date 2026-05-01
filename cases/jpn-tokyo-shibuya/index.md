@@ -7,7 +7,7 @@ author: Mitsuki Suda
 type: district
 city: Shibuya 
 country_code: JPN
-centroid: [139.6987759419482, 35.6646718652876]
+centroid: [35.6646718652876, 139.6987759419482]
 year_start: 2021
 year_completed: present
 featured_image: ./denys-nevozhai-6ULy3pxuxL8-unsplash.jpg
