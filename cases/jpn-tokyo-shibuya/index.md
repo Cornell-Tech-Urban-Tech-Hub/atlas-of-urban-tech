@@ -89,7 +89,10 @@ Shibuya City's smart city initiative aims to build a data-driven urban governanc
 
 **On-Demand Transportation and Universal Map**.  From September 2025, Shibuya City launched a demonstration of demand-responsive transportation using GO Economy (formerly GO Shuttle), operated in collaboration with GO Co., Ltd. Subsidized tickets are also issued by the City to elderly residents, people with disabilities, pregnant women, and parents of preschool children. Separately, a Universal MaaS project in partnership with ANA (All Nippon Airways) utilized Tokyo Metropolitan Open Data to provide barrier-free navigation with wide-area mapping of accessibility information, including restrooms and nursing facilities, transcending City boundaries for residents and visitors who have difficulty walking. Related URL (https://www.city.shibuya.tokyo.jp/kankyo/kotsu-seisaku/chiiki-kotsu-senryaku/demand.html, https://www.city.shibuya.tokyo.jp/kenko/shogai-seikatsu/shien-kaigo-seikatsu/barrier-free-map.html).
 
-![Alt Text / Shibuya crossing](./denys-nevozhai-6ULy3pxuxL8-unsplash "Denys Nevozhai (Unsplash)")
+![Alt Text / Shibuya crossing](./denys-nevozhai-6ULy3pxuxL8-unsplash.jpg "Denys Nevozhai (Unsplash)")
+
+
+
 
 
 
